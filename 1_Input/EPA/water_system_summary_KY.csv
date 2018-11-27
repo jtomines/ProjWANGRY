@@ -1,0 +1,436 @@
+PWS ID,PWS Name,PWS Type,Primary Source,Counties Served,Cities Served,PopulationServed Count,Number of Facilities,Number of Violations,Number of Site Visits
+KY0710001,ADAIRVILLE WATER WORKS,Community water system,Surface water purchased,Logan,-,787,5,8,63
+KY0270003,ALBANY WATER WORKS,Community water system,Surface water,Clinton,-,14702,7,47,84
+KY0020956,ALLEN COUNTY WATER DISTRICT,Community water system,Surface water purchased,Allen,-,14999,4,7,67
+KY0080928,ARLINGHAUS PROPERTY,Community water system,Ground water,Boone,-,49,5,79,31
+KY0200009,ARLINGTON WATER DEPARTMENT,Community water system,Ground water,Carlisle,-,588,7,73,41
+KY0100011,ASHLAND WATER WORKS,Community water system,Surface water,Boyd,-,44402,6,106,86
+KY0710012,AUBURN MUN WATER WORKS,Community water system,Surface water purchased,Logan,-,1931,6,27,89
+KY0120013,AUGUSTA REGIONAL WTP,Community water system,Ground water,Bracken,-,1690,14,16,85
+KY0610016,BARBOURVILLE UTILITIES,Community water system,Surface water,Knox,-,16420,5,68,59
+KY0900017,BARDSTOWN MUNICIPAL WATER DEPT,Community water system,Surface water,Nelson,-,31185,6,77,107
+KY0200018,BARDWELL CITY UTILITIES,Community water system,Ground water,Carlisle,-,1227,7,77,40
+KY1110019,BARKLEY LAKE WATER DISTRICT,Community water system,Surface water,Trigg,-,14284,6,66,45
+KY0040020,BARLOW WATER SYSTEM,Community water system,Ground water,Ballard,-,1040,9,64,39
+KY0060022,BATH COUNTY WATER DISTRICT,Community water system,Surface water purchased,Bath,-,8955,6,8,40
+KY0650024,BEATTYVILLE WATER WORKS,Community water system,Surface water,Lee,-,8428,5,68,67
+KY0920025,BEAVER DAM MUNICIPAL WATER & SEWER,Community water system,Ground water,Ohio,-,3901,10,33,58
+KY0990281,BEECH FORK WATER COMMISSION,Community water system,Surface water,Powell,-,25,7,10,37
+KY0750529,BEECH GROVE WATER SYSTEM,Community water system,Surface water purchased,McLean,-,1461,4,26,47
+KY0070729,BELL COUNTY FORESTRY CAMP,Community water system,Surface water,Bell,-,275,5,99,42
+KY0480028,BENHAM WATER PLANT,Community water system,Surface water,Harlan,-,855,4,21,45
+KY0790029,BENTON WATER & SEWER,Community water system,Ground water,Marshall,-,7981,10,53,42
+KY0760030,BEREA MUNICIPAL UTILITIES,Community water system,Surface water,Madison,-,9972,8,58,25
+KY0100944,BIG SANDY WATER DISTRICT,Community water system,Surface water purchased,Boyd,-,13044,8,41,42
+KY0080976,BIRKLE WATER SUPPLY,Community water system,Ground water,Boone,-,25,6,18,35
+KY0480265,BLACK MTN UTILITY/COXTON,Community water system,Surface water purchased,Harlan,-,356,5,21,12
+KY0480277,BLACK MTN UTILITY/DAYHOIT,Community water system,Surface water purchased,Harlan,-,1954,4,21,11
+KY0480603,BLACK MTN UTILITY/KENVIR,Community water system,Surface water purchased,Harlan,-,1396,4,14,4
+KY0480498,BLACK MTN UTILITY/LOUELLEN,Community water system,Purchased ground water under influence of surface water source,Harlan,-,520,6,95,30
+KY0480650,BLACK MTN UTILITY/ROSSPOINT,Community water system,Surface water purchased,Harlan,-,1889,3,13,5
+KY0480461,BLACK MTN UTILITY/SUKEY RIDGE,Community water system,Surface water purchased,Harlan,-,740,3,16,9
+KY0480572,BLACK MTN UTILITY/WALLINS,Community water system,Surface water purchased,Harlan,-,1485,10,61,30
+KY0900031,BLOOMFIELD WATER & SEWER DEPT,Community water system,Surface water purchased,Nelson,-,5771,4,23,36
+KY0340965,BLUEGRASS STATION,Community water system,Surface water purchased,Fayette,-,3000,3,17,17
+KY0500032,BONNIEVILLE WATER DISTRICT,Community water system,Surface water purchased,Hart,-,754,3,41,50
+KY0080034,BOONE CO WATER & SEWER DISTRICT,Community water system,Surface water purchased,Boone,-,66300,4,10,52
+KY0081013,BOONE-FLORENCE WATER COMMISSION,Community water system,Surface water purchased,Boone,-,25,5,4,5
+KY0950036,BOONEVILLE WATER AND SEWER,Community water system,Surface water,Owsley,-,5346,4,88,54
+KY1140038,BOWLING GREEN MUNICIPAL UTILITIES,Community water system,Surface water,Warren,-,44912,4,4,101
+KY0120039,BRACKEN COUNTY WATER DISTRICT,Community water system,Ground water purchased,Bracken,-,6456,6,16,192
+KY0820041,BRANDENBURG WATER WORKS,Community water system,Ground water,Meade,-,4333,9,33,63
+KY0131012,BREATHITT CO WATER DISTRICT,Community water system,Surface water purchased,Breathitt,-,5068,4,11,5
+KY1020889,BRODHEAD WATER WORKS,Community water system,Surface water purchased,Rockcastle,-,1613,3,12,28
+KY1000043,BRONSTON WATER ASSOCIATON INC,Community water system,Surface water purchased,Pulaski,-,5114,3,19,20
+KY0120044,BROOKSVILLE UTILITY,Community water system,Ground water purchased,Bracken,-,977,3,13,61
+KY0310706,BROWNSVILLE MUNICIPAL WATER SYSTEM,Community water system,Surface water purchased,Edmonson,-,1441,3,24,56
+KY0810046,BUFFALO TRAIL WATER ASSOC,Community water system,Surface water purchased,Mason,-,4514,4,22,25
+KY0410047,BULLOCK PEN WATER DISTRICT,Community water system,Surface water,Grant,-,20048,8,30,72
+KY0840048,BURGIN WATER DEPARTMENT,Community water system,Surface water purchased,Mercer,-,1426,3,19,16
+KY0290049,BURKESVILLE WATER WORKS,Community water system,Surface water,Cumberland,-,2566,4,52,78
+KY1000050,BURNSIDE WATER COMPANY,Community water system,Surface water,Pulaski,-,2284,5,62,119
+KY0160052,BUTLER COUNTY WATER SYSTEM INC,Community water system,Surface water,Butler,-,14256,6,75,57
+KY0960051,BUTLER WATER WORKS,Community water system,Surface water purchased,Pendleton,-,980,6,43,100
+KY1110054,CADIZ MUNICIPAL WATER CO,Community water system,Surface water,Trigg,-,5609,5,16,47
+KY0170528,CALDWELL COUNTY WATER DISTRICT,Community water system,Surface water purchased,Caldwell,-,6000,4,24,27
+KY0750055,CALHOUN WATER WORKS,Community water system,Surface water purchased,McLean,-,966,5,40,61
+KY0790056,CALVERT CITY MUNICIPAL WATER DEPARTMENT,Community water system,Ground water,Marshall,-,4381,11,18,41
+KY1090060,CAMPBELLSVILLE MUNICIPAL WATER,Community water system,Surface water,Taylor,-,24874,6,86,83
+KY1190061,CAMPTON WATER SYSTEM,Community water system,Surface water,Wolfe,-,6600,10,104,133
+KY0430063,CANEYVILLE MUNICIPAL WATER WORKS,Community water system,Surface water purchased,Grayson,-,2171,5,12,110
+KY0100064,CANNONSBURG WATER DISTRICT,Community water system,Surface water purchased,Boyd,-,8953,4,22,43
+KY0910065,CARLISLE WATER DEPARTMENT,Community water system,Surface water,Nicholas,-,2059,6,78,53
+KY0210066,CARROLL CO WATER DISTRICT #1,Community water system,Ground water,Carroll,-,5934,19,13,85
+KY0210067,CARROLLTON UTILITIES,Community water system,Ground water,Carroll,-,5729,10,100,50
+KY0831010,CAVE RUN REGIONAL WT COMM,Community water system,Surface water,Menifee,-,25,4,12,8
+KY0050344,"CAVELAND ENVIRONMENTAL AUTHORITY, INC.",Community water system,Surface water purchased,Barren,-,4256,4,27,41
+KY0480565,CAWOOD WATER DISTRICT,Community water system,Surface water,Harlan,-,4428,6,39,31
+KY0483727,CAWOOD WATER-PATHFORK,Community water system,Surface water purchased,Harlan,-,463,3,9,5
+KY0180509,CENTER RIDGE WATER DISTRICT #2,Community water system,Ground water,Calloway,-,377,8,136,37
+KY0180502,CENTER RIDGE WATER DISTRICT #3,Community water system,Ground water,Calloway,-,208,7,71,31
+KY0180549,CENTER RIDGE WATER SYSTEM,Community water system,Ground water,Calloway,-,273,5,94,23
+KY0920070,CENTERTOWN WATER SYSTEM,Community water system,Surface water purchased,Ohio,-,1485,4,22,46
+KY0890071,CENTRAL CITY WATER & SEWER,Community water system,Surface water,Muhlenberg,-,5601,4,27,85
+KY0240521,CHRISTIAN CO WATER DISTRICT,Community water system,Surface water purchased,Christian,-,15841,6,13,40
+KY0450410,CITY OF SOUTH SHORE WATER WORKS,Community water system,Ground water,Greenup,-,6798,30,108,83
+KY0470455,CITY OF WEST POINT,Community water system,Surface water purchased,Hardin,-,975,8,27,43
+KY0990074,CLAY CITY WATER SYSTEM,Community water system,Surface water purchased,Powell,-,2153,5,9,25
+KY1170073,CLAY WATER WORKS,Community water system,Surface water purchased,Webster,-,1654,3,28,28
+KY0140079,CLOVERPORT WATER & SEWER SYSTEM,Community water system,Ground water purchased,Breckinridge,-,1560,8,45,56
+KY0011016,COLUMBIA/ADAIR UTILITIES DISTRICT,Community water system,Surface water,Adair,-,22113,8,9,24
+KY0530083,COLUMBUS WATER WORKS,Community water system,Ground water,Hickman,-,300,7,186,43
+KY1180085,CORBIN UTILITIES COMMISSION,Community water system,Surface water,Whitley,-,16065,4,38,70
+KY0410662,CORINTH WATER DISTRICT,Community water system,Surface water purchased,Grant,-,3139,3,26,43
+KY0690089,CRAB ORCHARD WATER DISTRICT,Community water system,Surface water purchased,Lincoln,-,1488,3,27,28
+KY0700532,CRITTENDEN-LIVINGSTON CO WATER DISTRICT,Community water system,Surface water,Livingston,-,9571,6,85,63
+KY0290271,CUMBERLAND CO WATER DISTRICT,Community water system,Surface water purchased,Cumberland,-,7099,6,94,73
+KY1180093,CUMBERLAND FALLS HIGHWAY WATER DISTRICT,Community water system,Surface water purchased,Whitley,-,8969,5,11,24
+KY0480092,CUMBERLAND MUNICIPAL WATER WORKS,Community water system,Surface water,Harlan,-,3505,6,42,72
+KY0200095,CUNNINGHAM WATER DISTRICT,Community water system,Ground water,Carlisle,-,475,7,109,32
+KY0490096,CYNTHIANA MUNICIPAL WATER WORKS,Community water system,Surface water,Harrison,-,7722,6,196,70
+KY0110097,DANVILLE CITY WATER WORKS,Community water system,Surface water,Boyle,-,32600,4,64,94
+KY0540958,DAWSON SPRINGS WATER & SEWER,Community water system,Surface water,Hopkins,-,3505,4,53,90
+KY0180102,DEXTER ALMO HEIGHTS WATER DISTRICT,Community water system,Ground water purchased,Calloway,-,2275,3,10,26
+KY1170104,DIXON WATER DEPARTMENT,Community water system,Surface water purchased,Webster,-,1253,5,26,25
+KY0820641,DOE VALLEY UTILITIES INC,Community water system,Ground water purchased,Meade,-,2260,5,23,37
+KY0890106,DRAKESBORO WATER DEPARTMENT,Community water system,Surface water purchased,Muhlenberg,-,888,3,23,33
+KY0410107,DRY RIDGE WATER WORKS COMMISSION,Community water system,Surface water purchased,Grant,-,2367,3,26,23
+KY0300109,E DAVIESS CO WATER ASSOC INC,Community water system,Ground water purchased,Daviess,-,11997,4,11,44
+KY0540108,EARLINGTON WATER & SEWER,Community water system,Surface water purchased,Hopkins,-,1708,6,37,41
+KY0230556,EAST CASEY CO WATER DISTRICT,Community water system,Surface water purchased,Casey,-,12460,7,47,36
+KY0250981,EAST CLARK CO WATER DISTRICT,Community water system,Surface water purchased,Clark,-,7366,4,13,20
+KY0630797,EAST LAUREL WATER DISTRICT,Community water system,Surface water purchased,Laurel,-,15857,3,8,14
+KY0710951,EAST LOGAN WATER DISTRICT,Community water system,Surface water purchased,Logan,-,8613,6,17,75
+KY0960112,EAST PENDLETON WATER DISTRICT,Community water system,Surface water purchased,Pendleton,-,5515,4,7,36
+KY0720113,EDDYVILLE WATER DEPARTMENT,Community water system,Surface water,Lyon,-,3677,8,7,44
+KY0310114,EDMONSON CO WATER DISTRICT,Community water system,Surface water,Edmonson,-,29872,7,149,114
+KY0850115,EDMONTON WATER WORKS,Community water system,Surface water purchased,Metcalfe,-,8515,4,20,47
+KY0980120,ELKHORN CITY WATER DEPT,Community water system,Surface water purchased,Pike,-,1723,5,24,80
+KY0370137,ELKHORN WATER DISTRICT,Community water system,Surface water purchased,Franklin,-,1590,3,6,29
+KY1100121,ELKTON WATER WORKS,Community water system,Surface water purchased,Todd,-,2780,4,4,18
+KY0520122,EMINENCE WATER WORKS,Community water system,Ground water purchased,Henry,-,2554,4,3,30
+KY0330123,ESTILL CO WATER DISTRICT,Community water system,Surface water purchased,Estill,-,9501,4,17,24
+KY1000124,EUBANK WATER SYSTEM,Community water system,Surface water purchased,Pulaski,-,12492,3,21,20
+KY0480125,EVARTS MUNICIPAL WATER PLANT,Community water system,Groundwater under influence of surface water,Harlan,-,3059,10,79,67
+KY0960126,FALMOUTH WATER DEPARTMENT,Community water system,Surface water,Pendleton,-,3861,4,52,81
+KY0370128,FARMDALE WATER DISTRICT,Community water system,Surface water purchased,Franklin,-,8203,3,36,40
+KY0450132,FLATWOODS WATER COMPANY,Community water system,Surface water purchased,Greenup,-,9649,4,27,41
+KY0350133,FLEMING CO WATER ASSOCIATION,Community water system,Surface water purchased,Fleming,-,9693,8,14,50
+KY0670279,FLEMING-NEON WATER COMPANY,Community water system,Surface water purchased,Letcher,-,3212,7,73,50
+KY0350134,FLEMINGSBURG UTILITY SYSTEM,Community water system,Surface water,Fleming,-,4583,7,40,54
+KY0080135,FLORENCE WATER & SEWER,Community water system,Surface water purchased,Boone,-,29351,4,11,42
+KY0073691,FONDE WATER SYSTEM,Community water system,Ground water purchased,Bell,-,65,3,10,4
+KY0920136,FORDSVILLE WATER DISTRICT,Community water system,Surface water purchased,Ohio,-,927,5,26,91
+KY0241001,FORT CAMPBELL,Community water system,Surface water purchased,Christian,-,18000,3,8,7
+KY0860141,FOUNTAIN RUN WATER DISTRICT #1,Community water system,Surface water purchased,Monroe,-,1485,4,4,27
+KY0360152,FRANCIS WATER COMPANY,Community water system,Ground water,Floyd,-,459,5,60,61
+KY0370143,FRANKFORT PLANT BOARD,Community water system,Surface water,Franklin,-,52153,4,56,73
+KY1070144,FRANKLIN WATER WORKS,Community water system,Surface water,Simpson,-,13068,4,66,135
+KY0170146,FREDONIA WATER DEPARTMENT,Community water system,Surface water purchased,Caldwell,-,1040,3,5,35
+KY0830148,FRENCHBURG WATER COMPANY,Community water system,Surface water purchased,Menifee,-,5401,5,5,47
+KY0380149,FULTON MUNICIPAL WATER SYSTEM,Community water system,Ground water,Fulton,-,4662,7,29,39
+KY0390130,GALLATIN COUNTY WATER DISTRICT,Community water system,Ground water,Gallatin,-,5860,10,77,26
+KY0400151,GARRARD CO WATER ASSOC INC,Community water system,Surface water purchased,Garrard,-,14806,5,9,22
+KY0680153,GARRISON QUINCY HEIGHTS WATER DISTRICT,Community water system,Ground water,Lewis,-,3185,10,17,50
+KY1050157,GEORGETOWN MUNICIPAL WATER SERVICE,Community water system,Surface water,Scott,-,35714,8,35,77
+KY0050929,GLASGOW WATER COMPANY,Community water system,Surface water,Barren,-,36766,8,55,74
+KY0700162,GRAND RIVERS WATER SYSTEM,Community water system,Surface water purchased,Livingston,-,3980,7,12,47
+KY0420084,GRAVES CO WATER DIST - CONSUMERS,Community water system,Ground water purchased,Graves,-,4689,7,38,40
+KY0420027,GRAVES CO WATER DIST - FANCY FARM,Community water system,Ground water,Graves,-,1301,7,64,40
+KY0420172,GRAVES CO WATER DIST - HARDEMAN,Community water system,Ground water purchased,Graves,-,1129,8,61,39
+KY0420194,GRAVES CO WATER DIST - HICKORY,Community water system,Ground water,Graves,-,4069,10,90,41
+KY0420534,GRAVES CO WATER DIST - SEDALIA,Community water system,Ground water,Graves,-,410,7,116,29
+KY0420405,GRAVES CO WATER DIST - SOUTH GRAVES,Community water system,Ground water,Graves,-,1844,11,74,37
+KY0430616,GRAYSON COUNTY WATER DISTRICT,Community water system,Surface water,Grayson,-,20033,5,42,66
+KY0220164,GRAYSON UTILITY COMMISSION,Community water system,Surface water,Carter,-,10950,5,39,59
+KY0351008,GREATER FLEMING CO WT COMM,Community water system,Ground water,Fleming,-,25,9,1,7
+KY0480341,GREEN HILLS WATER DISTRICT,Community water system,Surface water purchased,Harlan,-,1443,6,98,45
+KY0500166,GREEN RIVER VALLEY WATER DISTRICT,Community water system,Surface water,Hart,-,17431,7,22,114
+KY0440167,GREEN TAYLOR WATER DISTRICT,Community water system,Surface water purchased,Green,-,15497,5,25,36
+KY0440168,GREENSBURG WATER WORKS,Community water system,Surface water,Green,-,2396,7,28,103
+KY0450169,GREENUP WATER SYSTEM,Community water system,Surface water,Greenup,-,12193,5,92,111
+KY0890170,GREENVILLE UTILITIES COMMISSION,Community water system,Surface water,Muhlenberg,-,5649,5,17,53
+KY1100171,GUTHRIE WATER WORKS,Community water system,Surface water purchased,Todd,-,2421,5,35,45
+KY0540656,HANSON WATER SYSTEM,Community water system,Surface water purchased,Hopkins,-,1414,3,26,36
+KY0470990,HARDIN CO. WATER DIST #1/FT. KNOX,Community water system,Surface water,Hardin,-,23600,16,86,35
+KY0470393,HARDIN COUNTY WATER DISTRICT #1,Community water system,Surface water,Hardin,-,27033,16,56,54
+KY0470175,HARDIN COUNTY WATER DISTRICT #2,Community water system,Surface water,Hardin,-,76326,25,6,47
+KY0790173,HARDIN WATER DEPARTMENT,Community water system,Ground water purchased,Marshall,-,1606,3,23,22
+KY0140966,HARDINSBURG RO WTP,Community water system,Ground water,Breckinridge,-,15602,12,84,68
+KY0480178,HARLAN MUNICIPAL WATER WORKS,Community water system,Surface water,Harlan,-,4574,4,54,58
+KY0490179,HARRISON CO WATER ASSOC,Community water system,Surface water purchased,Harrison,-,16736,7,14,23
+KY0840180,HARRODSBURG MUNICIPAL WATER DEPARTMENT,Community water system,Surface water,Mercer,-,8310,4,125,43
+KY0920181,HARTFORD MUNICIPAL WATER WORKS,Community water system,Surface water,Ohio,-,3119,5,130,109
+KY0460182,HAWESVILLE WATER WORKS,Community water system,Ground water,Hancock,-,3225,17,13,82
+KY0970184,HAZARD WATER DEPARTMENT,Community water system,Surface water,Perry,-,26730,4,46,94
+KY0510189,HENDERSON COUNTY WATER DISTRICT,Community water system,Surface water purchased,Henderson,-,19008,6,14,38
+KY0510188,HENDERSON MUNICIPAL WATER & SEWER,Community water system,Surface water,Henderson,-,31705,4,28,61
+KY0510510,HENDERSON WATER UTILITY/SOUTH,Community water system,Surface water,Henderson,-,54,4,47,21
+KY0520192,HENRY COUNTY WATER DISTRICT #2,Community water system,Ground water,Henry,-,17716,18,78,193
+KY0380193,HICKMAN WATER DEPARTMENT,Community water system,Ground water,Fulton,-,3191,9,75,47
+KY0600198,HINDMAN MUN WATER WORKS,Community water system,Surface water purchased,Knott,-,1883,11,23,76
+KY0620200,HODGENVILLE WATER WORKS,Community water system,Surface water,Larue,-,4629,5,27,58
+KY0240201,HOPKINSVILLE WATER ENVIRONMENT AUTHORITY,Community water system,Surface water,Christian,-,41350,8,40,81
+KY0500476,HORSE CAVE WATER SYSTEM,Community water system,Surface water purchased,Hart,-,2744,3,23,22
+KY0690203,HUSTONVILLE WATER WORKS,Community water system,Surface water purchased,Lincoln,-,5420,3,16,22
+KY0660204,HYDEN LESLIE CO WATER DISTRICT,Community water system,Surface water,Leslie,-,9614,7,65,46
+KY0330205,IRVINE MUNICIPAL UTILITIES,Community water system,Surface water,Estill,-,5649,4,33,57
+KY0140206,IRVINGTON WATER SYSTEM,Community water system,Ground water purchased,Breckinridge,-,1627,3,55,71
+KY0750207,ISLAND WATER DEPARTMENT,Community water system,Surface water purchased,McLean,-,1512,9,27,59
+KY0550209,JACKSON CO WATER ASSOCIATION,Community water system,Surface water,Jackson,-,13629,6,32,43
+KY0130208,JACKSON MUNICIPAL WATER WORKS,Community water system,Surface water,Breathitt,-,4704,5,76,86
+KY1040210,JAMESTOWN MUNICIPAL WATER WORKS,Community water system,Surface water,Russell,-,9684,4,103,67
+KY0870212,JEFFERSONVILLE WATER SYSTEM,Community water system,Surface water purchased,Montgomery,-,5335,5,39,38
+KY0670213,JENKINS WATER SYSTEM,Community water system,Surface water,Letcher,-,2609,8,60,75
+KY0570214,JESSAMINE CO WATER DISTRICT #1,Community water system,Surface water purchased,Jessamine,-,6831,3,40,27
+KY0570249,JESSAMINE S ELKHORN WATER DIST,Community water system,Surface water purchased,Jessamine,-,8461,5,22,17
+KY0790216,JONATHAN CREEK WATER DISTRICT,Community water system,Ground water,Marshall,-,6831,9,54,55
+KY0870147,JUDY WATER ASSOCIATION,Community water system,Surface water purchased,Montgomery,-,5539,4,37,12
+KY1020288,KENTUCKY AMERICAN WATER - EASTERN ROCKCA,Community water system,Surface water purchased,Rockcastle,-,1732,5,18,13
+KY0090287,KENTUCKY AMERICAN WATER- MILLERSBURG,Community water system,Surface water purchased,Bourbon,-,1366,5,64,40
+KY0720552,KENTUCKY STATE PENITENTIARY,Community water system,Surface water,Lyon,-,1200,5,30,48
+KY0340250,KENTUCKY-AMERICAN WATER CO,Community water system,Surface water,Fayette,-,299501,17,6,54
+KY0040223,KEVIL WATER DEPARTMENT,Community water system,Ground water,Ballard,-,1782,8,125,37
+KY0760672,KIRKSVILLE WATER ASSOCIATION,Community water system,Surface water purchased,Madison,-,5940,3,11,21
+KY0600062,KNOTT CO WATER & SEWER DISTRICT,Community water system,Surface water,Knott,-,7056,28,30,68
+KY0610110,KNOX COUNTY UTILITY COMMISSION,Community water system,Surface water,Knox,-,8313,7,213,71
+KY0720227,KUTTAWA WATER DEPARTMENT,Community water system,Surface water,Lyon,-,1143,5,37,101
+KY0040228,LACENTER MUNICIPAL WATER CO,Community water system,Ground water,Ballard,-,1291,7,62,49
+KY0930481,LAGRANGE UTILITIES COMMISSION,Community water system,Ground water purchased,Oldham,-,9801,3,2,13
+KY0840587,LAKE VILLAGE WATER ASSOCIATION,Community water system,Surface water purchased,Mercer,-,6855,4,35,18
+KY0400233,LANCASTER WATER WORKS,Community water system,Surface water,Garrard,-,4573,6,80,39
+KY0620237,LARUE COUNTY WATER DISTRICT #1,Community water system,Surface water purchased,Larue,-,9062,9,16,36
+KY0630238,LAUREL CO WATER DISTRICT #2,Community water system,Surface water,Laurel,-,17520,6,22,75
+KY0030239,LAWRENCEBURG WATER & SEWER DEPT,Community water system,Surface water,Anderson,-,14748,5,119,70
+KY0150242,LEBANON JUNCTION WATER WORKS,Community water system,Surface water purchased,Bullitt,-,2866,4,17,25
+KY0780241,LEBANON WATER WORKS CO INC,Community water system,Surface water,Marion,-,7642,6,26,72
+KY0700243,LEDBETTER WATER DISTRICT,Community water system,Surface water purchased,Livingston,-,3742,7,124,64
+KY0430244,LEITCHFIELD WATER WORKS,Community water system,Surface water,Grayson,-,8438,4,11,93
+KY0670462,LETCHER COUNTY WATER DISTRICT,Community water system,Surface water purchased,Letcher,-,2673,8,58,22
+KY0870246,LEVEE RD WATER ASSOCIATION INC,Community water system,Surface water purchased,Montgomery,-,2471,3,76,40
+KY0710247,LEWISBURG WATER WORKS,Community water system,Surface water purchased,Logan,-,3119,7,66,88
+KY0460248,LEWISPORT MUNICIPAL WATER WORKS,Community water system,Ground water,Hancock,-,3249,9,18,53
+KY0230987,LIBERTY WATER WORKS,Community water system,Surface water,Casey,-,2302,7,219,101
+KY0750252,LIVERMORE WATER WORKS,Community water system,Surface water purchased,McLean,-,2138,6,77,79
+KY1020253,LIVINGSTON MUNICIPAL WATER WORKS,Community water system,Surface water purchased,Rockcastle,-,529,5,60,60
+KY0730522,LOCUST VALLEY MOBILE EST,Community water system,Ground water,McCracken,-,94,6,3,0
+KY1101005,LOGAN-TODD REGIONAL WATER COMMISSION,Community water system,Surface water,Todd,-,36,5,3,19
+KY0630255,LONDON UTILITY COMMISSION,Community water system,Surface water,Laurel,-,10604,6,16,46
+KY0640257,LOUISA WATER DEPARTMENT,Community water system,Surface water,Lawrence,-,8236,5,31,60
+KY0560258,LOUISVILLE WATER COMPANY,Community water system,Surface water,Jefferson,-,764769,31,81,55
+KY0480262,LYNCH WATER WORKS,Community water system,Surface water,Harlan,-,1078,4,73,52
+KY0720933,LYON COUNTY WATER DISTRICT,Community water system,Surface water purchased,Lyon,-,6744,7,17,35
+KY0760224,MADISON CO UTILITIES DISTRICT,Community water system,Surface water purchased,Madison,-,25120,3,32,23
+KY0540936,MADISONVILLE LIGHT & WATER,Community water system,Surface water,Hopkins,-,28102,10,17,98
+KY0770525,MAGOFFIN COUNTY WATER DISTRICT,Community water system,Surface water purchased,Magoffin,-,8925,6,22,63
+KY0310940,MAMMOTH CAVE/CENTRAL SYSTEM,Community water system,Surface water purchased,Edmonson,-,5000,4,15,45
+KY0260737,MANCHESTER WATER WORKS,Community water system,Surface water,Clay,-,11349,11,79,75
+KY0780268,MARION COUNTY WATER DISTRICT,Community water system,Surface water purchased,Marion,-,16311,4,11,26
+KY0280267,MARION WATER DEPARTMENT,Community water system,Surface water,Crittenden,-,3039,6,51,60
+KY0800273,MARTIN CO WATER DISTRICT #1,Community water system,Surface water,Martin,-,9504,9,88,95
+KY0360272,MARTIN WATER DEPARTMENT,Community water system,Surface water purchased,Floyd,-,1167,3,93,85
+KY0420274,MAYFIELD ELECTRIC & WATER,Community water system,Ground water,Graves,-,10024,9,63,39
+KY0810275,MAYSVILLE UTILITY COMMISSION,Community water system,Surface water,Mason,-,13600,4,50,87
+KY0740276,MCCREARY COUNTY WATER DISTRICT,Community water system,Surface water,McCreary,-,17532,7,23,73
+KY0550784,MCKEE WATER WORKS,Community water system,Surface water,Jackson,-,1331,5,106,56
+KY0690278,MCKINNEY WATER DISTRICT,Community water system,Surface water purchased,Lincoln,-,5423,4,30,29
+KY0753505,MCLEAN COUNTY REGIONAL WATER COMMISSION,Community water system,Surface water,McLean,-,25,5,1,4
+KY0820369,MEADE COUNTY WATER DISTRICT,Community water system,Surface water purchased,Meade,-,14378,7,12,30
+KY1200283,MIDWAY MUNICIPAL WATER WORKS,Community water system,Surface water purchased,Woodford,-,2174,3,37,26
+KY0200284,MILBURN WATER DISTRICT,Community water system,Ground water purchased,Carlisle,-,500,3,21,20
+KY1120289,MILTON WATER & SEWER DEPARTMENT,Community water system,Ground water,Trimble,-,3861,11,10,30
+KY0860150,MONROE COUNTY WATER DISTRICT,Community water system,Surface water,Monroe,-,9608,6,5,38
+KY0870290,MONTGOMERY CO WATER DISTRICT #1,Community water system,Surface water purchased,Montgomery,-,2082,3,48,39
+KY1160291,MONTICELLO WATER & SEWER COMMISSION,Community water system,Surface water,Wayne,-,24057,4,18,87
+KY1030480,MOREHEAD STATE UNIVERSITY,Community water system,Surface water,Rowan,-,6500,7,92,64
+KY1030292,MOREHEAD UTILITY PLANT BOARD,Community water system,Surface water,Rowan,-,9052,5,132,71
+KY0880594,MORGAN COUNTY WATER DISTRICT,Community water system,Surface water purchased,Morgan,-,7502,6,13,18
+KY1130293,MORGANFIELD WATER WORKS,Community water system,Surface water,Union,-,5170,4,28,62
+KY0160294,MORGANTOWN WATER SYSTEM,Community water system,Surface water,Butler,-,2628,5,54,76
+KY0540269,MORTONS GAP WATER DEPARTMENT,Community water system,Surface water purchased,Hopkins,-,1485,3,7,56
+KY0980575,MOUNTAIN WATER DIST,Community water system,Surface water,Pike,-,48286,7,91,94
+KY0130949,MT CARMEL HIGH BOARDING SCHOOL,Community water system,Ground water,Breathitt,-,100,7,35,40
+KY1010297,MT OLIVET WATER DEPARTMENT,Community water system,Surface water purchased,Robertson,-,814,5,37,31
+KY0870298,MT STERLING WATER WORKS,Community water system,Surface water,Montgomery,-,16391,4,73,48
+KY1020299,MT VERNON WATER WORKS,Community water system,Surface water,Rockcastle,-,4951,4,28,69
+KY0150300,MT WASHINGTON WATER COMPANY,Community water system,Surface water purchased,Bullitt,-,23760,3,12,20
+KY0890302,MUHLENBERG CO WATER DISTRICT,Community water system,Surface water purchased,Muhlenberg,-,16845,6,16,57
+KY0890304,MUHLENBERG CO WATER DISTRICT #3,Community water system,Surface water purchased,Muhlenberg,-,6181,3,11,37
+KY0820481,MULDRAUGH WATER DEPARTMENT,Community water system,Surface water purchased,Meade,-,1411,3,3,26
+KY0500305,MUNFORDVILLE WATER DEPT,Community water system,Surface water purchased,Hart,-,2109,4,11,54
+KY0180308,MURRAY WATER DISTRICT #2,Community water system,Ground water purchased,Calloway,-,771,3,9,20
+KY0180306,MURRAY WATER SYSTEM,Community water system,Ground water,Calloway,-,21763,16,76,48
+KY1200310,NE WOODFORD CO WATER DISTRICT,Community water system,Surface water purchased,Woodford,-,2644,4,5,51
+KY0540977,NEBO WATER DISTRICT,Community water system,Surface water purchased,Hopkins,-,4702,4,14,32
+KY0520520,NEW CASTLE WATER WORKS,Community water system,Ground water purchased,Henry,-,2100,3,8,16
+KY0900312,NEW HAVEN MUNICIPAL WATER WORKS,Community water system,Surface water purchased,Nelson,-,1357,3,36,36
+KY0910314,NICHOLAS CO WATER DISTRICT,Community water system,Surface water purchased,Nicholas,-,4089,6,51,36
+KY0570315,NICHOLASVILLE WATER DEPARTMENT,Community water system,Surface water,Jessamine,-,34253,5,92,47
+KY0540138,NORTH HOPKINS WATER DISTRICT,Community water system,Surface water purchased,Hopkins,-,3725,3,26,29
+KY0710318,NORTH LOGAN WATER DISTRICT,Community water system,Surface water purchased,Logan,-,1649,4,9,56
+KY0260266,NORTH MANCHESTER WATER ASSOC,Community water system,Surface water purchased,Clay,-,5332,3,8,39
+KY0790319,NORTH MARSHALL WATER DISTRICT #1,Community water system,Ground water,Marshall,-,16276,20,59,70
+KY0300320,NORTH MCLEAN CO WATER DISTRICT,Community water system,Surface water purchased,Daviess,-,3879,7,11,42
+KY0840321,NORTH MERCER WATER DISTRICT,Community water system,Surface water purchased,Mercer,-,12884,5,15,21
+KY0090322,NORTH MIDDLETOWN WATER DEPT,Community water system,Surface water purchased,Bourbon,-,1143,5,42,39
+KY0900323,NORTH NELSON WATER DISTRICT,Community water system,Surface water purchased,Nelson,-,13365,4,13,29
+KY1060324,NORTH SHELBY WATER DISTRICT,Community water system,Surface water purchased,Shelby,-,14660,6,16,17
+KY0590220,NORTHERN KENTUCKY WATER DISTRICT,Community water system,Surface water,Kenton,-,199460,8,141,169
+KY0540328,NORTONVILLE WATER WORKS,Community water system,Ground water,Hopkins,-,2611,11,59,37
+KY0240329,OAK GROVE UTILITIES OFFICE,Community water system,Surface water purchased,Christian,-,8762,5,33,53
+KY0920332,OHIO COUNTY WATER DISTRICT,Community water system,Surface water,Ohio,-,14733,8,73,108
+KY0930333,OLDHAM COUNTY WATER DISTRICT,Community water system,Ground water,Oldham,-,19840,29,7,21
+KY0220335,OLIVE HILL MUNICIPAL WATER WORKS,Community water system,Surface water,Carter,-,6192,8,60,166
+KY0300336,OWENSBORO MUNICIPAL UTILITIES,Community water system,Ground water,Daviess,-,58408,114,134,96
+KY0060338,OWINGSVILLE WATER WORKS,Community water system,Surface water purchased,Bath,-,2307,5,50,69
+KY0730533,PADUCAH WATER WORKS,Community water system,Surface water,McCracken,-,64013,22,34,62
+KY0580340,PAINTSVILLE MUNICIPAL WATER WORKS,Community water system,Surface water,Johnson,-,24354,7,71,93
+KY0090343,PARIS WATER WORKS,Community water system,Surface water,Bourbon,-,14479,4,179,270
+KY0110345,PARKSVILLE WATER DISTRICT,Community water system,Surface water purchased,Boyle,-,4261,3,5,50
+KY0370346,PEAKS MILL WATER DISTRICT,Community water system,Surface water purchased,Franklin,-,3454,5,5,33
+KY0960348,PENDLETON CO WATER DISTRICT #1 / NORTH,Community water system,Surface water purchased,Pendleton,-,1485,3,5,50
+KY0960499,PENDLETON CO WATER DISTRICT #1/SOUTH,Community water system,Surface water purchased,Pendleton,-,3713,3,11,32
+KY0920631,PERDUE FARMS INC,Community water system,Surface water,Ohio,-,1200,4,69,32
+KY0970484,PERRY COUNTY WATER & SEWER,Community water system,Surface water purchased,Perry,-,2642,4,29,93
+KY0600129,PHOENIX PROPERTY OWNERS ASSOC,Community water system,Surface water purchased,Knott,-,300,9,108,82
+KY0980350,PIKEVILLE WATER DEPARTMENT,Community water system,Surface water,Pike,-,9638,4,60,100
+KY0070353,PINEVILLE WATER SYSTEM,Community water system,Surface water,Bell,-,16573,7,123,65
+KY0990357,POWELL VALLEY WATER DISTRICT,Community water system,Surface water purchased,Powell,-,7128,5,11,38
+KY0360358,PRESTONSBURG CITY UTILITIES,Community water system,Surface water,Floyd,-,20368,4,37,91
+KY0170360,PRINCETON WATER & SEWER COMMISSION,Community water system,Surface water,Caldwell,-,7007,4,49,46
+KY1170361,PROVIDENCE WATER WORKS,Community water system,Surface water,Webster,-,4538,7,76,46
+KY0450365,RACELAND WATER SYSTEM,Community water system,Surface water purchased,Greenup,-,4069,5,20,34
+KY0220555,RATTLESNAKE RIDGE WATER DISTRICT,Community water system,Surface water,Carter,-,11567,5,22,30
+KY0870367,REID VILLAGE WATER DISTRICT,Community water system,Surface water purchased,Montgomery,-,2545,3,36,44
+KY0760370,RICHMOND UTILITIES,Community water system,Surface water,Madison,-,35640,4,16,58
+KY1030375,ROWAN WATER INC,Community water system,Surface water purchased,Rowan,-,18765,3,16,35
+KY1040377,RUSSELL SPRINGS WATER & SEWER,Community water system,Surface water purchased,Russell,-,9409,6,59,45
+KY0450376,RUSSELL WATER COMPANY,Community water system,Surface water,Greenup,-,6810,5,79,75
+KY0710378,RUSSELLVILLE MUN WATER WORKS,Community water system,Surface water purchased,Logan,-,8613,6,30,152
+KY0300387,S E DAVIESS CO WATER DISTRICT,Community water system,Ground water purchased,Daviess,-,18827,4,1,43
+KY0750907,SACRAMENTO WATER WORKS,Community water system,Surface water purchased,McLean,-,2435,3,19,33
+KY0700380,SALEM MUNICIPAL WATER SYSTEM,Community water system,Surface water purchased,Livingston,-,1241,3,4,23
+KY0770566,SALYERSVILLE MUNICIPAL WATER,Community water system,Surface water,Magoffin,-,3029,5,48,71
+KY0320383,SANDY HOOK WATER DISTRICT,Community water system,Ground water,Elliott,-,3528,17,7,53
+KY1000362,SCIENCE HILL WATER WORKS,Community water system,Surface water purchased,Pulaski,-,5940,3,30,18
+KY0020386,SCOTTSVILLE WATER DEPARTMENT,Community water system,Surface water,Allen,-,6864,7,141,141
+KY1170388,SEBREE WATER DEPARTMENT,Community water system,Surface water purchased,Webster,-,1743,4,11,44
+KY0060392,SHARPSBURG WATER DISTRICT,Community water system,Surface water purchased,Bath,-,4332,4,27,49
+KY1060394,SHELBYVILLE WATER & SEWER COMMISSION,Community water system,Surface water,Shelby,-,23760,4,29,38
+KY1070398,SIMPSON COUNTY WATER DISTRICT,Community water system,Surface water purchased,Simpson,-,8946,6,11,36
+KY1170400,SLAUGHTERS WATER WORKS,Community water system,Surface water purchased,Webster,-,808,3,12,28
+KY0700401,SMITHLAND WATER & SEWER,Community water system,Surface water purchased,Livingston,-,989,7,89,48
+KY0030660,SO ANDERSON WATER DISTRICT,Community water system,Surface water purchased,Anderson,-,8417,4,8,38
+KY1200411,SO WOODFORD CO WATER DISTRICT,Community water system,Surface water purchased,Woodford,-,4218,3,42,53
+KY1000403,SOMERSET WATER SERVICE,Community water system,Surface water,Pulaski,-,29700,4,27,86
+KY0180185,SOUTH 641 WATER DISTRICT,Community water system,Ground water purchased,Calloway,-,1160,3,4,27
+KY0540406,SOUTH HOPKINS WATER DISTRICT,Community water system,Surface water purchased,Hopkins,-,8440,4,15,41
+KY0710707,SOUTH LOGAN WATER ASSOCIATION,Community water system,Surface water purchased,Logan,-,5198,5,14,56
+KY1000311,SOUTHEASTERN WATER ASSOC/NELSON VALLEY,Community water system,Surface water purchased,Pulaski,-,21895,3,5,20
+KY0760407,SOUTHERN MADISON WATER DISTRICT,Community water system,Surface water purchased,Madison,-,14707,3,13,20
+KY0360026,SOUTHERN WATER & SEWER DISTRICT,Community water system,Surface water,Floyd,-,22480,7,40,86
+KY1150415,SPRINGFIELD WATER WORKS,Community water system,Surface water,Washington,-,13205,7,19,56
+KY0690417,STANFORD WATER WORKS,Community water system,Surface water,Lincoln,-,9284,7,47,73
+KY0990418,STANTON WATER WORKS,Community water system,Surface water purchased,Powell,-,6611,5,40,41
+KY0180914,STELLA TRAILER PARK,Community water system,Ground water,Calloway,-,74,5,179,27
+KY1130422,STURGIS WATER WORKS,Community water system,Surface water,Union,-,3490,5,107,44
+KY0420423,SYMSONIA WATER DISTRICT,Community water system,Ground water,Graves,-,936,9,96,44
+KY1080425,TAYLORSVILLE WATER WORKS,Community water system,Surface water purchased,Spencer,-,18973,7,11,49
+KY1100944,TODD COUNTY WATER DISTRICT,Community water system,Surface water purchased,Todd,-,9801,9,30,40
+KY0860426,TOMPKINSVILLE WATER WORKS,Community water system,Surface water,Monroe,-,2404,5,103,70
+KY0080910,TRAPP WATER COMPANY,Community water system,Ground water,Boone,-,200,8,52,40
+KY1100428,TRENTON WATER WORKS,Community water system,Surface water purchased,Todd,-,950,8,60,70
+KY1120431,TRIMBLE CO WATER DISTRICT #1,Community water system,Ground water,Trimble,-,4146,13,8,49
+KY1130433,UNION COUNTY WATER DISTRICT,Community water system,Surface water purchased,Union,-,6117,4,25,28
+KY1130434,UNIONTOWN WATER & SEWER DEPT,Community water system,Surface water purchased,Union,-,1496,6,30,45
+KY1060436,US 60 WATER DISTRICT,Community water system,Surface water purchased,Shelby,-,6445,5,12,15
+KY0680438,VANCEBURG ELECTRIC PLANT BOARD,Community water system,Surface water purchased,Lewis,-,6921,17,42,36
+KY1200439,VERSAILLES WATER SYSTEM,Community water system,Surface water,Woodford,-,17822,5,95,45
+KY0971007,VILLAGE OF BUCKHORN,Community water system,Surface water purchased,Perry,-,875,4,85,7
+KY0470440,VINE GROVE WATER DEPARTMENT,Community water system,Surface water purchased,Hardin,-,6703,6,12,34
+KY0560639,WALLACE FARM,Community water system,Ground water,Jefferson,-,68,5,45,9
+KY0080442,WALTON WATERWORKS DEPARTMENT,Community water system,Surface water purchased,Boone,-,4173,3,8,28
+KY1140487,WARREN COUNTY WATER DISTRICT,Community water system,Surface water purchased,Warren,-,74096,7,124,74
+KY0390444,WARSAW WATER WORKS,Community water system,Ground water,Gallatin,-,1988,12,10,44
+KY0530077,WATER SERVICE CORP OF KENTUCKY,Community water system,Ground water,Hickman,-,1633,7,35,35
+KY0070282,WATER SERVICE CORPORATION OF KENTUCKY,Community water system,Surface water,Bell,-,12022,4,7,61
+KY1170995,WEBSTER CO WATER DISTRICT,Community water system,Surface water,Webster,-,5940,7,89,47
+KY0210008,WEST CARROLL WATER DISTRICT - CARROLLTON,Community water system,Ground water purchased,Carroll,-,2617,3,7,30
+KY0210637,WEST CARROLL WATER DISTRICT - MILTON,Community water system,Ground water purchased,Carroll,-,86,4,2,9
+KY0210419,WEST CARROLL WATER DISTRICT- HENRY CO #2,Community water system,Ground water purchased,Carroll,-,116,4,3,27
+KY0300450,WEST DAVIESS CO WATER DISTRICT,Community water system,Ground water purchased,Daviess,-,13264,3,4,44
+KY0630451,WEST LAUREL WATER ASSOC INC,Community water system,Surface water purchased,Laurel,-,14425,3,7,13
+KY0880452,WEST LIBERTY WATER COMPANY,Community water system,Surface water,Morgan,-,2367,6,19,86
+KY0730454,WEST MCCRACKEN CO WATER DISTRICT,Community water system,Surface water purchased,McCracken,-,4410,3,3,34
+KY1060457,WEST SHELBY WATER DISTRICT,Community water system,Surface water purchased,Shelby,-,5622,4,16,17
+KY0910675,WESTERN FLEMING WATER DISTRICT,Community water system,Surface water,Nicholas,-,4262,5,113,97
+KY0810366,WESTERN LEWIS RECTORVILLE WATER DISTRICT,Community water system,Surface water purchased,Mason,-,6534,17,44,87
+KY0810460,WESTERN MASON CO WATER DISTRICT,Community water system,Ground water,Mason,-,2994,9,30,41
+KY1000363,WESTERN PULASKI CO WATER DISTRICT,Community water system,Surface water purchased,Pulaski,-,23264,4,12,25
+KY1020891,WESTERN ROCKCASTLE WATER ASSOC,Community water system,Surface water purchased,Rockcastle,-,12623,5,22,50
+KY0360463,WHEELWRIGHT UTILITY COMMISSION,Community water system,Ground water,Floyd,-,1040,7,42,82
+KY0540465,WHITE PLAINS WATER SYSTEM,Community water system,Ground water,Hopkins,-,1871,7,58,67
+KY0670466,WHITESBURG WATER WORKS,Community water system,Surface water,Letcher,-,3861,4,78,83
+KY0300467,WHITESVILLE WATER WORKS,Community water system,Ground water purchased,Daviess,-,3672,4,8,33
+KY1180468,WHITLEY CO WATER DISTRICT,Community water system,Surface water purchased,Whitley,-,9825,5,7,38
+KY1183728,WHITLEY CO. WATER DISTRICT 92 WEST,Community water system,Surface water purchased,Whitley,-,321,3,8,4
+KY0040469,WICKLIFFE MUNICIPAL WATER SYSTEM,Community water system,Ground water,Ballard,-,1264,10,44,42
+KY1180471,WILLIAMSBURG WATER DEPARTMENT,Community water system,Surface water,Whitley,-,5554,5,23,78
+KY0410472,WILLIAMSTOWN MUNICIPAL WATER DEPT,Community water system,Surface water,Grant,-,5495,5,42,82
+KY0570010,WILMORE WATER WORKS,Community water system,Surface water,Jessamine,-,5762,4,140,29
+KY0250473,WINCHESTER MUNICIPAL UTILITIES,Community water system,Surface water,Clark,-,32213,6,69,55
+KY0420475,WINGO WATER & SEWER DEPARTMENT,Community water system,Ground water,Graves,-,965,9,65,33
+KY0630477,WOOD CREEK WATER DISTRICT,Community water system,Surface water,Laurel,-,14345,5,94,41
+KY1000973,WOODSON BEND PROPERTY OWNERS ASSOC,Community water system,Surface water,Pulaski,-,1455,4,46,60
+KY0450478,WORTHINGTON MUNICIPAL WATER WORKS,Community water system,Surface water purchased,Greenup,-,1673,10,14,41
+KY0450479,WURTLAND WATER DEPARTMENT,Community water system,Surface water purchased,Greenup,-,1815,7,22,68
+KY0672292,ARLIE BOGG ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Letcher,-,200,5,68,22
+KY0762637,BLUE GRASS ARMY DEPOT,Non-Transient non-community system,Surface water,Madison,-,500,4,35,22
+KY0202008,CARLISLE CO BOARD OF EDUCATION,Non-Transient non-community system,Ground water,Carlisle,-,1050,7,75,33
+KY0512406,CENTURY ALUMINUM SEBREE LLC,Non-Transient non-community system,Surface water,Henderson,-,600,4,64,33
+KY0462387,DOMTAR PAPER BLEACHED PULP,Non-Transient non-community system,Ground water,Hancock,-,450,5,37,32
+KY0462386,DOMTAR PAPER CORRUGATED ME,Non-Transient non-community system,Ground water,Hancock,-,100,5,31,32
+KY0082082,DUKE ENERGY KY EAST BEND,Non-Transient non-community system,Ground water,Boone,-,120,9,37,23
+KY0513013,ELLIS PARK RACE COURSE,Non-Transient non-community system,Ground water,Henderson,-,1500,7,82,25
+KY0732457,"FOUR RIVERS NUCLEAR PARTNERSHIP, LLC",Non-Transient non-community system,Surface water,McCracken,-,2000,4,16,38
+KY0082592,KELLY ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Boone,-,355,5,70,33
+KY1112364,LBL MAINTENANCE CENTER,Non-Transient non-community system,Ground water,Trigg,-,170,5,46,22
+KY0822462,"MONUMENT CHEMICAL KENTUCKY, LLC",Non-Transient non-community system,Ground water,Meade,-,300,7,75,19
+KY0423170,PILGRIMS PRIDE CORP,Non-Transient non-community system,Ground water,Graves,-,1200,13,32,17
+KY0483135,PINE MT SETTLEMENT SCHOOL,Non-Transient non-community system,Surface water,Harlan,-,45,4,103,19
+KY0420971,RECOVERY WORKS,Non-Transient non-community system,Ground water,Graves,-,61,7,7,3
+KY0203742,TRINITY HOLINESS SCHOOL,Non-Transient non-community system,Ground water,Carlisle,-,250,5,66,3
+KY0722918,BUZZARD ROCK RESORT AND MARINA,Transient non-community system,Ground water,Lyon,-,150,4,6,14
+KY0082411,CAMP MICHAELS DAN BEARD COUNCIL,Transient non-community system,Ground water purchased,Boone,-,50,4,23,16
+KY0602422,CAMP NATHANIEL,Transient non-community system,Ground water,Knott,-,200,4,2,17
+KY0222251,CAMP ROBERT C WEBB,Transient non-community system,Ground water,Carter,-,250,4,14,30
+KY0082081,CAMP TURNABOUT,Transient non-community system,Ground water,Boone,-,429,4,19,31
+KY0183106,CENTER RIDGE WATER DISTRICT #4,Transient non-community system,Ground water,Calloway,-,140,4,4,21
+KY0072713,CUMBERLAND GAP NHP/HENSLEY,Transient non-community system,Ground water,Bell,-,25,4,7,22
+KY0072714,CUMBERLAND GAP NHP/PINNACLE,Transient non-community system,Ground water,Bell,-,50,4,10,24
+KY0183007,CYPRESS COVE RV PARK LLC,Transient non-community system,Ground water,Calloway,-,118,4,6,13
+KY0182841,CYPRESS SPRINGS RESORT,Transient non-community system,Ground water,Calloway,-,200,8,15,18
+KY0722980,EDDY CREEK MARINA RESORT LLC,Transient non-community system,Ground water,Lyon,-,150,6,13,20
+KY0833498,GLADIE HISTORIC SITE,Transient non-community system,Surface water,Menifee,-,25,4,14,6
+KY0182842,KENTUCKY BEACH RESORT,Transient non-community system,Ground water,Calloway,-,85,4,36,13
+KY0482399,KINGDOM COME STATE PARK,Transient non-community system,Surface water,Harlan,-,250,6,21,27
+KY0183626,LAKEVIEW COTTAGES & MARINA,Transient non-community system,Ground water,Calloway,-,50,6,4,2
+KY1112365,LBL CAMP ENERGY,Transient non-community system,Ground water,Trigg,-,25,4,1,18
+KY1112212,LBL CRAVENS BAY,Transient non-community system,Ground water,Trigg,-,25,4,1,20
+KY1112486,LBL FENTON LAKE ACCESS,Transient non-community system,Ground water,Trigg,-,25,4,1,18
+KY1112211,"LBL HILLMAN FERRY A, B & C",Transient non-community system,Ground water,Trigg,-,42,10,31,24
+KY1112210,LBL NORTH ENTRANCE STATION,Transient non-community system,Ground water,Trigg,-,25,4,2,21
+KY1113460,LBL OFF HWY VEHICLE AREA,Transient non-community system,Ground water,Trigg,-,25,4,0,7
+KY1112213,LBL WOODLAND NATURE CENTER,Transient non-community system,Ground water,Trigg,-,25,4,1,20
+KY1112837,LBL WRANGLERS CAMP,Transient non-community system,Ground water,Trigg,-,25,4,1,21
+KY0183132,MISSING HILL RESORT,Transient non-community system,Ground water,Calloway,-,196,4,5,17
+KY0183334,MSU HANCOCK BIO STATION,Transient non-community system,Ground water,Calloway,-,30,4,9,12
+KY0183519,NEW CONCORD DOLLAR GENERAL STORE,Transient non-community system,Ground water,Calloway,-,350,4,6,1
+KY0182057,PARADISE RESORT,Transient non-community system,Ground water,Calloway,-,40,4,8,6
+KY0082894,POTTERS RANCH,Transient non-community system,Ground water,Boone,-,100,5,53,4
+KY1193703,RED RIVER ROCKHOUSE,Transient non-community system,Ground water,Wolfe,-,100,4,8,2
+KY0082242,RIVER RIDGE PARK INC,Transient non-community system,Ground water,Boone,-,223,4,25,35
+KY0792758,SHAWNEE BAY RESORT,Transient non-community system,Ground water,Marshall,-,80,4,5,15
+KY0043507,SOUTHLAND RANCH,Transient non-community system,Ground water,Ballard,-,160,6,3,2
+KY0182822,SUNSET HARBOR HILL CAMPGROUND,Transient non-community system,Ground water,Calloway,-,26,4,45,5
+KY0512440,TROCADERO PLAZA,Transient non-community system,Ground water,Henderson,-,25,4,9,11
