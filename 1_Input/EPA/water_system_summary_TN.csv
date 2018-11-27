@@ -1,0 +1,779 @@
+PWS ID,PWS Name,PWS Type,Primary Source,Counties Served,Cities Served,PopulationServed Count,Number of Facilities,Number of Violations,Number of Site Visits
+TN0000002,ADAMSVILLE WATER SYSTEM,Community water system,Ground water,McNairy,ADAMSVILLE,8878,13,9,32
+TN0000005,ALAMO WATER DEPARTMENT,Community water system,Ground water,Crockett,ALAMO,3175,9,6,27
+TN0000007,ALCOA WATER SYSTEM,Community water system,Surface water,Blount,"ALCOA, MARYVILLE",30123,12,11,26
+TN0000008,ALEXANDRIA WATER SYSTEM,Community water system,Surface water purchased,DeKalb,-,3130,5,10,15
+TN0000009,ALGOOD WATER SYSTEM,Community water system,Surface water purchased,Putnam,-,8552,6,10,15
+TN0000010,ALLARDT WATER WORKS,Community water system,Surface water purchased,Fentress,-,3432,7,23,15
+TN0000974,ALLENDALE MOBILE HOME PARK,Community water system,Ground water,Blount,"FRIENDSVILLE, LOUISVILLE",88,6,26,34
+TN0000014,ALPHA-TALBOTT UTILITY DISTRICT,Community water system,Surface water purchased,Hamblen,-,17664,8,1,15
+TN0000514,ANDERSON COUNTY WATER AUTHORITY,Community water system,Surface water,Anderson,LAKE CITY,25404,25,32,19
+TN0000948,"AQUA UTILITIES CO, INC",Community water system,Ground water purchased,Hardin,-,968,3,11,10
+TN0000018,ARDMORE WATER SYSTEM,Community water system,Ground water,Giles,ARDMORE,1694,19,3,18
+TN0000022,ARTHUR-SHAWANEE UTILITY DISTRICT,Community water system,Surface water,Claiborne,HARROGATE,9967,11,15,31
+TN0000023,ASHLAND CITY WATER DEPARTMENT,Community water system,Surface water,Cheatham,ASHLAND CITY,7849,11,6,17
+TN0000024,ATHENS UTILITIES BOARD,Community water system,Surface water,McMinn,ATHENS,19930,13,31,48
+TN0000033,ATOKA WATER SYSTEM,Community water system,Ground water purchased,Tipton,-,9039,5,14,13
+TN0000035,ATWOOD WATER SYSTEM,Community water system,Ground water,Carroll,ATWOOD,1327,10,5,27
+TN0000038,BANGHAM UTILITY DISTRICT,Community water system,Surface water purchased,Putnam,-,8043,3,3,14
+TN0000765,BARTLETT WATER SYSTEM,Community water system,Ground water,Shelby,BARTLETT,57670,22,3,40
+TN0000040,BAXTER WATER DEPARTMENT,Community water system,Surface water purchased,Putnam,BAXTER,6095,7,15,15
+TN0000805,BAYS MOUNTAIN MOBILE HOME PARK,Community water system,Groundwater under influence of surface water,Blount,ROCKFORD,85,6,44,20
+TN0000041,BEAN STATION UTILITY DISTRICT,Community water system,Surface water purchased,Grainger,BEAN STATION,8454,11,7,26
+TN0000517,BEDFORD COUNTY UTILITY DISTRICT,Community water system,Surface water,Bedford,SHELBYVILLE,18531,20,32,20
+TN0000044,BELL BUCKLE WATER SYSTEM,Community water system,Surface water purchased,Bedford,-,2336,5,28,14
+TN0000045,BELLS PUBLIC UTILITY DISTRICT,Community water system,Ground water,Crockett,BELLS,2578,12,8,17
+TN0000046,BELVIDERE RURAL UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Franklin,BELVIDERE,1992,11,21,25
+TN0000048,BENTON WATER SYSTEM,Community water system,Ground water,Polk,BENTON,2710,11,9,41
+TN0000050,BETHEL SPRINGS WATER SYSTEM,Community water system,Ground water,McNairy,BETHEL SPRINGS,934,8,11,29
+TN0000122,BIG CREEK UTILITY DISTRICT,Community water system,Surface water,Grundy,ALTAMONT,7915,10,38,49
+TN0000051,BIG SANDY WATER DEPARTMENT,Community water system,Ground water,Benton,BIG SANDY,1123,8,3,36
+TN0008285,BLACKBERRY MOUNTAIN L.L.C.,Community water system,Ground water,Blount,-,75,8,0,1
+TN0000056,BLOOMINGDALE UTILITY DISTRICT,Community water system,Surface water,Sullivan,KINGSPORT,13173,13,17,32
+TN0000058,BLOUNTVILLE UTILITY DISTRICT,Community water system,Surface water purchased,Sullivan,-,12630,11,2,24
+TN0000958,BLUEBIRD HILLS SMALL COMMUNITY WATER DIS,Community water system,Groundwater under influence of surface water,Humphreys,DICKSON,97,8,137,9
+TN0000061,BLUFF CITY WATER DEPARTMENT,Community water system,Groundwater under influence of surface water,Sullivan,BLUFF CITY,2496,8,53,75
+TN0000063,BOLIVAR WATER SYSTEM,Community water system,Ground water,Hardeman,BOLIVAR,7782,13,6,24
+TN0000066,BON AQUA-LYLES UTILITY DISTRICT,Community water system,Surface water,Hickman,LYLES,10470,14,21,19
+TN0000653,BON DE CROFT UTILITY DISTRICT,Community water system,Surface water,White,SPARTA,3795,7,8,14
+TN0000067,BRADFORD WATER SYSTEM,Community water system,Ground water,Gibson,BRADFORD,1285,7,4,31
+TN0000069,BRENTWOOD WATER DEPTARTMENT,Community water system,Surface water purchased,Williamson,BRENTWOOD,28950,15,3,14
+TN0000070,BRIGHTON WATER SYSTEM,Community water system,Ground water purchased,Tipton,-,3662,9,12,19
+TN0000073,BRISTOL DEPTARTMENT OF UTILITIES,Community water system,Surface water,Sullivan,BRISTOL,33199,17,28,43
+TN0000079,BRISTOL-BLUFF CITY UTILITY DISTRICT,Community water system,Surface water,Sullivan,BRISTOL,5868,9,104,39
+TN0000480,BROWNLOW UTILITY DISTRICT,Community water system,Purchased ground water under influence of surface water source,Johnson,MOUNTAIN CITY,546,8,77,57
+TN0000080,BROWNSVILLE WATER DEPT,Community water system,Ground water,Haywood,BROWNSVILLE,13621,18,8,36
+TN0000081,BRUCETON WATER SYSTEM,Community water system,Ground water,Carroll,BRUCETON,1613,13,10,26
+TN0000088,BYRDSTOWN WATER DEPT,Community water system,Surface water,Pickett,BYRDSTOWN,7060,6,61,13
+TN0000927,CAGLE-FREDONIA UTILITY DIST,Community water system,Surface water purchased,Sequatchie,-,2335,8,3,16
+TN0000106,CALHOUN-CHARLESTON UTILITY DISTRICT,Community water system,Surface water purchased,McMinn,-,2713,6,5,20
+TN0000090,CAMDEN WATER DEPT,Community water system,Surface water,Benton,CAMDEN,9629,6,14,61
+TN0000797,CANDLEWOOD LAKES P.O.A. WATERWORKS,Community water system,Ground water,Hardeman,MIDDLETON,308,7,16,21
+TN0000085,CARDERVIEW UTILITY DISTRICT,Community water system,Ground water,Johnson,BUTLER,1077,9,100,55
+TN0000095,CARTHAGE WATER SYSTEM,Community water system,Surface water,Smith,"CARTAHAGE, CARTHAGE",2916,10,12,14
+TN0000322,CARYVILLE-JACKSBORO UTILITIES COMMISSION,Community water system,Surface water,Campbell,JACKSBORO,11852,29,24,44
+TN0000097,CASTALIAN SPRINGS-BETHPAGE U D,Community water system,Surface water purchased,Sumner,-,11611,13,15,14
+TN0000098,CEDAR GROVE UTILITY DISTRICT,Community water system,Ground water,Carroll,"CEDAR GROVE, LAVINIA",1364,9,44,58
+TN0000099,CELINA WATER SYSTEM,Community water system,Surface water,Clay,CELINA,5721,6,31,18
+TN0000101,CENTER GROVE-WINCHESTER SPGS,Community water system,Groundwater under influence of surface water,Franklin,ESTILL SPRINGS,6167,10,20,27
+TN0000103,CENTERVILLE WATER SYSTEM,Community water system,Surface water,Hickman,CENTERVILLE,9548,15,38,24
+TN0000849,CHALET VILLAGE NORTH,Community water system,Surface water purchased,Sevier,GATLINBURG,409,12,30,32
+TN0000875,CHANUTE-PALL MALL UTILITY DIST,Community water system,Surface water purchased,Fentress,-,1327,4,20,9
+TN0000104,CHAPEL HILL WATER SYSTEM,Community water system,Groundwater under influence of surface water,Marshall,CHAPEL HILL,1910,9,54,64
+TN0000138,CHEROKEE HILLS UTILITY DISTRICT,Community water system,Ground water,Polk,COPPERHILL,309,6,30,41
+TN0000108,CHUCKEY UTILITY DISTRICT,Community water system,Surface water purchased,Greene,-,12972,13,20,40
+TN0000438,CITY OF MARYVILLE WATER AND SEWER DEPT,Community water system,Surface water,Blount,MARYVILLE,47588,16,2,26
+TN0000113,CLAIBORNE UTILITIES DISTRICT,Community water system,Surface water,Claiborne,NEW TAZEWELL,15929,15,26,42
+TN0000115,CLARKSBURG UTILITY DISTRICT,Community water system,Ground water,Carroll,"CLARKSBURG, NEW TAZEWELL",1456,11,27,53
+TN0000116,CLARKSVILLE WATER DEPARTMENT,Community water system,Surface water,Montgomery,CLARKSVILLE,206500,21,1,15
+TN0000826,CLEAR FORK UTILITY DISTRICT,Community water system,Ground water,Claiborne,CLAIRFIELD,1639,11,32,27
+TN0000117,CLEVELAND UTILITIES,Community water system,Surface water,Bradley,CLEVELAND,81325,13,4,59
+TN0000119,CLIFTON WATER DEPT,Community water system,Surface water,Wayne,CLIFTON,3843,8,64,17
+TN0000120,CLINTON UTILITIES BOARD,Community water system,Surface water,Anderson,CLINTON,17974,14,20,24
+TN0000485,COLD SPRINGS UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Johnson,MOUNTAIN CITY,953,9,28,48
+TN0000126,COLLIERVILLE WATER DEPT,Community water system,Ground water,Shelby,COLLIERVILLE,46495,27,28,44
+TN0000127,COLLINWOOD WATER DEPT,Community water system,Groundwater under influence of surface water,Wayne,COLLINWOOD,1922,14,71,18
+TN0000128,COLUMBIA POWER AND WATER SYSTEMS,Community water system,Surface water,Maury,COLUMBIA,61926,19,3,59
+TN0000791,CONSOLIDATED U D OF RUTHERFORD,Community water system,Surface water,Rutherford,MURFREESBORO,172615,22,10,18
+TN0000134,COOKEVILLE BOAT DOCK ROAD UD,Community water system,Surface water purchased,Putnam,-,6828,3,17,15
+TN0000133,COOKEVILLE WATER DEPT,Community water system,Surface water,Putnam,COOKEVILLE,49080,11,3,18
+TN0000844,COPPER BASIN UTILITY DISTRICT,Community water system,Surface water,Polk,TURTLETOWN,2821,6,33,35
+TN0000136,COPPERHILL WATER DEPT.,Community water system,Surface water purchased,Polk,-,1063,12,29,62
+TN0000096,CORDELL HULL UTILITY DISTRICT,Community water system,Surface water purchased,Smith,-,2821,6,14,12
+TN0008003,COUNTRY ACRES FARM,Community water system,Ground water,Blount,LOUISVILLE,115,7,5,19
+TN0008132,COUNTY LINE TRAILER PARK,Community water system,Ground water,Gibson,ATWOOD,76,6,10,13
+TN0000006,COUNTY WIDE UTILITY DISTRICT,Community water system,Ground water,Crockett,ALAMO,8369,40,46,47
+TN0000998,COVE MOUNTAIN MOBILE HOME PARK,Community water system,Ground water,Sevier,SEVIERVILLE,91,7,12,25
+TN0000144,COVINGTON WATER DEPT,Community water system,Ground water,Tipton,COVINGTON,14436,16,5,19
+TN0000146,COWAN BOARD OF PUBLIC UTILITIES,Community water system,Groundwater under influence of surface water,Franklin,COWAN,2412,8,9,26
+TN0000147,CRAB ORCHARD UTILITY DISTRICT,Community water system,Surface water,Cumberland,CROSSVILLE,22656,16,13,23
+TN0000148,CROCKETT MILLS UTILITY DISTRICT,Community water system,Ground water,Crockett,"ALAMO, CROCKET MILLS, CROCKETT MILLS",793,7,9,21
+TN0000149,CROSS ANCHOR UTILITY DISTRICT,Community water system,Surface water purchased,Greene,-,8118,8,16,31
+TN0000150,CROSSVILLE WATER DEPT,Community water system,Surface water,Cumberland,CROSSVILLE,30743,10,27,25
+TN0000162,CUMBERLAND CITY WATER DEPT.,Community water system,Surface water purchased,Stewart,-,1074,5,9,15
+TN0000161,CUMBERLAND GAP WATER SERVICES,Community water system,Purchased ground water under influence of surface water source,Claiborne,CUMBERLAND GAP,404,3,21,19
+TN0000166,CUMBERLAND HEIGHTS UTILITY DISTRICT,Community water system,Surface water purchased,Montgomery,-,3271,7,10,16
+TN0000531,CUMBERLAND UTILITY DISTRICT,Community water system,Surface water,Roane,HARRIMAN,10856,11,1,35
+TN0000929,CUNNINGHAM EAST MONT WAT TR PL,Community water system,Surface water,Montgomery,"ASHLAND CITY, CLARKSVILLE",25,5,0,10
+TN0000167,CUNNINGHAM UTILITY DISTRICT,Community water system,Surface water purchased,Montgomery,-,13799,12,3,16
+TN0000170,DANDRIDGE WATER MANAGEMENT FACILITY,Community water system,Surface water purchased,Jefferson,DANDRIDGE,8057,10,10,37
+TN0000174,DAYTON WATER DEPT,Community water system,Surface water,Rhea,DAYTON,22981,6,43,43
+TN0000183,DECATUR WATER DEPT,Community water system,Groundwater under influence of surface water,Meigs,DECATUR,5848,13,43,54
+TN0000186,DECATURVILLE WATER SYSTEM,Community water system,Surface water purchased,Decatur,DECATURVILLE,2242,17,12,19
+TN0000187,DECHERD WATER DEPT.,Community water system,Groundwater under influence of surface water,Franklin,DECHERD,4334,15,20,62
+TN0000912,DEERFIELD RESORT WATER SYSTEM,Community water system,Ground water,Campbell,"JACKSBORO, LA FOLLETTE, LAFOLLETTE",1088,32,88,20
+TN0000188,DEKALB UTILITY DISTRICT #1,Community water system,Surface water,DeKalb,-,14293,13,14,14
+TN0000835,DEKALB UTILITY DISTRICT #4,Community water system,Surface water purchased,DeKalb,-,605,10,13,12
+TN0000190,DEWHITE UTILITY DISTRICT,Community water system,Surface water purchased,White,-,6847,8,10,15
+TN0000962,DOALNARA RESTORATION SOCI USA,Community water system,Ground water,Stewart,DOVER,123,13,79,11
+TN0000192,DOUBLE SPRINGS UTILITY DISTRIC,Community water system,Surface water purchased,Putnam,-,7192,4,7,15
+TN0000193,DOVER WATER DEPT,Community water system,Surface water,Stewart,DOVER,4065,10,9,17
+TN0000403,DOWELLTWN-LIBERTY UTILITY DIST,Community water system,Groundwater under influence of surface water,DeKalb,"DOWELLTOWN, LIBERTY",1136,7,17,15
+TN0000196,DRESDEN WATER DEPT,Community water system,Ground water,Weakley,DRESDEN,3850,12,1,33
+TN0000821,DUCK RIVER UTILITY COMMISSION,Community water system,Surface water,Coffee,TULLAHOMA,25,5,3,15
+TN0000205,DUNLAP WATER SYSTEM,Community water system,Surface water,Sequatchie,DUNLAP,7165,11,6,50
+TN0000209,DYER WATER DEPT,Community water system,Ground water,Gibson,DYER,2567,12,11,35
+TN0000212,DYERSBURG SUB CONS U D,Community water system,Ground water,Dyer,DYERSBURG,3724,16,13,27
+TN0000211,DYERSBURG WATER DEPT,Community water system,Ground water,Dyer,DYERSBURG,20162,20,7,39
+TN0000853,EAST FORK U D,Community water system,Surface water purchased,Overton,-,3195,6,2,12
+TN0000218,EAST MONTGOMERY UTILITY DISTRICT,Community water system,Surface water purchased,Montgomery,-,16699,10,0,16
+TN0000618,EAST SEVIER COUNTY U. D.,Community water system,Ground water,Sevier,SEVIERVILLE,848,21,37,37
+TN0000219,EASTSIDE UTILITY DISTRICT,Community water system,Surface water,Hamilton,CHATTANOOGA,52343,14,2,100
+TN0000570,EASTVIEW UTILITY DISTRICT,Community water system,Ground water purchased,McNairy,-,2070,4,4,64
+TN0000220,ELBRIDGE WATER ASSOCIATION,Community water system,Ground water,Obion,OBION,3159,9,4,65
+TN0000221,ELIZABETHTON WATER DEPT,Community water system,Surface water purchased,Carter,ELIZABETHTON,32594,28,43,141
+TN0000224,ENGLEWOOD WATER DEPT,Community water system,Surface water,McMinn,ENGLEWOOD,3580,9,12,51
+TN0000230,ERIN WATER DEPARTMENT,Community water system,Surface water,Houston,ERIN,7283,17,67,15
+TN0000231,ERWIN UTILITIES,Community water system,Groundwater under influence of surface water,Unicoi,ERWIN,12687,27,30,59
+TN0000232,ESTILL SPRINGS WATER DEPARTMENT,Community water system,Groundwater under influence of surface water,Franklin,ESTILL SPRINGS,4216,10,48,23
+TN0000233,ETOWAH UTILITIES,Community water system,Surface water,McMinn,ETOWAH,12168,10,10,60
+TN0000563,FAIRVIEW UTILITY DISTRICT,Community water system,Surface water purchased,Giles,-,5712,7,4,22
+TN0000552,FALL CREEK FALLS UTILITY DIST,Community water system,Surface water,Bledsoe,-,4781,11,52,31
+TN0000239,FALL RIVER RD UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Lawrence,-,3020,9,20,22
+TN0000242,FAYETTEVILLE PUBLIC UTILITIES,Community water system,Surface water,Lincoln,FAYETTEVILLE,12510,14,17,55
+TN0000244,FENTRESS COUNTY U.D.,Community water system,Surface water purchased,Fentress,-,13773,7,9,15
+TN0000094,FIRST U D OF CARTER CO,Community water system,Groundwater under influence of surface water,Carter,"ELIZABETHON, ELIZABETHTON",9426,20,59,44
+TN0000703,FIRST U D OF TIPTON CO,Community water system,Ground water,Tipton,COVINGTON,9452,13,4,24
+TN0000546,FIRST U.D. OF HARDIN COUNTY,Community water system,Surface water,Hardin,COUNCE,6698,9,20,137
+TN0000369,FIRST UTIL DIST OF KNOX COUNTY,Community water system,Surface water,Knox,KNOXVILLE,88177,17,28,35
+TN0000109,FIRST UTILITY DISTRICT OF HAWKINS COUNTY,Community water system,Surface water,Hawkins,CHURCH HILL,19197,18,20,57
+TN0008272,FLAT CREEK CO OP #2,Community water system,Surface water purchased,Bedford,-,569,4,2,5
+TN0000820,FORT CAMPBELL WATER SYSTEM,Community water system,Surface water,Montgomery,-,40192,8,34,17
+TN0000246,FRANKLIN WATER DEPT,Community water system,Surface water,Williamson,"FRANKLIN, FRANKLIN PIKE",68813,17,78,19
+TN0000928,FRIENDSHIP DISTRIBUTION WATER SYSTEM,Community water system,Ground water,Crockett,-,915,8,14,20
+TN0000249,FRIENDSVILLE WATER WORKS,Community water system,Surface water purchased,Blount,-,5023,8,11,70
+TN0000251,GAINESBORO WATER SYSTEM,Community water system,Surface water,Jackson,GAINESBORO,1492,8,37,12
+TN0000253,GALLATIN WATER DEPARTMENT,Community water system,Surface water,Sumner,GALLATIN,45544,11,3,15
+TN0000254,GALLAWAY WATER DEPT,Community water system,Ground water,Fayette,GALLAWAY,1007,11,9,46
+TN0000255,GATES WATER DEPT,Community water system,Ground water,Lauderdale,GATES,829,7,9,107
+TN0008271,GATEWAY VILLAGE WATER SYSTEM,Community water system,Surface water purchased,Williamson,-,1055,2,5,3
+TN0000256,GATLINBURG WATER DEPT,Community water system,Surface water,Sevier,GATLINBURG,8933,11,9,34
+TN0000262,GERMANTOWN WATER DEPT,Community water system,Ground water,Shelby,GERMANTOWN,37641,30,82,39
+TN0000709,GIBSON CO MUN WATER DIST #1,Community water system,Ground water,Gibson,TRENTON,2807,10,3,53
+TN0000812,GIBSON CO MUN WATER DIST #3,Community water system,Ground water,Gibson,TRENTON,1464,9,2,15
+TN0000813,GIBSON CO MUN WATER DIST #4,Community water system,Ground water,Gibson,TRENTON,3470,9,11,20
+TN0000815,GIBSON CO MUN WATER DIST #5,Community water system,Ground water,Gibson,TRENTON,1774,8,5,17
+TN0000263,GIBSON WATER DEPT,Community water system,Ground water,Gibson,GIBSON,484,7,15,29
+TN0000264,GLADEVILLE UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Wilson,LEBANON,19510,20,10,17
+TN0000265,GLEASON WATER DEPT,Community water system,Ground water,Weakley,GLEASON,1679,7,3,23
+TN0000266,GLEN HILLS UTILITY DISTRICT,Community water system,Surface water purchased,Greene,-,15594,9,2,38
+TN0000267,GRAND JUNCTION WATER DEPT,Community water system,Ground water,Hardeman,GRAND JUNCTION,1178,9,72,19
+TN0000451,GRAND VALLEY LAKES PO ASSOC,Community water system,Ground water,Hardeman,"SAULDBURY, SAULSBURY",820,9,6,36
+TN0000863,GRANDVIEW UTILITY DISTRICT,Community water system,Surface water purchased,Rhea,-,2044,7,11,18
+TN0000269,GRAYSVILLE WATER DEPT.,Community water system,Ground water,Rhea,GRAYSVILLE,1878,13,25,42
+TN0000271,GREENBRIER WATER & SEWER DEPT.,Community water system,Surface water purchased,Robertson,GREENBRIER,8121,6,11,17
+TN0000273,GREENEVILLE WATER & LIGHT COMM,Community water system,Surface water,Greene,GREENEVILLE,26890,13,3,60
+TN0000276,GREENFIELD WATER DEPT,Community water system,Ground water,Weakley,GREENFIELD,2445,10,1,27
+TN0000278,GRIFFITH CREEK UTILITY DIST,Community water system,Surface water purchased,Marion,-,1064,4,28,33
+TN0000699,H.B.& T.S. UTILITY DISTRICT,Community water system,Surface water purchased,Williamson,-,24703,18,13,14
+TN0000279,HALLS WATER SYSTEM,Community water system,Ground water,Lauderdale,HALLS,6253,13,2,32
+TN0000280,HALLSDALE-POWELL UTILITY DISTRICT,Community water system,Surface water,Knox,KNOXVILLE,75028,38,32,48
+TN0000282,HAMPTON UTILITY DISTRICT,Community water system,Ground water,Carter,HAMPTON,3986,11,19,66
+TN0000923,HARBERT HILLS ACADEMY N.H.,Community water system,Ground water,Hardin,SAVANNAH,140,7,19,21
+TN0000055,HARBOR UTILITY DISTRICT,Community water system,Ground water,Benton,BIG SANDY,665,8,14,26
+TN0000286,HARPETH VALLEY U D,Community water system,Surface water,Davidson,NASHVILLE,59392,22,13,18
+TN0000287,HARRIMAN UTILITY BOARD,Community water system,Surface water,Roane,HARRIMAN,15139,19,16,53
+TN0000291,HARTSVILLE-TROUDALE WAT/SEW U D,Community water system,Surface water,Trousdale,HARTSVILLE,8055,17,37,19
+TN0000999,HAYWOOD CO. UTILITY DISTRICT,Community water system,Ground water purchased,Haywood,-,1346,5,10,7
+TN0000293,HENDERSON WATER DEPT.,Community water system,Ground water,Chester,HENDERSON,8780,10,1,59
+TN0000294,HENDERSONVILLE U D,Community water system,Surface water,Sumner,HENDERSONVILLE,51663,13,20,18
+TN0000295,HENNING WATER DEPT,Community water system,Ground water,Lauderdale,HENNING,1283,11,6,36
+TN0000296,HENRY WATER SYSTEM,Community water system,Ground water,Henry,HENRY,490,9,7,37
+TN0000952,HERITAGE ACADEMY,Community water system,Ground water,Putnam,MONTEREY,100,10,21,8
+TN0008293,HICKORY CORNER MOBILE HOME PARK,Community water system,Ground water,Blount,-,143,3,0,0
+TN0000960,HIDDEN HOLLOW WATER SYSTEM,Community water system,Ground water,Stewart,DOVER,79,5,9,9
+TN0000430,HILLSVILLE UTILITY DISTRICT,Community water system,Surface water purchased,Coffee,-,9413,8,5,13
+TN0000831,HIWASSEE UTILITY COMMISSION,Community water system,Surface water,Bradley,CHARLESTON,98,6,7,31
+TN0000303,HIXSON UTILITY DISTRICT,Community water system,Ground water,Hamilton,HIXSON,67138,16,5,71
+TN0000304,HOHENWALD WATER SYSTEM,Community water system,Ground water,Lewis,HOHENWALD,10602,16,25,19
+TN0000310,HOLLOW ROCK WATER DEPT,Community water system,Ground water,Carroll,HOLLOW ROCK,912,13,34,35
+TN0000074,HOLSTON U D,Community water system,Surface water purchased,Sullivan,-,3095,5,37,20
+TN0000311,HORNBEAK UTILITY DISTRICT,Community water system,Ground water,Obion,-,1436,12,17,56
+TN0000312,HORNSBY WATER DEPT,Community water system,Ground water purchased,Hardeman,-,1057,5,4,15
+TN0000314,HUMBOLT UTILITIES-WATER DEPT,Community water system,Ground water,Gibson,HUMBOLDT,10138,10,1,29
+TN0000316,HUNTINGDON WATER DEPT,Community water system,Ground water,Carroll,"HUNTINGDON, HUNTINGTON",6143,7,4,30
+TN0000317,HUNTLAND WATER SYSTEM,Community water system,Groundwater under influence of surface water,Franklin,HUNTLAND,1536,19,45,44
+TN0000318,HUNTSVILLE UTILITY DISTRICT,Community water system,Surface water,Scott,HUNTSVILLE,12477,17,0,28
+TN0000319,INTERMONT UTILITY DISTRICT,Community water system,Surface water purchased,Sullivan,-,1173,6,7,28
+TN0000320,IRON CITY UTILITY DISTRICT,Community water system,Purchased ground water under influence of surface water source,Lawrence,-,610,9,27,19
+TN0000252,JACKSON COUNTY UD #1,Community water system,Surface water purchased,Jackson,-,593,7,4,14
+TN0000817,JACKSON COUNTY UD #2,Community water system,Surface water purchased,Jackson,-,2019,3,12,12
+TN0000845,JACKSON COUNTY UD #3,Community water system,Surface water purchased,Jackson,-,3259,5,17,10
+TN0000859,JACKSON COUNTY UD #4,Community water system,Purchased ground water under influence of surface water source,Jackson,-,2056,4,4,9
+TN0000299,JACKSON WATER SYSTEM,Community water system,Ground water,Madison,JACKSON,95501,31,6,36
+TN0000078,JACOBS CREEK JOB CORPS CENTER - USFS,Community water system,Surface water,Sullivan,"BRISTOL, CLEVELAND, UNICOI",300,9,84,28
+TN0000324,JAMESTOWN WATER DEPT,Community water system,Surface water,Fentress,JAMESTOWN,3559,9,42,18
+TN0008286,JASPER HIGHLANDS WATER SYSTEM,Community water system,Surface water purchased,Marion,-,223,5,0,3
+TN0000325,JASPER WATER DEPT,Community water system,Surface water,Marion,JASPER,9310,7,9,47
+TN0000453,JEA-MERCER PLANT,Community water system,Ground water,Madison,MERCER,155,7,57,71
+TN0000328,JEFFERSON CITY WATER & SEWER C,Community water system,Surface water,Jefferson,JEFFERSON CITY,8938,7,23,29
+TN0000330,JELLICO WATER DEPT,Community water system,Surface water,Campbell,JELLICO,5366,13,16,39
+TN0000331,JOHNSON CITY WATER DEPT,Community water system,Surface water,Washington,JOHNSON CITY,107150,27,17,122
+TN0000338,JONESBOROUGH WATER DEPT,Community water system,Surface water,Washington,JONESBOROUGH,29040,17,28,66
+TN0000347,KENTON WATER DEPT,Community water system,Ground water,Obion,KENTON,1421,8,20,43
+TN0000349,KINGSPORT WATER DEPT,Community water system,Surface water,Sullivan,KINGSPORT,107666,30,3,70
+TN0000360,KINGSTON WATER SYSTEM,Community water system,Surface water,Roane,KINGSTON,9967,17,27,70
+TN0000367,KNOX-CHAPMAN UTILITY DISTRICT,Community water system,Surface water,Knox,KNOXVILLE,33130,11,18,34
+TN0000366,KNOXVILLE UTILITIES BOARD-KUB,Community water system,Surface water,Knox,KNOXVILLE,236326,34,18,59
+TN0000374,LA FOLLETTE UTILITIES BOARD,Community water system,Surface water,Campbell,"LA FOLLETTE, LAFOLLETTE",26264,21,21,34
+TN0000382,LA GRANGE WATER DEPT,Community water system,Ground water,Fayette,LAGRANGE,225,9,26,14
+TN0000386,LA VERGNE WATER SYSTEM,Community water system,Surface water,Rutherford,LAVERGNE,35233,12,19,20
+TN0000373,LAFAYETTE WATER SYSTEM,Community water system,Surface water,Macon,LAFAYETTE,18668,8,28,15
+TN0000394,LAGUARDO UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Wilson,-,10781,11,8,17
+TN0008288,LAKEVIEW UD EAST,Community water system,Groundwater under influence of surface water,Hawkins,-,1249,7,0,1
+TN0000596,LAKEVIEW UD WEST,Community water system,Groundwater under influence of surface water,Hawkins,ROGERSVILLE,2656,16,16,53
+TN0000581,LAUDERDALE CO WATER SYSTEM,Community water system,Ground water,Lauderdale,RIPLEY,11246,13,4,34
+TN0008157,LAUREL HILLS CONDO AKA RENEGADE MTN,Community water system,Surface water purchased,Cumberland,-,261,4,30,7
+TN0000936,LAUREL MTN LAKES WATER ASSOC.,Community water system,Ground water,Monroe,"ETOWAH, MADISONVILLE",254,11,8,35
+TN0000178,LAURELBROOK SCHOOL,Community water system,Ground water,Rhea,DAYTON,150,7,1,27
+TN0000392,LAWRENCEBURG UTILITY SYSTEMS,Community water system,Surface water,Lawrence,LAWRENCEBURG,19704,18,28,21
+TN0008220,LEADMINE BEND WATER ASSOC.,Community water system,Ground water,Union,SHARPS CHAPEL,119,5,18,7
+TN0000393,LEBANON WATER SYSTEM,Community water system,Surface water,Wilson,LEBANON,35609,12,5,17
+TN0000396,LENOIR CITY UTILITY BOARD,Community water system,Surface water,Loudon,LENOIR CITY,23329,9,40,37
+TN0000399,LEOMA UTILITY DISTRICT,Community water system,Ground water,Lawrence,LEOMA,3285,13,5,19
+TN0000400,LEWISBURG WATER SYSTEM,Community water system,Surface water,Marshall,LEWISBURG,19208,17,17,22
+TN0008267,LEXINGTON WAT DEPT RASCALTOWN COMMUNITY,Community water system,Purchased ground water under influence of surface water source,Lawrence,-,180,4,6,8
+TN0000402,LEXINGTON WATER SYSTEMS,Community water system,Surface water,Henderson,LEXINGTON,24322,6,20,147
+TN0000764,LINCOLN CO BD OF P.U. #1,Community water system,Surface water purchased,Lincoln,FAYETTEVILLE,21419,47,9,23
+TN0000884,LINCOLN CO BD OF P.U. #2,Community water system,Surface water purchased,Lincoln,-,2134,11,5,14
+TN0000290,LINCOLN MEMORIAL UNIVERSITY,Community water system,Groundwater under influence of surface water,Claiborne,HARROGATE,2200,7,45,27
+TN0000404,LINDEN WATER DEPT,Community water system,Surface water,Perry,LINDEN,6823,13,9,16
+TN0000405,LIVINGSTON WATER DEPT,Community water system,Surface water,Overton,LIVINGSTON,14213,15,23,17
+TN0000406,LOBELVILLE WATER DEPT,Community water system,Surface water,Perry,LOBELVILLE,3228,9,10,15
+TN0008228,LONE OAK UTILITY DISTRICT,Community water system,Surface water purchased,Sequatchie,-,366,4,0,11
+TN0000083,LOON BAY PROPERTY OWNERS ASSOC,Community water system,Ground water,Stewart,BUMPUS MILLS,134,15,19,16
+TN0000408,LORETTO WATER DEPARTMENT,Community water system,Groundwater under influence of surface water,Lawrence,LORETTO,3973,9,16,19
+TN0000409,LOUDON UTILITIES BOARD,Community water system,Surface water,Loudon,LOUDON,12735,24,8,64
+TN0000415,LUTTRELL-BLAINE-CORRYTON U.D.,Community water system,Surface water,Union,LUTTRELL,9031,22,9,84
+TN0000419,LYNNVILLE WATER DEPT,Community water system,Surface water purchased,Giles,-,1062,7,6,14
+TN0000424,MADISON SUBURBAN UD,Community water system,Surface water,Davidson,MADISON,69093,13,7,14
+TN0000425,MADISONVILLE WATER DEPT,Community water system,Surface water purchased,Monroe,MADISONVILLE,14382,9,7,25
+TN0000428,MALLORY VALLEY UTILITY DISTRICT,Community water system,Surface water purchased,Williamson,-,21530,14,5,16
+TN0000429,MANCHESTER WATER DEPARTMENT,Community water system,Surface water purchased,Coffee,-,19150,9,2,15
+TN0000105,MARSHALL CO BD P.U. #1,Community water system,Surface water purchased,Marshall,-,9833,13,4,15
+TN0000434,MARTEL UTILITY DISTRICT,Community water system,Surface water purchased,Loudon,-,4498,5,7,32
+TN0000435,MARTIN WATER DEPT,Community water system,Ground water,Weakley,MARTIN,11203,16,1,33
+TN0000935,MASON HALL DEVELOPMENT CORP.,Community water system,Ground water,Obion,"KENTON, TRIMBLE",219,8,32,9
+TN0000440,MASON WATER DEPT,Community water system,Ground water,Tipton,MASON,2728,10,9,21
+TN0000441,MAURY CITY WATER DEPT,Community water system,Ground water,Crockett,MAURY CITY,1053,11,0,37
+TN0000770,MAURY CO WATER SYSTEM,Community water system,Surface water purchased,Maury,-,18202,17,11,17
+TN0000442,MAYNARDVILLE WATER DEPT,Community water system,Surface water purchased,Union,MAYNARDVILLE,7485,16,32,73
+TN0000420,MCEWEN WATER DEPARTMENT,Community water system,Ground water,Humphreys,MCEWEN,2930,9,7,16
+TN0000421,MCKENZIE WATER DEPT,Community water system,Ground water,Carroll,MCKENZIE,5439,12,5,20
+TN0000422,MCLEMORESVILLE WATER DEPT,Community water system,Ground water,Carroll,MCLEMORESVILLE,376,8,28,18
+TN0000423,MCMINNVILLE WATER DEPT,Community water system,Surface water,Warren,MCMINNVILLE,15680,11,12,14
+TN0000450,"MEMPHIS LIGHT, GAS, & WATER",Community water system,Ground water,Shelby,MEMPHIS,779504,130,4,41
+TN0000416,METRO LYNCHBURG/MOORE COUNTY UT DEPT #1,Community water system,Surface water,Moore,LYNCHBURG,5961,7,30,21
+TN0008258,METRO LYNCHBURG/MOORE COUNTY UT DEPT #2,Community water system,Surface water purchased,Moore,-,241,2,0,6
+TN0000454,MICHIE WATER DEPT,Community water system,Ground water,McNairy,MICHIE,2634,9,5,34
+TN0000939,MID HAWKINS COUNTY UTILITY DIS,Community water system,Surface water purchased,Hawkins,ROGERSVILLE,634,9,13,52
+TN0000455,MIDDLETON WATER DEPT,Community water system,Ground water,Hardeman,MIDDLETON,706,11,52,29
+TN0000458,MILAN WATER DEPT,Community water system,Ground water,Gibson,MILAN,10476,11,0,26
+TN0000247,MILCROFTON UTILITY DISTRICT,Community water system,Surface water purchased,Williamson,-,23078,21,6,15
+TN0000463,MILLINGTON WATER DEPT,Community water system,Ground water,Shelby,MILLINGTON,8355,16,5,44
+TN0000469,MINOR HILL WATER UTIL DIST,Community water system,Surface water purchased,Giles,-,6808,10,14,16
+TN0000470,MONTEAGLE PUBLIC UTILITY BOARD,Community water system,Surface water,Grundy,MONTEAGLE,3414,11,20,58
+TN0000471,MONTEREY WATER DEPT,Community water system,Surface water,Putnam,MONTEREY,4493,11,56,17
+TN0000472,MOORESBURG UTILITY DISTRICT,Community water system,Surface water purchased,Hawkins,MOORESBURG,1526,9,49,21
+TN0000474,MORRISTOWN WATER SYSTEM,Community water system,Surface water,Hamblen,MORRISTOWN,36496,21,6,38
+TN0000477,MOSCOW WATER DEPT,Community water system,Ground water,Fayette,MOSCOW,816,7,22,42
+TN0000478,MOSHEIM UTILITY DISTRICT,Community water system,Surface water purchased,Greene,-,1845,4,10,27
+TN0000488,MOUNT PLEASANT WAT SYS #1,Community water system,Groundwater under influence of surface water,Maury,MOUNT PLEASANT,7578,15,48,24
+TN0000479,MOUNTAIN CITY WATER DEPT.,Community water system,Surface water,Johnson,MOUNTAIN CITY,10822,27,69,97
+TN0008280,MOUNTAIN SIDE ESTATES,Community water system,Ground water,Monroe,-,80,9,38,3
+TN0000490,MUNFORD WATER DEPT,Community water system,Ground water,Tipton,MUNFORD,9384,14,8,22
+TN0000491,MURFREESBORO WATER DEPARTMENT,Community water system,Surface water,Rutherford,MURFREESBORO,104370,14,4,15
+TN0000494,NASHVILLE WATER DEPT,Community water system,Surface water,Davidson,NASHVILLE,702407,57,5,16
+TN0000761,NEW CANTON UTILITY DISTRICT,Community water system,Purchased ground water under influence of surface water source,Hawkins,-,513,3,6,11
+TN0000497,NEW JOHNSONVILLE WATER DEPT,Community water system,Surface water,Humphreys,NEW JOHNSONVILLE,2206,9,22,16
+TN0000499,NEW MARKET UTILITY DISTRICT,Community water system,Surface water purchased,Jefferson,NEW MARKET,5208,4,12,45
+TN0000496,NEWBERN WATER DEPT,Community water system,Ground water,Dyer,NEWBERN,8799,19,30,34
+TN0000657,NEWPORT RESORT WATER SYSTEM,Community water system,Ground water,Rhea,SPRING CITY,145,6,48,36
+TN0000500,NEWPORT UTILITIES BOARD,Community water system,Surface water,Cocke,NEWPORT,30364,6,20,20
+TN0000510,NIOTA WATER SYSTEM,Community water system,Surface water purchased,McMinn,-,3295,8,8,21
+TN0000511,NOLENSVILLE-COLLEGE GROVE UD,Community water system,Surface water purchased,Williamson,NOLENSVILLE,26990,24,17,15
+TN0000513,NORRIS WATER COMMISSION,Community water system,Groundwater under influence of surface water,Anderson,NORRIS,2074,9,8,18
+TN0000223,NORTH ELIZABETHTON WATER CO-OP,Community water system,Surface water purchased,Carter,-,1353,5,31,50
+TN0000274,"NORTH GREENE UTILITIES, INCORPORATED",Community water system,Surface water,Greene,GREENEVILLE,5907,13,113,80
+TN0000013,NORTH OVERTON UTILITY DISTRICT,Community water system,Surface water purchased,Overton,-,4420,6,11,16
+TN0000195,NORTH STEWART UTILITY DISTRICT,Community water system,Surface water,Stewart,DOVER,5484,15,19,19
+TN0000883,NORTH U.D. OF DECATUR/BENTON CO.,Community water system,Surface water,Decatur,PARSONS,3207,7,19,74
+TN0000970,NORTH U.D. OF RHEA COUNTY,Community water system,Surface water purchased,Rhea,-,2720,9,4,16
+TN0000169,NORTH WEST UTILITY DISTRICT,Community water system,Surface water,Hamilton,SODDY-DAISY,18418,15,10,84
+TN0000540,NORTHEAST HENRY CO UTIL DIS,Community water system,Ground water,Henry,SPRINGVILLE,4864,13,1,26
+TN0000515,NORTHEAST KNOX U D,Community water system,Surface water,Knox,"CORRYTON, KNOXVILLE",23041,15,6,43
+TN0000389,NORTHEAST LAWRENCE UTILITY DIS,Community water system,Ground water,Lawrence,-,3490,8,17,20
+TN0000573,NORTHWEST CLAY COUNTY UTILITY,Community water system,Surface water,Clay,MOSS,3980,11,31,15
+TN0000518,NORTHWEST DYERSBURG U D,Community water system,Ground water,Dyer,DYERSBURG,4082,13,6,32
+TN0000838,NORTHWEST HENRY CO. U.D.,Community water system,Ground water purchased,Henry,-,1097,4,2,18
+TN0000841,NORTON CREEK WATER SYSTEM,Community water system,Ground water,Sevier,GATLINBURG,107,9,12,20
+TN0000468,NSA - MIDSOUTH,Community water system,Ground water,Shelby,MILLINGTON,6300,10,7,37
+TN0000526,O'CONNOR UTILITY DISTRICT,Community water system,Surface water purchased,White,-,8502,11,12,15
+TN0000522,OAK RIDGE DEPT OF PUBLIC WORKS,Community water system,Surface water,Anderson,OAK RIDGE,36842,19,11,33
+TN0000521,OAKLAND WATER DEPT,Community water system,Ground water,Fayette,OAKLAND,12025,10,2,49
+TN0000524,OBION WATER DEPT,Community water system,Ground water,Obion,OBION,1846,9,17,30
+TN0000525,OCOEE UTILITY DISTRICT,Community water system,Surface water purchased,Bradley,CLEVELAND,19262,11,67,121
+TN0000135,OLD GAINESBORO ROAD UTIL DIST,Community water system,Surface water purchased,Putnam,-,6065,4,10,15
+TN0000899,OLD HICKORY WATER COMPANY-UNION COUNTY,Community water system,Surface water purchased,Union,-,339,6,94,58
+TN0000530,OLD KNOXVILLE HWY U D,Community water system,Surface water purchased,Greene,-,8991,10,6,27
+TN0000523,OLIVER SPRINGS WATER BOARD,Community water system,Groundwater under influence of surface water,Roane,OLIVER SPRINGS,5116,11,62,36
+TN0000532,ONEIDA W&S COMM,Community water system,Surface water,Scott,ONEIDA,11282,12,54,51
+TN0000536,PARIS BD OF PUBLIC UTILITIES,Community water system,Ground water,Henry,PARIS,12514,8,1,25
+TN0000541,PARSONS WATER DEPARTMENT,Community water system,Surface water,Decatur,PARSONS,4059,9,10,168
+TN0000543,PERRYVILLE UTILITY DISTRICT,Community water system,Surface water purchased,Decatur,-,3275,8,9,19
+TN0000594,PERSIA UTILITY DISTRICT,Community water system,Surface water,Hawkins,ROGERSVILLE,4486,10,29,24
+TN0000802,PETERS HOLLOW WATER SYSTEM,Community water system,Ground water,Carter,ELIZABETHTON,155,7,98,41
+TN0000544,PETERSBURG WATER SYSTEM,Community water system,Surface water purchased,Lincoln,-,921,5,16,15
+TN0000548,PIGEON FORGE WATER DEPARTMENT,Community water system,Surface water,Sevier,PIGEON FORGE,13104,9,27,36
+TN0000551,PIKEVILLE WATER SYSTEM,Community water system,Groundwater under influence of surface water,Bledsoe,PIKEVILLE,4658,14,54,68
+TN0000842,PIPERTON WATER SYSTEM,Community water system,Ground water purchased,Fayette,-,1860,4,3,14
+TN0000729,PLATEAU UTILITY DISTRICT,Community water system,Surface water,Morgan,WARTBURG,12856,16,60,32
+TN0000558,PLEASANT VIEW UTILITY DISTRICT,Community water system,Surface water,Cheatham,PLEASANT VIEW,16960,14,4,15
+TN0000201,POPLAR GROVE UTILITY DISTRICT,Community water system,Ground water,Tipton,ATOKA,17713,12,17,27
+TN0000559,PORTLAND WATER SYSTEM,Community water system,Surface water,Sumner,PORTLAND,20845,17,24,16
+TN0000562,PULASKI WATER SYSTEM,Community water system,Surface water,Giles,PULASKI,10709,13,11,60
+TN0000568,PURYEAR WATER SYSTEM,Community water system,Ground water,Henry,PURYEAR,821,9,16,44
+TN0000569,QUEBECK WALLING UTILITY DIST,Community water system,Surface water purchased,White,-,4614,8,6,15
+TN0000571,RAMER WATER DEPT,Community water system,Ground water,McNairy,RAMER,518,8,50,24
+TN0000572,RED BOILING SPRINGS WATER SYST,Community water system,Groundwater under influence of surface water,Macon,RED BOILING SPRINGS,5545,17,192,19
+TN0000575,REELFOOT U. D. OF LAKE COUNTY,Community water system,Ground water,Lake,TIPTONVILLE,608,10,11,30
+TN0000757,REELFOOT WATER ASSOCIATION,Community water system,Ground water purchased,Obion,-,729,3,24,26
+TN0000576,RICEVILLE UTILITY DISTRICT,Community water system,Surface water purchased,McMinn,RICEVILLE,3313,5,13,31
+TN0000579,RIDGELY WATER SYSTEM,Community water system,Ground water,Lake,RIDGELY,2072,9,35,35
+TN0000580,RIPLEY WATER SYSTEM,Community water system,Ground water,Lauderdale,RIPLEY,9536,12,1,21
+TN0000924,RIVER LANDING CONDOMINIUM ASSOC,Community water system,Groundwater under influence of surface water,Marion,"CHARLESTON, CHATTANOOGA",52,7,44,52
+TN0000582,RIVER ROAD UTILITY DISTRICT,Community water system,Surface water purchased,Cheatham,ASHLAND CITY,3521,12,35,14
+TN0000925,RIVERSIDE CAMPGROUND,Community water system,Ground water,Sevier,SEVIERVILLE,589,6,41,19
+TN0000584,ROAN MOUNTAIN UTILITY DISTRICT,Community water system,Ground water,Carter,ROAN MOUNTAIN,1100,11,20,52
+TN0000457,ROANE CENTRAL UTILITY DISTRICT,Community water system,Surface water purchased,Roane,-,6236,8,17,26
+TN0000590,ROCKWOOD WATER SYSTEM,Community water system,Surface water,Roane,ROCKWOOD,11594,10,26,30
+TN0000383,ROCKY TOP WATER DEPT,Community water system,Surface water purchased,Anderson,LAKE CITY,2410,6,32,17
+TN0000452,ROGERS SPRINGS POA,Community water system,Ground water,Hardeman,MIDDLETON,135,7,14,13
+TN0000593,ROGERSVILLE WATER SYSTEM,Community water system,Surface water,Hawkins,ROGERSVILLE,10288,14,113,61
+TN0000597,ROSSVILLE WATER SYSTEM,Community water system,Ground water,Fayette,ROSSVILLE,1230,7,2,24
+TN0000598,RUSSELLVILLE WHITESBURG U D,Community water system,Surface water purchased,Hamblen,-,19346,11,2,20
+TN0000599,RUTHERFORD WATER SYSTEM,Community water system,Ground water,Gibson,RUTHERFORD,1391,8,14,54
+TN0000600,RUTLEDGE WATER SYSTEM,Community water system,Surface water purchased,Grainger,RUTLEDGE,2005,7,2,12
+TN0000606,SALTILLO UTILITY DISTRICT,Community water system,Ground water,Hardin,"JACKSON, SALTILLO",1916,8,4,28
+TN0000607,SAMBURG UTILITY DIST,Community water system,Ground water purchased,Obion,-,770,4,28,22
+TN0000609,SARDIS WATER SYSTEM,Community water system,Ground water,Henderson,SARDIS,1071,13,12,19
+TN0000611,SAVANNAH UTILITY DEPT,Community water system,Ground water,Hardin,SAVANNAH,18486,24,1,40
+TN0000613,SAVANNAH VALLEY U. D.,Community water system,Surface water purchased,Hamilton,GEORGETOWN,23960,14,9,79
+TN0000614,SCOTTS HILL WATER SYSTEM,Community water system,Ground water,Henderson,SCOTTS HILL,4239,23,4,87
+TN0000645,SECOND SOUTH CHEATHAM U.D.,Community water system,Surface water,Cheatham,"KINGSTON SPRINGS, KINGSTON SPRINGS TN",9283,12,6,16
+TN0000615,SELMER WATER SYSTEM,Community water system,Ground water,McNairy,SELMER,19029,17,8,95
+TN0008279,SEVIER COUNTY WATER DEPARTMENT,Community water system,Surface water purchased,Sevier,-,4450,10,0,4
+TN0000617,SEVIERVILLE WATER SYSTEM,Community water system,Surface water,Sevier,SEVIERVILLE,30579,9,15,26
+TN0000623,SEWANEE UTILITY DISTRICT,Community water system,Surface water,Franklin,SEWANEE,5634,8,9,31
+TN0000626,SHADY GROVE UTILITY DISTRICT,Community water system,Surface water purchased,Jefferson,-,21751,11,5,32
+TN0000627,SHARON WATER SYSTEM,Community water system,Ground water,Weakley,SHARON,1310,10,1,29
+TN0000628,SHELBYVILLE WATER SYSTEM,Community water system,Surface water,Bedford,SHELBYVILLE,30445,9,5,53
+TN0000633,SIAM UTILITY DISTRICT,Community water system,Surface water purchased,Carter,ELIZABETHTON,2541,10,19,83
+TN0000634,SIGNAL MOUNTAIN WATER SYSTEM,Community water system,Surface water purchased,Hamilton,-,8165,10,1,23
+TN0000636,SMITH UTILITY DISTRICT,Community water system,Surface water,Smith,SOUTH CARTHAGE,7674,7,9,14
+TN0000637,SMITHVILLE WATER SYSTEM,Community water system,Surface water,DeKalb,SMITHVILLE,6274,10,31,17
+TN0000639,SMYRNA WATER SYSTEM,Community water system,Surface water,Rutherford,SMYRNA,51930,15,34,14
+TN0000640,SNEEDVILLE U D,Community water system,Ground water,Hancock,SNEEDVILLE,2215,17,67,75
+TN0000641,SOMERVILLE WATER SYSTEM,Community water system,Ground water,Fayette,SOMERVILLE,5263,15,5,27
+TN0000643,SOUTH BLOUNT UTILITY DISTRICT,Community water system,Surface water,Blount,MARYVILLE,42413,14,12,89
+TN0000644,SOUTH BRISTOL-WEAVER PIKE U D,Community water system,Surface water purchased,Sullivan,-,5366,7,29,30
+TN0000159,SOUTH CUMBERLAND U.D.,Community water system,Surface water purchased,Cumberland,-,10979,9,24,12
+TN0000646,SOUTH ELIZABETHTON UTILITY DIS,Community water system,Surface water purchased,Carter,-,5181,9,7,44
+TN0000648,SOUTH FULTON WATER SYSTEM,Community water system,Ground water,Obion,SOUTH FULTON,4004,10,17,43
+TN0000649,SOUTH GILES UTILITY DISTRICT,Community water system,Surface water purchased,Giles,-,3254,7,43,21
+TN0000537,SOUTH PARIS WATER CO OP,Community water system,Ground water purchased,Henry,-,2142,3,3,18
+TN0000651,SOUTH PITTSBURG WATER SYSTEM,Community water system,Surface water,Marion,"SOUTH PATTSBURG, SOUTH PITTSBURG",7078,6,40,58
+TN0000904,SOUTH SIDE U.D. #1,Community water system,Surface water purchased,Smith,-,3885,5,3,10
+TN0000910,SOUTH SIDE U.D. #2,Community water system,Surface water purchased,Smith,-,601,3,1,9
+TN0000953,SOUTH SIDE U.D. #3,Community water system,Surface water purchased,Smith,-,168,3,5,8
+TN0000652,SPARTA WATER SYSTEM,Community water system,Surface water,White,SPARTA,10236,10,15,14
+TN0000655,SPENCER WATER SYSTEM,Community water system,Surface water,Van Buren,SPENCER,5103,12,62,30
+TN0000656,SPRING CITY WATER SYSTEM,Community water system,Surface water,Rhea,SPRING CITY,2701,8,55,50
+TN0000664,SPRING CREEK UTILITY DISTRICT,Community water system,Ground water purchased,Hardeman,-,2637,6,6,19
+TN0000667,SPRING HILL WATER DEPT,Community water system,Surface water,Maury,SPRING HILL,36524,12,6,19
+TN0000666,SPRINGFIELD WATER SYSTEM,Community water system,Surface water,Robertson,SPRINGFIELD,38305,14,13,15
+TN0008277,SPRINGVILLE U. D.,Community water system,Ground water purchased,Henry,-,1200,2,0,3
+TN0000604,ST JOSEPH WATER SYSTEM,Community water system,Groundwater under influence of surface water,Lawrence,ST JOSEPH,1401,9,24,24
+TN0000880,STACEY ANN'S MHP,Community water system,Ground water,Coffee,"FRANLKIN, MANCHESTER, MURFREESBORO",141,8,6,11
+TN0000672,STANTON WATER SYSTEM,Community water system,Ground water,Haywood,"BROWNSVILLE, STANTON",685,9,14,16
+TN0000909,SUCK CREEK WATER SYSTEM,Community water system,Ground water,Marion,"CHATTANOOGA, SODDY-DAISY",610,8,4,48
+TN0000676,SUMMERTOWN WATER SYSTEM,Community water system,Ground water,Lawrence,SUMMERTOWN,4084,13,11,27
+TN0000682,SURGOINSVILLE UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Hawkins,SURGOINSVILLE,2544,13,23,33
+TN0000687,SWEETWATER UTILITY BOARD,Community water system,Surface water,Monroe,SWEETWATER,12379,16,6,59
+TN0000691,SYLVIA-TENN CITY-POND U. D.,Community water system,Surface water purchased,Dickson,-,4880,7,5,16
+TN0000566,TARPLEY SHOP UTILITY DISTRICT,Community water system,Surface water purchased,Giles,-,2714,8,13,19
+TN0000726,TELLICO AREA SERVICES SYSTEM,Community water system,Surface water,Monroe,VONORE,11822,7,13,41
+TN0000693,TELLICO PLAINS WATER DEPT,Community water system,Ground water,Monroe,"ETOWAH, TELLICO PLAINS",5785,23,78,33
+TN0000871,TELLICO VILLAGE POA,Community water system,Surface water purchased,Loudon,-,10349,5,16,15
+TN0000107,TENNESSEE AMERICAN WATER,Community water system,Surface water,Hamilton,CHATTANOOGA,186625,8,0,93
+TN0000698,TENNESSEE RIDGE WATER SYSTEM,Community water system,Surface water purchased,Houston,TENNESSEE RIDGE,3520,11,4,15
+TN0000678,THE FARM WATER SYSTEM,Community water system,Ground water,Lewis,SUMMERTOWN,180,9,49,17
+TN0000700,TIPTONVILLE WATER SYSTEM,Community water system,Ground water,Lake,TIPTONVILLE,2369,10,8,35
+TN0000749,TN AMERICAN-SEQUATCHIE VALLEY,Community water system,Surface water,Marion,WHITWELL,6852,6,62,68
+TN0000704,TOONE WATER SYSTEM,Community water system,Ground water,Hardeman,TOONE,654,12,4,31
+TN0000706,TRACY CITY WATER SYSTEM,Community water system,Surface water,Grundy,TRACY CITY,4539,12,28,75
+TN0000707,TRENTON WATER SYSTEM,Community water system,Ground water,Gibson,TRENTON,5295,14,29,42
+TN0000710,TREZEVANT WATER SYSTEM,Community water system,Ground water,Carroll,TREZEVANT,973,7,1,21
+TN0000711,TRIMBLE WATER SYSTEM,Community water system,Ground water,Dyer,"TRIMBEL, TRIMBLE",806,7,7,22
+TN0000712,TROY WATER SYSTEM,Community water system,Ground water,Obion,TROY,2117,9,2,21
+TN0000714,TUCKALEECHEE UTILITY DISTRICT,Community water system,Surface water purchased,Blount,-,12390,15,10,32
+TN0000715,TULLAHOMA UTILITIES AUTHORITY,Community water system,Surface water purchased,Coffee,-,27877,13,0,13
+TN0000533,TURNEY CENTER,Community water system,Surface water,Hickman,ONLY,1558,6,36,20
+TN0000718,TWENTY FIVE UTILITY DISTRICT,Community water system,Surface water purchased,Smith,-,1898,7,12,15
+TN0000719,UNICOI UTILITY DISTRICT,Community water system,Purchased ground water under influence of surface water source,Unicoi,-,4337,13,8,35
+TN0000720,UNION CITY WATER DEPT,Community water system,Ground water,Obion,UNION CITY,16484,10,4,40
+TN0000037,UNION FORK-BAKEWELL UTILITY DISTRICT,Community water system,Ground water,Hamilton,BAKEWELL,5011,15,9,62
+TN0000724,VANLEER WATER DEPARTMENT,Community water system,Surface water,Dickson,VANLEER,2868,13,41,16
+TN0001480,VENTURE OUT AT GATLINBURG,Community water system,Ground water,Sevier,-,328,6,1,15
+TN0000635,WALDEN'S RIDGE UTILITY DISTRICT,Community water system,Surface water purchased,Hamilton,SIGNAL MOUNTAIN,8229,16,13,68
+TN0000818,WARREN COUNTY UTILITY DISTRICT,Community water system,Surface water,Warren,MCMINNVILLE,24319,14,6,13
+TN0000730,WARTRACE WATER SYSTEM,Community water system,Surface water purchased,Bedford,"WARTRACE, WATRTACE",3126,13,46,20
+TN0008278,WATAUGA RIVER REGIONAL WATER AUTHORITY,Community water system,Surface water,Carter,-,410,9,0,3
+TN0000191,WATER AUTH. OF DICKSON COUNTY,Community water system,Surface water,Dickson,DICKSON,55188,39,8,16
+TN0000732,WATERTOWN WATER SYSTEM,Community water system,Ground water,Wilson,WATERTOWN,1905,9,8,16
+TN0000969,WATTS BAR EAST U.D.,Community water system,Surface water purchased,Roane,-,3158,6,3,10
+TN0000872,WATTS BAR UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Rhea,"HARRIMAN, KINGSTON",12942,9,3,28
+TN0000733,WAVERLY WATER DEPARTMENT,Community water system,Surface water,Humphreys,"NEW JOHNSONVILLE, WAVERLY",8344,16,6,14
+TN0008275,WAYNE CO. B. P. UTIL. #1,Community water system,Surface water purchased,Wayne,-,94,2,4,4
+TN0008276,WAYNE CO. B. P. UTIL. #2,Community water system,Surface water purchased,Wayne,-,61,2,4,4
+TN0000934,WAYNE CO. B. P. UTIL. #3,Community water system,Surface water purchased,Wayne,-,58,6,15,8
+TN0008282,WAYNE CO. B. P. UTIL. #4,Community water system,Purchased ground water under influence of surface water source,Wayne,-,230,3,0,3
+TN0000736,WAYNESBORO WATER SYSTEM,Community water system,Surface water,Wayne,WAYNESBORO,4493,12,51,26
+TN0008140,WEARS VALLEY RANCH,Community water system,Ground water,Sevier,SEVIERVILLE,75,6,4,10
+TN0000261,WEBB CREEK UTILITY DISTRICT,Community water system,Surface water purchased,Sevier,-,1501,12,9,15
+TN0000557,WEST CUMBERLAND U.D.,Community water system,Surface water purchased,Cumberland,-,5459,8,7,12
+TN0000371,WEST KNOX UTILITY DISTRICT,Community water system,Surface water,Knox,KNOXVILLE,62812,12,3,65
+TN0000578,WEST OVERTON UTILITY DISTRICT,Community water system,Surface water purchased,Overton,-,8252,8,12,14
+TN0000740,WEST POINT U.D.,Community water system,Purchased ground water under influence of surface water source,Lawrence,-,313,6,18,17
+TN0000001,WEST ROBERTSON WATER AUTHORITY,Community water system,Surface water,Robertson,"ADAMS, CEDAR HILL",5422,9,21,15
+TN0000916,WEST STEWART UTILITY DISTRICT,Community water system,Groundwater under influence of surface water,Stewart,DOVER,526,19,9,10
+TN0000245,WEST TN STATE PENITENTIARY,Community water system,Ground water,Lauderdale,HENNING,3200,11,29,24
+TN0000742,WEST WARREN-VIOLA U. D.,Community water system,Surface water,Warren,MORRISON,15954,13,12,13
+TN0000743,WEST WILSON UTILITY DISTRICT,Community water system,Surface water,Wilson,"MOUNT JULIET, MT. JULIET",68879,13,11,15
+TN0000738,WESTMORELAND WATER SYSTEM,Community water system,Surface water purchased,Sumner,WESTMORELAND,4434,9,8,16
+TN0000745,WHITE HOUSE UTILITY DISTRICT,Community water system,Surface water,Sumner,"HENDERSONVILLE, WHITE HOUSE",93888,25,6,16
+TN0000746,WHITE PINE WATER SYSTEM,Community water system,Groundwater under influence of surface water,Jefferson,WHITE PINE,3841,16,10,38
+TN0000748,WHITEVILLE WATER DEPT,Community water system,Ground water,Hardeman,WHITEVILLE,2109,13,14,39
+TN0000790,WILSON CO WATER & WASTEWATER,Community water system,Surface water purchased,Wilson,-,20435,12,10,15
+TN0000754,WINCHESTER WATER SYSTEM,Community water system,Surface water,Franklin,WINCHESTER,21176,15,19,96
+TN0000650,WITT UTILITY DISTRICT,Community water system,Surface water,Hamblen,-,5189,12,36,22
+TN0000756,WOODBURY WATER SYSTEM,Community water system,Surface water,Cannon,WOODBURY,9185,13,45,16
+TN0000679,WOODLAWN SHORES WATER DEPARTMENT,Community water system,Ground water,Decatur,SUGAR TREE,96,7,4,12
+TN0000758,WOODLAWN UTILITY DISTRICT,Community water system,Surface water purchased,Montgomery,-,9181,8,6,16
+TN0000446,WOODRUN LAKES S/D,Community water system,Ground water,Hardeman,MIDDLETON,176,7,8,12
+TN0004910,ACCURATE ENERGETIC SYSTEMS,Non-Transient non-community system,Ground water,Hickman,-,90,20,41,11
+TN0004408,AEDC COMPLEX-WATER PLANT,Non-Transient non-community system,Surface water,Coffee,-,2500,6,4,14
+TN0004737,ANN AND ANDY'S DAY CARE CENTER,Non-Transient non-community system,Ground water,Carroll,-,25,5,27,17
+TN0004992,"BLUES CITY BREWERY, LLC",Non-Transient non-community system,Ground water,Shelby,-,70,10,29,12
+TN0004415,BUSH BROTHERS #3,Non-Transient non-community system,Surface water,Jefferson,-,330,5,3,24
+TN0001263,CADES COVE CAMPGROUND,Non-Transient non-community system,Ground water,Blount,-,2000,6,10,20
+TN0004314,"CEMEX CONSTRUCTION MATERIALS ATLANTIC, L",Non-Transient non-community system,Ground water,Knox,-,120,6,3,14
+TN0003779,CHEMOURS-NEW JOHNSONVILLE PLANT,Non-Transient non-community system,Surface water,Humphreys,-,750,5,61,11
+TN0005150,CLINCH K-12 SCHOOL (NEW BUILDING),Non-Transient non-community system,Groundwater under influence of surface water,Hawkins,-,170,5,2,5
+TN0002942,COKER CREEK ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Monroe,-,130,6,2,43
+TN0004300,"E.I. DUPONT, OLD HICKORY",Non-Transient non-community system,Surface water,Davidson,-,604,6,57,14
+TN0000270,GREAT SMOKY MTNS NATIONAL PARK HEADQTRS,Non-Transient non-community system,Ground water,Sevier,-,3125,6,10,23
+TN0001468,GREENBRIER SCHOOL ALT LEARNING CENTER,Non-Transient non-community system,Ground water,Sevier,-,35,5,3,38
+TN0005028,HILLSHIRE BRANDS COMPANY,Non-Transient non-community system,Ground water,Dyer,-,750,9,4,8
+TN0001234,JACKS CREEK ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Chester,-,160,5,9,20
+TN0004772,K-T CLAY COMPANY,Non-Transient non-community system,Ground water,Weakley,-,35,5,5,9
+TN0002109,KELLOGG'S CONVENIENCE FOODS,Non-Transient non-community system,Ground water,Fayette,-,200,9,15,18
+TN0005124,LHOIST NORTH AMERICA,Non-Transient non-community system,Groundwater under influence of surface water,Franklin,-,51,9,8,7
+TN0000798,MILAN ARSENAL #1,Non-Transient non-community system,Ground water,Gibson,MILAN,150,12,1,32
+TN0000921,NATCHEZ TRACE YOUTH ACADEMY,Non-Transient non-community system,Groundwater under influence of surface water,Humphreys,-,225,6,54,8
+TN0005142,NESTLE WATERS NORTH AMERICA,Non-Transient non-community system,Groundwater under influence of surface water,Macon,-,132,4,4,5
+TN0005063,NORTHWEST HEADSTART OF HUMBOLT,Non-Transient non-community system,Ground water,Gibson,-,43,5,7,8
+TN0005057,NORTHWEST HEADSTART OF SOMERVILLE,Non-Transient non-community system,Ground water,Fayette,-,100,7,1,9
+TN0004674,"NYRSTAR TN MINES-STRAWBERRY PLAINS , LLC",Non-Transient non-community system,Ground water,Knox,-,65,7,4,7
+TN0001060,OAK RIDGE NATIONAL LAB X-10,Non-Transient non-community system,Surface water purchased,Roane,-,6091,4,0,10
+TN0003222,OLIN CORPORATION,Non-Transient non-community system,Surface water,Bradley,-,600,6,10,17
+TN0004825,OWENS-CORNING COMPANY,Non-Transient non-community system,Ground water,Madison,-,240,7,2,10
+TN0004313,RESOLUTE FOREST PRODUCTS,Non-Transient non-community system,Surface water,McMinn,-,460,6,21,19
+TN0003416,"SCEPTER INGOT CASTING, INC.",Non-Transient non-community system,Ground water,Humphreys,-,111,5,17,9
+TN0003906,SHADY VALLEY SCHOOL,Non-Transient non-community system,Ground water,Johnson,-,70,5,34,13
+TN0003949,SOUTHWEST SCHOOL,Non-Transient non-community system,Ground water,Fayette,-,400,7,10,14
+TN0001068,Y-12 NNSA PRODUCTION OFFICE,Non-Transient non-community system,Surface water purchased,Anderson,-,5000,6,3,25
+TN0001261,ABRAMS CREEK CAMPGROUND,Transient non-community system,Ground water,Blount,-,68,6,1,17
+TN0004447,ADVENTURE BOUND CAMPING RESORT-GATLINBUR,Transient non-community system,Ground water,Sevier,-,300,13,3,13
+TN0004409,AEDC GOLF COURSE WATER SYSTEM,Transient non-community system,Groundwater under influence of surface water,Coffee,-,75,5,24,14
+TN0001623,ALAMO BAPTIST CHURCH,Transient non-community system,Ground water,Obion,-,30,9,5,9
+TN0005097,ALDER SPRINGS VILLAGE,Transient non-community system,Ground water,Campbell,-,100,6,3,8
+TN0004326,ANTIOCH BAPTIST CH - HUMBOLDT,Transient non-community system,Ground water,Madison,-,300,4,27,12
+TN0004964,APPLE ANNIE'S CAFE,Transient non-community system,Ground water,Benton,-,25,6,11,5
+TN0001500,ARARAT BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,200,6,8,17
+TN0004171,ARMSTRONG FERRY CAMPGROUND,Transient non-community system,Ground water,Meigs,-,50,8,4,9
+TN0004508,BANDY CREEK CAMPGROUND,Transient non-community system,Ground water,Scott,-,1003,12,1,15
+TN0002697,BATTLE CREEK MARKET,Transient non-community system,Groundwater under influence of surface water,Marion,-,25,5,55,29
+TN0002618,BAYS MTN PARK WATER SYSTEM,Transient non-community system,Ground water,Sullivan,-,400,6,14,22
+TN0005103,BEACH ISLAND MARINA,Transient non-community system,Ground water,Union,-,500,5,3,19
+TN0001237,BEECH SPRINGS BAPTIST CHURCH,Transient non-community system,Ground water,Chester,-,100,6,7,12
+TN0005175,BERRY'S ONE STOP,Transient non-community system,Ground water,Wayne,-,50,4,0,4
+TN0004053,BETHLEHEM BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,300,5,26,19
+TN0004360,BIRDSONG RESORT & MARINA,Transient non-community system,Ground water,Benton,-,35,6,19,16
+TN0004989,BLACK BEAR RESORT,Transient non-community system,Ground water,Carter,-,40,5,5,21
+TN0004794,BLACK OAK MARINA,Transient non-community system,Ground water,Jefferson,-,75,6,8,14
+TN0004837,BLUE SPRINGS DOCK,Transient non-community system,Ground water,Union,-,50,5,0,10
+TN0004429,BOGGS SUBDIVISION,Transient non-community system,Ground water,Grainger,-,36,5,4,16
+TN0004940,BOTTOMS UP BAR & GRILL,Transient non-community system,Ground water,Humphreys,-,50,5,26,7
+TN0004186,BRANDON SPRINGS-LBL,Transient non-community system,Ground water,Stewart,-,75,8,12,11
+TN0001471,"BRIDGEMONT MINISTRIES, INC.",Transient non-community system,Ground water,Sevier,-,65,5,18,20
+TN0004775,BRITTON FORD CAMPGROUND,Transient non-community system,Ground water,Henry,-,180,6,10,10
+TN0004532,BROKEN ARROW TRAVEL CAMP,Transient non-community system,Ground water,Monroe,-,45,6,3,17
+TN0004838,BROOKSIDE RESORT CABINS,Transient non-community system,Ground water,Sevier,-,25,7,3,9
+TN0005053,BROTHER'S COVE HOA,Transient non-community system,Ground water,Sevier,-,250,12,4,31
+TN0009668,BUCHANAN RESORT #1,Transient non-community system,Ground water,Henry,-,200,5,6,13
+TN0004967,BUCHANAN RESORT #2,Transient non-community system,Ground water,Henry,-,200,5,6,8
+TN0004641,BUCKHORN INN,Transient non-community system,Ground water,Sevier,-,50,5,13,19
+TN0004158,BUMPUS MILLS-LAKE BARKLEY CMPG,Transient non-community system,Ground water,Stewart,-,160,8,6,9
+TN0005183,BUNCH HOLLOW CAMPGROUND & RESORT,Transient non-community system,Ground water,Claiborne,-,180,4,2,1
+TN0001262,CABLE MILL COMFORT STATION,Transient non-community system,Ground water,Blount,-,2000,7,3,15
+TN0003899,CAMP AHISTADI,Transient non-community system,Ground water,Johnson,-,50,5,9,26
+TN0004413,CAMP BA-YO-CA,Transient non-community system,Ground water,Sevier,-,200,12,4,21
+TN0001194,CAMP CHEROKEE-MCMINN CO,Transient non-community system,Groundwater under influence of surface water,McMinn,-,110,6,15,11
+TN0004321,CAMP CHEROKEE-POLK CO,Transient non-community system,Ground water,Polk,-,75,8,6,20
+TN0004102,CAMP CLARK WILLIAMSON,Transient non-community system,Ground water,Madison,-,100,5,12,13
+TN0005033,CAMP CLARK WILLIAMSON LODGE,Transient non-community system,Ground water,Madison,-,100,4,6,7
+TN0002020,CAMP DAVY CROCKETT,Transient non-community system,Ground water,Hawkins,-,300,8,24,44
+TN0005041,CAMP LIVING STONES,Transient non-community system,Ground water,McMinn,-,75,6,6,8
+TN0001854,CAMP MACK MORRIS,Transient non-community system,Ground water,Benton,-,190,7,12,11
+TN0003701,CAMP MARYMOUNT,Transient non-community system,Groundwater under influence of surface water,Williamson,-,250,6,31,11
+TN0005025,CANE CREEK BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,125,5,5,9
+TN0004565,CARMACK'S FISH BARN,Transient non-community system,Ground water,Henry,-,100,5,6,9
+TN0003524,CEDAR GROVE BAPTIST CHURCH,Transient non-community system,Ground water,Humphreys,-,75,5,40,11
+TN0004198,CEDAR POINT CAMPGROUND,Transient non-community system,Ground water,Coffee,-,250,5,5,14
+TN0005096,CERRO GORDO BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,100,5,1,9
+TN0005067,CHALET VILLAGE HOA,Transient non-community system,Ground water,Blount,-,64,4,3,20
+TN0004556,CHARIT CREEK LODGE,Transient non-community system,Ground water,Scott,-,48,8,1,11
+TN0004885,CHEROKEE LANDING RESORT,Transient non-community system,Ground water,Hardeman,-,50,5,1,12
+TN0004024,CHICKASAW ST PARK LAKE LAJOIE GROUP CAMP,Transient non-community system,Ground water,Hardeman,-,120,5,10,18
+TN0004260,CHILHOWEE - USFS,Transient non-community system,Ground water,Polk,-,568,6,1,14
+TN0001264,CHIMNEYS PICNIC AREA,Transient non-community system,Ground water,Sevier,-,400,6,0,14
+TN0005194,"CLIMB WORKS, LLC",Transient non-community system,Groundwater under influence of surface water,Sevier,GATLIINBURG,140,6,0,0
+TN0004030,CLINCH MOUNTAIN LOOKOUT REST.,Transient non-community system,Ground water,Grainger,-,110,5,8,25
+TN0002093,CLYDETON BOAT DOCK,Transient non-community system,Ground water,Humphreys,-,47,7,16,11
+TN0004841,COCHRAN'S LAKEVIEW CAMPGROUND,Transient non-community system,Ground water,Sullivan,-,130,6,12,11
+TN0001714,COFFEE RIDGE MISS BAPTIST CHUR,Transient non-community system,Ground water,Unicoi,-,50,6,12,17
+TN0002990,COKER CREEK VILLAGE,Transient non-community system,Ground water,Monroe,-,325,10,12,13
+TN0002304,COMPASSION CHURCH,Transient non-community system,Ground water,Humphreys,-,200,5,40,11
+TN0005091,COOKIE JAR CAFE,Transient non-community system,Ground water,Sequatchie,-,150,5,0,9
+TN0001265,COSBY CAMPGROUND,Transient non-community system,Ground water,Cocke,-,925,6,1,14
+TN0000933,COUNTRY JUNCTION RESORT,Transient non-community system,Ground water,Henry,SPRINGVILLE,130,8,9,14
+TN0004978,COUNTY LINE TAVERN AND T.P.,Transient non-community system,Ground water,Monroe,-,50,5,2,24
+TN0005051,COVE CREEK CAMPGROUND #1,Transient non-community system,Ground water,Carter,-,26,10,6,12
+TN0005188,COVE CREEK CAMPGROUND #2,Transient non-community system,Ground water,Carter,-,40,5,0,2
+TN0003407,COVINGTON MUNICIPAL AIRPORT,Transient non-community system,Ground water,Tipton,-,200,6,15,12
+TN0004548,CRAZY HORSE CANOE RENTAL,Transient non-community system,Groundwater under influence of surface water,Wayne,-,100,7,18,13
+TN0001100,CROSS EYED CRICKET CAMPGROUND,Transient non-community system,Ground water,Roane,-,68,6,1,19
+TN0004946,CUBA LANDING MARINA,Transient non-community system,Ground water,Humphreys,-,25,8,25,12
+TN0004788,CUMBERLAND MTN RETREAT CMPGD,Transient non-community system,Ground water,Cumberland,-,250,6,15,8
+TN0001889,CYPRESS BAY RESORT,Transient non-community system,Ground water,Henry,-,239,5,9,15
+TN0005152,DEER RUN RV RESORT,Transient non-community system,Surface water purchased,Cumberland,-,36,2,0,5
+TN0004277,DENNIS COVE CAMPGROUND - USFS,Transient non-community system,Ground water,Carter,-,33,5,0,6
+TN0005090,DIXIE CASTLE II,Transient non-community system,Ground water,Madison,-,100,4,0,6
+TN0004694,DOCKS MOTEL,Transient non-community system,Ground water,Blount,-,75,5,0,10
+TN0004007,DOUGLAS LAKE CAMPGROUND,Transient non-community system,Ground water,Jefferson,-,298,14,6,18
+TN0005073,DOUGLAS LK RESORT OWNERS ASSOC. INC.,Transient non-community system,Ground water,Sevier,-,150,13,0,4
+TN0000950,DRY BRANCH WATER SYSTEM #1,Transient non-community system,Ground water,Benton,HOLLADAY,25,9,88,28
+TN0004337,DRY BRANCH WATER SYSTEM #2,Transient non-community system,Ground water,Benton,-,26,8,10,7
+TN0005190,DYSON GROVE BAPTIST CHURCH,Transient non-community system,Ground water,Johnson,-,100,4,0,1
+TN0004936,EAGLE BAY MARINA,Transient non-community system,Ground water,Humphreys,-,40,12,11,6
+TN0005089,EAGLE CREST OWNER'S ASSOCIATION WATER SY,Transient non-community system,Ground water,Sevier,-,175,10,0,5
+TN0005128,"EAGLE RANCH ADVENTURE COMPANY, INC.",Transient non-community system,Ground water,Polk,-,100,5,3,10
+TN0005146,EBENEZER BAPTIST CHURCH #2,Transient non-community system,Groundwater under influence of surface water,Bledsoe,-,90,4,4,8
+TN0001266,ELKMONT CAMPGROUND,Transient non-community system,Ground water,Sevier,-,750,6,0,18
+TN0003718,ELLIS GROVE PRESBYTERIAN CHURCH,Transient non-community system,Ground water,Humphreys,-,50,5,20,11
+TN0008284,ELVIRA'S CAFE,Transient non-community system,Ground water,Sevier,-,50,5,1,2
+TN0003110,ENON MISSIONARY BAPTIST CHURCH,Transient non-community system,Ground water,Carroll,-,68,8,11,15
+TN0005045,EUGENE HUSKEY ENVIROMENTAL CENTER,Transient non-community system,Ground water,Sevier,-,25,5,0,11
+TN0005117,EXIT 68 MARKET,Transient non-community system,Ground water,Madison,-,200,5,0,10
+TN0004333,FAIRVIEW BAPTIST CHURCH-RELIANCE,Transient non-community system,Ground water,Polk,-,50,5,11,12
+TN0004008,FANCHER'S WILLOW BRANCH CAMP,Transient non-community system,Ground water,Jefferson,-,650,5,17,10
+TN0004773,"FAT DADDY'S, INC.",Transient non-community system,Groundwater under influence of surface water,Stewart,-,67,12,30,9
+TN0004390,"FATE SANDERS MARINA, LLC",Transient non-community system,Groundwater under influence of surface water,Rutherford,-,150,5,19,8
+TN0005020,FIRST BAPTIST CHURCH OF MEDINA,Transient non-community system,Ground water,Gibson,-,250,5,3,11
+TN0002433,FISH SPRINGS MARINA,Transient non-community system,Ground water,Carter,-,382,5,17,22
+TN0003018,FLATWOODS METHODIST CHURCH,Transient non-community system,Ground water,Benton,-,65,5,14,14
+TN0004370,FORT LOUDOUN YACHT CLUB,Transient non-community system,Ground water,Knox,-,135,8,11,17
+TN0004009,FRENCH BROAD BAPTIST CHURCH,Transient non-community system,Ground water,Jefferson,-,80,5,11,13
+TN0002464,FRIENDSHIP BAPTIST ST CHURCH,Transient non-community system,Ground water,Madison,-,245,5,14,18
+TN0004368,FRIENDSHIP FAMILY RESORTS,Transient non-community system,Ground water,Sullivan,-,47,5,4,22
+TN0009774,FRIENDSHIP MARINA,Transient non-community system,Ground water,Sullivan,-,98,6,2,9
+TN0005139,FUN ZONE AMUSEMENTS,Transient non-community system,Ground water,Madison,-,60,5,2,5
+TN0005110,GATOR POINT ENTERPRISES LLC,Transient non-community system,Ground water,Jefferson,-,60,11,4,6
+TN0005012,GILES FLEA MARKET,Transient non-community system,Ground water,Claiborne,-,200,7,8,14
+TN0002524,GILMORE DOCK,Transient non-community system,Ground water,Grainger,-,50,7,6,17
+TN0001329,GLENROCK WATER SYSTEM,Transient non-community system,Ground water,Wayne,-,50,6,3,16
+TN0004176,GRASSHOPPER CREEK CAMPGROUND,Transient non-community system,Groundwater under influence of surface water,Hamilton,-,100,6,17,18
+TN0005099,GRAYSBURG HILLS GOLF COURSE,Transient non-community system,Groundwater under influence of surface water,Greene,-,75,6,6,6
+TN0004397,GREEN COVE TRAILER CAMP,Transient non-community system,Ground water,Monroe,-,65,4,12,17
+TN0001482,"GREENBRIER CAMPGROUND, LLC.",Transient non-community system,Ground water,Sevier,-,300,5,5,15
+TN0002506,"GREENLEE CG, RV & MARINE, LLC",Transient non-community system,Ground water,Grainger,-,200,5,3,23
+TN0004204,GREENLEE OF MAY SPRINGS,Transient non-community system,Ground water,Grainger,-,500,5,1,19
+TN0005066,HALFWAY MARKET,Transient non-community system,Ground water,Henry,-,50,4,4,13
+TN0004986,HALL'S GROCERY STORE,Transient non-community system,Ground water,Polk,-,30,4,10,11
+TN0004738,HARMON CREEK BOAT DOCK,Transient non-community system,Ground water,Benton,-,25,5,13,13
+TN0001932,HARMONY FAMILY CENTER AT MONTVALE,Transient non-community system,Ground water,Blount,-,100,5,6,10
+TN0004791,HARTFORD WELCOME CENTER,Transient non-community system,Ground water,Cocke,-,1001,6,3,9
+TN0005164,HIDDEN CREEK CMPG/CONV. STORE,Transient non-community system,Ground water,Henry,-,162,4,4,3
+TN0005048,HIDDEN SPRINGS RESORT,Transient non-community system,Ground water,Sevier,-,500,20,0,7
+TN0004571,HIDDEN VALLEY LAKES #1,Transient non-community system,Ground water,Hickman,-,50,6,8,15
+TN0004758,HIDDEN VALLEY LAKES #2,Transient non-community system,Ground water,Hickman,-,35,7,11,12
+TN0004759,HIDDEN VALLEY LAKES #3,Transient non-community system,Ground water,Hickman,-,30,5,7,13
+TN0004763,HIDDEN VALLEY LAKES #5,Transient non-community system,Ground water,Hickman,-,50,7,9,12
+TN0001214,HIWASSEE BAPTIST CHURCH,Transient non-community system,Ground water,McMinn,-,30,6,9,13
+TN0002136,HIWASSEE OUTFITTERS,Transient non-community system,Ground water,Polk,-,50,7,17,13
+TN0005189,"HIWASSEE WHITEWATER CO, LLC",Transient non-community system,Ground water,Polk,-,50,5,0,2
+TN0002047,HOLTS BAPTIST CHURCH,Transient non-community system,Ground water,Hamblen,-,150,5,4,23
+TN0004193,HOMEPLACE - LBL,Transient non-community system,Ground water,Stewart,-,400,6,0,11
+TN0004691,HONEY CREEK SUBDIVISION,Transient non-community system,Ground water,Grainger,-,50,5,5,16
+TN0004638,HONEYMOON HILLS OF GATLINBURG,Transient non-community system,Ground water,Sevier,-,36,6,2,15
+TN0000943,HOPPER'S BLUFF SUBDIVISION,Transient non-community system,Ground water,Grainger,"BEAN STATION, RUTLEDGE",25,11,5,11
+TN0001337,HORTON HAVEN CAMP,Transient non-community system,Ground water,Marshall,-,70,11,2,13
+TN0005019,HOUSTON MINERAL WATER,Transient non-community system,Ground water,Jefferson,-,50,6,1,7
+TN0004256,HOUSTON VALLEY CMPG - USFS,Transient non-community system,Ground water,Cocke,-,40,6,0,10
+TN0003078,HOWSE BAPTIST CHURCH,Transient non-community system,Ground water,Carroll,-,60,7,14,13
+TN0002605,I-40 REST AREA MADISON,Transient non-community system,Ground water,Madison,-,5000,5,11,16
+TN0002606,"I-40 WEST REST AREA, TDOT",Transient non-community system,Ground water,Jefferson,-,1001,5,3,26
+TN0002614,IMAGINATION MOUNTAIN CAMPING,Transient non-community system,Ground water,Cocke,-,150,6,14,23
+TN0004270,INDIAN BOUNDARY REC AREA- USFS,Transient non-community system,Ground water,Monroe,-,975,12,8,26
+TN0002622,INDIAN CAMP CREEK CAMPGROUND,Transient non-community system,Ground water,Cocke,-,130,6,4,27
+TN0004844,INDIAN CREEK DOCK,Transient non-community system,Ground water,Jefferson,-,30,5,1,17
+TN0004520,INDIAN CREEK YOUTH CAMP,Transient non-community system,Surface water,DeKalb,-,350,6,17,7
+TN0004849,INFAITH - GALILEE BIBLE CAMP,Transient non-community system,Ground water,Campbell,-,75,5,2,11
+TN0004016,INSPIRATION POINT CAMPGROUND,Transient non-community system,Ground water,Jefferson,-,125,8,15,20
+TN0001328,JACK'S BRANCH WATER SYSTEM,Transient non-community system,Ground water,Lewis,-,30,5,6,16
+TN0001689,JACK'S CREEK APOSTOLIC CHURCH,Transient non-community system,Ground water,Chester,-,35,5,37,18
+TN0004283,JACOBS CREEK REC AREA - USFS,Transient non-community system,Ground water,Sullivan,-,68,7,0,9
+TN0001025,JOHNSON CABINS,Transient non-community system,Ground water,Carter,-,73,8,6,21
+TN0004467,JOY-O TRAVEL PARK,Transient non-community system,Ground water,Madison,-,50,7,4,11
+TN0005144,JUGS ONE STOP,Transient non-community system,Ground water,Wayne,-,25,4,0,6
+TN0001847,KAMP KIWANI GIRL SCOUT CAMP,Transient non-community system,Ground water,Hardeman,-,90,5,11,16
+TN0004683,KENNY'S MEAT MARKET,Transient non-community system,Ground water,Henry,-,50,7,9,11
+TN0004812,LAKE COVE RESORT,Transient non-community system,Ground water,Jefferson,-,100,5,5,14
+TN0005083,LAUREL HILL LAKE,Transient non-community system,Ground water,Lawrence,-,25,5,1,10
+TN0004667,LAWSON CAMPGROUND,Transient non-community system,Ground water,Hawkins,-,97,5,17,16
+TN0001268,LECONTE LODGE,Transient non-community system,Ground water,Sevier,-,60,8,0,13
+TN0005151,LEGACY MOUNTAIN RESORT,Transient non-community system,Ground water,Sevier,-,550,33,0,3
+TN0004353,LIBERTY APOSTOLIC CHURCH,Transient non-community system,Ground water,Weakley,-,150,4,17,13
+TN0004279,LITTLE OAK REC AREA - USFS,Transient non-community system,Ground water,Sullivan,-,171,11,19,14
+TN0005084,LONG'S MARKET & DELI,Transient non-community system,Ground water,Lawrence,-,35,5,2,10
+TN0002115,LONGTOWN BP & RESTAURANT,Transient non-community system,Ground water,Fayette,-,220,5,10,18
+TN0002387,"LOST SEA, INC",Transient non-community system,Ground water,Monroe,-,700,6,5,15
+TN0004201,"LOYSTON POINT P.U.A.,TVA",Transient non-community system,Ground water,Union,-,150,8,1,23
+TN0004259,MAC POINT - USFS,Transient non-community system,Ground water,Polk,-,209,8,1,11
+TN0004354,MANCHESTER KOA,Transient non-community system,Ground water,Coffee,-,120,5,4,17
+TN0009670,MANSARD ISLAND RESORT,Transient non-community system,Ground water,Henry,-,25,5,2,11
+TN0002245,MAPLE SPRINGS BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,90,5,18,14
+TN0003786,MASON'S BOAT DOCK,Transient non-community system,Ground water,Humphreys,-,224,5,13,11
+TN0001270,METCALF BOTTOMS PICNIC AREA,Transient non-community system,Ground water,Sevier,-,900,6,0,12
+TN0005141,MIDDLEFORK ROAD BAPTIST CHURCH,Transient non-community system,Ground water,Henderson,-,200,4,0,5
+TN0002266,MIDWAY DRIVE-IN THEATRE,Transient non-community system,Ground water,McMinn,-,100,5,18,15
+TN0001313,MILLROCK FREEWILL BAPTIST CH,Transient non-community system,Ground water,Wayne,-,100,7,15,13
+TN0005094,MOCKINGBIRD HILL CABIN ASSN.,Transient non-community system,Ground water,Benton,-,50,6,3,9
+TN0004671,MONTEAGLE SUNDAY SCHOOL ASSMBLY,Transient non-community system,Surface water purchased,Grundy,-,525,3,4,11
+TN0003425,MOUNTAIN RIDGE GOLF CLUB,Transient non-community system,Ground water,Cumberland,-,30,5,12,13
+TN0004865,MOUNTAIN VIEW INN CAMPGROUND,Transient non-community system,Ground water,Jefferson,-,25,5,2,21
+TN0004588,MUSICK LAKESIDE CAMPGROUND,Transient non-community system,Ground water,Sullivan,-,118,5,2,16
+TN0001757,NA-CO-ME CAMP,Transient non-community system,Ground water,Hickman,-,380,5,6,13
+TN0004438,NATCHEZ TRACE WILDERNESS PRESERVE,Transient non-community system,Ground water,Lewis,-,226,5,5,13
+TN0004995,NEVA GRILL,Transient non-community system,Ground water,Johnson,-,25,5,16,13
+TN0004695,NEW BETHEL BAPTIST CHURCH,Transient non-community system,Ground water,Hardeman,-,75,7,15,10
+TN0002427,NEW FRIENDSHIP BAPTIST CHURCH,Transient non-community system,Ground water,Bradley,-,85,5,16,23
+TN0005035,NOLICHUCKY GORGE CAMPGROUND,Transient non-community system,Ground water,Unicoi,-,150,5,7,25
+TN0005133,NORTH RIVER CHECKING STATION - USFS,Transient non-community system,Ground water,Monroe,-,50,4,0,3
+TN0001236,OAK GROVE CHURCH OF CHRIST,Transient non-community system,Ground water,Chester,-,120,5,19,18
+TN0004961,OCOEE ADVENTURE CENTER,Transient non-community system,Ground water,Polk,-,150,5,20,11
+TN0004296,OCOEE WHITEWATER CENTER-USFS,Transient non-community system,Ground water,Polk,-,300,5,1,15
+TN0001483,OUTDOOR RESORTS @ GATLINBURG,Transient non-community system,Ground water,Sevier,-,950,12,4,18
+TN0004255,PAINT CREEK CAMPGROUND - USFS,Transient non-community system,Ground water,Greene,-,50,5,2,9
+TN0001923,"PARIS LANDING MOTEL, INC.",Transient non-community system,Ground water,Henry,-,200,6,2,11
+TN0005131,PARK PLACE CAMPGROUND,Transient non-community system,Ground water,Hawkins,-,304,4,3,4
+TN0003287,PARKBURG BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,279,5,13,15
+TN0004264,PARKSVILLE LAKE - USFS,Transient non-community system,Ground water,Polk,-,129,10,2,10
+TN0004795,PARKWAY MARKET,Transient non-community system,Ground water,Grainger,-,75,5,3,10
+TN0004732,PEACE LAKEVIEW CAMPGROUND #1,Transient non-community system,Ground water,Sullivan,-,161,8,32,27
+TN0005186,PEACE LAKEVIEW CAMPGROUND #2,Transient non-community system,Ground water,Sullivan,-,83,4,1,2
+TN0003673,PERSIMMON HILLS GOLF COURSE,Transient non-community system,Ground water,Weakley,-,250,6,17,13
+TN0005069,PILOT TRAVEL CENTER #149,Transient non-community system,Ground water,Fayette,-,200,5,0,9
+TN0005032,PINE HILL CH OF THE NAZARENE,Transient non-community system,Ground water,Humphreys,-,120,5,23,8
+TN0004187,PINEY CAMPGROUND A&B - LBL,Transient non-community system,Ground water,Stewart,-,45,6,0,10
+TN0004188,PINEY CAMPGROUND C&D - LBL,Transient non-community system,Ground water,Stewart,-,158,6,0,10
+TN0004184,PINEY CAMPGROUND E - LBL,Transient non-community system,Ground water,Stewart,-,70,12,1,8
+TN0003923,PIONEER LANDING,Transient non-community system,Ground water,Johnson,-,157,6,25,19
+TN0005092,PONDEROSA CLUB HOUSE,Transient non-community system,Ground water,Decatur,-,25,5,1,7
+TN0009448,PONDEROSA HOUSE AREA,Transient non-community system,Ground water,Decatur,-,114,6,2,10
+TN0005121,PONDEROSA STABLES,Transient non-community system,Ground water,Sevier,PIGEON FORGE,50,4,0,8
+TN0004678,PONDEROSA TRAILER AREA,Transient non-community system,Ground water,Decatur,-,116,6,2,8
+TN0004905,RACEWAY RESTAURANT,Transient non-community system,Ground water,Johnson,-,30,4,43,14
+TN0005163,RAFT ONE WHITEWATER,Transient non-community system,Ground water,Polk,-,50,4,2,6
+TN0002690,RIVERSIDE CATFISH HOUSE,Transient non-community system,Groundwater under influence of surface water,Marion,-,30,5,14,16
+TN0004458,ROAN MTN ST PK-CABINS,Transient non-community system,Ground water,Carter,-,100,7,1,10
+TN0004461,ROAN MTN ST PK-CMPG CHECK IN,Transient non-community system,Ground water,Carter,-,38,5,2,11
+TN0003120,ROAN MTN ST PK-CMPG-WELL #3,Transient non-community system,Ground water,Carter,-,88,5,4,12
+TN0004460,ROAN MTN ST PK-CMPG-WELL #5,Transient non-community system,Ground water,Carter,-,38,5,3,11
+TN0004457,ROAN MTN ST PK-MAINTENANCE,Transient non-community system,Ground water,Carter,-,25,5,0,10
+TN0004456,ROAN MTN ST PK-POOL,Transient non-community system,Ground water,Carter,-,97,6,1,10
+TN0003119,ROAN MTN ST PK-VISITOR CENTER,Transient non-community system,Ground water,Carter,-,25,5,3,10
+TN0004275,ROCK CREEK CAMP - USFS,Transient non-community system,Ground water,Unicoi,-,120,6,3,13
+TN0003976,RODEWAY INN,Transient non-community system,Ground water,Madison,-,200,5,9,17
+TN0005021,SADE CORP DBA PAINTER CK MARINA,Transient non-community system,Ground water,Sullivan,-,56,5,32,13
+TN0003003,SEQUOYAH MARINA LLC,Transient non-community system,Ground water,Anderson,-,350,5,3,24
+TN0004918,SHADY GROVE HARBOR MARINA,Transient non-community system,Groundwater under influence of surface water,Hamilton,-,30,5,11,20
+TN0005169,SHADY VALLEY COUNTRY STORE,Transient non-community system,Ground water,Johnson,-,25,4,3,4
+TN0004591,SHANGHAI RESORT,Transient non-community system,Ground water,Campbell,-,200,5,2,13
+TN0005054,SHARPIE'S RESTAURANT,Transient non-community system,Ground water,Johnson,-,85,5,6,11
+TN0004483,SHAWNETTE U M CHURCH,Transient non-community system,Ground water,Wayne,-,125,5,24,13
+TN0002247,SHELTON'S RESTAURANT,Transient non-community system,Ground water,Weakley,-,75,5,5,16
+TN0001450,SHILOH BAPTIST CHURCH,Transient non-community system,Ground water,Sevier,-,300,5,4,16
+TN0004486,SIMS POINT CAMPGROUND,Transient non-community system,Ground water,Sevier,-,60,5,10,17
+TN0004684,SKYVIEW CAMPGROUND,Transient non-community system,Ground water,Sullivan,-,140,5,3,13
+TN0005058,SMOKER HOLLER RV RESORT,Transient non-community system,Ground water,Sevier,-,65,9,2,10
+TN0004114,SMOKEY VIEW CAMPGROUND,Transient non-community system,Ground water,Jefferson,-,160,5,7,17
+TN0004796,SMOKY MOUNTAIN LODGE,Transient non-community system,Ground water,Sevier,-,38,8,8,30
+TN0005184,SONGBIRD CAMPGROUND,Transient non-community system,Ground water,Benton,-,37,4,1,1
+TN0004195,SOUTH INFORMATION STATION -LBL,Transient non-community system,Ground water,Stewart,-,50,5,1,8
+TN0004768,SPRINGS DOCK,Transient non-community system,Ground water,Campbell,-,200,11,7,8
+TN0004586,STATION HOUSE RESTAURANT,Transient non-community system,Ground water,Weakley,-,50,5,8,9
+TN0005120,STERLING SPRINGS RESORT & SPA,Transient non-community system,Ground water,Sevier,-,105,7,1,16
+TN0004570,STRAIGHT CREEK BOAT DOCK,Transient non-community system,Ground water,Claiborne,-,35,7,12,12
+TN0001067,SUNSET GAP COMMUNITY CENTER,Transient non-community system,Ground water,Cocke,-,68,5,7,32
+TN0001820,SWEETWATER VALLEY KOA,Transient non-community system,Ground water,Loudon,-,300,5,1,18
+TN0001402,"TANASI GS CAMP, GS COUNCI S APPALACHAINS",Transient non-community system,Ground water,Union,-,100,7,3,22
+TN0004272,TELLICO RANGER STATION - USFS,Transient non-community system,Ground water,Monroe,-,25,5,3,15
+TN0003659,TENNESSEE HILLS CAMP GROUND,Transient non-community system,Groundwater under influence of surface water,Coffee,-,250,5,16,20
+TN0005158,"TENT CAMPING USA, INC.",Transient non-community system,Ground water,Cocke,-,200,4,4,5
+TN0004110,TERRY POINT CAMPGROUND,Transient non-community system,Ground water,Jefferson,-,200,5,12,18
+TN0005160,THE COUNTRY PLACE MINISTRY INN,Transient non-community system,Ground water,Fayette,-,100,5,1,4
+TN0002120,THE COUNTRY PLACE MINISTRY KITCHEN,Transient non-community system,Ground water,Fayette,-,60,6,25,17
+TN0005179,THE PRESERVE HOA,Transient non-community system,Ground water,Sevier,-,500,20,0,1
+TN0004784,THREE OAKS RESTAURANT,Transient non-community system,Ground water,Henry,-,75,4,12,9
+TN0004294,THUNDER ROCK #2 CMPG - USFS,Transient non-community system,Ground water,Polk,-,150,5,1,11
+TN0004769,TIMBERFELL LODGE,Transient non-community system,Groundwater under influence of surface water,Greene,-,25,6,7,13
+TN0004777,TINY'S MOBILE HOME PARK,Transient non-community system,Ground water,Henry,-,90,7,11,13
+TN0003041,TN CUMBERLAND PLATEAU CAMPGROUND,Transient non-community system,Ground water,Bledsoe,-,150,9,22,16
+TN0005088,TN RIVER MTN GETAWAYS CMPG,Transient non-community system,Ground water,Humphreys,-,75,11,13,8
+TN0002848,TRAVEL CENTER OF AMERICA,Transient non-community system,Ground water,Madison,-,700,6,7,22
+TN0001271,TREMONT INSTITUTE,Transient non-community system,Ground water,Blount,-,488,6,0,16
+TN0005074,TWIN CREEKS RECREATION AREA,Transient non-community system,Ground water,Sevier,-,114,5,0,5
+TN0005134,U. S. 129 DRAGON STORE,Transient non-community system,Ground water,Blount,-,350,5,2,5
+TN0004798,UNION COUNTY BOAT DOCK,Transient non-community system,Ground water,Union,-,100,5,9,19
+TN0001235,UNITY BAPTIST CHURCH,Transient non-community system,Ground water,Chester,-,90,9,13,16
+TN0004634,USA RAFT,Transient non-community system,Ground water,Unicoi,-,25,5,42,36
+TN0002907,VALLEY VIEW CAMP,Transient non-community system,Groundwater under influence of surface water,Robertson,-,60,8,24,12
+TN0005079,VICTORY RANCH,Transient non-community system,Ground water,Hardeman,-,500,6,1,7
+TN0004480,WAFLOY MOUNTAIN VILLAGE,Transient non-community system,Ground water,Sevier,-,258,12,2,19
+TN0004059,WARDS GROVE BAPTIST CHURCH,Transient non-community system,Ground water,Madison,-,55,5,21,11
+TN0004205,WATAUGA DAM RESERVATION PUA,Transient non-community system,Ground water,Carter,-,25,5,6,9
+TN0004776,WATSON'S MOBILE HOME PARK,Transient non-community system,Ground water,Henry,-,176,5,11,12
+TN0004336,WEBB BROTHERS,Transient non-community system,Ground water,Polk,-,150,5,3,13
+TN0001933,WESLEY WOODS CAMP,Transient non-community system,Ground water,Blount,-,250,5,4,22
+TN0003660,WHISPERING OAKS CAMPGROUND,Transient non-community system,Ground water,Coffee,-,100,5,4,17
+TN0004953,"WHITEWATER EXPRESS, INC",Transient non-community system,Ground water,Polk,-,100,8,7,19
+TN0004719,WHITEWAY GRILL,Transient non-community system,Ground water,Carter,-,54,5,19,22
+TN0004640,WILD PLUM TEA ROOM,Transient non-community system,Ground water,Sevier,-,60,5,8,15
+TN0005185,WILDLIFE COVE CAMPGROUND,Transient non-community system,Ground water,Benton,-,50,3,1,1
+TN0002677,WILDWATER LIMITED,Transient non-community system,Ground water,Polk,-,75,5,8,10
+TN0005078,WONDERLAND R. V. PARK,Transient non-community system,Ground water,Sevier,-,90,5,1,8
+TN0005172,WOOTEN WOODS RETREAT WATER SYSTEM,Transient non-community system,Ground water,Humphreys,-,50,5,3,3
+TN0001255,ZION BAPTIST CHURCH,Transient non-community system,Ground water,Haywood,-,100,6,7,11
+TN0001452,ZION HILL BAPTIST CHURCH,Transient non-community system,Ground water,Sevier,-,120,5,8,15
