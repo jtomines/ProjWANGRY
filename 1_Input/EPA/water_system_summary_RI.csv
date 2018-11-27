@@ -1,480 +1,480 @@
-"PWS ID","PWS Name","PWS Type","Primary Source","Counties Served","Cities Served","PopulationServed Count","Number of Facilities","Number of Violations","Number of Site Visits"
-"RI1000009","ABBEY LANE COMMUNITY ASSN., INC.","Community water system","Ground water","Providence","FOSTER","45","9","13","42"
-"RI2519426","ALPINE NURSING HOME","Community water system","Ground water","Kent","COVENTRY","105","6","2","56"
-"RI1000045","BETHEL VILLAGE WATER ASSN","Community water system","Ground water","Washington","HOPKINTON","180","7","11","63"
-"RI1858430","BLOCK ISLAND WATER COMPANY","Community water system","Ground water","Washington","NEW SHOREHAM","9,999","16","62","119"
-"RI2814410","BLUEBERRY HEIGHTS HOUSING COOPERATIVE CO","Community water system","Ground water","Kent","WEST GREENWICH","44","10","10","84"
-"RI2674924","BORDER HILL MOBILE HOME PARK","Community water system","Ground water","Washington","CHARLESTOWN","75","7","3","57"
-"RI1647515","BRISTOL COUNTY WATER AUTHORITY","Community water system","Surface water","Bristol","BARRINGTON, BRISTOL, WARREN","51,000","30","35","88"
-"RI1900053","CANONCHET CLIFFS WATER ASSOCIATION INC.","Community water system","Ground water","Washington","HOPKINTON","154","16","17","34"
-"RI1000035","CASTLE ROCK CONDOMINIUMS","Community water system","Ground water","Washington","CHARLESTOWN","292","11","6","64"
-"RI1647512","CENTRAL BEACH FIRE DISTRICT","Community water system","Ground water","Washington","CHARLESTOWN","470","8","11","61"
-"RI2519424","CHIMERA INC","Community water system","Ground water","Providence","GLOCESTER","155","7","55","100"
-"RI2980017","CHURCH WOODS","Community water system","Ground water","Washington","CHARLESTOWN","98","9","7","47"
-"RI2980452","CNE - HOPKINS HILL ROAD ENTRY POINT","Community water system","Ground water purchased","Kent","COVENTRY","317","2","5","2"
-"RI2980453","CNE - NEW LONDON TURNPIKE ENTRY POINT","Community water system","Ground water purchased","Kent","COVENTRY","9,999","2","9","3"
-"RI1647530","CUMBERLAND, TOWN OF","Community water system","Surface water","Providence","CUMBERLAND","22,864","30","28","103"
-"RI1615610","EAST PROVIDENCE-CITY OF","Community water system","Surface water purchased","Providence","EAST PROVIDENCE","48,688","6","9","9"
-"RI2980414","ECHO LAKE WATER DISTRICT","Community water system","Ground water","Providence","GLOCESTER","200","7","1","2"
-"RI1647516","ELEANOR SLATER HOSPITAL ZAMBARANO UNIT","Community water system","Surface water","Providence","BURRILLVILLE","540","7","31","66"
-"RI2980475","EXETER JOB CORPS CENTER","Community water system","Ground water purchased","Washington","EXETER","300","7","0","3"
-"RI2980001","FOUR SEASONS MHP CO-OP ASSN.","Community water system","Ground water","Newport","TIVERTON","44","6","5","47"
-"RI1583825","GLENDALE WATER ASSN","Community water system","Ground water","Providence","BURRILLVILLE","100","6","52","56"
-"RI1858410","GREENVILLE WATER DISTRICT","Community water system","Surface water purchased","Providence","SMITHFIELD","9,500","5","9","8"
-"RI2000059","HARMONY HILL SCHOOL, INC.","Community water system","Ground water","Providence","GLOCESTER","199","8","1","63"
-"RI1858411","HARRISVILLE FIRE DISTRICT","Community water system","Ground water","Providence","BURRILLVILLE","2,970","15","4","55"
-"RI2000083","HEBERT HEALTH CENTER","Community water system","Ground water","Providence","SMITHFIELD","133","10","9","61"
-"RI1858435","HEMLOCK VILLAGE","Community water system","Ground water","Providence","FOSTER","33","6","16","58"
-"RI2051311","HERITAGE PARK HOME CO-OPERATIVE","Community water system","Ground water","Newport","TIVERTON","60","6","14","63"
-"RI2942525","HILLSDALE HOUSING COOPERATIVE, INC.","Community water system","Ground water","Washington","SOUTH KINGSTOWN","170","11","33","56"
-"RI2674925","INDIAN CEDAR MOBILE HOME PARK","Community water system","Ground water","Washington","CHARLESTOWN","200","6","14","54"
-"RI1858419","JAMESTOWN WATER DEPARTMENT","Community water system","Surface water","Newport","JAMESTOWN","3,178","9","16","87"
-"RI2980435","JOHNSTON WATER CTRL FAC. - CAPITOL ST.","Community water system","Surface water purchased","Providence","JOHNSTON","55","3","3","3"
-"RI2980433","JOHNSTON WATER CTRL FAC. - EVERBLOOM ST.","Community water system","Surface water purchased","Providence","JOHNSTON","48","3","4","3"
-"RI2980434","JOHNSTON WATER CTRL FAC. - NARDOLILLO ST","Community water system","Surface water purchased","Providence","JOHNSTON","55","3","4","3"
-"RI2980432","JOHNSTON WATER CTRL FAC. - TAYLOR ROAD","Community water system","Surface water purchased","Providence","JOHNSTON","70","3","3","3"
-"RI2980183","JOHNSTON WATER CTRL FAC. - WEST END","Community water system","Surface water purchased","Providence","JOHNSTON","4,230","5","22","48"
-"RI1559511","KENT COUNTY WATER AUTHORITY","Community water system","Surface water purchased","Kent","COVENTRY, CRANSTON, EAST GREENWICH, NORTH KINGSTOWN, SCITUATE, WARWICK, WEST GREENWICH, WEST WARWICK","88,780","25","5","119"
-"RI2000165","KINGSTON CENTER","Community water system","Ground water","Washington","EXETER","77","9","10","55"
-"RI1858421","KINGSTON WATER DISTRICT","Community water system","Ground water","Washington","SOUTH KINGSTOWN","3,933","10","39","47"
-"RI2980146","LAUREL CREST_GLOCESTER HOUSING AUTHORITY","Community water system","Ground water","Providence","GLOCESTER","42","8","7","54"
-"RI2980003","LAWRENCE SUNSET COVE ASSOCIATION","Community water system","Ground water","Newport","TIVERTON","36","8","94","54"
-"RI1858423","LINCOLN WATER COMMISSION","Community water system","Surface water purchased","Providence","LINCOLN","21,137","17","0","50"
-"RI1000098","LINDHBROOK WATER COMPANY","Community water system","Ground water","Washington","HOPKINTON","200","8","18","49"
-"RI2973130","MAPLEHILL MOBILE HOME PARK","Community water system","Ground water","Providence","BURRILLVILLE","750","11","19","66"
-"RI2753326","MEADOWLARK, INC.","Community water system","Ground water","Newport","MIDDLETOWN","174","9","13","48"
-"RI2585313","MOBILE VILLAGE, INC.","Community water system","Ground water","Washington","EXETER","150","6","13","56"
-"RI1858429","NARRAGANSETT WATER DEPT-NORTH END","Community water system","Ground water purchased","Washington","NARRAGANSETT","4,423","7","9","6"
-"RI1858428","NARRAGANSETT WATER SYSTEM-POINT JUDITH","Community water system","Ground water purchased","Washington","NARRAGANSETT","8,189","6","9","7"
-"RI1900034","NASONVILLE WATER DISTRICT","Community water system","Ground water","Providence","BURRILLVILLE","150","6","6","79"
-"RI1000016","NAVAL STATION, NEWPORT","Community water system","Surface water purchased","Newport","NEWPORT","7,871","6","26","6"
-"RI1592010","NEWPORT-CITY OF","Community water system","Surface water","Newport","MIDDLETOWN, NEWPORT, PORTSMOUTH","42,000","28","23","89"
-"RI2674928","NINIGRET REALTY","Community water system","Ground water","Washington","CHARLESTOWN","100","5","10","58"
-"RI1559517","NORTH KINGSTOWN TOWN OF","Community water system","Ground water","Washington","NORTH KINGSTOWN","23,568","26","48","114"
-"RI1592018","NORTH TIVERTON FIRE DISTRICT","Community water system","Surface water purchased","Newport","TIVERTON","8,969","8","6","49"
-"RI1592019","OAKLAND ASSOCIATION, INC.","Community water system","Ground water","Providence","BURRILLVILLE","175","6","11","67"
-"RI1900020","PAIGE ASSOCIATES","Community water system","Ground water","Kent","COVENTRY","96","6","36","42"
-"RI1592020","PASCOAG UTILITY DISTRICT, WATER DIVISION","Community water system","Ground water","Providence","BURRILLVILLE","2,753","13","11","70"
-"RI1592021","PAWTUCKET-CITY OF","Community water system","Surface water","Providence","CENTRAL FALLS, CUMBERLAND, PAWTUCKET","99,200","26","11","139"
-"RI1592022","PORTSMOUTH WATER & FIRE DISTRICT","Community water system","Surface water purchased","Newport","PORTSMOUTH","16,864","8","10","44"
-"RI1592024","PROVIDENCE-CITY OF","Community water system","Surface water","Providence","CRANSTON, JOHNSTON, NORTH PROVIDENCE, PROVIDENCE","308,500","23","3","95"
-"RI2980461","PROVIDENCE-CITY OF - WHIPPLE","Community water system","Surface water purchased","Providence","SMITHFIELD","500","3","1","1"
-"RI1592023","PRUDENCE ISLAND WATER DISTRICT","Community water system","Ground water","Newport","PORTSMOUTH","1,000","13","31","19"
-"RI1647511","QUONOCHONTAUG EAST BEACH WATER ASSOCIATI","Community water system","Ground water","Washington","CHARLESTOWN","300","6","20","65"
-"RI1000040","RICHMOND WATER SUPPLY BOARD","Community water system","Ground water","Washington","RICHMOND","2,501","8","18","50"
-"RI2980447","ROCKVILLE MILL COMMUNITY WATER SYSTEM","Community water system","Ground water","Washington","RICHMOND","59","3","3","2"
-"RI2980423","SAUGATUCKET SPRINGS","Community water system","Ground water","Washington","HOPKINTON","110","5","4","3"
-"RI2980323","SCITUATE COMMONS","Community water system","Ground water","Providence","SCITUATE","38","6","8","22"
-"RI2980426","SHADOW WOODS AT DEER BROOK","Community water system","Ground water","Washington","EXETER","300","8","3","4"
-"RI1559513","SHADY HARBOR FIRE DISTRICT","Community water system","Ground water","Washington","CHARLESTOWN","162","11","3","58"
-"RI1647529","SHANNOCK WATER DISTRICT","Community water system","Ground water","Washington","RICHMOND","75","8","6","48"
-"RI1615614","SLATERSVILLE PUBLIC SUPPLY","Community water system","Surface water purchased","Providence","NORTH SMITHFIELD","3,224","16","16","166"
-"RI1615616","SMITHFIELD WATER SUPPLY BOARD","Community water system","Surface water purchased","Providence","SMITHFIELD","9,460","7","16","12"
-"RI2882117","SOUTH KINGSTOWN NURSING AND REHABILITATI","Community water system","Ground water","Washington","SOUTH KINGSTOWN","175","9","8","69"
-"RI1000015","SOUTH KINGSTOWN-MIDDLEBRIDGE","Community water system","Ground water purchased","Washington","SOUTH KINGSTOWN","543","4","6","9"
-"RI1615623","SOUTH KINGSTOWN-SOUTH SHORE","Community water system","Ground water","Washington","SOUTH KINGSTOWN","4,976","12","16","52"
-"RI2585312","SPLIT ROCK CORPORATION","Community water system","Ground water","Washington","EXETER","110","7","26","113"
-"RI1615619","STONE BRIDGE FIRE DISTRICT","Community water system","Surface water","Newport","TIVERTON","2,607","9","8","77"
-"RI1615624","SUEZ WATER","Community water system","Ground water","Washington","SOUTH KINGSTOWN","19,800","15","11","98"
-"RI2000053","SUNSET COVE PROPERTIES LLC","Community water system","Ground water","Providence","GLOCESTER","30","6","1","40"
-"RI2943224","THE VILLAGE ON CHOPMIST HILL","Community water system","Ground water","Providence","GLOCESTER","250","11","30","157"
-"RI1900042","TIVERTON WATER AUTHORITY, TOWN HALL","Community water system","Surface water purchased","Newport","TIVERTON","1,430","4","8","5"
-"RI1615626","TOUISSET POINT WATER TRUST","Community water system","Ground water","Bristol","WARREN","225","8","3","60"
-"RI1900046","UNITED STATES NAVY (FORT ADAMS)","Community water system","Surface water purchased","Newport","NEWPORT","318","5","8","5"
-"RI1858422","UNIVERSITY OF RHODE ISLAND","Community water system","Ground water","Washington","SOUTH KINGSTOWN","19,354","10","33","50"
-"RI1615627","WARWICK-CITY OF","Community water system","Surface water purchased","Kent","WARWICK","75,000","5","13","16"
-"RI1900051","WARWICK-POTOWOMUT","Community water system","Surface water purchased","Kent","WARWICK","2,357","4","7","5"
-"RI1559512","WESTERLY WATER DEPARTMENT","Community water system","Ground water","Washington","WESTERLY","38,000","30","15","69"
-"RI2000004","WOODPECKER HILL HEALTH CENTER","Community water system","Ground water","Kent","COVENTRY","60","6","13","48"
-"RI1559518","WOONSOCKET WATER DIVISION","Community water system","Surface water","Providence","WOONSOCKET","42,856","27","14","81"
-"RI2980002","ADCARE RHODE ISLAND INC","Non-Transient non-community system","Ground water","Washington","NORTH KINGSTOWN","70","13","6","39"
-"RI2051719","ALPINE COUNTRY CLUB","Non-Transient non-community system","Ground water","Providence","CRANSTON","200","11","13","44"
-"RI1858417","ASHAWAY ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Washington","HOPKINTON","300","6","3","47"
-"RI1858415","ASHAWAY LINE & TWINE MFG. CO.-LOWER MILL","Non-Transient non-community system","Ground water","Washington","HOPKINTON","50","6","43","45"
-"RI2980466","BENOIT REALTY LLC DBA ANCHOR SUBARU","Non-Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","240","7","64","4"
-"RI2980354","BRIARWOOD CHILD ACADEMY SMITHFIELD","Non-Transient non-community system","Ground water","Providence","SMITHFIELD","111","5","8","28"
-"RI2980311","BRUIN PLASTICS COMPANY, INC.","Non-Transient non-community system","Ground water","Providence","BURRILLVILLE","50","4","15","61"
-"RI1900028","BURRILLVILLE MIDDLE SCHOOL","Non-Transient non-community system","Ground water","Providence","BURRILLVILLE","650","5","4","48"
-"RI1583823","CAPTAIN ISAAC PAINE SCHOOL","Non-Transient non-community system","Ground water","Providence","FOSTER","460","6","2","49"
-"RI2980192","CAROUSEL INDUSTRIES","Non-Transient non-community system","Ground water","Washington","EXETER","150","5","23","50"
-"RI1858431","CHARBERT, INC., DIVISION OF NFA CORP.","Non-Transient non-community system","Ground water","Washington","RICHMOND","130","7","31","62"
-"RI1592030","CHARIHO REGIONAL HIGH SCHOOL","Non-Transient non-community system","Ground water","Washington","RICHMOND","1,300","6","5","80"
-"RI2980185","CHARIHO REGIONAL MIDDLE SCHOOL","Non-Transient non-community system","Ground water","Washington","RICHMOND","1,500","6","1","53"
-"RI1647525","CHARLESTOWN ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Washington","CHARLESTOWN","350","8","2","49"
-"RI1900027","CHARLESTOWN MUNICIPAL OFFICES","Non-Transient non-community system","Ground water","Washington","CHARLESTOWN","30","6","1","44"
-"RI2980421","CHARLESTOWN POLICE STATION","Non-Transient non-community system","Ground water","Washington","CHARLESTOWN","28","4","62","2"
-"RI2980019","CHARLESTOWN SENIOR COMMUNITY CENTER","Non-Transient non-community system","Ground water","Washington","CHARLESTOWN","40","5","2","52"
-"RI2980296","CHEPACHET PROFESSIONAL BUILDING, LLC.","Non-Transient non-community system","Ground water","Providence","GLOCESTER","66","4","2","37"
-"RI2000111","CHOPMIST HILL COMMUNITY CENTER","Non-Transient non-community system","Ground water","Providence","SCITUATE","50","8","7","17"
-"RI1615611","CLAYVILLE ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Providence","SCITUATE","140","4","0","45"
-"RI2980134","COOPER HILL OFFICE COMPLEX, LLC.","Non-Transient non-community system","Ground water","Providence","GLOCESTER","75","6","78","48"
-"RI1900003","COVENTRY NATIONAL GUARD","Non-Transient non-community system","Ground water","Kent","COVENTRY","50","8","34","51"
-"RI2000145","CRANDALL HOUSE-SR. CITIZENS","Non-Transient non-community system","Ground water","Washington","HOPKINTON","30","4","2","48"
-"RI1000025","CREST MFG CO","Non-Transient non-community system","Ground water","Providence","LINCOLN","40","5","4","45"
-"RI2980474","DAEDALUS OFFICE PARK","Non-Transient non-community system","Ground water","Washington","HOPKINTON","120","5","1","1"
-"RI1559516","DEAN WAREHOUSE SERVICES, INC","Non-Transient non-community system","Ground water","Washington","HOPKINTON","75","6","47","30"
-"RI2980271","DR. DAYCARE CHILD DEVELOPMENT CENTER","Non-Transient non-community system","Ground water","Providence","FOSTER","82","4","13","22"
-"RI1900024","EXETER-W.GREENWICH JR/SR HIGH SCHOOL","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","906","6","5","58"
-"RI2980393","FACTORY MUTUAL RESEARCH CENTER","Non-Transient non-community system","Ground water","Providence","GLOCESTER","110","4","6","3"
-"RI2980346","FLEMING SCHOOL","Non-Transient non-community system","Ground water","Washington","NORTH KINGSTOWN","40","5","5","20"
-"RI1000007","FOGARTY MEMORIAL SCHOOL","Non-Transient non-community system","Ground water","Providence","GLOCESTER","427","8","5","52"
-"RI2980322","FOSTER TOWN HALL","Non-Transient non-community system","Ground water","Providence","FOSTER","90","6","2","22"
-"RI2980316","GLOCESTER SENIOR CENTER, MEMORIAL PARK","Non-Transient non-community system","Ground water","Providence","GLOCESTER","100","5","1","10"
-"RI1583827","GLOCESTER TOWN HALL-SCHOOL ADMINISTRATIO","Non-Transient non-community system","Ground water","Providence","GLOCESTER","170","5","1","47"
-"RI2000135","GREENWICH VILLAGE NURSERY SCHOOL, INC.","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","35","6","5","46"
-"RI2980430","HOPKINTON INDUSTRIAL PARK, LLC","Non-Transient non-community system","Ground water","Washington","HOPKINTON","125","5","1","2"
-"RI2980411","KINGSTON HILL ACADEMY","Non-Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","180","5","1","3"
-"RI1592012","LADD CENTER WATER SYSTEM","Non-Transient non-community system","Ground water","Washington","EXETER","129","9","48","41"
-"RI2980197","LAKEVIEW CHARLESTOWN EARLY LRNING CTR.","Non-Transient non-community system","Ground water","Washington","CHARLESTOWN","42","5","12","18"
-"RI2980422","MEADOWBROOK WALDORF SCHOOL","Non-Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","150","5","28","4"
-"RI1583819","METCALF ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Washington","EXETER","687","6","4","51"
-"RI1559510","MILDRED E LINEHAM SCHOOL","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","90","5","0","48"
-"RI2980468","MIRIAM HOSPITAL - LIFESPAN","Non-Transient non-community system","Surface water purchased","Providence","PROVIDENCE","2,401","6","2","0"
-"RI2980341","NACH REALTY TRUST (ME TO PRESCHOOL)","Non-Transient non-community system","Ground water","Providence","BURRILLVILLE","115","4","3","3"
-"RI2980135","NEW ERA ENRICHMENT ACADEMY","Non-Transient non-community system","Ground water","Providence","JOHNSTON","130","7","4","42"
-"RI2980471","NEWPORT HOSPITAL - LIFESPAN","Non-Transient non-community system","Surface water purchased","Newport","NEWPORT","981","8","0","0"
-"RI1615613","NORTH SCITUATE ELEMENTARY","Non-Transient non-community system","Ground water","Providence","SCITUATE","500","5","16","76"
-"RI1900004","NORTH SMITHFIELD AIR NATIONAL GUARD SYST","Non-Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","25","8","5","41"
-"RI1900026","NORTH SMITHFIELD ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","460","6","4","118"
-"RI1592017","NORTH SMITHFIELD JR_SR HIGH SCHOOL","Non-Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","1,200","8","2","52"
-"RI2000160","OAK HARBOR VILLAGE, LLC.","Non-Transient non-community system","Ground water","Washington","EXETER","290","5","5","5"
-"RI1900040","OCEAN STATE POWER LLC","Non-Transient non-community system","Ground water","Providence","BURRILLVILLE","30","5","2","41"
-"RI2980384","OCEAN STATE TRANSIT-CHARIHO","Non-Transient non-community system","Ground water","Washington","RICHMOND","25","6","0","3"
-"RI2980264","PHOENIX HOUSE OF NEW ENGLAND","Non-Transient non-community system","Ground water","Washington","EXETER","74","6","1","21"
-"RI1900038","PINEWOOD PARK SCHOOL","Non-Transient non-community system","Ground water","Providence","GLOCESTER","125","5","5","49"
-"RI1583829","PONAGANSET HIGH SCHOOL","Non-Transient non-community system","Ground water","Providence","GLOCESTER","1,600","15","18","103"
-"RI2980425","PONAGANSET MIDDLE SCHOOL","Non-Transient non-community system","Ground water","Providence","GLOCESTER","923","6","3","1"
-"RI1592025","QUONSET BUSINESS PARK","Non-Transient non-community system","Ground water","Washington","NORTH KINGSTOWN","11,000","14","11","18"
-"RI2980330","R.I. STATE  POLICE HEADQUARTERS (NEW)","Non-Transient non-community system","Ground water","Providence","SCITUATE","100","6","1","22"
-"RI2980469","RHODE ISLAND HOSPITAL - LIFESPAN","Non-Transient non-community system","Surface water purchased","Providence","PROVIDENCE","6,996","18","0","0"
-"RI2980450","ROCHS FRESH FOODS FACILITY","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","25","5","0","3"
-"RI2980138","SAKONNET EARLY LEARNING CENTER, INC.","Non-Transient non-community system","Ground water","Newport","TIVERTON","200","4","3","51"
-"RI1900044","SCITUATE EARLY LEARNING CENTER","Non-Transient non-community system","Ground water","Providence","SCITUATE","86","5","3","45"
-"RI1615612","SCITUATE HIGH SCHOOL & MIDDLE SCHOOL","Non-Transient non-community system","Ground water","Providence","SCITUATE","1,400","7","4","79"
-"RI2980030","SCITUATE VILLAGE PLAZA","Non-Transient non-community system","Ground water","Providence","SCITUATE","499","5","5","53"
-"RI2980140","SILVEIRA KINDERGARTEN & NURSERY SCHOOL,","Non-Transient non-community system","Ground water","Newport","MIDDLETOWN","66","5","5","22"
-"RI2051729","SKI PRO, INC.","Non-Transient non-community system","Ground water","Washington","EXETER","45","5","8","60"
-"RI2980229","ST. ANDREW LUTHERAN CHURCH","Non-Transient non-community system","Ground water","Washington","CHARLESTOWN","85","6","0","41"
-"RI1858414","THE BEADERY INDUSTRIAL","Non-Transient non-community system","Ground water","Washington","HOPKINTON","50","6","1","46"
-"RI1900035","THE BEADERY WAREHOUSE","Non-Transient non-community system","Ground water","Washington","HOPKINTON","30","5","0","42"
-"RI2980050","THE GREENE SCHOOL - BUILDING 1","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","250","5","1","49"
-"RI2980310","THE GREENE SCHOOL - BUILDING 2 & 3","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","25","10","3","43"
-"RI2980458","TIVERTON FOUR CORNERS","Non-Transient non-community system","Ground water","Newport","TIVERTON","41","5","67","5"
-"RI2980127","TRINITY LUTHERAN PRE-SCHOOL","Non-Transient non-community system","Ground water","Washington","HOPKINTON","45","6","1","44"
-"RI1900055","WASHINGTON OAK ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water purchased","Kent","COVENTRY","660","5","3","3"
-"RI1583820","WAWALOAM SCHOOL","Non-Transient non-community system","Ground water","Washington","EXETER","290","7","1","39"
-"RI1900041","WEST GLOCESTER ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Providence","GLOCESTER","541","6","3","46"
-"RI1900056","WEST GREENWICH TOWN HALL","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","40","5","7","3"
-"RI2980015","WEST GREENWICH TRAVEL CENTER","Non-Transient non-community system","Ground water","Kent","WEST GREENWICH","255","10","50","46"
-"RI1647527","WESTERN COVENTRY ELEM SCHOOL","Non-Transient non-community system","Ground water","Kent","COVENTRY","496","5","1","55"
-"RI1858425","WILBUR AND MCMAHON SCHOOL","Non-Transient non-community system","Ground water","Newport","LITTLE COMPTON","458","6","9","97"
-"RI2000133","WOOD RIVER HEALTH SERVICES","Non-Transient non-community system","Ground water","Washington","HOPKINTON","150","5","1","44"
-"RI2973119","WRIGHTS FARM CORP.","Non-Transient non-community system","Ground water","Providence","BURRILLVILLE","1,200","14","7","93"
-"RI2980147","A-1 PIZZA","Transient non-community system","Ground water","Newport","LITTLE COMPTON","68","5","2","35"
-"RI2973111","ABM, INC.DBA THE ATLANTIC INN","Transient non-community system","Ground water","Washington","NEW SHOREHAM","186","5","1","31"
-"RI2000077","ABRAHAM MANCHESTER RESTAURANT & TAVERN","Transient non-community system","Ground water","Newport","LITTLE COMPTON","110","5","5","2"
-"RI2943219","ADLER BROTHERS DEVELOPMENT","Transient non-community system","Ground water","Providence","GLOCESTER","50","6","4","36"
-"RI2980004","AEGEAN PIZZA & CREAMERY","Transient non-community system","Ground water","Providence","GLOCESTER","155","6","49","50"
-"RI2943218","AGIOS INC DBA THE GENTLEMAN FARMER REST.","Transient non-community system","Ground water","Providence","GLOCESTER","100","4","14","41"
-"RI2980039","ALBACO,L.L.C.   (A.K.A. SHORELINE PLAZA)","Transient non-community system","Ground water","Washington","CHARLESTOWN","40","4","9","43"
-"RI2980295","ALLIED REALTY ASSOCIATES, LLC","Transient non-community system","Ground water","Providence","GLOCESTER","450","5","10","33"
-"RI2087020","ALLIES DONUTS, INC.","Transient non-community system","Ground water","Washington","NORTH KINGSTOWN","500","8","8","47"
-"RI2980465","AMICABLE CONGREGATIONAL CHURCH","Transient non-community system","Ground water","Newport","TIVERTON","25","5","0","1"
-"RI2980151","ANDREWS REALTY, INC. DBA RICHMOND PLAZA","Transient non-community system","Ground water","Washington","RICHMOND","64","4","5","44"
-"RI2980336","ARROWHEAD DENTAL ASSOCIATES, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","100","7","2","6"
-"RI1000044","ASHAWAY LINE & TWINE MFG. CO.-UPPER MILL","Transient non-community system","Ground water","Washington","HOPKINTON","25","5","1","43"
-"RI2980460","ASHAWAY RV RESORT","Transient non-community system","Ground water","Washington","HOPKINTON","150","4","2","1"
-"RI2519429","AYOHO CAMPGROUND","Transient non-community system","Ground water","Kent","COVENTRY","50","4","7","3"
-"RI2980152","B & D FOOD MART","Transient non-community system","Ground water","Providence","FOSTER","100","5","3","34"
-"RI2428717","BACK IN THYME","Transient non-community system","Ground water","Washington","HOPKINTON","50","6","0","2"
-"RI2389715","BARRINGTON INN, THE","Transient non-community system","Ground water","Washington","NEW SHOREHAM","50","5","1","38"
-"RI2980445","BEACON FREE WILL BAPTIST CHURCH","Transient non-community system","Ground water","Washington","EXETER","250","5","0","2"
-"RI2980379","BEAVER RIVER GOLF CLUB, INC.","Transient non-community system","Ground water","Washington","RICHMOND","25","6","4","4"
-"RI2261720","BEL-AIR MOTOR INN, INC.","Transient non-community system","Ground water","Providence","JOHNSTON","30","6","0","42"
-"RI2980079","BELLA RESTAURANT","Transient non-community system","Ground water","Providence","BURRILLVILLE","130","5","15","63"
-"RI2980148","BELLEVUE HOUSE","Transient non-community system","Ground water","Washington","NEW SHOREHAM","51","5","9","36"
-"RI2000117","BEST VALUE INN","Transient non-community system","Ground water","Providence","SCITUATE","25","6","1","47"
-"RI2000076","BLACKIES BULLDOG TAVERN","Transient non-community system","Ground water","Providence","SMITHFIELD","100","6","8","37"
-"RI2389711","BLOCK ISLAND AIRPORT OPERATIONS","Transient non-community system","Ground water","Washington","NEW SHOREHAM","400","5","4","44"
-"RI2519415","BLUE SHUTTERS","Transient non-community system","Ground water","Washington","CHARLESTOWN","200","4","4","21"
-"RI2980417","BONEYARD BBQ","Transient non-community system","Ground water","Washington","HOPKINTON","249","5","3","1"
-"RI2980254","BOWDISH LAKE CAMPING AREA, BROWN 1 & 2,","Transient non-community system","Ground water","Providence","GLOCESTER","194","10","7","26"
-"RI2980309","BREACHWAY PROPERTIES LLC","Transient non-community system","Ground water","Washington","CHARLESTOWN","25","5","17","44"
-"RI2980009","BRICK OVEN RESTAURANT, THE, INC.","Transient non-community system","Ground water","Washington","HOPKINTON","212","5","3","39"
-"RI2753324","BRIGGS BEACH, INC.","Transient non-community system","Ground water","Newport","LITTLE COMPTON","250","4","4","20"
-"RI2980463","BRIGGS-BOESCH FARM","Transient non-community system","Ground water","Kent","EAST GREENWICH","25","4","1","1"
-"RI2973128","BUCK HILL FAMILY CAMPGROUND","Transient non-community system","Ground water","Providence","BURRILLVILLE","100","9","7","45"
-"RI2980299","BUILDING #747 VICTORY HIGHWAY","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","44","5","3","39"
-"RI1647523","BURLINGAME PARK-PROSSER BEACH-PICNIC ARE","Transient non-community system","Ground water","Washington","CHARLESTOWN","305","4","4","24"
-"RI1000005","BURLINGAME RESERVATION-MAIN CAMP-LEGIONT","Transient non-community system","Ground water","Washington","CHARLESTOWN","3,024","8","18","54"
-"RI2943217","CADYS TAVERN","Transient non-community system","Ground water","Providence","GLOCESTER","70","5","10","66"
-"RI2980241","CAMP ALDERSGATE CAMPSITE DINING HALL","Transient non-community system","Ground water","Providence","SCITUATE","90","4","12","35"
-"RI2943216","CAMP ALDERSGATE RETREAT CENTER","Transient non-community system","Ground water","Providence","SCITUATE","42","4","0","41"
-"RI2943221","CAMP COOKIE","Transient non-community system","Ground water","Providence","GLOCESTER","180","4","4","10"
-"RI2980145","CAMP E-HUN-TEE","Transient non-community system","Ground water","Washington","EXETER","68","7","10","54"
-"RI2882119","CAMP HOFFMAN","Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","160","7","8","10"
-"RI2980199","CAMP JORI","Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","250","5","15","24"
-"RI2980256","CAMP KER-ANNA - CABIN","Transient non-community system","Ground water","Providence","CUMBERLAND","180","6","2","24"
-"RI2000062","CAMP PONAGANSETT","Transient non-community system","Ground water","Providence","GLOCESTER","86","5","6","23"
-"RI2980257","CAMP RUSSELL (CANOE HOUSE WELL), MALLARD","Transient non-community system","Ground water","Providence","GLOCESTER","70","4","10","30"
-"RI2000063","CAMP RUSSELL-PUMP HOUSE   MALLARD SHORES","Transient non-community system","Ground water","Providence","GLOCESTER","140","5","16","25"
-"RI2674911","CAMP WATCHAUG","Transient non-community system","Ground water","Washington","CHARLESTOWN","200","6","4","25"
-"RI2980427","CENTRAL COVENTRY PARK PAVILION","Transient non-community system","Ground water","Kent","COVENTRY","360","4","2","1"
-"RI2980248","CHAMPLIN SCOUT RESERVATION BSA - LOWER P","Transient non-community system","Ground water","Providence","CRANSTON","200","4","0","36"
-"RI2980249","CHAMPLIN SCOUT RESERVATION BSA - UPPER P","Transient non-community system","Ground water","Providence","CRANSTON","75","5","4","36"
-"RI2973112","CHAMPLINS MARINA & RESORTS, INC.","Transient non-community system","Ground water","Washington","NEW SHOREHAM","300","6","6","37"
-"RI2980428","CHARIHO SOUTHERN BAPTIST CHURCH","Transient non-community system","Ground water","Washington","HOPKINTON","300","5","6","2"
-"RI2519422","CHARLESTOWN COMMONS","Transient non-community system","Ground water","Washington","CHARLESTOWN","150","5","4","4"
-"RI2980416","CHARLESTOWN MINI-SUPER, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","75","4","3","2"
-"RI2000036","CHARLESTOWN RATHSKELLER TAVERN INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","300","8","3","47"
-"RI2980068","CHARLESTOWN VILLAGE,LLC SIMPLE PLEASURES","Transient non-community system","Ground water","Washington","CHARLESTOWN","144","4","0","44"
-"RI2980358","CHEPACHET UNION CHURCH","Transient non-community system","Ground water","Providence","GLOCESTER","150","7","1","20"
-"RI2980021","CINDYS DINER & RESTAURANT, INC.","Transient non-community system","Ground water","Providence","SCITUATE","400","5","1","44"
-"RI2980470","CLARK MEMORIAL LIBRARY","Transient non-community system","Ground water","Washington","RICHMOND","30","4","3","1"
-"RI2980409","CLASSIC ACRES INC. DBA WOOD RIVER GOLF","Transient non-community system","Ground water","Washington","HOPKINTON","175","5","3","3"
-"RI2980182","CLASSIC MOTOR LODGE, INC.","Transient non-community system","Ground water","Kent","WEST GREENWICH","35","5","7","47"
-"RI2980337","COLD BROOK CAFE","Transient non-community system","Ground water","Providence","SCITUATE","100","5","4","20"
-"RI2755316","COMMONS LUNCH, INC.","Transient non-community system","Ground water","Newport","LITTLE COMPTON","96","9","7","13"
-"RI2980366","CONFREDA GREENHOUSES & FARMS","Transient non-community system","Ground water","Providence","SCITUATE","300","5","5","16"
-"RI2980026","CORNER BISTRO, LLC","Transient non-community system","Ground water","Providence","SCITUATE","105","5","8","41"
-"RI2000162","CORNERSTONE PUB","Transient non-community system","Ground water","Washington","EXETER","100","5","1","42"
-"RI2980317","COUNTRY FOOD MART, LLC","Transient non-community system","Ground water","Washington","CHARLESTOWN","150","5","5","18"
-"RI2973118","COUNTRY VIEW GOLF CLUB","Transient non-community system","Ground water","Providence","BURRILLVILLE","185","5","2","32"
-"RI2051715","COVENTRY MENS CLUB, INC.","Transient non-community system","Ground water","Kent","COVENTRY","50","6","20","47"
-"RI2980029","CROWTHERS RESTAURANT, INC.","Transient non-community system","Ground water","Newport","LITTLE COMPTON","75","5","4","17"
-"RI2980222","CUMBERLAND FARMS STORE #1262 CHARLESTOWN","Transient non-community system","Ground water","Washington","CHARLESTOWN","50","5","1","42"
-"RI2980312","D. B. MART #9","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","25","5","26","40"
-"RI2000095","D.R. MOTEL ENTERPRISES, INC.","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","30","7","17","87"
-"RI2000139","DANNYS AUCTION","Transient non-community system","Ground water","Providence","FOSTER","50","6","8","39"
-"RI2980405","DANS PLACE","Transient non-community system","Ground water","Kent","WEST GREENWICH","75","4","2","2"
-"RI2980132","DELANO ISLAND WATER ASSOCIATION","Transient non-community system","Ground water","Newport","TIVERTON","25","5","3","31"
-"RI2980220","DINOS PARK & SHOP","Transient non-community system","Ground water","Providence","GLOCESTER","25","4","0","20"
-"RI2980292","DLM VARIETY DBA HARMONY CORNER STORE","Transient non-community system","Ground water","Providence","GLOCESTER","104","4","12","36"
-"RI2788026","DORRS TAVERN LLC","Transient non-community system","Ground water","Providence","GLOCESTER","120","5","3","49"
-"RI2000038","DOWNEY WEAVER POST  #34 AMERICAN LEGION","Transient non-community system","Ground water","Washington","CHARLESTOWN","500","6","1","40"
-"RI2980360","DUBS ENTERPRISE LLC","Transient non-community system","Ground water","Washington","HOPKINTON","56","5","5","19"
-"RI2980404","DUNKIN DONUTS - PMM REALTY ASSOCIATES LL","Transient non-community system","Ground water","Providence","SCITUATE","100","5","2","4"
-"RI2980408","DUNKIN DONUTS CHEPACHET #338022","Transient non-community system","Ground water","Providence","GLOCESTER","100","6","24","2"
-"RI2000093","DUNKIN DONUTS N. SMITHFIELD 330325","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","100","6","9","41"
-"RI2980395","DUNKIN DONUTS RICHMOND 342433","Transient non-community system","Ground water","Washington","RICHMOND","150","4","3","3"
-"RI2788017","DYER WOODS NUDIST CAMPGROUND, LLC","Transient non-community system","Ground water","Providence","FOSTER","106","5","4","24"
-"RI2051728","EAST GREENWICH GOLF AND COUNTRY CLUB","Transient non-community system","Ground water","Kent","EAST GREENWICH","100","5","8","36"
-"RI2000072","ECHO LAKE CAMPGROUND","Transient non-community system","Ground water","Providence","BURRILLVILLE","200","6","1","23"
-"RI2973120","EPISCOPAL CONFERENCE CENTER HOUSE","Transient non-community system","Ground water","Providence","BURRILLVILLE","200","5","4","43"
-"RI2980247","EPISCOPAL CONFERENCE CENTER-GIRLS AREA","Transient non-community system","Ground water","Providence","BURRILLVILLE","90","4","1","24"
-"RI2980034","ERNIES OLD HARBOR REST., INC. DBA ERNIE","Transient non-community system","Ground water","Washington","NEW SHOREHAM","400","6","0","32"
-"RI2980035","EUREKA HOTEL CORP., INC.","Transient non-community system","Ground water","Washington","NEW SHOREHAM","70","5","9","36"
-"RI2980188","EXETER CHAPEL","Transient non-community system","Ground water","Washington","EXETER","300","5","2","40"
-"RI2585316","EXETER COUNTRY CLUB, INC.","Transient non-community system","Ground water","Washington","EXETER","75","4","2","35"
-"RI2980403","EXETER PUBLIC LIBRARY","Transient non-community system","Ground water","Washington","EXETER","33","4","5","2"
-"RI2000118","FAMOUS PIZZA","Transient non-community system","Ground water","Providence","SCITUATE","204","7","10","48"
-"RI2674917","FANTASTIC UMBRELLA FACTORY","Transient non-community system","Ground water","Washington","CHARLESTOWN","108","5","11","39"
-"RI2980348","FAS MART #335","Transient non-community system","Ground water","Washington","HOPKINTON","25","6","3","25"
-"RI2980353","FEINSTEIN YOUTH CAMP","Transient non-community system","Ground water","Providence","BURRILLVILLE","225","5","2","21"
-"RI2980362","FENNER HILL GOLF CLUB, L.L.C.","Transient non-community system","Ground water","Washington","HOPKINTON","250","5","4","17"
-"RI2980113","FIRST 7TH DAY BAPTIST CHURCH OF HOPKINTO","Transient non-community system","Ground water","Washington","HOPKINTON","30","8","7","8"
-"RI2788016","FOSTER COUNTRY CLUB INC.","Transient non-community system","Ground water","Providence","FOSTER","200","4","14","35"
-"RI2980275","FOSTER XTRA MART","Transient non-community system","Ground water","Providence","FOSTER","220","5","1","37"
-"RI2980467","FREDERICKSON FARMS","Transient non-community system","Ground water","Providence","SCITUATE","100","2","42","0"
-"RI2000109","FREDRICK J. BENSON TOWN BEACH","Transient non-community system","Ground water","Washington","NEW SHOREHAM","1,000","6","11","29"
-"RI2428721","FRONTIER CAMPER PARK","Transient non-community system","Ground water","Washington","HOPKINTON","438","7","5","22"
-"RI2980176","FROSTY DREW NATURE CENTER-NINIGRET PARK","Transient non-community system","Ground water","Washington","CHARLESTOWN","28","4","11","37"
-"RI2980357","GALAPAGOS COLLECTION INC","Transient non-community system","Ground water","Washington","CHARLESTOWN","150","5","1","4"
-"RI2980218","GEMELLI BISTRO","Transient non-community system","Ground water","Washington","CHARLESTOWN","1,000","5","1","41"
-"RI2674930","GENERAL STANTON INN","Transient non-community system","Ground water","Washington","CHARLESTOWN","75","4","2","39"
-"RI2980324","GEORGE MELANIS PROPERTY","Transient non-community system","Ground water","Kent","COVENTRY","25","5","14","80"
-"RI1583828","GEORGE WASHINGTON CAMPGROUND","Transient non-community system","Ground water","Providence","GLOCESTER","135","4","2","29"
-"RI2980472","GEORGE WASHINGTON CAMPGROUND REST RM FAC","Transient non-community system","Ground water","Providence","GLOCESTER","150","2","0","2"
-"RI2788015","GINNY-B FAMILY CAMPGROUND","Transient non-community system","Ground water","Providence","FOSTER","600","8","4","29"
-"RI2980399","GLAD TIDINGS COMMUNITY CHURCH","Transient non-community system","Ground water","Providence","GLOCESTER","25","4","6","2"
-"RI2943213","GLOCESTER COUNTRY CLUB","Transient non-community system","Ground water","Providence","GLOCESTER","40","5","1","33"
-"RI2980049","GLOCESTER MOTOR INN","Transient non-community system","Ground water","Providence","GLOCESTER","25","4","2","44"
-"RI2980083","GRANITE FARM RESTAURANT","Transient non-community system","Ground water","Providence","SCITUATE","200","5","4","22"
-"RI2051310","GRAYS ICE CREAM, INC.","Transient non-community system","Ground water","Newport","TIVERTON","150","5","10","73"
-"RI2980038","GREENWAY CAFE","Transient non-community system","Ground water","Kent","COVENTRY","40","5","1","39"
-"RI2428720","GREENWOOD HILL CAMPGROUND ASSOCIATION","Transient non-community system","Ground water","Washington","HOPKINTON","100","4","8","13"
-"RI2980058","HARBORSIDE INN, INC.","Transient non-community system","Ground water","Washington","NEW SHOREHAM","1,000","8","2","36"
-"RI2943214","HARMONY LODGE RESTAURANT","Transient non-community system","Ground water","Providence","GLOCESTER","310","5","5","47"
-"RI2980238","HARMONY MARKETPLACE, LLC","Transient non-community system","Ground water","Providence","GLOCESTER","50","6","6","42"
-"RI2980061","HELENS PLACE INC","Transient non-community system","Ground water","Providence","FOSTER","27","5","7","33"
-"RI2051718","HICKORY RIDGE CAMPGROUND","Transient non-community system","Ground water","Kent","COVENTRY","100","6","8","26"
-"RI2973110","HIGHVIEW INN","Transient non-community system","Ground water","Washington","NEW SHOREHAM","100","5","19","84"
-"RI2087018","HILLTOP INN","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","50","5","15","46"
-"RI1000099","HOG ISLAND WATER ASSOC.INC.-NORTH END","Transient non-community system","Ground water","Newport","PORTSMOUTH","275","5","8","5"
-"RI1000097","HOG ISLAND WATER ASSOCIATION-SOUTH END","Transient non-community system","Ground water","Newport","PORTSMOUTH","100","6","7","4"
-"RI2519425","HOLIDAY ACRES, INC.","Transient non-community system","Ground water","Providence","GLOCESTER","45","7","7","11"
-"RI2428719","HOLLY TREE CAMPER PARK, INC.","Transient non-community system","Ground water","Washington","HOPKINTON","300","5","4","25"
-"RI2980126","HOMESTEAD RESTAURANT, M.S.T., INC.","Transient non-community system","Ground water","Washington","EXETER","160","4","6","45"
-"RI2980219","HOPKINTON TOWN HALL","Transient non-community system","Ground water","Washington","HOPKINTON","25","5","2","20"
-"RI2415418","HOWARDS COUNTRY CHOWDER SHACK","Transient non-community system","Ground water","Providence","SCITUATE","300","6","7","28"
-"RI2980077","IDEAL PIZZA","Transient non-community system","Ground water","Providence","BURRILLVILLE","53","5","4","45"
-"RI2980064","IN THE MIDDLE OF NOWHERE DINER","Transient non-community system","Ground water","Washington","EXETER","100","4","8","48"
-"RI2943211","IRONS HOMESTEAD & CAMP RUGGLES","Transient non-community system","Ground water","Providence","GLOCESTER","200","5","5","46"
-"RI2980215","JOHNSTON CONGREGATION OF JEHOVAHS WITNES","Transient non-community system","Ground water","Providence","JOHNSTON","110","5","3","48"
-"RI2882126","JOSEPH VIDETTA REALTY TRUST","Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","157","4","1","40"
-"RI2980308","K & S PIZZA","Transient non-community system","Ground water","Washington","RICHMOND","152","5","10","33"
-"RI2980365","KILDUFF BROTHERS BUILDERS, INC.","Transient non-community system","Ground water","Providence","SCITUATE","25","5","3","22"
-"RI2980094","KINGSTON PIZZA OF CHARLESTOWN, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","60","6","6","31"
-"RI2980400","KNIGHT FARM LLC","Transient non-community system","Ground water","Providence","GLOCESTER","100","4","6","2"
-"RI2980195","KSL CRANSTON REALTY","Transient non-community system","Ground water","Washington","HOPKINTON","125","6","2","50"
-"RI2585324","LINDYS TAVERN","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","53","4","2","42"
-"RI2980455","LINE BAPTIST CHURCH","Transient non-community system","Ground water","Providence","FOSTER","35","4","0","1"
-"RI2980386","LITTLE COMPTON WELLNESS CENTER","Transient non-community system","Ground water","Newport","LITTLE COMPTON","25","5","2","8"
-"RI2980088","LITTLE COUNTRY PIZZA","Transient non-community system","Ground water","Washington","EXETER","60","5","7","44"
-"RI2980089","LITTLE RHODY VASA PARK","Transient non-community system","Ground water","Providence","FOSTER","150","6","4","32"
-"RI2087014","LONG COVE MARINA CAMPGROUND, LLC","Transient non-community system","Ground water","Washington","NARRAGANSETT","175","9","2","33"
-"RI2000129","LUCKY HOUSE LLC","Transient non-community system","Ground water","Washington","HOPKINTON","120","6","21","35"
-"RI2788019","LUCKYS","Transient non-community system","Ground water","Providence","FOSTER","52","5","4","44"
-"RI2980277","MAPLEVILLE MAIN, INC-PLANT 1","Transient non-community system","Ground water","Providence","BURRILLVILLE","25","4","4","36"
-"RI2980278","MAPLEVILLE MAIN, INC-PLANT 2","Transient non-community system","Ground water","Providence","BURRILLVILLE","25","4","5","36"
-"RI2674921","MEADOW BROOK INN, LTD.","Transient non-community system","Ground water","Washington","CHARLESTOWN","350","4","4","48"
-"RI2942529","MEADOWBROOK GOLF COURSE-CLUBHOUSE","Transient non-community system","Ground water","Washington","RICHMOND","100","4","2","22"
-"RI2788030","MELODY HILL COUNTRY CLUB, INC.","Transient non-community system","Ground water","Providence","GLOCESTER","165","5","5","36"
-"RI2980263","MICHAELS SHELL STATION","Transient non-community system","Ground water","Washington","CHARLESTOWN","175","7","8","28"
-"RI2980377","MIDDLETOWN FOP LODGE 21","Transient non-community system","Ground water","Newport","MIDDLETOWN","189","4","1","16"
-"RI2814111","MIDVILLE GOLF COURSE","Transient non-community system","Ground water","Kent","WEST WARWICK","200","5","3","44"
-"RI2389718","MINISTERS LOT HOMEOWNERS ASSOC.","Transient non-community system","Ground water","Washington","NEW SHOREHAM","44","5","4","26"
-"RI2000074","MONTYS VICTORY DINER","Transient non-community system","Ground water","Providence","BURRILLVILLE","90","5","3","2"
-"RI2980444","MOTHER OF HOPE CAMP (#2)","Transient non-community system","Ground water","Providence","GLOCESTER","225","5","1","2"
-"RI2980244","MOTHER OF HOPE DAY CAMP","Transient non-community system","Ground water","Providence","GLOCESTER","200","4","4","24"
-"RI2943210","MR. Z'S BY THE LAKE LLC","Transient non-community system","Ground water","Providence","GLOCESTER","50","5","17","58"
-"RI2980314","MURPHYS MOBIL, INC.","Transient non-community system","Ground water","Kent","COVENTRY","100","4","24","22"
-"RI2389713","NARRAGANSETT INN","Transient non-community system","Ground water","Washington","NEW SHOREHAM","90","4","16","46"
-"RI2980239","NATIONAL SHERIFFS ASSOCIATION","Transient non-community system","Ground water","Washington","EXETER","115","6","7","37"
-"RI2980078","NEIGHBORHOOD VARIETY","Transient non-community system","Ground water","Providence","WOONSOCKET","50","5","2","42"
-"RI2980383","NEW ENGLAND FARMS","Transient non-community system","Ground water","Providence","BURRILLVILLE","50","5","79","7"
-"RI2980350","NEW HOPE CHAPEL","Transient non-community system","Ground water","Washington","RICHMOND","250","5","2","21"
-"RI2980095","NEWPORT BOYS & GIRLS CLUB CAMP","Transient non-community system","Ground water","Washington","NORTH KINGSTOWN","125","6","8","26"
-"RI2980406","NEWPORT NATIONAL GOLF CLUB","Transient non-community system","Ground water","Newport","MIDDLETOWN","45","4","12","7"
-"RI2980018","NINIGRET INN","Transient non-community system","Ground water","Washington","CHARLESTOWN","35","4","12","4"
-"RI2980175","NINIGRET PARK-LITTLE NINI POND","Transient non-community system","Ground water","Washington","CHARLESTOWN","125","5","9","30"
-"RI2980174","NINIGRET PARK-TENNIS COURT","Transient non-community system","Ground water","Washington","CHARLESTOWN","27","5","3","32"
-"RI2519416","NORDIC LODGE","Transient non-community system","Ground water","Washington","CHARLESTOWN","280","10","5","38"
-"RI2980318","NORTH SCITUATE MEDICAL CENTER","Transient non-community system","Ground water","Providence","SCITUATE","62","5","0","33"
-"RI2980418","NORTH SCITUATE PUBLIC LIBRARY","Transient non-community system","Ground water","Providence","SCITUATE","100","4","5","3"
-"RI2980097","NORTH SMITHFIELD FLY FISHING CLUB","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","40","6","4","47"
-"RI2980280","NORTHWEST COMMUNITY HEALTH CARE","Transient non-community system","Ground water","Providence","FOSTER","85","7","2","4"
-"RI2051323","NUTZ","Transient non-community system","Ground water","Kent","WEST GREENWICH","50","4","13","52"
-"RI2051329","OAK EMBERS CAMPGROUND","Transient non-community system","Ground water","Kent","WEST GREENWICH","69","5","7","26"
-"RI2980099","OAKLEAF CAMPGROUND","Transient non-community system","Ground water","Providence","GLOCESTER","235","5","5","31"
-"RI2980048","OAKLEYS","Transient non-community system","Ground water","Providence","BURRILLVILLE","100","4","16","39"
-"RI2980108","OCEAN PHARMACY CHARLESTOWN","Transient non-community system","Ground water","Washington","CHARLESTOWN","107","5","0","40"
-"RI2980338","OHM GANESH DBA COUNTRY FARMS","Transient non-community system","Ground water","Providence","BURRILLVILLE","33","6","3","19"
-"RI2980082","OLD MILL DINER","Transient non-community system","Ground water","Washington","CHARLESTOWN","150","5","3","44"
-"RI2980373","OLD VILLAGE PROPERTIES, LLC","Transient non-community system","Ground water","Providence","GLOCESTER","200","7","1","7"
-"RI2519420","OLD WILCOX TAVERN,INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","150","4","4","44"
-"RI2980369","OUR LADY OF GOOD HELP","Transient non-community system","Ground water","Providence","BURRILLVILLE","30","4","2","20"
-"RI2980032","OUT IN NOWHERE CREAMERY","Transient non-community system","Ground water","Kent","COVENTRY","205","5","3","46"
-"RI2980164","OVERLOOK HOTEL","Transient non-community system","Ground water","Washington","NEW SHOREHAM","144","4","1","24"
-"RI2753362","PARADISE MOTEL PARK","Transient non-community system","Ground water","Newport","MIDDLETOWN","77","6","22","5"
-"RI2000040","PASTORE LEISURE CENTER (LADD SCHOOL CAMP","Transient non-community system","Ground water","Washington","CHARLESTOWN","25","4","6","29"
-"RI2389729","PAYNES NEW HARBOR DOCK","Transient non-community system","Ground water","Washington","NEW SHOREHAM","100","6","11","28"
-"RI2753327","PEABODYS BEACH","Transient non-community system","Ground water","Newport","MIDDLETOWN","400","4","8","25"
-"RI2980424","PETES GROCERY BARCAS MARKET","Transient non-community system","Ground water","Washington","HOPKINTON","50","5","2","5"
-"RI2674912","PHIL & ANNS SUNSET MOTEL, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","35","5","5","35"
-"RI2980398","PINECREST GOLF COURSE, INC.","Transient non-community system","Ground water","Washington","RICHMOND","300","4","1","3"
-"RI2942517","PINES RESTAURANT, THE","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","330","5","7","40"
-"RI2980040","PINEWOOD PARK","Transient non-community system","Ground water","Providence","GLOCESTER","60","4","3","28"
-"RI2980367","PLAZA AT PARK SQUARE","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","25","5","11","22"
-"RI2980287","POPS PIZZA","Transient non-community system","Ground water","Washington","RICHMOND","106","6","7","33"
-"RI2980394","POUND HILL REAL ESTATE CO LLC","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","40","4","7","3"
-"RI2980326","POWDER MILL CREAMERY, LLC","Transient non-community system","Ground water","Providence","SMITHFIELD","400","5","8","32"
-"RI2674916","PRAMUKH HOSPITALITY LLC DBA KRYSTAL PENG","Transient non-community system","Ground water","Washington","CHARLESTOWN","36","4","6","14"
-"RI1647514","PRUDENCE PARK WATER COOP","Transient non-community system","Ground water","Newport","PORTSMOUTH","35","5","1","8"
-"RI1000010","PULASKI MEM PARK-BEACH AREA-DEM DIV. FOR","Transient non-community system","Ground water","Providence","BURRILLVILLE","450","5","1","24"
-"RI1000011","PULASKI MEMORIAL PARK-PARKING AREA 3","Transient non-community system","Ground water","Providence","GLOCESTER","150","4","2","22"
-"RI2980104","PURPLE CAT RESTAURANT, INC.","Transient non-community system","Ground water","Providence","GLOCESTER","25","6","3","50"
-"RI2000138","R.I. STATE POLICE TRAINING ACADEMY","Transient non-community system","Ground water","Providence","FOSTER","25","5","4","40"
-"RI2980178","RHODE ISLAND WELCOME CENTER","Transient non-community system","Ground water","Washington","RICHMOND","2,000","5","1","107"
-"RI2942520","RI SPORTS CENTER, INC.","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","125","5","22","26"
-"RI2980270","RICHMOND COUNTRY CLUB, INC.","Transient non-community system","Ground water","Washington","RICHMOND","275","4","1","18"
-"RI2980387","RICHMOND TOWN HALL","Transient non-community system","Ground water","Washington","RICHMOND","60","5","3","2"
-"RI2980285","RIPPYS LIQUOR & MARKETPLACE","Transient non-community system","Ground water","Washington","CHARLESTOWN","111","5","1","35"
-"RI2980345","ROCKY MOUNTAIN SPRING WATER CO-ARMISTICE","Transient non-community system","Ground water","Providence","PAWTUCKET","25","7","5","2"
-"RI2980413","ROCKY MOUNTAIN SPRING WATER CO-FRONT ST","Transient non-community system","Ground water","Providence","LINCOLN","25","7","5","2"
-"RI2980446","ROCKY MOUNTAIN SPRING WATER CO-NO PROV","Transient non-community system","Ground water","Providence","NORTH PROVIDENCE","25","7","2","3"
-"RI2980415","ROCKY MOUNTAIN SPRING WATER CO-PAWTUCKET","Transient non-community system","Ground water","Providence","PAWTUCKET","25","7","5","2"
-"RI2980392","ROMANI ORTHODONTICS","Transient non-community system","Ground water","Providence","GLOCESTER","60","4","4","8"
-"RI2980109","ROSE FARM INN RENTALS INC. DBA ROSE FARM","Transient non-community system","Ground water","Washington","NEW SHOREHAM","55","7","3","27"
-"RI2000044","ROUND MEADOWS CAMPGROUND","Transient non-community system","Ground water","Newport","LITTLE COMPTON","100","5","9","24"
-"RI2942516","RUSTIC TRI-VIEW DRIVE IN THEATRE-SNACK B","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","500","5","12","34"
-"RI2980439","SACHUEST POINT NATL WILDLIFE REFUGE","Transient non-community system","Ground water","Newport","MIDDLETOWN","25","5","9","2"
-"RI2753318","SAKONNET GOLF CLUB","Transient non-community system","Ground water","Newport","LITTLE COMPTON","200","4","7","21"
-"RI2980397","SAKONNET POINT CLUB","Transient non-community system","Ground water","Newport","TIVERTON","372","8","23","2"
-"RI2980306","SAYLES HILL ROD & GUN CLUB","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","130","5","2","37"
-"RI2000152","SCHARTNER CORNER NURSERY","Transient non-community system","Ground water","Washington","EXETER","25","5","7","28"
-"RI2980456","SCITUATE LDS CHURCH","Transient non-community system","Ground water","Providence","SCITUATE","111","5","0","1"
-"RI1000001","SEACONNET POINT FARM","Transient non-community system","Ground water","Newport","LITTLE COMPTON","50","5","2","36"
-"RI2980112","SEACREST INN, INC.","Transient non-community system","Ground water","Washington","NEW SHOREHAM","25","4","7","32"
-"RI2674913","SEAVIEW MOTOR COURT","Transient non-community system","Ground water","Washington","CHARLESTOWN","27","5","2","29"
-"RI2585329","SHADY ACRES RESTAURANT LLC","Transient non-community system","Ground water","Providence","FOSTER","260","5","3","39"
-"RI2980120","SHELTER COVE MARINA,LLC","Transient non-community system","Ground water","Washington","CHARLESTOWN","100","6","10","28"
-"RI2980184","SIMMONS CAFE AND MARKETPLACE","Transient non-community system","Ground water","Newport","LITTLE COMPTON","500","5","8","39"
-"RI2980114","SIZZLER'S BAR & GRILLE","Transient non-community system","Ground water","Providence","CUMBERLAND","195","5","8","33"
-"RI2980297","SLATERSVILLE MEDICAL COMPLEX","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","400","5","5","56"
-"RI2980169","SMITH VILLAGE","Transient non-community system","Ground water","Newport","LITTLE COMPTON","32","5","4","17"
-"RI2980284","SMITHFIELD SPORTSMANS CLUB, INC.","Transient non-community system","Ground water","Providence","SMITHFIELD","30","5","2","21"
-"RI1647520","SONQUIPAUG ASSOCIATION, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","140","4","0","45"
-"RI2980372","SOPHIES BREW HOUSE INC","Transient non-community system","Ground water","Washington","EXETER","100","3","14","8"
-"RI2980141","SOUTH SHORE MENTAL HEALTH CENTER, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","95","7","3","55"
-"RI2389725","SPRING HOUSE HOTEL (ISLAND ENTERTAINMENT","Transient non-community system","Ground water","Washington","NEW SHOREHAM","200","5","2","33"
-"RI2973115","SPRING LAKE RECREATIONAL FACILITY","Transient non-community system","Ground water","Providence","BURRILLVILLE","450","4","1","23"
-"RI2980371","ST. EUGENES CHURCH","Transient non-community system","Ground water","Providence","GLOCESTER","25","5","2","20"
-"RI2980431","ST. JOSEPHS CHURCH","Transient non-community system","Ground water","Providence","SCITUATE","880","5","2","1"
-"RI2980380","ST. JOSEPH‘S CEMETERY","Transient non-community system","Ground water","Kent","WEST GREENWICH","25","5","0","7"
-"RI2980436","ST. MARY & ST. MENA COPTIC CHURCH OF RI","Transient non-community system","Ground water","Providence","CRANSTON","600","4","0","3"
-"RI2980119","ST. PAUL THE APOSTLE CHURCH","Transient non-community system","Ground water","Providence","FOSTER","200","6","1","42"
-"RI2980356","ST. THERESA OF THE CHILD JESUS CHURCH","Transient non-community system","Ground water","Providence","BURRILLVILLE","150","4","11","20"
-"RI2000137","STATE LINE DINER","Transient non-community system","Ground water","Providence","FOSTER","70","5","10","54"
-"RI2980124","STEPPING STONE STABLES, INC.","Transient non-community system","Ground water","Kent","WEST GREENWICH","25","7","20","31"
-"RI2000056","STICKS TAVERN (PUTNAM PROPERTIES)","Transient non-community system","Ground water","Providence","GLOCESTER","45","6","8","44"
-"RI2980081","STONE HOUSE MOTOR INN","Transient non-community system","Ground water","Providence","FOSTER","26","5","6","28"
-"RI2755317","STONEHOUSE RESORT, INC","Transient non-community system","Ground water","Newport","LITTLE COMPTON","108","5","12","4"
-"RI2980352","SUMMIT GENERAL STORE, LTD.","Transient non-community system","Ground water","Kent","COVENTRY","350","5","3","24"
-"RI2415415","SUNRISE ASSOCIATES, LLC","Transient non-community system","Ground water","Providence","SCITUATE","25","6","31","52"
-"RI2000035","SURFSIDE MOTEL","Transient non-community system","Ground water","Washington","CHARLESTOWN","25","5","4","27"
-"RI2000092","TDM ENTERPRISES, INC., DBA GATORS PUB","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","215","6","1","43"
-"RI2980069","THE CORNER DELI","Transient non-community system","Ground water","Washington","CHARLESTOWN","500","5","4","24"
-"RI2980056","THE COVE","Transient non-community system","Ground water","Washington","CHARLESTOWN","67","7","12","40"
-"RI2519421","THE HITCHING POST, INC.","Transient non-community system","Ground water","Washington","CHARLESTOWN","100","4","9","20"
-"RI2389723","THE OAR & BLOCK ISLAND BOAT BASIN","Transient non-community system","Ground water","Washington","NEW SHOREHAM","150","6","3","30"
-"RI2980302","THE PILGRIMS BAPTIST CHURCH","Transient non-community system","Ground water","Washington","HOPKINTON","125","4","2","19"
-"RI2980335","THE PRESERVE AT BOULDER HILLS","Transient non-community system","Ground water","Washington","RICHMOND","170","5","0","1"
-"RI2980429","THE SULLIVAN HOUSE","Transient non-community system","Ground water","Washington","NEW SHOREHAM","200","5","4","2"
-"RI2000034","THE WINDSWEPT INN","Transient non-community system","Ground water","Washington","CHARLESTOWN","25","4","5","10"
-"RI2980464","TIVERTON ROD & GUN CLUB","Transient non-community system","Ground water","Newport","TIVERTON","1,000","4","1","1"
-"RI2980155","TOWN PIZZA OF EXETER, INC.","Transient non-community system","Ground water","Washington","EXETER","81","5","0","46"
-"RI2980125","TOWNSMEN CLUB, INC.","Transient non-community system","Ground water","Providence","BURRILLVILLE","140","5","15","24"
-"RI2980438","TRINITY EPISCOPAL CHURCH","Transient non-community system","Ground water","Providence","SCITUATE","150","4","4","2"
-"RI2980005","TROPIC FROST","Transient non-community system","Ground water","Washington","CHARLESTOWN","100","6","5","22"
-"RI2389724","TWIN MAPLES, INC.","Transient non-community system","Ground water","Washington","NEW SHOREHAM","35","4","1","26"
-"RI2980420","TWISTED THROTTLE","Transient non-community system","Ground water","Washington","EXETER","35","4","0","4"
-"RI2980374","UHAUL CTR OF NORTH SMITHFIELD","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","25","5","7","9"
-"RI2973117","UNCLE RONNIES RED TAVERN","Transient non-community system","Ground water","Providence","BURRILLVILLE","110","6","5","34"
-"RI1900057","US FISH AND WILDLIFE SERVICE VISITOR CTR","Transient non-community system","Ground water","Washington","CHARLESTOWN","75","5","8","3"
-"RI2051316","VICTORY CHAPEL CHRISTIAN CHURCH, INC","Transient non-community system","Ground water","Newport","TIVERTON","170","5","7","16"
-"RI2980172","W. ALTON JONES CAMPUS - ENVIRONMENTAL ED","Transient non-community system","Ground water","Kent","WEST GREENWICH","100","4","5","43"
-"RI2980385","W. ALTON JONES CAMPUS-MAIN OFF-FARM HOUS","Transient non-community system","Ground water","Kent","WEST GREENWICH","25","5","2","2"
-"RI2051326","W. ALTON JONES CAMPUS-URI-WHISPERING PIN","Transient non-community system","Ground water","Kent","WEST GREENWICH","36","7","8","47"
-"RI2980290","WALKERS ROADSIDE STAND-BAKERY","Transient non-community system","Ground water","Newport","LITTLE COMPTON","150","5","12","3"
-"RI2980129","WALLUM LAKE ROD & GUN CLUB, INC.","Transient non-community system","Ground water","Providence","BURRILLVILLE","25","6","3","40"
-"RI2755314","WARRENS POINT BEACH CLUB, INC.","Transient non-community system","Ground water","Newport","LITTLE COMPTON","100","5","6","24"
-"RI2980251","WATER'S EDGE CAMPGROUND","Transient non-community system","Ground water","Kent","COVENTRY","100","6","6","26"
-"RI2000150","WAWALOAM RESERVATION,INC. DBA WAWALOAM C","Transient non-community system","Ground water","Washington","RICHMOND","750","5","4","7"
-"RI1900031","WEST GREENWICH CONDO ASSOC.","Transient non-community system","Ground water","Kent","WEST GREENWICH","100","7","4","44"
-"RI2980283","WEST KINGSTON PARK","Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","100","4","4","22"
-"RI2973127","WESTERN HOTEL PIZZA & TAVERN DBA AJAR, I","Transient non-community system","Ground water","Providence","BURRILLVILLE","110","5","2","38"
-"RI2980166","WESTSIDE 836","Transient non-community system","Ground water","Washington","NEW SHOREHAM","25","5","2","23"
-"RI2051712","WESTWOOD YMCA","Transient non-community system","Ground water","Kent","COVENTRY","610","6","10","25"
-"RI2943230","WHISPERING PINES CAMPGROUND","Transient non-community system","Ground water","Washington","HOPKINTON","600","6","2","25"
-"RI2980419","WHITE WINE PLAZA","Transient non-community system","Ground water","Newport","TIVERTON","150","4","1","3"
-"RI2980205","WILLOWS MOTOR LODGE-TENNIS VILLA HOUSE-W","Transient non-community system","Ground water","Washington","CHARLESTOWN","28","5","0","23"
-"RI2519419","WILLOWS MOTOR LODGE-WELL #1","Transient non-community system","Ground water","Washington","CHARLESTOWN","70","6","0","6"
-"RI2980204","WILLOWS MOTOR LODGE-WELL #2","Transient non-community system","Ground water","Washington","CHARLESTOWN","136","7","1","27"
-"RI2980388","WINDMILL HILL GOLF COURSE, INC.","Transient non-community system","Ground water","Bristol","WARREN","50","4","18","7"
-"RI2980131","WOLF ROCK COUNTRY KITCHEN, INC.","Transient non-community system","Ground water","Washington","EXETER","254","5","6","41"
-"RI2788013","WOODLAND MEETING HOUSE","Transient non-community system","Ground water","Providence","FOSTER","26","5","9","61"
-"RI2980440","WOON CONGREGATION OF JEHOVAHS WITNESSES","Transient non-community system","Ground water","Providence","NORTH SMITHFIELD","175","4","3","3"
-"RI1000018","YAWGOOG SCOUT RESERVATION","Transient non-community system","Surface water","Washington","HOPKINTON","1,100","8","3","37"
-"RI2882118","YMCA CAMP FULLER","Transient non-community system","Ground water","Washington","SOUTH KINGSTOWN","350","6","32","39"
-"RI2674926","YMCA OUTDOOR CENTER","Transient non-community system","Ground water","Washington","CHARLESTOWN","150","4","4","18"
+PWS ID,PWS Name,PWS Type,Primary Source,Counties Served,Cities Served,PopulationServed Count,Number of Facilities,Number of Violations,Number of Site Visits
+RI1000009,"ABBEY LANE COMMUNITY ASSN., INC.",Community water system,Ground water,Providence,FOSTER,45,9,13,42
+RI2519426,ALPINE NURSING HOME,Community water system,Ground water,Kent,COVENTRY,105,6,2,56
+RI1000045,BETHEL VILLAGE WATER ASSN,Community water system,Ground water,Washington,HOPKINTON,180,7,11,63
+RI1858430,BLOCK ISLAND WATER COMPANY,Community water system,Ground water,Washington,NEW SHOREHAM,9999,16,62,119
+RI2814410,BLUEBERRY HEIGHTS HOUSING COOPERATIVE CO,Community water system,Ground water,Kent,WEST GREENWICH,44,10,10,84
+RI2674924,BORDER HILL MOBILE HOME PARK,Community water system,Ground water,Washington,CHARLESTOWN,75,7,3,57
+RI1647515,BRISTOL COUNTY WATER AUTHORITY,Community water system,Surface water,Bristol,"BARRINGTON, BRISTOL, WARREN",51000,30,35,88
+RI1900053,CANONCHET CLIFFS WATER ASSOCIATION INC.,Community water system,Ground water,Washington,HOPKINTON,154,16,17,34
+RI1000035,CASTLE ROCK CONDOMINIUMS,Community water system,Ground water,Washington,CHARLESTOWN,292,11,6,64
+RI1647512,CENTRAL BEACH FIRE DISTRICT,Community water system,Ground water,Washington,CHARLESTOWN,470,8,11,61
+RI2519424,CHIMERA INC,Community water system,Ground water,Providence,GLOCESTER,155,7,55,100
+RI2980017,CHURCH WOODS,Community water system,Ground water,Washington,CHARLESTOWN,98,9,7,47
+RI2980452,CNE - HOPKINS HILL ROAD ENTRY POINT,Community water system,Ground water purchased,Kent,COVENTRY,317,2,5,2
+RI2980453,CNE - NEW LONDON TURNPIKE ENTRY POINT,Community water system,Ground water purchased,Kent,COVENTRY,9999,2,9,3
+RI1647530,"CUMBERLAND, TOWN OF",Community water system,Surface water,Providence,CUMBERLAND,22864,30,28,103
+RI1615610,EAST PROVIDENCE-CITY OF,Community water system,Surface water purchased,Providence,EAST PROVIDENCE,48688,6,9,9
+RI2980414,ECHO LAKE WATER DISTRICT,Community water system,Ground water,Providence,GLOCESTER,200,7,1,2
+RI1647516,ELEANOR SLATER HOSPITAL ZAMBARANO UNIT,Community water system,Surface water,Providence,BURRILLVILLE,540,7,31,66
+RI2980475,EXETER JOB CORPS CENTER,Community water system,Ground water purchased,Washington,EXETER,300,7,0,3
+RI2980001,FOUR SEASONS MHP CO-OP ASSN.,Community water system,Ground water,Newport,TIVERTON,44,6,5,47
+RI1583825,GLENDALE WATER ASSN,Community water system,Ground water,Providence,BURRILLVILLE,100,6,52,56
+RI1858410,GREENVILLE WATER DISTRICT,Community water system,Surface water purchased,Providence,SMITHFIELD,9500,5,9,8
+RI2000059,"HARMONY HILL SCHOOL, INC.",Community water system,Ground water,Providence,GLOCESTER,199,8,1,63
+RI1858411,HARRISVILLE FIRE DISTRICT,Community water system,Ground water,Providence,BURRILLVILLE,2970,15,4,55
+RI2000083,HEBERT HEALTH CENTER,Community water system,Ground water,Providence,SMITHFIELD,133,10,9,61
+RI1858435,HEMLOCK VILLAGE,Community water system,Ground water,Providence,FOSTER,33,6,16,58
+RI2051311,HERITAGE PARK HOME CO-OPERATIVE,Community water system,Ground water,Newport,TIVERTON,60,6,14,63
+RI2942525,"HILLSDALE HOUSING COOPERATIVE, INC.",Community water system,Ground water,Washington,SOUTH KINGSTOWN,170,11,33,56
+RI2674925,INDIAN CEDAR MOBILE HOME PARK,Community water system,Ground water,Washington,CHARLESTOWN,200,6,14,54
+RI1858419,JAMESTOWN WATER DEPARTMENT,Community water system,Surface water,Newport,JAMESTOWN,3178,9,16,87
+RI2980435,JOHNSTON WATER CTRL FAC. - CAPITOL ST.,Community water system,Surface water purchased,Providence,JOHNSTON,55,3,3,3
+RI2980433,JOHNSTON WATER CTRL FAC. - EVERBLOOM ST.,Community water system,Surface water purchased,Providence,JOHNSTON,48,3,4,3
+RI2980434,JOHNSTON WATER CTRL FAC. - NARDOLILLO ST,Community water system,Surface water purchased,Providence,JOHNSTON,55,3,4,3
+RI2980432,JOHNSTON WATER CTRL FAC. - TAYLOR ROAD,Community water system,Surface water purchased,Providence,JOHNSTON,70,3,3,3
+RI2980183,JOHNSTON WATER CTRL FAC. - WEST END,Community water system,Surface water purchased,Providence,JOHNSTON,4230,5,22,48
+RI1559511,KENT COUNTY WATER AUTHORITY,Community water system,Surface water purchased,Kent,"COVENTRY, CRANSTON, EAST GREENWICH, NORTH KINGSTOWN, SCITUATE, WARWICK, WEST GREENWICH, WEST WARWICK",88780,25,5,119
+RI2000165,KINGSTON CENTER,Community water system,Ground water,Washington,EXETER,77,9,10,55
+RI1858421,KINGSTON WATER DISTRICT,Community water system,Ground water,Washington,SOUTH KINGSTOWN,3933,10,39,47
+RI2980146,LAUREL CREST_GLOCESTER HOUSING AUTHORITY,Community water system,Ground water,Providence,GLOCESTER,42,8,7,54
+RI2980003,LAWRENCE SUNSET COVE ASSOCIATION,Community water system,Ground water,Newport,TIVERTON,36,8,94,54
+RI1858423,LINCOLN WATER COMMISSION,Community water system,Surface water purchased,Providence,LINCOLN,21137,17,0,50
+RI1000098,LINDHBROOK WATER COMPANY,Community water system,Ground water,Washington,HOPKINTON,200,8,18,49
+RI2973130,MAPLEHILL MOBILE HOME PARK,Community water system,Ground water,Providence,BURRILLVILLE,750,11,19,66
+RI2753326,"MEADOWLARK, INC.",Community water system,Ground water,Newport,MIDDLETOWN,174,9,13,48
+RI2585313,"MOBILE VILLAGE, INC.",Community water system,Ground water,Washington,EXETER,150,6,13,56
+RI1858429,NARRAGANSETT WATER DEPT-NORTH END,Community water system,Ground water purchased,Washington,NARRAGANSETT,4423,7,9,6
+RI1858428,NARRAGANSETT WATER SYSTEM-POINT JUDITH,Community water system,Ground water purchased,Washington,NARRAGANSETT,8189,6,9,7
+RI1900034,NASONVILLE WATER DISTRICT,Community water system,Ground water,Providence,BURRILLVILLE,150,6,6,79
+RI1000016,"NAVAL STATION, NEWPORT",Community water system,Surface water purchased,Newport,NEWPORT,7871,6,26,6
+RI1592010,NEWPORT-CITY OF,Community water system,Surface water,Newport,"MIDDLETOWN, NEWPORT, PORTSMOUTH",42000,28,23,89
+RI2674928,NINIGRET REALTY,Community water system,Ground water,Washington,CHARLESTOWN,100,5,10,58
+RI1559517,NORTH KINGSTOWN TOWN OF,Community water system,Ground water,Washington,NORTH KINGSTOWN,23568,26,48,114
+RI1592018,NORTH TIVERTON FIRE DISTRICT,Community water system,Surface water purchased,Newport,TIVERTON,8969,8,6,49
+RI1592019,"OAKLAND ASSOCIATION, INC.",Community water system,Ground water,Providence,BURRILLVILLE,175,6,11,67
+RI1900020,PAIGE ASSOCIATES,Community water system,Ground water,Kent,COVENTRY,96,6,36,42
+RI1592020,"PASCOAG UTILITY DISTRICT, WATER DIVISION",Community water system,Ground water,Providence,BURRILLVILLE,2753,13,11,70
+RI1592021,PAWTUCKET-CITY OF,Community water system,Surface water,Providence,"CENTRAL FALLS, CUMBERLAND, PAWTUCKET",99200,26,11,139
+RI1592022,PORTSMOUTH WATER & FIRE DISTRICT,Community water system,Surface water purchased,Newport,PORTSMOUTH,16864,8,10,44
+RI1592024,PROVIDENCE-CITY OF,Community water system,Surface water,Providence,"CRANSTON, JOHNSTON, NORTH PROVIDENCE, PROVIDENCE",308500,23,3,95
+RI2980461,PROVIDENCE-CITY OF - WHIPPLE,Community water system,Surface water purchased,Providence,SMITHFIELD,500,3,1,1
+RI1592023,PRUDENCE ISLAND WATER DISTRICT,Community water system,Ground water,Newport,PORTSMOUTH,1000,13,31,19
+RI1647511,QUONOCHONTAUG EAST BEACH WATER ASSOCIATI,Community water system,Ground water,Washington,CHARLESTOWN,300,6,20,65
+RI1000040,RICHMOND WATER SUPPLY BOARD,Community water system,Ground water,Washington,RICHMOND,2501,8,18,50
+RI2980447,ROCKVILLE MILL COMMUNITY WATER SYSTEM,Community water system,Ground water,Washington,RICHMOND,59,3,3,2
+RI2980423,SAUGATUCKET SPRINGS,Community water system,Ground water,Washington,HOPKINTON,110,5,4,3
+RI2980323,SCITUATE COMMONS,Community water system,Ground water,Providence,SCITUATE,38,6,8,22
+RI2980426,SHADOW WOODS AT DEER BROOK,Community water system,Ground water,Washington,EXETER,300,8,3,4
+RI1559513,SHADY HARBOR FIRE DISTRICT,Community water system,Ground water,Washington,CHARLESTOWN,162,11,3,58
+RI1647529,SHANNOCK WATER DISTRICT,Community water system,Ground water,Washington,RICHMOND,75,8,6,48
+RI1615614,SLATERSVILLE PUBLIC SUPPLY,Community water system,Surface water purchased,Providence,NORTH SMITHFIELD,3224,16,16,166
+RI1615616,SMITHFIELD WATER SUPPLY BOARD,Community water system,Surface water purchased,Providence,SMITHFIELD,9460,7,16,12
+RI2882117,SOUTH KINGSTOWN NURSING AND REHABILITATI,Community water system,Ground water,Washington,SOUTH KINGSTOWN,175,9,8,69
+RI1000015,SOUTH KINGSTOWN-MIDDLEBRIDGE,Community water system,Ground water purchased,Washington,SOUTH KINGSTOWN,543,4,6,9
+RI1615623,SOUTH KINGSTOWN-SOUTH SHORE,Community water system,Ground water,Washington,SOUTH KINGSTOWN,4976,12,16,52
+RI2585312,SPLIT ROCK CORPORATION,Community water system,Ground water,Washington,EXETER,110,7,26,113
+RI1615619,STONE BRIDGE FIRE DISTRICT,Community water system,Surface water,Newport,TIVERTON,2607,9,8,77
+RI1615624,SUEZ WATER,Community water system,Ground water,Washington,SOUTH KINGSTOWN,19800,15,11,98
+RI2000053,SUNSET COVE PROPERTIES LLC,Community water system,Ground water,Providence,GLOCESTER,30,6,1,40
+RI2943224,THE VILLAGE ON CHOPMIST HILL,Community water system,Ground water,Providence,GLOCESTER,250,11,30,157
+RI1900042,"TIVERTON WATER AUTHORITY, TOWN HALL",Community water system,Surface water purchased,Newport,TIVERTON,1430,4,8,5
+RI1615626,TOUISSET POINT WATER TRUST,Community water system,Ground water,Bristol,WARREN,225,8,3,60
+RI1900046,UNITED STATES NAVY (FORT ADAMS),Community water system,Surface water purchased,Newport,NEWPORT,318,5,8,5
+RI1858422,UNIVERSITY OF RHODE ISLAND,Community water system,Ground water,Washington,SOUTH KINGSTOWN,19354,10,33,50
+RI1615627,WARWICK-CITY OF,Community water system,Surface water purchased,Kent,WARWICK,75000,5,13,16
+RI1900051,WARWICK-POTOWOMUT,Community water system,Surface water purchased,Kent,WARWICK,2357,4,7,5
+RI1559512,WESTERLY WATER DEPARTMENT,Community water system,Ground water,Washington,WESTERLY,38000,30,15,69
+RI2000004,WOODPECKER HILL HEALTH CENTER,Community water system,Ground water,Kent,COVENTRY,60,6,13,48
+RI1559518,WOONSOCKET WATER DIVISION,Community water system,Surface water,Providence,WOONSOCKET,42856,27,14,81
+RI2980002,ADCARE RHODE ISLAND INC,Non-Transient non-community system,Ground water,Washington,NORTH KINGSTOWN,70,13,6,39
+RI2051719,ALPINE COUNTRY CLUB,Non-Transient non-community system,Ground water,Providence,CRANSTON,200,11,13,44
+RI1858417,ASHAWAY ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Washington,HOPKINTON,300,6,3,47
+RI1858415,ASHAWAY LINE & TWINE MFG. CO.-LOWER MILL,Non-Transient non-community system,Ground water,Washington,HOPKINTON,50,6,43,45
+RI2980466,BENOIT REALTY LLC DBA ANCHOR SUBARU,Non-Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,240,7,64,4
+RI2980354,BRIARWOOD CHILD ACADEMY SMITHFIELD,Non-Transient non-community system,Ground water,Providence,SMITHFIELD,111,5,8,28
+RI2980311,"BRUIN PLASTICS COMPANY, INC.",Non-Transient non-community system,Ground water,Providence,BURRILLVILLE,50,4,15,61
+RI1900028,BURRILLVILLE MIDDLE SCHOOL,Non-Transient non-community system,Ground water,Providence,BURRILLVILLE,650,5,4,48
+RI1583823,CAPTAIN ISAAC PAINE SCHOOL,Non-Transient non-community system,Ground water,Providence,FOSTER,460,6,2,49
+RI2980192,CAROUSEL INDUSTRIES,Non-Transient non-community system,Ground water,Washington,EXETER,150,5,23,50
+RI1858431,"CHARBERT, INC., DIVISION OF NFA CORP.",Non-Transient non-community system,Ground water,Washington,RICHMOND,130,7,31,62
+RI1592030,CHARIHO REGIONAL HIGH SCHOOL,Non-Transient non-community system,Ground water,Washington,RICHMOND,1300,6,5,80
+RI2980185,CHARIHO REGIONAL MIDDLE SCHOOL,Non-Transient non-community system,Ground water,Washington,RICHMOND,1500,6,1,53
+RI1647525,CHARLESTOWN ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Washington,CHARLESTOWN,350,8,2,49
+RI1900027,CHARLESTOWN MUNICIPAL OFFICES,Non-Transient non-community system,Ground water,Washington,CHARLESTOWN,30,6,1,44
+RI2980421,CHARLESTOWN POLICE STATION,Non-Transient non-community system,Ground water,Washington,CHARLESTOWN,28,4,62,2
+RI2980019,CHARLESTOWN SENIOR COMMUNITY CENTER,Non-Transient non-community system,Ground water,Washington,CHARLESTOWN,40,5,2,52
+RI2980296,"CHEPACHET PROFESSIONAL BUILDING, LLC.",Non-Transient non-community system,Ground water,Providence,GLOCESTER,66,4,2,37
+RI2000111,CHOPMIST HILL COMMUNITY CENTER,Non-Transient non-community system,Ground water,Providence,SCITUATE,50,8,7,17
+RI1615611,CLAYVILLE ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Providence,SCITUATE,140,4,0,45
+RI2980134,"COOPER HILL OFFICE COMPLEX, LLC.",Non-Transient non-community system,Ground water,Providence,GLOCESTER,75,6,78,48
+RI1900003,COVENTRY NATIONAL GUARD,Non-Transient non-community system,Ground water,Kent,COVENTRY,50,8,34,51
+RI2000145,CRANDALL HOUSE-SR. CITIZENS,Non-Transient non-community system,Ground water,Washington,HOPKINTON,30,4,2,48
+RI1000025,CREST MFG CO,Non-Transient non-community system,Ground water,Providence,LINCOLN,40,5,4,45
+RI2980474,DAEDALUS OFFICE PARK,Non-Transient non-community system,Ground water,Washington,HOPKINTON,120,5,1,1
+RI1559516,"DEAN WAREHOUSE SERVICES, INC",Non-Transient non-community system,Ground water,Washington,HOPKINTON,75,6,47,30
+RI2980271,DR. DAYCARE CHILD DEVELOPMENT CENTER,Non-Transient non-community system,Ground water,Providence,FOSTER,82,4,13,22
+RI1900024,EXETER-W.GREENWICH JR/SR HIGH SCHOOL,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,906,6,5,58
+RI2980393,FACTORY MUTUAL RESEARCH CENTER,Non-Transient non-community system,Ground water,Providence,GLOCESTER,110,4,6,3
+RI2980346,FLEMING SCHOOL,Non-Transient non-community system,Ground water,Washington,NORTH KINGSTOWN,40,5,5,20
+RI1000007,FOGARTY MEMORIAL SCHOOL,Non-Transient non-community system,Ground water,Providence,GLOCESTER,427,8,5,52
+RI2980322,FOSTER TOWN HALL,Non-Transient non-community system,Ground water,Providence,FOSTER,90,6,2,22
+RI2980316,"GLOCESTER SENIOR CENTER, MEMORIAL PARK",Non-Transient non-community system,Ground water,Providence,GLOCESTER,100,5,1,10
+RI1583827,GLOCESTER TOWN HALL-SCHOOL ADMINISTRATIO,Non-Transient non-community system,Ground water,Providence,GLOCESTER,170,5,1,47
+RI2000135,"GREENWICH VILLAGE NURSERY SCHOOL, INC.",Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,35,6,5,46
+RI2980430,"HOPKINTON INDUSTRIAL PARK, LLC",Non-Transient non-community system,Ground water,Washington,HOPKINTON,125,5,1,2
+RI2980411,KINGSTON HILL ACADEMY,Non-Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,180,5,1,3
+RI1592012,LADD CENTER WATER SYSTEM,Non-Transient non-community system,Ground water,Washington,EXETER,129,9,48,41
+RI2980197,LAKEVIEW CHARLESTOWN EARLY LRNING CTR.,Non-Transient non-community system,Ground water,Washington,CHARLESTOWN,42,5,12,18
+RI2980422,MEADOWBROOK WALDORF SCHOOL,Non-Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,150,5,28,4
+RI1583819,METCALF ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Washington,EXETER,687,6,4,51
+RI1559510,MILDRED E LINEHAM SCHOOL,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,90,5,0,48
+RI2980468,MIRIAM HOSPITAL - LIFESPAN,Non-Transient non-community system,Surface water purchased,Providence,PROVIDENCE,2401,6,2,0
+RI2980341,NACH REALTY TRUST (ME TO PRESCHOOL),Non-Transient non-community system,Ground water,Providence,BURRILLVILLE,115,4,3,3
+RI2980135,NEW ERA ENRICHMENT ACADEMY,Non-Transient non-community system,Ground water,Providence,JOHNSTON,130,7,4,42
+RI2980471,NEWPORT HOSPITAL - LIFESPAN,Non-Transient non-community system,Surface water purchased,Newport,NEWPORT,981,8,0,0
+RI1615613,NORTH SCITUATE ELEMENTARY,Non-Transient non-community system,Ground water,Providence,SCITUATE,500,5,16,76
+RI1900004,NORTH SMITHFIELD AIR NATIONAL GUARD SYST,Non-Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,25,8,5,41
+RI1900026,NORTH SMITHFIELD ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,460,6,4,118
+RI1592017,NORTH SMITHFIELD JR_SR HIGH SCHOOL,Non-Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,1200,8,2,52
+RI2000160,"OAK HARBOR VILLAGE, LLC.",Non-Transient non-community system,Ground water,Washington,EXETER,290,5,5,5
+RI1900040,OCEAN STATE POWER LLC,Non-Transient non-community system,Ground water,Providence,BURRILLVILLE,30,5,2,41
+RI2980384,OCEAN STATE TRANSIT-CHARIHO,Non-Transient non-community system,Ground water,Washington,RICHMOND,25,6,0,3
+RI2980264,PHOENIX HOUSE OF NEW ENGLAND,Non-Transient non-community system,Ground water,Washington,EXETER,74,6,1,21
+RI1900038,PINEWOOD PARK SCHOOL,Non-Transient non-community system,Ground water,Providence,GLOCESTER,125,5,5,49
+RI1583829,PONAGANSET HIGH SCHOOL,Non-Transient non-community system,Ground water,Providence,GLOCESTER,1600,15,18,103
+RI2980425,PONAGANSET MIDDLE SCHOOL,Non-Transient non-community system,Ground water,Providence,GLOCESTER,923,6,3,1
+RI1592025,QUONSET BUSINESS PARK,Non-Transient non-community system,Ground water,Washington,NORTH KINGSTOWN,11000,14,11,18
+RI2980330,R.I. STATE  POLICE HEADQUARTERS (NEW),Non-Transient non-community system,Ground water,Providence,SCITUATE,100,6,1,22
+RI2980469,RHODE ISLAND HOSPITAL - LIFESPAN,Non-Transient non-community system,Surface water purchased,Providence,PROVIDENCE,6996,18,0,0
+RI2980450,ROCHS FRESH FOODS FACILITY,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,25,5,0,3
+RI2980138,"SAKONNET EARLY LEARNING CENTER, INC.",Non-Transient non-community system,Ground water,Newport,TIVERTON,200,4,3,51
+RI1900044,SCITUATE EARLY LEARNING CENTER,Non-Transient non-community system,Ground water,Providence,SCITUATE,86,5,3,45
+RI1615612,SCITUATE HIGH SCHOOL & MIDDLE SCHOOL,Non-Transient non-community system,Ground water,Providence,SCITUATE,1400,7,4,79
+RI2980030,SCITUATE VILLAGE PLAZA,Non-Transient non-community system,Ground water,Providence,SCITUATE,499,5,5,53
+RI2980140,"SILVEIRA KINDERGARTEN & NURSERY SCHOOL,",Non-Transient non-community system,Ground water,Newport,MIDDLETOWN,66,5,5,22
+RI2051729,"SKI PRO, INC.",Non-Transient non-community system,Ground water,Washington,EXETER,45,5,8,60
+RI2980229,ST. ANDREW LUTHERAN CHURCH,Non-Transient non-community system,Ground water,Washington,CHARLESTOWN,85,6,0,41
+RI1858414,THE BEADERY INDUSTRIAL,Non-Transient non-community system,Ground water,Washington,HOPKINTON,50,6,1,46
+RI1900035,THE BEADERY WAREHOUSE,Non-Transient non-community system,Ground water,Washington,HOPKINTON,30,5,0,42
+RI2980050,THE GREENE SCHOOL - BUILDING 1,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,250,5,1,49
+RI2980310,THE GREENE SCHOOL - BUILDING 2 & 3,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,25,10,3,43
+RI2980458,TIVERTON FOUR CORNERS,Non-Transient non-community system,Ground water,Newport,TIVERTON,41,5,67,5
+RI2980127,TRINITY LUTHERAN PRE-SCHOOL,Non-Transient non-community system,Ground water,Washington,HOPKINTON,45,6,1,44
+RI1900055,WASHINGTON OAK ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water purchased,Kent,COVENTRY,660,5,3,3
+RI1583820,WAWALOAM SCHOOL,Non-Transient non-community system,Ground water,Washington,EXETER,290,7,1,39
+RI1900041,WEST GLOCESTER ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Providence,GLOCESTER,541,6,3,46
+RI1900056,WEST GREENWICH TOWN HALL,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,40,5,7,3
+RI2980015,WEST GREENWICH TRAVEL CENTER,Non-Transient non-community system,Ground water,Kent,WEST GREENWICH,255,10,50,46
+RI1647527,WESTERN COVENTRY ELEM SCHOOL,Non-Transient non-community system,Ground water,Kent,COVENTRY,496,5,1,55
+RI1858425,WILBUR AND MCMAHON SCHOOL,Non-Transient non-community system,Ground water,Newport,LITTLE COMPTON,458,6,9,97
+RI2000133,WOOD RIVER HEALTH SERVICES,Non-Transient non-community system,Ground water,Washington,HOPKINTON,150,5,1,44
+RI2973119,WRIGHTS FARM CORP.,Non-Transient non-community system,Ground water,Providence,BURRILLVILLE,1200,14,7,93
+RI2980147,A-1 PIZZA,Transient non-community system,Ground water,Newport,LITTLE COMPTON,68,5,2,35
+RI2973111,"ABM, INC.DBA THE ATLANTIC INN",Transient non-community system,Ground water,Washington,NEW SHOREHAM,186,5,1,31
+RI2000077,ABRAHAM MANCHESTER RESTAURANT & TAVERN,Transient non-community system,Ground water,Newport,LITTLE COMPTON,110,5,5,2
+RI2943219,ADLER BROTHERS DEVELOPMENT,Transient non-community system,Ground water,Providence,GLOCESTER,50,6,4,36
+RI2980004,AEGEAN PIZZA & CREAMERY,Transient non-community system,Ground water,Providence,GLOCESTER,155,6,49,50
+RI2943218,AGIOS INC DBA THE GENTLEMAN FARMER REST.,Transient non-community system,Ground water,Providence,GLOCESTER,100,4,14,41
+RI2980039,"ALBACO,L.L.C.   (A.K.A. SHORELINE PLAZA)",Transient non-community system,Ground water,Washington,CHARLESTOWN,40,4,9,43
+RI2980295,"ALLIED REALTY ASSOCIATES, LLC",Transient non-community system,Ground water,Providence,GLOCESTER,450,5,10,33
+RI2087020,"ALLIES DONUTS, INC.",Transient non-community system,Ground water,Washington,NORTH KINGSTOWN,500,8,8,47
+RI2980465,AMICABLE CONGREGATIONAL CHURCH,Transient non-community system,Ground water,Newport,TIVERTON,25,5,0,1
+RI2980151,"ANDREWS REALTY, INC. DBA RICHMOND PLAZA",Transient non-community system,Ground water,Washington,RICHMOND,64,4,5,44
+RI2980336,"ARROWHEAD DENTAL ASSOCIATES, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,100,7,2,6
+RI1000044,ASHAWAY LINE & TWINE MFG. CO.-UPPER MILL,Transient non-community system,Ground water,Washington,HOPKINTON,25,5,1,43
+RI2980460,ASHAWAY RV RESORT,Transient non-community system,Ground water,Washington,HOPKINTON,150,4,2,1
+RI2519429,AYOHO CAMPGROUND,Transient non-community system,Ground water,Kent,COVENTRY,50,4,7,3
+RI2980152,B & D FOOD MART,Transient non-community system,Ground water,Providence,FOSTER,100,5,3,34
+RI2428717,BACK IN THYME,Transient non-community system,Ground water,Washington,HOPKINTON,50,6,0,2
+RI2389715,"BARRINGTON INN, THE",Transient non-community system,Ground water,Washington,NEW SHOREHAM,50,5,1,38
+RI2980445,BEACON FREE WILL BAPTIST CHURCH,Transient non-community system,Ground water,Washington,EXETER,250,5,0,2
+RI2980379,"BEAVER RIVER GOLF CLUB, INC.",Transient non-community system,Ground water,Washington,RICHMOND,25,6,4,4
+RI2261720,"BEL-AIR MOTOR INN, INC.",Transient non-community system,Ground water,Providence,JOHNSTON,30,6,0,42
+RI2980079,BELLA RESTAURANT,Transient non-community system,Ground water,Providence,BURRILLVILLE,130,5,15,63
+RI2980148,BELLEVUE HOUSE,Transient non-community system,Ground water,Washington,NEW SHOREHAM,51,5,9,36
+RI2000117,BEST VALUE INN,Transient non-community system,Ground water,Providence,SCITUATE,25,6,1,47
+RI2000076,BLACKIES BULLDOG TAVERN,Transient non-community system,Ground water,Providence,SMITHFIELD,100,6,8,37
+RI2389711,BLOCK ISLAND AIRPORT OPERATIONS,Transient non-community system,Ground water,Washington,NEW SHOREHAM,400,5,4,44
+RI2519415,BLUE SHUTTERS,Transient non-community system,Ground water,Washington,CHARLESTOWN,200,4,4,21
+RI2980417,BONEYARD BBQ,Transient non-community system,Ground water,Washington,HOPKINTON,249,5,3,1
+RI2980254,"BOWDISH LAKE CAMPING AREA, BROWN 1 & 2,",Transient non-community system,Ground water,Providence,GLOCESTER,194,10,7,26
+RI2980309,BREACHWAY PROPERTIES LLC,Transient non-community system,Ground water,Washington,CHARLESTOWN,25,5,17,44
+RI2980009,"BRICK OVEN RESTAURANT, THE, INC.",Transient non-community system,Ground water,Washington,HOPKINTON,212,5,3,39
+RI2753324,"BRIGGS BEACH, INC.",Transient non-community system,Ground water,Newport,LITTLE COMPTON,250,4,4,20
+RI2980463,BRIGGS-BOESCH FARM,Transient non-community system,Ground water,Kent,EAST GREENWICH,25,4,1,1
+RI2973128,BUCK HILL FAMILY CAMPGROUND,Transient non-community system,Ground water,Providence,BURRILLVILLE,100,9,7,45
+RI2980299,BUILDING #747 VICTORY HIGHWAY,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,44,5,3,39
+RI1647523,BURLINGAME PARK-PROSSER BEACH-PICNIC ARE,Transient non-community system,Ground water,Washington,CHARLESTOWN,305,4,4,24
+RI1000005,BURLINGAME RESERVATION-MAIN CAMP-LEGIONT,Transient non-community system,Ground water,Washington,CHARLESTOWN,3024,8,18,54
+RI2943217,CADYS TAVERN,Transient non-community system,Ground water,Providence,GLOCESTER,70,5,10,66
+RI2980241,CAMP ALDERSGATE CAMPSITE DINING HALL,Transient non-community system,Ground water,Providence,SCITUATE,90,4,12,35
+RI2943216,CAMP ALDERSGATE RETREAT CENTER,Transient non-community system,Ground water,Providence,SCITUATE,42,4,0,41
+RI2943221,CAMP COOKIE,Transient non-community system,Ground water,Providence,GLOCESTER,180,4,4,10
+RI2980145,CAMP E-HUN-TEE,Transient non-community system,Ground water,Washington,EXETER,68,7,10,54
+RI2882119,CAMP HOFFMAN,Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,160,7,8,10
+RI2980199,CAMP JORI,Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,250,5,15,24
+RI2980256,CAMP KER-ANNA - CABIN,Transient non-community system,Ground water,Providence,CUMBERLAND,180,6,2,24
+RI2000062,CAMP PONAGANSETT,Transient non-community system,Ground water,Providence,GLOCESTER,86,5,6,23
+RI2980257,"CAMP RUSSELL (CANOE HOUSE WELL), MALLARD",Transient non-community system,Ground water,Providence,GLOCESTER,70,4,10,30
+RI2000063,CAMP RUSSELL-PUMP HOUSE   MALLARD SHORES,Transient non-community system,Ground water,Providence,GLOCESTER,140,5,16,25
+RI2674911,CAMP WATCHAUG,Transient non-community system,Ground water,Washington,CHARLESTOWN,200,6,4,25
+RI2980427,CENTRAL COVENTRY PARK PAVILION,Transient non-community system,Ground water,Kent,COVENTRY,360,4,2,1
+RI2980248,CHAMPLIN SCOUT RESERVATION BSA - LOWER P,Transient non-community system,Ground water,Providence,CRANSTON,200,4,0,36
+RI2980249,CHAMPLIN SCOUT RESERVATION BSA - UPPER P,Transient non-community system,Ground water,Providence,CRANSTON,75,5,4,36
+RI2973112,"CHAMPLINS MARINA & RESORTS, INC.",Transient non-community system,Ground water,Washington,NEW SHOREHAM,300,6,6,37
+RI2980428,CHARIHO SOUTHERN BAPTIST CHURCH,Transient non-community system,Ground water,Washington,HOPKINTON,300,5,6,2
+RI2519422,CHARLESTOWN COMMONS,Transient non-community system,Ground water,Washington,CHARLESTOWN,150,5,4,4
+RI2980416,"CHARLESTOWN MINI-SUPER, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,75,4,3,2
+RI2000036,CHARLESTOWN RATHSKELLER TAVERN INC.,Transient non-community system,Ground water,Washington,CHARLESTOWN,300,8,3,47
+RI2980068,"CHARLESTOWN VILLAGE,LLC SIMPLE PLEASURES",Transient non-community system,Ground water,Washington,CHARLESTOWN,144,4,0,44
+RI2980358,CHEPACHET UNION CHURCH,Transient non-community system,Ground water,Providence,GLOCESTER,150,7,1,20
+RI2980021,"CINDYS DINER & RESTAURANT, INC.",Transient non-community system,Ground water,Providence,SCITUATE,400,5,1,44
+RI2980470,CLARK MEMORIAL LIBRARY,Transient non-community system,Ground water,Washington,RICHMOND,30,4,3,1
+RI2980409,CLASSIC ACRES INC. DBA WOOD RIVER GOLF,Transient non-community system,Ground water,Washington,HOPKINTON,175,5,3,3
+RI2980182,"CLASSIC MOTOR LODGE, INC.",Transient non-community system,Ground water,Kent,WEST GREENWICH,35,5,7,47
+RI2980337,COLD BROOK CAFE,Transient non-community system,Ground water,Providence,SCITUATE,100,5,4,20
+RI2755316,"COMMONS LUNCH, INC.",Transient non-community system,Ground water,Newport,LITTLE COMPTON,96,9,7,13
+RI2980366,CONFREDA GREENHOUSES & FARMS,Transient non-community system,Ground water,Providence,SCITUATE,300,5,5,16
+RI2980026,"CORNER BISTRO, LLC",Transient non-community system,Ground water,Providence,SCITUATE,105,5,8,41
+RI2000162,CORNERSTONE PUB,Transient non-community system,Ground water,Washington,EXETER,100,5,1,42
+RI2980317,"COUNTRY FOOD MART, LLC",Transient non-community system,Ground water,Washington,CHARLESTOWN,150,5,5,18
+RI2973118,COUNTRY VIEW GOLF CLUB,Transient non-community system,Ground water,Providence,BURRILLVILLE,185,5,2,32
+RI2051715,"COVENTRY MENS CLUB, INC.",Transient non-community system,Ground water,Kent,COVENTRY,50,6,20,47
+RI2980029,"CROWTHERS RESTAURANT, INC.",Transient non-community system,Ground water,Newport,LITTLE COMPTON,75,5,4,17
+RI2980222,CUMBERLAND FARMS STORE #1262 CHARLESTOWN,Transient non-community system,Ground water,Washington,CHARLESTOWN,50,5,1,42
+RI2980312,D. B. MART #9,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,25,5,26,40
+RI2000095,"D.R. MOTEL ENTERPRISES, INC.",Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,30,7,17,87
+RI2000139,DANNYS AUCTION,Transient non-community system,Ground water,Providence,FOSTER,50,6,8,39
+RI2980405,DANS PLACE,Transient non-community system,Ground water,Kent,WEST GREENWICH,75,4,2,2
+RI2980132,DELANO ISLAND WATER ASSOCIATION,Transient non-community system,Ground water,Newport,TIVERTON,25,5,3,31
+RI2980220,DINOS PARK & SHOP,Transient non-community system,Ground water,Providence,GLOCESTER,25,4,0,20
+RI2980292,DLM VARIETY DBA HARMONY CORNER STORE,Transient non-community system,Ground water,Providence,GLOCESTER,104,4,12,36
+RI2788026,DORRS TAVERN LLC,Transient non-community system,Ground water,Providence,GLOCESTER,120,5,3,49
+RI2000038,DOWNEY WEAVER POST  #34 AMERICAN LEGION,Transient non-community system,Ground water,Washington,CHARLESTOWN,500,6,1,40
+RI2980360,DUBS ENTERPRISE LLC,Transient non-community system,Ground water,Washington,HOPKINTON,56,5,5,19
+RI2980404,DUNKIN DONUTS - PMM REALTY ASSOCIATES LL,Transient non-community system,Ground water,Providence,SCITUATE,100,5,2,4
+RI2980408,DUNKIN DONUTS CHEPACHET #338022,Transient non-community system,Ground water,Providence,GLOCESTER,100,6,24,2
+RI2000093,DUNKIN DONUTS N. SMITHFIELD 330325,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,100,6,9,41
+RI2980395,DUNKIN DONUTS RICHMOND 342433,Transient non-community system,Ground water,Washington,RICHMOND,150,4,3,3
+RI2788017,"DYER WOODS NUDIST CAMPGROUND, LLC",Transient non-community system,Ground water,Providence,FOSTER,106,5,4,24
+RI2051728,EAST GREENWICH GOLF AND COUNTRY CLUB,Transient non-community system,Ground water,Kent,EAST GREENWICH,100,5,8,36
+RI2000072,ECHO LAKE CAMPGROUND,Transient non-community system,Ground water,Providence,BURRILLVILLE,200,6,1,23
+RI2973120,EPISCOPAL CONFERENCE CENTER HOUSE,Transient non-community system,Ground water,Providence,BURRILLVILLE,200,5,4,43
+RI2980247,EPISCOPAL CONFERENCE CENTER-GIRLS AREA,Transient non-community system,Ground water,Providence,BURRILLVILLE,90,4,1,24
+RI2980034,"ERNIES OLD HARBOR REST., INC. DBA ERNIE",Transient non-community system,Ground water,Washington,NEW SHOREHAM,400,6,0,32
+RI2980035,"EUREKA HOTEL CORP., INC.",Transient non-community system,Ground water,Washington,NEW SHOREHAM,70,5,9,36
+RI2980188,EXETER CHAPEL,Transient non-community system,Ground water,Washington,EXETER,300,5,2,40
+RI2585316,"EXETER COUNTRY CLUB, INC.",Transient non-community system,Ground water,Washington,EXETER,75,4,2,35
+RI2980403,EXETER PUBLIC LIBRARY,Transient non-community system,Ground water,Washington,EXETER,33,4,5,2
+RI2000118,FAMOUS PIZZA,Transient non-community system,Ground water,Providence,SCITUATE,204,7,10,48
+RI2674917,FANTASTIC UMBRELLA FACTORY,Transient non-community system,Ground water,Washington,CHARLESTOWN,108,5,11,39
+RI2980348,FAS MART #335,Transient non-community system,Ground water,Washington,HOPKINTON,25,6,3,25
+RI2980353,FEINSTEIN YOUTH CAMP,Transient non-community system,Ground water,Providence,BURRILLVILLE,225,5,2,21
+RI2980362,"FENNER HILL GOLF CLUB, L.L.C.",Transient non-community system,Ground water,Washington,HOPKINTON,250,5,4,17
+RI2980113,FIRST 7TH DAY BAPTIST CHURCH OF HOPKINTO,Transient non-community system,Ground water,Washington,HOPKINTON,30,8,7,8
+RI2788016,FOSTER COUNTRY CLUB INC.,Transient non-community system,Ground water,Providence,FOSTER,200,4,14,35
+RI2980275,FOSTER XTRA MART,Transient non-community system,Ground water,Providence,FOSTER,220,5,1,37
+RI2980467,FREDERICKSON FARMS,Transient non-community system,Ground water,Providence,SCITUATE,100,2,42,0
+RI2000109,FREDRICK J. BENSON TOWN BEACH,Transient non-community system,Ground water,Washington,NEW SHOREHAM,1000,6,11,29
+RI2428721,FRONTIER CAMPER PARK,Transient non-community system,Ground water,Washington,HOPKINTON,438,7,5,22
+RI2980176,FROSTY DREW NATURE CENTER-NINIGRET PARK,Transient non-community system,Ground water,Washington,CHARLESTOWN,28,4,11,37
+RI2980357,GALAPAGOS COLLECTION INC,Transient non-community system,Ground water,Washington,CHARLESTOWN,150,5,1,4
+RI2980218,GEMELLI BISTRO,Transient non-community system,Ground water,Washington,CHARLESTOWN,1000,5,1,41
+RI2674930,GENERAL STANTON INN,Transient non-community system,Ground water,Washington,CHARLESTOWN,75,4,2,39
+RI2980324,GEORGE MELANIS PROPERTY,Transient non-community system,Ground water,Kent,COVENTRY,25,5,14,80
+RI1583828,GEORGE WASHINGTON CAMPGROUND,Transient non-community system,Ground water,Providence,GLOCESTER,135,4,2,29
+RI2980472,GEORGE WASHINGTON CAMPGROUND REST RM FAC,Transient non-community system,Ground water,Providence,GLOCESTER,150,2,0,2
+RI2788015,GINNY-B FAMILY CAMPGROUND,Transient non-community system,Ground water,Providence,FOSTER,600,8,4,29
+RI2980399,GLAD TIDINGS COMMUNITY CHURCH,Transient non-community system,Ground water,Providence,GLOCESTER,25,4,6,2
+RI2943213,GLOCESTER COUNTRY CLUB,Transient non-community system,Ground water,Providence,GLOCESTER,40,5,1,33
+RI2980049,GLOCESTER MOTOR INN,Transient non-community system,Ground water,Providence,GLOCESTER,25,4,2,44
+RI2980083,GRANITE FARM RESTAURANT,Transient non-community system,Ground water,Providence,SCITUATE,200,5,4,22
+RI2051310,"GRAYS ICE CREAM, INC.",Transient non-community system,Ground water,Newport,TIVERTON,150,5,10,73
+RI2980038,GREENWAY CAFE,Transient non-community system,Ground water,Kent,COVENTRY,40,5,1,39
+RI2428720,GREENWOOD HILL CAMPGROUND ASSOCIATION,Transient non-community system,Ground water,Washington,HOPKINTON,100,4,8,13
+RI2980058,"HARBORSIDE INN, INC.",Transient non-community system,Ground water,Washington,NEW SHOREHAM,1000,8,2,36
+RI2943214,HARMONY LODGE RESTAURANT,Transient non-community system,Ground water,Providence,GLOCESTER,310,5,5,47
+RI2980238,"HARMONY MARKETPLACE, LLC",Transient non-community system,Ground water,Providence,GLOCESTER,50,6,6,42
+RI2980061,HELENS PLACE INC,Transient non-community system,Ground water,Providence,FOSTER,27,5,7,33
+RI2051718,HICKORY RIDGE CAMPGROUND,Transient non-community system,Ground water,Kent,COVENTRY,100,6,8,26
+RI2973110,HIGHVIEW INN,Transient non-community system,Ground water,Washington,NEW SHOREHAM,100,5,19,84
+RI2087018,HILLTOP INN,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,50,5,15,46
+RI1000099,HOG ISLAND WATER ASSOC.INC.-NORTH END,Transient non-community system,Ground water,Newport,PORTSMOUTH,275,5,8,5
+RI1000097,HOG ISLAND WATER ASSOCIATION-SOUTH END,Transient non-community system,Ground water,Newport,PORTSMOUTH,100,6,7,4
+RI2519425,"HOLIDAY ACRES, INC.",Transient non-community system,Ground water,Providence,GLOCESTER,45,7,7,11
+RI2428719,"HOLLY TREE CAMPER PARK, INC.",Transient non-community system,Ground water,Washington,HOPKINTON,300,5,4,25
+RI2980126,"HOMESTEAD RESTAURANT, M.S.T., INC.",Transient non-community system,Ground water,Washington,EXETER,160,4,6,45
+RI2980219,HOPKINTON TOWN HALL,Transient non-community system,Ground water,Washington,HOPKINTON,25,5,2,20
+RI2415418,HOWARDS COUNTRY CHOWDER SHACK,Transient non-community system,Ground water,Providence,SCITUATE,300,6,7,28
+RI2980077,IDEAL PIZZA,Transient non-community system,Ground water,Providence,BURRILLVILLE,53,5,4,45
+RI2980064,IN THE MIDDLE OF NOWHERE DINER,Transient non-community system,Ground water,Washington,EXETER,100,4,8,48
+RI2943211,IRONS HOMESTEAD & CAMP RUGGLES,Transient non-community system,Ground water,Providence,GLOCESTER,200,5,5,46
+RI2980215,JOHNSTON CONGREGATION OF JEHOVAHS WITNES,Transient non-community system,Ground water,Providence,JOHNSTON,110,5,3,48
+RI2882126,JOSEPH VIDETTA REALTY TRUST,Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,157,4,1,40
+RI2980308,K & S PIZZA,Transient non-community system,Ground water,Washington,RICHMOND,152,5,10,33
+RI2980365,"KILDUFF BROTHERS BUILDERS, INC.",Transient non-community system,Ground water,Providence,SCITUATE,25,5,3,22
+RI2980094,"KINGSTON PIZZA OF CHARLESTOWN, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,60,6,6,31
+RI2980400,KNIGHT FARM LLC,Transient non-community system,Ground water,Providence,GLOCESTER,100,4,6,2
+RI2980195,KSL CRANSTON REALTY,Transient non-community system,Ground water,Washington,HOPKINTON,125,6,2,50
+RI2585324,LINDYS TAVERN,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,53,4,2,42
+RI2980455,LINE BAPTIST CHURCH,Transient non-community system,Ground water,Providence,FOSTER,35,4,0,1
+RI2980386,LITTLE COMPTON WELLNESS CENTER,Transient non-community system,Ground water,Newport,LITTLE COMPTON,25,5,2,8
+RI2980088,LITTLE COUNTRY PIZZA,Transient non-community system,Ground water,Washington,EXETER,60,5,7,44
+RI2980089,LITTLE RHODY VASA PARK,Transient non-community system,Ground water,Providence,FOSTER,150,6,4,32
+RI2087014,"LONG COVE MARINA CAMPGROUND, LLC",Transient non-community system,Ground water,Washington,NARRAGANSETT,175,9,2,33
+RI2000129,LUCKY HOUSE LLC,Transient non-community system,Ground water,Washington,HOPKINTON,120,6,21,35
+RI2788019,LUCKYS,Transient non-community system,Ground water,Providence,FOSTER,52,5,4,44
+RI2980277,"MAPLEVILLE MAIN, INC-PLANT 1",Transient non-community system,Ground water,Providence,BURRILLVILLE,25,4,4,36
+RI2980278,"MAPLEVILLE MAIN, INC-PLANT 2",Transient non-community system,Ground water,Providence,BURRILLVILLE,25,4,5,36
+RI2674921,"MEADOW BROOK INN, LTD.",Transient non-community system,Ground water,Washington,CHARLESTOWN,350,4,4,48
+RI2942529,MEADOWBROOK GOLF COURSE-CLUBHOUSE,Transient non-community system,Ground water,Washington,RICHMOND,100,4,2,22
+RI2788030,"MELODY HILL COUNTRY CLUB, INC.",Transient non-community system,Ground water,Providence,GLOCESTER,165,5,5,36
+RI2980263,MICHAELS SHELL STATION,Transient non-community system,Ground water,Washington,CHARLESTOWN,175,7,8,28
+RI2980377,MIDDLETOWN FOP LODGE 21,Transient non-community system,Ground water,Newport,MIDDLETOWN,189,4,1,16
+RI2814111,MIDVILLE GOLF COURSE,Transient non-community system,Ground water,Kent,WEST WARWICK,200,5,3,44
+RI2389718,MINISTERS LOT HOMEOWNERS ASSOC.,Transient non-community system,Ground water,Washington,NEW SHOREHAM,44,5,4,26
+RI2000074,MONTYS VICTORY DINER,Transient non-community system,Ground water,Providence,BURRILLVILLE,90,5,3,2
+RI2980444,MOTHER OF HOPE CAMP (#2),Transient non-community system,Ground water,Providence,GLOCESTER,225,5,1,2
+RI2980244,MOTHER OF HOPE DAY CAMP,Transient non-community system,Ground water,Providence,GLOCESTER,200,4,4,24
+RI2943210,MR. Z'S BY THE LAKE LLC,Transient non-community system,Ground water,Providence,GLOCESTER,50,5,17,58
+RI2980314,"MURPHYS MOBIL, INC.",Transient non-community system,Ground water,Kent,COVENTRY,100,4,24,22
+RI2389713,NARRAGANSETT INN,Transient non-community system,Ground water,Washington,NEW SHOREHAM,90,4,16,46
+RI2980239,NATIONAL SHERIFFS ASSOCIATION,Transient non-community system,Ground water,Washington,EXETER,115,6,7,37
+RI2980078,NEIGHBORHOOD VARIETY,Transient non-community system,Ground water,Providence,WOONSOCKET,50,5,2,42
+RI2980383,NEW ENGLAND FARMS,Transient non-community system,Ground water,Providence,BURRILLVILLE,50,5,79,7
+RI2980350,NEW HOPE CHAPEL,Transient non-community system,Ground water,Washington,RICHMOND,250,5,2,21
+RI2980095,NEWPORT BOYS & GIRLS CLUB CAMP,Transient non-community system,Ground water,Washington,NORTH KINGSTOWN,125,6,8,26
+RI2980406,NEWPORT NATIONAL GOLF CLUB,Transient non-community system,Ground water,Newport,MIDDLETOWN,45,4,12,7
+RI2980018,NINIGRET INN,Transient non-community system,Ground water,Washington,CHARLESTOWN,35,4,12,4
+RI2980175,NINIGRET PARK-LITTLE NINI POND,Transient non-community system,Ground water,Washington,CHARLESTOWN,125,5,9,30
+RI2980174,NINIGRET PARK-TENNIS COURT,Transient non-community system,Ground water,Washington,CHARLESTOWN,27,5,3,32
+RI2519416,NORDIC LODGE,Transient non-community system,Ground water,Washington,CHARLESTOWN,280,10,5,38
+RI2980318,NORTH SCITUATE MEDICAL CENTER,Transient non-community system,Ground water,Providence,SCITUATE,62,5,0,33
+RI2980418,NORTH SCITUATE PUBLIC LIBRARY,Transient non-community system,Ground water,Providence,SCITUATE,100,4,5,3
+RI2980097,NORTH SMITHFIELD FLY FISHING CLUB,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,40,6,4,47
+RI2980280,NORTHWEST COMMUNITY HEALTH CARE,Transient non-community system,Ground water,Providence,FOSTER,85,7,2,4
+RI2051323,NUTZ,Transient non-community system,Ground water,Kent,WEST GREENWICH,50,4,13,52
+RI2051329,OAK EMBERS CAMPGROUND,Transient non-community system,Ground water,Kent,WEST GREENWICH,69,5,7,26
+RI2980099,OAKLEAF CAMPGROUND,Transient non-community system,Ground water,Providence,GLOCESTER,235,5,5,31
+RI2980048,OAKLEYS,Transient non-community system,Ground water,Providence,BURRILLVILLE,100,4,16,39
+RI2980108,OCEAN PHARMACY CHARLESTOWN,Transient non-community system,Ground water,Washington,CHARLESTOWN,107,5,0,40
+RI2980338,OHM GANESH DBA COUNTRY FARMS,Transient non-community system,Ground water,Providence,BURRILLVILLE,33,6,3,19
+RI2980082,OLD MILL DINER,Transient non-community system,Ground water,Washington,CHARLESTOWN,150,5,3,44
+RI2980373,"OLD VILLAGE PROPERTIES, LLC",Transient non-community system,Ground water,Providence,GLOCESTER,200,7,1,7
+RI2519420,"OLD WILCOX TAVERN,INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,150,4,4,44
+RI2980369,OUR LADY OF GOOD HELP,Transient non-community system,Ground water,Providence,BURRILLVILLE,30,4,2,20
+RI2980032,OUT IN NOWHERE CREAMERY,Transient non-community system,Ground water,Kent,COVENTRY,205,5,3,46
+RI2980164,OVERLOOK HOTEL,Transient non-community system,Ground water,Washington,NEW SHOREHAM,144,4,1,24
+RI2753362,PARADISE MOTEL PARK,Transient non-community system,Ground water,Newport,MIDDLETOWN,77,6,22,5
+RI2000040,PASTORE LEISURE CENTER (LADD SCHOOL CAMP,Transient non-community system,Ground water,Washington,CHARLESTOWN,25,4,6,29
+RI2389729,PAYNES NEW HARBOR DOCK,Transient non-community system,Ground water,Washington,NEW SHOREHAM,100,6,11,28
+RI2753327,PEABODYS BEACH,Transient non-community system,Ground water,Newport,MIDDLETOWN,400,4,8,25
+RI2980424,PETES GROCERY BARCAS MARKET,Transient non-community system,Ground water,Washington,HOPKINTON,50,5,2,5
+RI2674912,"PHIL & ANNS SUNSET MOTEL, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,35,5,5,35
+RI2980398,"PINECREST GOLF COURSE, INC.",Transient non-community system,Ground water,Washington,RICHMOND,300,4,1,3
+RI2942517,"PINES RESTAURANT, THE",Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,330,5,7,40
+RI2980040,PINEWOOD PARK,Transient non-community system,Ground water,Providence,GLOCESTER,60,4,3,28
+RI2980367,PLAZA AT PARK SQUARE,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,25,5,11,22
+RI2980287,POPS PIZZA,Transient non-community system,Ground water,Washington,RICHMOND,106,6,7,33
+RI2980394,POUND HILL REAL ESTATE CO LLC,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,40,4,7,3
+RI2980326,"POWDER MILL CREAMERY, LLC",Transient non-community system,Ground water,Providence,SMITHFIELD,400,5,8,32
+RI2674916,PRAMUKH HOSPITALITY LLC DBA KRYSTAL PENG,Transient non-community system,Ground water,Washington,CHARLESTOWN,36,4,6,14
+RI1647514,PRUDENCE PARK WATER COOP,Transient non-community system,Ground water,Newport,PORTSMOUTH,35,5,1,8
+RI1000010,PULASKI MEM PARK-BEACH AREA-DEM DIV. FOR,Transient non-community system,Ground water,Providence,BURRILLVILLE,450,5,1,24
+RI1000011,PULASKI MEMORIAL PARK-PARKING AREA 3,Transient non-community system,Ground water,Providence,GLOCESTER,150,4,2,22
+RI2980104,"PURPLE CAT RESTAURANT, INC.",Transient non-community system,Ground water,Providence,GLOCESTER,25,6,3,50
+RI2000138,R.I. STATE POLICE TRAINING ACADEMY,Transient non-community system,Ground water,Providence,FOSTER,25,5,4,40
+RI2980178,RHODE ISLAND WELCOME CENTER,Transient non-community system,Ground water,Washington,RICHMOND,2000,5,1,107
+RI2942520,"RI SPORTS CENTER, INC.",Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,125,5,22,26
+RI2980270,"RICHMOND COUNTRY CLUB, INC.",Transient non-community system,Ground water,Washington,RICHMOND,275,4,1,18
+RI2980387,RICHMOND TOWN HALL,Transient non-community system,Ground water,Washington,RICHMOND,60,5,3,2
+RI2980285,RIPPYS LIQUOR & MARKETPLACE,Transient non-community system,Ground water,Washington,CHARLESTOWN,111,5,1,35
+RI2980345,ROCKY MOUNTAIN SPRING WATER CO-ARMISTICE,Transient non-community system,Ground water,Providence,PAWTUCKET,25,7,5,2
+RI2980413,ROCKY MOUNTAIN SPRING WATER CO-FRONT ST,Transient non-community system,Ground water,Providence,LINCOLN,25,7,5,2
+RI2980446,ROCKY MOUNTAIN SPRING WATER CO-NO PROV,Transient non-community system,Ground water,Providence,NORTH PROVIDENCE,25,7,2,3
+RI2980415,ROCKY MOUNTAIN SPRING WATER CO-PAWTUCKET,Transient non-community system,Ground water,Providence,PAWTUCKET,25,7,5,2
+RI2980392,ROMANI ORTHODONTICS,Transient non-community system,Ground water,Providence,GLOCESTER,60,4,4,8
+RI2980109,ROSE FARM INN RENTALS INC. DBA ROSE FARM,Transient non-community system,Ground water,Washington,NEW SHOREHAM,55,7,3,27
+RI2000044,ROUND MEADOWS CAMPGROUND,Transient non-community system,Ground water,Newport,LITTLE COMPTON,100,5,9,24
+RI2942516,RUSTIC TRI-VIEW DRIVE IN THEATRE-SNACK B,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,500,5,12,34
+RI2980439,SACHUEST POINT NATL WILDLIFE REFUGE,Transient non-community system,Ground water,Newport,MIDDLETOWN,25,5,9,2
+RI2753318,SAKONNET GOLF CLUB,Transient non-community system,Ground water,Newport,LITTLE COMPTON,200,4,7,21
+RI2980397,SAKONNET POINT CLUB,Transient non-community system,Ground water,Newport,TIVERTON,372,8,23,2
+RI2980306,SAYLES HILL ROD & GUN CLUB,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,130,5,2,37
+RI2000152,SCHARTNER CORNER NURSERY,Transient non-community system,Ground water,Washington,EXETER,25,5,7,28
+RI2980456,SCITUATE LDS CHURCH,Transient non-community system,Ground water,Providence,SCITUATE,111,5,0,1
+RI1000001,SEACONNET POINT FARM,Transient non-community system,Ground water,Newport,LITTLE COMPTON,50,5,2,36
+RI2980112,"SEACREST INN, INC.",Transient non-community system,Ground water,Washington,NEW SHOREHAM,25,4,7,32
+RI2674913,SEAVIEW MOTOR COURT,Transient non-community system,Ground water,Washington,CHARLESTOWN,27,5,2,29
+RI2585329,SHADY ACRES RESTAURANT LLC,Transient non-community system,Ground water,Providence,FOSTER,260,5,3,39
+RI2980120,"SHELTER COVE MARINA,LLC",Transient non-community system,Ground water,Washington,CHARLESTOWN,100,6,10,28
+RI2980184,SIMMONS CAFE AND MARKETPLACE,Transient non-community system,Ground water,Newport,LITTLE COMPTON,500,5,8,39
+RI2980114,SIZZLER'S BAR & GRILLE,Transient non-community system,Ground water,Providence,CUMBERLAND,195,5,8,33
+RI2980297,SLATERSVILLE MEDICAL COMPLEX,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,400,5,5,56
+RI2980169,SMITH VILLAGE,Transient non-community system,Ground water,Newport,LITTLE COMPTON,32,5,4,17
+RI2980284,"SMITHFIELD SPORTSMANS CLUB, INC.",Transient non-community system,Ground water,Providence,SMITHFIELD,30,5,2,21
+RI1647520,"SONQUIPAUG ASSOCIATION, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,140,4,0,45
+RI2980372,SOPHIES BREW HOUSE INC,Transient non-community system,Ground water,Washington,EXETER,100,3,14,8
+RI2980141,"SOUTH SHORE MENTAL HEALTH CENTER, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,95,7,3,55
+RI2389725,SPRING HOUSE HOTEL (ISLAND ENTERTAINMENT,Transient non-community system,Ground water,Washington,NEW SHOREHAM,200,5,2,33
+RI2973115,SPRING LAKE RECREATIONAL FACILITY,Transient non-community system,Ground water,Providence,BURRILLVILLE,450,4,1,23
+RI2980371,ST. EUGENES CHURCH,Transient non-community system,Ground water,Providence,GLOCESTER,25,5,2,20
+RI2980431,ST. JOSEPHS CHURCH,Transient non-community system,Ground water,Providence,SCITUATE,880,5,2,1
+RI2980380,ST. JOSEPH‘S CEMETERY,Transient non-community system,Ground water,Kent,WEST GREENWICH,25,5,0,7
+RI2980436,ST. MARY & ST. MENA COPTIC CHURCH OF RI,Transient non-community system,Ground water,Providence,CRANSTON,600,4,0,3
+RI2980119,ST. PAUL THE APOSTLE CHURCH,Transient non-community system,Ground water,Providence,FOSTER,200,6,1,42
+RI2980356,ST. THERESA OF THE CHILD JESUS CHURCH,Transient non-community system,Ground water,Providence,BURRILLVILLE,150,4,11,20
+RI2000137,STATE LINE DINER,Transient non-community system,Ground water,Providence,FOSTER,70,5,10,54
+RI2980124,"STEPPING STONE STABLES, INC.",Transient non-community system,Ground water,Kent,WEST GREENWICH,25,7,20,31
+RI2000056,STICKS TAVERN (PUTNAM PROPERTIES),Transient non-community system,Ground water,Providence,GLOCESTER,45,6,8,44
+RI2980081,STONE HOUSE MOTOR INN,Transient non-community system,Ground water,Providence,FOSTER,26,5,6,28
+RI2755317,"STONEHOUSE RESORT, INC",Transient non-community system,Ground water,Newport,LITTLE COMPTON,108,5,12,4
+RI2980352,"SUMMIT GENERAL STORE, LTD.",Transient non-community system,Ground water,Kent,COVENTRY,350,5,3,24
+RI2415415,"SUNRISE ASSOCIATES, LLC",Transient non-community system,Ground water,Providence,SCITUATE,25,6,31,52
+RI2000035,SURFSIDE MOTEL,Transient non-community system,Ground water,Washington,CHARLESTOWN,25,5,4,27
+RI2000092,"TDM ENTERPRISES, INC., DBA GATORS PUB",Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,215,6,1,43
+RI2980069,THE CORNER DELI,Transient non-community system,Ground water,Washington,CHARLESTOWN,500,5,4,24
+RI2980056,THE COVE,Transient non-community system,Ground water,Washington,CHARLESTOWN,67,7,12,40
+RI2519421,"THE HITCHING POST, INC.",Transient non-community system,Ground water,Washington,CHARLESTOWN,100,4,9,20
+RI2389723,THE OAR & BLOCK ISLAND BOAT BASIN,Transient non-community system,Ground water,Washington,NEW SHOREHAM,150,6,3,30
+RI2980302,THE PILGRIMS BAPTIST CHURCH,Transient non-community system,Ground water,Washington,HOPKINTON,125,4,2,19
+RI2980335,THE PRESERVE AT BOULDER HILLS,Transient non-community system,Ground water,Washington,RICHMOND,170,5,0,1
+RI2980429,THE SULLIVAN HOUSE,Transient non-community system,Ground water,Washington,NEW SHOREHAM,200,5,4,2
+RI2000034,THE WINDSWEPT INN,Transient non-community system,Ground water,Washington,CHARLESTOWN,25,4,5,10
+RI2980464,TIVERTON ROD & GUN CLUB,Transient non-community system,Ground water,Newport,TIVERTON,1000,4,1,1
+RI2980155,"TOWN PIZZA OF EXETER, INC.",Transient non-community system,Ground water,Washington,EXETER,81,5,0,46
+RI2980125,"TOWNSMEN CLUB, INC.",Transient non-community system,Ground water,Providence,BURRILLVILLE,140,5,15,24
+RI2980438,TRINITY EPISCOPAL CHURCH,Transient non-community system,Ground water,Providence,SCITUATE,150,4,4,2
+RI2980005,TROPIC FROST,Transient non-community system,Ground water,Washington,CHARLESTOWN,100,6,5,22
+RI2389724,"TWIN MAPLES, INC.",Transient non-community system,Ground water,Washington,NEW SHOREHAM,35,4,1,26
+RI2980420,TWISTED THROTTLE,Transient non-community system,Ground water,Washington,EXETER,35,4,0,4
+RI2980374,UHAUL CTR OF NORTH SMITHFIELD,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,25,5,7,9
+RI2973117,UNCLE RONNIES RED TAVERN,Transient non-community system,Ground water,Providence,BURRILLVILLE,110,6,5,34
+RI1900057,US FISH AND WILDLIFE SERVICE VISITOR CTR,Transient non-community system,Ground water,Washington,CHARLESTOWN,75,5,8,3
+RI2051316,"VICTORY CHAPEL CHRISTIAN CHURCH, INC",Transient non-community system,Ground water,Newport,TIVERTON,170,5,7,16
+RI2980172,W. ALTON JONES CAMPUS - ENVIRONMENTAL ED,Transient non-community system,Ground water,Kent,WEST GREENWICH,100,4,5,43
+RI2980385,W. ALTON JONES CAMPUS-MAIN OFF-FARM HOUS,Transient non-community system,Ground water,Kent,WEST GREENWICH,25,5,2,2
+RI2051326,W. ALTON JONES CAMPUS-URI-WHISPERING PIN,Transient non-community system,Ground water,Kent,WEST GREENWICH,36,7,8,47
+RI2980290,WALKERS ROADSIDE STAND-BAKERY,Transient non-community system,Ground water,Newport,LITTLE COMPTON,150,5,12,3
+RI2980129,"WALLUM LAKE ROD & GUN CLUB, INC.",Transient non-community system,Ground water,Providence,BURRILLVILLE,25,6,3,40
+RI2755314,"WARRENS POINT BEACH CLUB, INC.",Transient non-community system,Ground water,Newport,LITTLE COMPTON,100,5,6,24
+RI2980251,WATER'S EDGE CAMPGROUND,Transient non-community system,Ground water,Kent,COVENTRY,100,6,6,26
+RI2000150,"WAWALOAM RESERVATION,INC. DBA WAWALOAM C",Transient non-community system,Ground water,Washington,RICHMOND,750,5,4,7
+RI1900031,WEST GREENWICH CONDO ASSOC.,Transient non-community system,Ground water,Kent,WEST GREENWICH,100,7,4,44
+RI2980283,WEST KINGSTON PARK,Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,100,4,4,22
+RI2973127,"WESTERN HOTEL PIZZA & TAVERN DBA AJAR, I",Transient non-community system,Ground water,Providence,BURRILLVILLE,110,5,2,38
+RI2980166,WESTSIDE 836,Transient non-community system,Ground water,Washington,NEW SHOREHAM,25,5,2,23
+RI2051712,WESTWOOD YMCA,Transient non-community system,Ground water,Kent,COVENTRY,610,6,10,25
+RI2943230,WHISPERING PINES CAMPGROUND,Transient non-community system,Ground water,Washington,HOPKINTON,600,6,2,25
+RI2980419,WHITE WINE PLAZA,Transient non-community system,Ground water,Newport,TIVERTON,150,4,1,3
+RI2980205,WILLOWS MOTOR LODGE-TENNIS VILLA HOUSE-W,Transient non-community system,Ground water,Washington,CHARLESTOWN,28,5,0,23
+RI2519419,WILLOWS MOTOR LODGE-WELL #1,Transient non-community system,Ground water,Washington,CHARLESTOWN,70,6,0,6
+RI2980204,WILLOWS MOTOR LODGE-WELL #2,Transient non-community system,Ground water,Washington,CHARLESTOWN,136,7,1,27
+RI2980388,"WINDMILL HILL GOLF COURSE, INC.",Transient non-community system,Ground water,Bristol,WARREN,50,4,18,7
+RI2980131,"WOLF ROCK COUNTRY KITCHEN, INC.",Transient non-community system,Ground water,Washington,EXETER,254,5,6,41
+RI2788013,WOODLAND MEETING HOUSE,Transient non-community system,Ground water,Providence,FOSTER,26,5,9,61
+RI2980440,WOON CONGREGATION OF JEHOVAHS WITNESSES,Transient non-community system,Ground water,Providence,NORTH SMITHFIELD,175,4,3,3
+RI1000018,YAWGOOG SCOUT RESERVATION,Transient non-community system,Surface water,Washington,HOPKINTON,1100,8,3,37
+RI2882118,YMCA CAMP FULLER,Transient non-community system,Ground water,Washington,SOUTH KINGSTOWN,350,6,32,39
+RI2674926,YMCA OUTDOOR CENTER,Transient non-community system,Ground water,Washington,CHARLESTOWN,150,4,4,18

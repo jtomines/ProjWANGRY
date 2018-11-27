@@ -1,786 +1,786 @@
-"PWS ID","PWS Name","PWS Type","Primary Source","Counties Served","Cities Served","PopulationServed Count","Number of Facilities","Number of Violations","Number of Site Visits"
-"WY5600179","A & J MOBILE HOME PARK","Community water system","Ground water","Fremont","RIVERTON","100","11","75","12"
-"WY5600002","AFTON, BOARD OF PUB UTILITIES","Community water system","Ground water","Lincoln","AFTON","1,818","18","42","12"
-"WY5600080","AIR BASE ACRES IMPROVEMENT & SERVICE DIS","Community water system","Surface water purchased","Natrona","MILLS","215","3","13","13"
-"WY5600189","ALBIN, TOWN OF","Community water system","Ground water","Laramie","ALBIN","181","15","78","9"
-"WY5601592","ALCOVA DAM TRAILER PARK","Community water system","Ground water","Natrona","-","7","3","258","4"
-"WY5600156","ALPINE, TOWN OF","Community water system","Ground water","Lincoln","ALPINE","1,100","12","36","9"
-"WY5600275","ALTA COMMUNITY PIPELINE","Community water system","Ground water","Teton","ALTA","40","6","83","11"
-"WY5600968","AMERICAN ROAD W&S DISTRICT","Community water system","Ground water","Campbell","GILLETTE","220","15","24","8"
-"WY5600131","ANTELOPE MOBILE HOME PARK","Community water system","Ground water","Campbell","GILLETTE","351","8","13","7"
-"WY5601457","ANTELOPE RIDGE HOA","Community water system","Ground water","Albany","LARAMIE","70","5","7","5"
-"WY5600251","ANTELOPE VALLEY I&S DISTRICT","Community water system","Ground water","Campbell","GILLETTE","1,280","12","7","10"
-"WY5600220","ASPENS WATER & SEWER DISTRICT","Community water system","Ground water","Teton","JACKSON","1,400","6","17","10"
-"WY5600180","B&K MOBILE HOME PARK","Community water system","Ground water","Fremont","RIVERTON","200","7","48","11"
-"WY5600058","BAGGS, TOWN OF","Community water system","Groundwater under influence of surface water","Carbon","BAGGS","435","11","29","11"
-"WY5600003","BAIROIL, TOWN OF","Community water system","Ground water","Sweetwater","BAIROIL","90","12","9","10"
-"WY5600258","BALD MOUNTAIN TRAILER COURT","Community water system","Ground water","Johnson","BUFFALO","150","8","18","10"
-"WY5600976","BAR Y ESTATES/GROS VENTRE WEST WTR DISTS","Community water system","Ground water","Teton","JACKSON","270","8","101","7"
-"WY5601439","BAR-B-BAR MEADOWS","Community water system","Ground water","Teton","JACKSON","55","6","52","5"
-"WY5600004","BASIN, TOWN OF","Community water system","Ground water purchased","Big Horn","BASIN","1,250","6","11","13"
-"WY5601019","BEAR RIVER REGIONAL JOINT POWERS","Community water system","Surface water purchased","Uinta","EVANSTON","1,200","17","21","13"
-"WY5600006","BEDFORD WATER & SEWER DISTRICT","Community water system","Ground water","Lincoln","BEDFORD","725","11","7","10"
-"WY5601596","BENNOR ESTATES & IMPROVEMENT DISTRICT","Community water system","Ground water purchased","Campbell","-","174","6","23","4"
-"WY5601692","BEULAH LAND WATER","Community water system","Ground water","Crook","BEULAH","40","5","2","1"
-"WY5601271","BIG COUNTRY ESTATES","Community water system","Surface water purchased","Laramie","CHEYENNE","615","5","7","2"
-"WY5601630","BIG HORN REGIONAL JPB","Community water system","Ground water","Washakie","WORLAND","25","18","1","2"
-"WY5600007","BIG PINEY, TOWN OF","Community water system","Ground water","Sublette","BIG PINEY","652","20","23","11"
-"WY5601193","BIG VALLEY & CROSSED ARROWS IMP DIST","Community water system","Ground water","Park","MEETEETSE","35","7","72","8"
-"WY5600229","BIGHORN MOUNTAIN CAMPGROUND","Community water system","Ground water","Johnson","BUFFALO","70","5","12","9"
-"WY5600127","BRADY-HENNING WATER SYSTEM","Community water system","Ground water","Campbell","GILLETTE","96","9","3","4"
-"WY5601279","BREAZEALE'S MOBILE HOME PARK","Community water system","Surface water purchased","Albany","LARAMIE","345","14","3","4"
-"WY5600757","BRIDGER VALLEY JOINT POWERS BOARD","Community water system","Surface water","Uinta","LYMAN","1,728","8","28","15"
-"WY5600074","BROKEN WRENCH LLC","Community water system","Ground water","Natrona","CASPER","30","5","122","9"
-"WY5601695","BUCKMILLER ENTERPRISES, LLC","Community water system","Ground water","Crook","MOORCROFT","25","5","1","1"
-"WY5600435","BUFFALO VALLEY WATER DISTRICT","Community water system","Ground water","Teton","MORAN JCT","50","8","32","9"
-"WY5600005","BUFFALO, CITY OF","Community water system","Surface water","Johnson","BUFFALO","4,200","12","29","10"
-"WY5601098","BURLINGTON, TOWN OF","Community water system","Ground water","Big Horn","BURLINGTON","348","8","11","10"
-"WY5600188","BURNS BOARD OF PUBLIC UTILITIES","Community water system","Ground water","Laramie","BURNS","922","15","28","10"
-"WY5600008","BYRON, TOWN OF","Community water system","Surface water purchased","Big Horn","BYRON","593","4","6","9"
-"WY5600806","C-V RANCHES (BOCES REG V)","Community water system","Ground water","Teton","WILSON","75","7","34","9"
-"WY5601028","CAMBRIA I&S DISTRICT","Community water system","Ground water purchased","Weston","NEWCASTLE","148","7","25","8"
-"WY5601632","CANYON IMPROVEMENT & SERVICE DISTRICT","Community water system","Ground water","Weston","NEWCASTLE","79","5","0","2"
-"WY5601464","CARPENTER WATER & SEWER DISTRICT","Community water system","Ground water","Laramie","CARPENTER","94","6","39","4"
-"WY5601415","CASPER, CITY OF","Community water system","Surface water purchased","Natrona","CASPER","58,343","21","2","5"
-"WY5600780","CEDAR HILLS WATER ASSOCIATION","Community water system","Ground water","Campbell","GILLETTE","258","11","15","7"
-"WY5601232","CENTENNIAL WATER AND SEWER","Community water system","Ground water","Albany","CENTENNIAL","150","6","47","8"
-"WY5600009","CENTRAL WY REG WATER SYS JPB","Community water system","Surface water","Natrona","CASPER","25","47","3","10"
-"WY5600011","CHEYENNE BOARD OF PUBLIC UTILITIES","Community water system","Surface water","Laramie","CHEYENNE","58,710","59","9","10"
-"WY5600200","CHUGWATER, TOWN OF","Community water system","Ground water","Platte","CHUGWATER","200","11","11","10"
-"WY5601315","CIMMARON VILLAGE","Community water system","Surface water purchased","Laramie","CHEYENNE","327","5","2","3"
-"WY5600208","CITY OF LARAMIE WY TECHNICAL INSTITUTE","Community water system","Ground water","Albany","LARAMIE","775","8","47","9"
-"WY5600013","CLEARMONT, TOWN OF","Community water system","Ground water","Sheridan","CLEARMONT","142","7","17","10"
-"WY5600091","CLEARVIEW I&S DISTRICT","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","930","3","43","12"
-"WY5600207","CODY, CITY OF","Community water system","Surface water purchased","Park","CODY","8,999","10","4","10"
-"WY5600015","COKEVILLE, TOWN OF","Community water system","Ground water","Lincoln","COKEVILLE","535","8","35","13"
-"WY5601399","COOK ROAD WATER DISTRICT","Community water system","Ground water","Campbell","GILLETTE","291","7","9","6"
-"WY5601233","COTTONWOOD ACRES","Community water system","Ground water","Goshen","TORRINGTON","96","13","13","7"
-"WY5600162","COUNTRY MEADOW ESTATES","Community water system","Ground water","Albany","LARAMIE","375","9","4","11"
-"WY5600756","COUNTRYSIDE COURT","Community water system","Ground water","Natrona","MILLS","125","5","91","13"
-"WY5600192","COUNTRYSIDE WATER USERS, INC.","Community water system","Ground water","Campbell","GILLETTE","360","8","14","9"
-"WY5600206","COWLEY, TOWN OF","Community water system","Ground water","Big Horn","COWLEY","800","5","41","11"
-"WY5600181","COZY MOBILE HOME PARK","Community water system","Ground water","Fremont","RIVERTON","200","8","167","12"
-"WY5600853","CRESTVIEW ESTATES SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","500","7","8","8"
-"WY5600202","DAYTON, TOWN OF","Community water system","Surface water","Sheridan","DAYTON","800","9","48","11"
-"WY5600016","DEAVER MUNICIPAL WATER SYSTEM","Community water system","Surface water purchased","Big Horn","DEAVER","180","5","15","10"
-"WY5601608","DESERT TRAILS MHC","Community water system","Surface water purchased","Sweetwater","GREEN RIVER","238","2","0","3"
-"WY5601248","DILLMAN ESTATES","Community water system","Ground water","Goshen","TORRINGTON","100","17","22","7"
-"WY5600059","DIXON, TOWN OF","Community water system","Groundwater under influence of surface water","Carbon","DIXON","92","7","29","11"
-"WY5600247","DOUGLAS KOA CG/PINE MEADOWS MHP","Community water system","Ground water","Converse","DOUGLAS","165","9","20","10"
-"WY5600137","DOUGLAS, CITY OF","Community water system","Surface water","Converse","DOUGLAS","6,120","18","10","11"
-"WY5601537","DOWNER NEIGHBORHOOD I&S DISTRICT","Community water system","Surface water purchased","Sheridan","SHERIDAN","400","3","4","4"
-"WY5600177","DUBOIS, TOWN OF","Community water system","Ground water","Fremont","DUBOIS","1,067","14","6","10"
-"WY5600119","EAGLE RIDGE MHP, LLC","Community water system","Ground water","Campbell","GILLETTE","140","9","151","10"
-"WY5600226","EAST THERMOPOLIS, TOWN OF","Community water system","Surface water purchased","Hot Springs","THERMOPOLIS","280","3","4","9"
-"WY5601353","EASTVIEW MANUFACTURED HOME COMMUNITY","Community water system","Ground water purchased","Campbell","GILLETTE","688","3","4","4"
-"WY5600017","EDGERTON, TOWN OF","Community water system","Surface water purchased","Natrona","EDGERTON","195","6","11","11"
-"WY5600829","EIGHT MILE SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","87","7","1","7"
-"WY5600065","ELK MOUNTAIN, TOWN OF","Community water system","Ground water","Carbon","ELK MOUNTAIN","191","8","17","10"
-"WY5600060","ENCAMPMENT, TOWN OF","Community water system","Surface water","Carbon","ENCAMPMENT","450","7","126","11"
-"WY5601304","ENGLEWOOD VILLAGE MHP","Community water system","Surface water purchased","Laramie","CHEYENNE","152","6","2","2"
-"WY5600157","ETNA WATER & SEWER DISTRICT","Community water system","Ground water","Lincoln","ETNA","120","8","61","10"
-"WY5600215","EVANS MOBILE HOME COURT","Community water system","Ground water","Teton","JACKSON","150","7","12","8"
-"WY5600150","EVANSTON, CITY OF","Community water system","Surface water","Uinta","EVANSTON","12,000","14","3","14"
-"WY5600018","EVANSVILLE, TOWN OF","Community water system","Surface water","Natrona","EVANSVILLE","2,544","8","3","12"
-"WY5600021","EVERGREEN MOBILE HOME PARK","Community water system","Ground water","Laramie","CHEYENNE","50","7","115","11"
-"WY5600166","FAIRVIEW WATER & SEWER DISTRICT","Community water system","Ground water","Lincoln","AFTON","230","6","24","10"
-"WY5600918","FAIRWAY ESTATES","Community water system","Ground water","Converse","DOUGLAS","133","12","35","8"
-"WY5600113","FARSON EDEN SCHOOL","Community water system","Ground water","Sweetwater","FARSON","366","10","21","9"
-"WY5600112","FARSON MOBILE HOME COURT","Community water system","Ground water","Sweetwater","FARSON","46","6","72","10"
-"WY5601546","FARVIEW WATER AND SEWER DISTRICT","Community water system","Ground water","Fremont","RIVERTON","60","9","8","5"
-"WY5600194","FIRST FIKE SUBDIVISION","Community water system","Ground water","Fremont","RIVERTON","150","6","11","12"
-"WY5601473","FISH CREEK IMPROVEMENT AND SERVICE DIST","Community water system","Ground water","Teton","WILSON","200","8","0","4"
-"WY5601239","FOOTHILLS MOBILE HOME PARK","Community water system","Ground water purchased","Campbell","GILLETTE","735","4","1","3"
-"WY5601202","FOOTHILLS VILLAGE MOBILE HOME PARK","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","450","4","1","3"
-"WY5600148","FORCE ROAD JOINT POWERS BOARD","Community water system","Ground water","Campbell","GILLETTE","195","8","13","10"
-"WY5600185","FORT LARAMIE, TOWN OF","Community water system","Ground water","Goshen","FORT LARAMIE","199","10","18","9"
-"WY5600745","FOX PARK SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","843","6","5","9"
-"WY5601615","FOX RIDGE WATER SYSTEM","Community water system","Ground water","Campbell","GILLETTE","38","6","1","2"
-"WY5600210","FRANNIE, TOWN OF","Community water system","Surface water purchased","Big Horn","FRANNIE","157","4","18","12"
-"WY5600789","FREEDOM HILLS SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","400","10","27","7"
-"WY5600158","FREEDOM W&S DISTRICT","Community water system","Ground water","Lincoln","FREEDOM","300","7","49","10"
-"WY5600774","GARDENS NORTH HOME OWNERS ASSOCIATION","Community water system","Ground water","Fremont","RIVERTON","300","6","4","9"
-"WY5600019","GILLETTE, CITY OF","Community water system","Ground water","Campbell","GILLETTE","31,971","59","2","8"
-"WY5600231","GLENDO, TOWN OF","Community water system","Ground water","Platte","GLENDO","205","10","23","11"
-"WY5600199","GLENROCK, TOWN OF","Community water system","Ground water","Converse","GLENROCK","2,466","13","6","11"
-"WY5680095","GRAND TETON NP-COLTER BAY VILLAGE","Community water system","Ground water","Teton","MOOSE","110","9","1","8"
-"WY5680103","GRAND TETON NP-JACKSON LK LDGE","Community water system","Ground water","Teton","MOOSE","55","11","0","7"
-"WY5680093","GRAND TETON NP-MOOSE/BEAVER CREEK","Community water system","Ground water","Teton","MOOSE","177","8","3","8"
-"WY5600020","GRANGER, TOWN OF","Community water system","Surface water","Sweetwater","GRANGER","139","9","90","13"
-"WY5601397","GREATER SMOOT W&S DISTRICT","Community water system","Ground water","Lincoln","SMOOT","260","8","26","7"
-"WY5600238","GREEN ACRES MOBILE HOME PARK","Community water system","Surface water purchased","Park","CODY","375","3","11","11"
-"WY5601181","GREEN RIVER, CITY OF","Community water system","Surface water purchased","Sweetwater","GREEN RIVER","10,500","12","3","8"
-"WY5601245","GREEN VALLEY ESTATES I&S DISTRICT","Community water system","Ground water","Campbell","GILLETTE","140","7","21","6"
-"WY5600969","GREEN VALLEY MHP","Community water system","Surface water purchased","Natrona","CASPER","265","5","3","5"
-"WY5600230","GREYBULL HEIGHTS WATER USERS","Community water system","Ground water purchased","Big Horn","GREYBULL","60","4","7","9"
-"WY5600022","GREYBULL, TOWN OF","Community water system","Ground water purchased","Big Horn","GREYBULL","3,260","18","21","13"
-"WY5601357","GROS VENTRE NORTH HOA","Community water system","Ground water","Teton","JACKSON","84","7","117","6"
-"WY5600027","GROS VENTRE UTILITY","Community water system","Ground water","Teton","JACKSON","200","14","14","9"
-"WY5600160","GROVER WATER & SEWER DISTRICT","Community water system","Ground water","Lincoln","GROVER","252","8","33","7"
-"WY5600023","GUERNSEY, TOWN OF","Community water system","Ground water","Platte","GUERNSEY","1,157","8","75","13"
-"WY5600025","HANNA, TOWN OF","Community water system","Surface water","Carbon","HANNA","841","6","21","13"
-"WY5600153","HAPPY VALLEY PIPELINE","Community water system","Ground water","Lincoln","AFTON","60","6","29","11"
-"WY5600186","HARTVILLE, TOWN OF","Community water system","Ground water","Platte","HARTVILLE","62","12","117","10"
-"WY5600249","HERITAGE VILLAGE SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","750","8","8","8"
-"WY5600216","HI-COUNTRY WATER DISTRICT","Community water system","Ground water","Teton","JACKSON","85","7","46","11"
-"WY5601339","HIDDEN HILLS MHP","Community water system","Surface water purchased","Natrona","CASPER","320","3","2","3"
-"WY5600263","HIDE-A-WAY MOBILE VILLAGE","Community water system","Ground water","Laramie","CHEYENNE","76","16","46","10"
-"WY5601569","HIGH MEADOW RANCH","Community water system","Ground water","Sublette","-","475","10","9","5"
-"WY5600260","HIGH PLAINS RANCH","Community water system","Ground water","Laramie","CHEYENNE","50","5","132","9"
-"WY5600120","HIGHVIEW MFG HOME COMMUNITY (MHC)","Community water system","Ground water purchased","Campbell","GILLETTE","304","7","39","8"
-"WY5600347","HOBACK RV PARK","Community water system","Ground water","Teton","JACKSON","52","8","10","6"
-"WY5600088","HORIZON MHP","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","309","6","3","4"
-"WY5600141","HOY MOBILE HOME PARK","Community water system","Ground water","Campbell","GILLETTE","100","7","37","9"
-"WY5600183","HUDSON, TOWN OF","Community water system","Groundwater under influence of surface water","Fremont","HUDSON","460","17","12","13"
-"WY5600026","HULETT, TOWN OF","Community water system","Ground water","Crook","HULETT","400","7","27","9"
-"WY5600209","HYATTVILLE S&I DISTRICT","Community water system","Ground water","Big Horn","HYATTVILLE","66","5","123","11"
-"WY5600758","INDIAN PAINTBRUSH WATER DISTRICT","Community water system","Ground water","Teton","WILSON","150","19","120","10"
-"WY5600877","J-W SUBDIVISION ASSOCIATION","Community water system","Ground water","Teton","JACKSON","40","8","6","10"
-"WY5600213","JACKSON, TOWN OF","Community water system","Ground water","Teton","JACKSON","8,000","17","104","7"
-"WY5600810","JAMESTOWN-RIO VISTA W&S DISTRICT","Community water system","Surface water purchased","Sweetwater","GREEN RIVER","560","9","1","12"
-"WY5600106","JEFFREY CITY WATER & SEWER DISTRICT","Community water system","Ground water","Fremont","RIVERTON","59","12","132","10"
-"WY5601496","JUBY`S MOBILE HOME PARK","Community water system","Surface water purchased","Park","CODY","300","3","7","5"
-"WY5601275","JUNIPER PARK WATER ASSOCIATION","Community water system","Ground water","Fremont","LANDER","42","3","0","5"
-"WY5600196","KAYCEE, TOWN OF","Community water system","Ground water","Johnson","KAYCEE","263","9","15","9"
-"WY5600028","KEMMERER-DIAMONDVILLE JPB","Community water system","Surface water","Lincoln","KEMMERER","3,367","13","18","13"
-"WY5601199","KENNINGTON SPRINGS PIPELINE","Community water system","Ground water","Lincoln","FAIRVIEW","45","6","56","11"
-"WY5600236","KIRBY, TOWN OF","Community water system","Ground water purchased","Hot Springs","KIRBY","92","7","32","9"
-"WY5601270","KNECHT INVESTMENTS","Community water system","Ground water","Laramie","CHEYENNE","75","8","39","6"
-"WY5600222","LA BARGE, TOWN OF","Community water system","Surface water","Lincoln","LA BARGE","347","10","26","13"
-"WY5600788","LA GRANGE, TOWN OF","Community water system","Ground water","Goshen","LA GRANGE","448","6","13","8"
-"WY5601494","LAKEVIEW I&S DISTRICT","Community water system","Surface water purchased","Natrona","MILLS","62","3","11","5"
-"WY5601449","LAKEVIEW MOBILE HOME PARK","Community water system","Ground water","Campbell","GILLETTE","36","6","41","5"
-"WY5600109","LANCE CREEK WATER DISTRICT","Community water system","Ground water","Niobrara","LANCE CREEK","45","7","180","11"
-"WY5600176","LANDER, CITY OF","Community water system","Surface water","Fremont","LANDER","7,487","10","34","10"
-"WY5600029","LARAMIE, CITY OF","Community water system","Surface water","Albany","LARAMIE","30,861","43","14","13"
-"WY5601471","LEISURE VALLEY INC/ STAR VALLEY RV PARK","Community water system","Ground water","Lincoln","THAYNE","433","7","196","5"
-"WY5601175","LEWIS MOBILE HOME PARK","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","370","4","17","4"
-"WY5600030","LINGLE, TOWN OF","Community water system","Ground water","Goshen","LINGLE","486","8","15","11"
-"WY5600097","LITTLE AMERICA HOTELS & RESORTS, INC- WY","Community water system","Surface water","Sweetwater","LITTLE AMERICA","2,000","8","61","14"
-"WY5601343","LONE TREE VILLAGE MHP","Community water system","Surface water purchased","Converse","DOUGLAS","425","5","7","3"
-"WY5600031","LOVELL, TOWN OF","Community water system","Surface water purchased","Big Horn","LOVELL","2,360","5","24","10"
-"WY5600935","LUCERNE WATER AND SEWER DIST.","Community water system","Ground water purchased","Hot Springs","THERMOPOLIS","350","5","10","9"
-"WY5600032","LUSK, TOWN OF","Community water system","Ground water","Niobrara","LUSK","1,576","16","62","8"
-"WY5600033","LYMAN, TOWN OF","Community water system","Groundwater under influence of surface water","Uinta","LYMAN","2,000","11","18","13"
-"WY5600204","MANDERSON, TOWN OF","Community water system","Ground water purchased","Big Horn","MANDERSON","110","4","13","11"
-"WY5600110","MANVILLE, TOWN OF","Community water system","Ground water","Niobrara","MANVILLE","97","8","56","8"
-"WY5600223","MARBLETON, TOWN OF","Community water system","Ground water","Sublette","MARBLETON","780","14","32","9"
-"WY5601507","MEADOW SPRINGS IMP & SERV","Community water system","Ground water","Campbell","GILLETTE","37","9","11","4"
-"WY5600760","MEANS IMPROVEMENT & SERVICE DISTRICT","Community water system","Ground water","Campbell","GILLETTE","410","10","9","7"
-"WY5600034","MEDICINE BOW, TOWN OF","Community water system","Ground water","Carbon","MEDICINE BOW","282","10","17","14"
-"WY5600035","MEETEETSE, TOWN OF","Community water system","Groundwater under influence of surface water","Park","MEETEETSE","327","11","23","20"
-"WY5601440","MELODY RANCH IMPROVEMENT & SERVICE DIST.","Community water system","Ground water","Teton","JACKSON","700","7","32","5"
-"WY5600201","MIDWEST, TOWN OF","Community water system","Surface water purchased","Natrona","MIDWEST","408","10","28","14"
-"WY5601645","MILE-HI I&S DISTRICT","Community water system","Surface water purchased","Natrona","-","48","2","2","2"
-"WY5600051","MILLER LOWER MOBILE HOME PARK","Community water system","Ground water","Laramie","CHEYENNE","30","6","10","11"
-"WY5600036","MILLS, TOWN OF","Community water system","Groundwater under influence of surface water","Natrona","MILLS","3,200","17","5","11"
-"WY5601203","MOBILE CORRALS/STALLS COURT","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","300","4","6","3"
-"WY5600037","MOORCROFT, TOWN OF","Community water system","Ground water","Crook","MOORCROFT","1,009","11","9","10"
-"WY5600182","MOUNTAIN VIEW ACRES","Community water system","Ground water","Fremont","RIVERTON","165","10","16","10"
-"WY5600847","MOUNTAIN VIEW, TOWN OF","Community water system","Surface water purchased","Uinta","MOUNTAIN VIEW","1,250","5","11","12"
-"WY5600221","MOUNTAIN VILLAGE PARKS","Community water system","Ground water","Sublette","BIG PINEY","53","20","99","10"
-"WY5600079","NATRONA COUNTY INT'L AIRPORT","Community water system","Surface water purchased","Natrona","CASPER","332","4","7","10"
-"WY5600256","NEWCASTLE, CITY OF","Community water system","Ground water","Weston","NEWCASTLE","3,541","13","67","8"
-"WY5600619","NICKELSON FARMS WATER COMPANY","Community water system","Ground water","Campbell","GILLETTE","400","10","3","7"
-"WY5601533","NINE-MILE WATER & SEWER DISTRICT","Community water system","Surface water purchased","Albany","LARAMIE","180","4","0","4"
-"WY5601418","NORDIC RANCHES WATER, LLC.","Community water system","Ground water","Lincoln","ALPINE","459","7","4","5"
-"WY5601021","NORTH ALPINE I&S DISTRICT","Community water system","Ground water","Lincoln","ALPINE","121","12","74","10"
-"WY5601254","NORTHWEST RURAL WATER DISTRICT","Community water system","Surface water purchased","Park","CODY","5,998","28","2","6"
-"WY5600422","OLD BALDY CLUB","Community water system","Ground water purchased","Carbon","SARATOGA","117","7","6","10"
-"WY5601187","OLD WEST CABINS","Community water system","Ground water","Teton","JACKSON","55","9","5","1"
-"WY5600835","OPAL, TOWN OF","Community water system","Ground water","Lincoln","OPAL","102","11","17","14"
-"WY5600012","ORCHARD VALLEY WATER COMPANY","Community water system","Ground water","Laramie","CHEYENNE","264","7","14","10"
-"WY5600038","OSAGE WATER DISTRICT","Community water system","Ground water","Weston","OSAGE","240","7","2","11"
-"WY5600154","OSMOND PIPELINE CO","Community water system","Ground water","Lincoln","AFTON","250","5","33","9"
-"WY5601572","OVERBROOK SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","66","8","3","4"
-"WY5601673","OWL CREEK WATER DISTRICT","Community water system","Surface water purchased","Hot Springs","-","60","5","9","1"
-"WY5600039","PAVILLION, TOWN OF","Community water system","Ground water","Fremont","PAVILLION","240","19","11","11"
-"WY5600898","PEOPLE`S IMPROVEMENT & SERVICE DISTRICT","Community water system","Ground water","Campbell","GILLETTE","176","7","62","8"
-"WY5600040","PINE BLUFFS, TOWN OF","Community water system","Ground water","Laramie","PINE BLUFFS","1,186","16","24","11"
-"WY5600191","PINE HAVEN, TOWN OF","Community water system","Ground water","Crook","PINE HAVEN","498","8","72","8"
-"WY5600041","PINEDALE MUNICIPAL WS","Community water system","Surface water","Sublette","PINEDALE","2,030","11","58","19"
-"WY5601490","PINEVIEW I&S DISTRICT","Community water system","Ground water","Campbell","GILLETTE","75","7","32","5"
-"WY5601173","PIONEER MOBILE HOME PARK","Community water system","Surface water purchased","Sweetwater","GREEN RIVER","1,500","4","7","6"
-"WY5600828","PIONEER WATER & SEWER DISTRICT","Community water system","Surface water purchased","Natrona","MILLS","1,500","6","4","11"
-"WY5600082","PLEASANT VIEW WATER COMPANY","Community water system","Surface water purchased","Natrona","MILLS","130","3","3","9"
-"WY5600093","POINT OF ROCKS MERCANTILE","Community water system","Ground water","Sweetwater","POINT OF ROCKS","150","5","9","12"
-"WY5600073","POISON SPIDER I&S DISTRICT","Community water system","Surface water purchased","Natrona","MILLS","220","3","57","8"
-"WY5600171","POTLATCH TRAILER COURT","Community water system","Ground water","Goshen","TORRINGTON","70","4","58","10"
-"WY5600042","POWELL, CITY OF","Community water system","Surface water purchased","Park","POWELL","6,700","7","2","9"
-"WY5601609","RAFTER D IMPROVEMENT & SERVICE DISTRICT","Community water system","Ground water","Campbell","GILLETTE","40","7","0","2"
-"WY5600822","RAFTER J SUBDIVISION HOA","Community water system","Ground water","Teton","JACKSON","1,500","10","103","8"
-"WY5601100","RAINTREE ESTATES","Community water system","Ground water","Fremont","RIVERTON","75","7","14","8"
-"WY5600044","RANCHESTER, TOWN OF","Community water system","Surface water","Sheridan","RANCHESTER","855","7","8","10"
-"WY5600045","RAWLINS WATER SUPPLY, CITY OF","Community water system","Surface water","Carbon","RAWLINS","9,749","22","15","11"
-"WY5601657","RED HILLS","Community water system","Ground water purchased","Campbell","GILLETTE","102","2","0","2"
-"WY5600232","RED LANE DOMESTIC WATER, INC.","Community water system","Surface water purchased","Hot Springs","THERMOPOLIS","111","4","30","9"
-"WY5600805","REDD FOX PARK HOA","Community water system","Surface water purchased","Fremont","LANDER","50","3","23","9"
-"WY5601292","RESTWAY TRAVEL PARK","Community water system","Ground water","Laramie","CHEYENNE","76","7","20","5"
-"WY5600285","RIDGEWATER IMPROVEMENT DISTRICT","Community water system","Surface water purchased","Converse","DOUGLAS","218","3","16","11"
-"WY5600786","RIVERMEADOWS WATER DISTRICT","Community water system","Ground water","Teton","JACKSON","100","10","107","6"
-"WY5600212","RIVERS BEND TRAILER COURT","Community water system","Surface water purchased","Park","CODY","100","3","26","11"
-"WY5601641","RIVERSIDE T. C. (SECTIONS B, C & E)","Community water system","Surface water purchased","Natrona","CASPER","70","2","2","2"
-"WY5600072","RIVERSIDE TRAILER COURT","Community water system","Ground water","Natrona","CASPER","260","6","15","11"
-"WY5600047","RIVERTON, CITY OF","Community water system","Surface water","Fremont","RIVERTON","10,001","40","4","15"
-"WY5600377","ROBERTS TRAILER PARK","Community water system","Ground water","Crook","HULETT","38","3","113","8"
-"WY5600048","ROCK RIVER, TOWN OF","Community water system","Surface water","Albany","ROCK RIVER","245","6","34","9"
-"WY5601182","ROCK SPRINGS, CITY OF","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","24,000","11","5","8"
-"WY5600050","ROCK SPRINGS/GREEN RIVER JPB","Community water system","Surface water","Sweetwater","GREEN RIVER","25","11","8","10"
-"WY5601626","RODEO FLATS","Community water system","Ground water","Campbell","GILLETTE","72","6","0","2"
-"WY5600782","ROLLING HILLS, TOWN OF","Community water system","Ground water","Converse","ROLLING HILLS","450","14","12","10"
-"WY5601620","ROZET RANCHETTES I&S DISTRICT","Community water system","Ground water","Campbell","GILLETTE","85","5","3","3"
-"WY5600133","SALT CREEK WATER DISTRICT","Community water system","Ground water","Weston","NEWCASTLE","600","7","6","8"
-"WY5601581","SANDY LAKE ESTATES I&S DISTRICT","Community water system","Surface water purchased","Natrona","CASPER","150","3","8","4"
-"WY5600061","SARATOGA, TOWN OF","Community water system","Ground water","Carbon","SARATOGA","1,760","11","36","10"
-"WY5601666","SCHAREN SUBDIVISION","Community water system","Ground water purchased","Big Horn","GREYBULL","50","2","0","2"
-"WY5600195","SECOND FIKE SUBDIVISION","Community water system","Ground water","Fremont","RIVERTON","34","5","12","10"
-"WY5601519","SECTION 4 WATER SYSTEM INCORPORATED","Community water system","Ground water","Campbell","GILLETTE","120","5","11","4"
-"WY5601004","SEVEN MILE WATER & SEWER DISTRICT","Community water system","Surface water purchased","Albany","LARAMIE","60","3","21","8"
-"WY5600205","SHELL WATER USERS, INC.","Community water system","Ground water purchased","Big Horn","SHELL","55","3","2","10"
-"WY5600052","SHERIDAN, CITY OF","Community water system","Surface water","Sheridan","SHERIDAN","15,500","11","13","10"
-"WY5601198","SHOSHONE MUNICIPAL PIPELINE","Community water system","Surface water","Park","CODY","25","10","0","8"
-"WY5600053","SHOSHONI, TOWN OF","Community water system","Ground water","Fremont","SHOSHONI","649","11","35","12"
-"WY5601332","SIERRA MADRE JPB","Community water system","Ground water","Carbon","ENCAMPMENT","200","7","7","6"
-"WY5600054","SINCLAIR, TOWN OF","Community water system","Surface water purchased","Carbon","SINCLAIR","433","7","19","14"
-"WY5600217","SKYLINE RANCH I&S DISTRICT","Community water system","Ground water","Teton","JACKSON","260","9","83","8"
-"WY5601176","SKYLINE VILLAGE MOBILE HOME PK","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","690","6","15","7"
-"WY5600764","SLEEPY HOLLOW SUBDIVISION","Community water system","Ground water","Campbell","GILLETTE","2,400","14","18","7"
-"WY5600214","SNAKE RIVER MOBILE HOME PARK","Community water system","Groundwater under influence of surface water","Teton","JACKSON","65","11","231","9"
-"WY5601454","SOUTH BIG HORN COUNTY JPB","Community water system","Ground water purchased","Big Horn","BASIN","1,000","7","4","5"
-"WY5600239","SOUTH CHEYENNE WATER & SEWER DISTRICT","Community water system","Surface water purchased","Laramie","CHEYENNE","10,000","3","10","9"
-"WY5600970","SOUTH END WATER USERS SVC & IMP DISTRICT","Community water system","Ground water purchased","Big Horn","LOVELL","150","4","11","7"
-"WY5601393","SOUTH LARAMIE W&S DISTRICT","Community water system","Surface water purchased","Albany","LARAMIE","478","7","2","6"
-"WY5600836","SOUTH PARK VILLAGE SUBDIVISION","Community water system","Ground water","Teton","JACKSON","65","7","35","11"
-"WY5601072","SOUTH RIVERSIDE ACRES WTR IMPR DIST","Community water system","Ground water","Natrona","EVANSVILLE","70","7","6","7"
-"WY5601083","SOUTH THERMOPOLIS W&S DISTRICT","Community water system","Surface water purchased","Hot Springs","THERMOPOLIS","450","6","4","9"
-"WY5600168","SOUTH TORRINGTON WATER DISTRICT","Community water system","Ground water purchased","Goshen","TORRINGTON","450","3","12","9"
-"WY5600235","SOUTH WORLAND WATER USERS CORPORATION","Community water system","Ground water purchased","Washakie","WORLAND","490","3","3","9"
-"WY5600832","SOUTHFORK ESTATES","Community water system","Ground water","Campbell","GILLETTE","144","7","21","8"
-"WY5600122","SOUTHSIDE WELL I&S DISTRICT","Community water system","Ground water purchased","Campbell","GILLETTE","30","8","30","8"
-"WY5600184","SPENCER HOMESITE WATER ASSOCIATION","Community water system","Ground water","Fremont","RIVERTON","40","5","12","9"
-"WY5600811","SPRING CREEK IMPROVEMENT DISTRICT","Community water system","Ground water","Teton","JACKSON","400","11","138","9"
-"WY5600737","SQUAW CREEK WATER DISTRICT","Community water system","Ground water","Teton","JACKSON","160","8","101","11"
-"WY5600287","STAR VALLEY RANCH, TOWN OF","Community water system","Ground water","Lincoln","STAR VALLEY RANCH, THAYNE","1,215","12","48","14"
-"WY5601017","STAR VALLEY TRAILER COURT","Community water system","Ground water","Lincoln","AFTON","95","6","44","9"
-"WY5600893","STAR VIEW ESTATES","Community water system","Ground water","Lincoln","AFTON","62","4","19","10"
-"WY5601586","STONE CREEK","Community water system","Ground water","Goshen","TORRINGTON","78","5","2","3"
-"WY5601329","STONE GATE ESTATES","Community water system","Ground water","Campbell","GILLETTE","198","8","8","6"
-"WY5600145","STROUP TRAILER COURT","Community water system","Ground water","Campbell","GILLETTE","74","7","192","8"
-"WY5601639","SUNDANCE MEADOWS SPECIAL IMP DIST (SMSID","Community water system","Surface water purchased","Converse","DOUGLAS","50","2","3","2"
-"WY5600055","SUNDANCE, CITY OF","Community water system","Ground water","Crook","SUNDANCE","1,279","25","7","11"
-"WY5601289","SUNNY MEADOWS VILLAGE","Community water system","Surface water purchased","Albany","LARAMIE","485","4","1","3"
-"WY5601225","SUNRIDGE ESTATES","Community water system","Ground water","Fremont","RIVERTON","220","5","5","7"
-"WY5601633","SUNSET RANCH WATER DISTRICT","Community water system","Ground water purchased","Weston","NEWCASTLE","70","2","1","2"
-"WY5600092","SUPERIOR, TOWN OF","Community water system","Ground water","Sweetwater","SUPERIOR","356","10","25","11"
-"WY5601675","SWEETWATER I&S DISTRICT","Community water system","Surface water","Weston","NEWCASTLE","46","3","489","2"
-"WY5600787","TARGHEE TOWNE WATER DISTRICT","Community water system","Ground water","Teton","ALTA","120","14","38","9"
-"WY5601369","TEN MILE WATER AND SEWER DISTRICT","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","305","6","7","6"
-"WY5600203","TEN SLEEP, TOWN OF","Community water system","Ground water","Washakie","TEN SLEEP","299","9","19","9"
-"WY5601622","TERRACE II MHC","Community water system","Surface water purchased","Natrona","CASPER","213","2","0","3"
-"WY5601231","TERRACE MOBILE HOME COURT","Community water system","Surface water purchased","Natrona","CASPER","336","5","1","3"
-"WY5600724","TETON SHADOWS HOA","Community water system","Ground water","Teton","JACKSON","50","8","51","11"
-"WY5600218","TETON VILLAGE WATER & SEWER DISTRICT","Community water system","Ground water","Teton","TETON VILLAGE","660","14","9","10"
-"WY5600159","THAYNE, TOWN OF","Community water system","Ground water","Lincoln","THAYNE","366","9","7","12"
-"WY5600056","THERMOPOLIS, TOWN OF","Community water system","Surface water","Hot Springs","THERMOPOLIS","3,009","16","25","9"
-"WY5601579","THIRTY-THREE MILE ROAD I & SD","Community water system","Surface water purchased","Natrona","MILLS","183","3","3","4"
-"WY5600164","TORRINGTON MUNICIPAL WS","Community water system","Ground water","Goshen","TORRINGTON","6,798","33","28","11"
-"WY5601576","TRAIL RIDGE WATER SYSTEM","Community water system","Ground water","Lincoln","-","100","4","1","2"
-"WY5601115","TURNERVILLE WATER AND SEWER DISTRICT","Community water system","Groundwater under influence of surface water","Lincoln","BEDFORD","90","7","31","8"
-"WY5680122","U.S. AIR FORCE, F.E. WARREN AFB","Community water system","Surface water purchased","Laramie","CHEYENNE","5,500","3","6","8"
-"WY5600140","UPTON, TOWN OF","Community water system","Ground water","Weston","UPTON","1,100","19","5","8"
-"WY5601499","VALLEY VIEW MUTUAL WATER COMPANY","Community water system","Ground water","Teton","JACKSON","100","9","10","3"
-"WY5680001","VETERANS ADMINISTRATION MEDICAL CENTER","Community water system","Surface water","Sheridan","SHERIDAN","470","6","10","10"
-"WY5600246","VISTA WEST IMPROVEMENT & SERV DISTRICT","Community water system","Ground water","Crook","SUNDANCE","120","7","26","10"
-"WY5600069","VISTA WEST WATER COMPANY","Community water system","Surface water purchased","Natrona","CASPER","1,600","5","10","13"
-"WY5601206","VOLCIC MOBILE HOME PARK","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","270","4","8","3"
-"WY5601607","W BAR K MOBILE HOME PARK","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","110","2","3","3"
-"WY5600105","WAMSUTTER, TOWN OF","Community water system","Ground water","Sweetwater","WAMSUTTER","250","13","20","11"
-"WY5600850","WARD CREEK LANDOWNERS ASSOCIATION","Community water system","Ground water","Campbell","ROZET","72","6","57","10"
-"WY5600067","WARDWELL WATER & SEWER DISTRICT","Community water system","Surface water purchased","Natrona","MILLS","3,670","7","13","10"
-"WY5600861","WARM SPRINGS WATER DISTRICT","Community water system","Ground water","Fremont","DUBOIS","52","6","29","8"
-"WY5601523","WASHAKIE RURAL WATER SYSTEM","Community water system","Ground water purchased","Washakie","-","625","6","2","4"
-"WY5600132","WATER UNLIMITED, INCORPORATED","Community water system","Ground water","Weston","NEWCASTLE","80","3","17","8"
-"WY5601032","WEST END WATER DISTRICT","Community water system","Ground water","Weston","NEWCASTLE","225","3","84","8"
-"WY5601619","WEST WINDS","Community water system","Surface water purchased","Laramie","CHEYENNE","663","2","11","3"
-"WY5601085","WESTERN HILLS MHP","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","450","4","4","3"
-"WY5601593","WESTVIEW MANUFACTURED HOME COMMUNITY","Community water system","Ground water purchased","Campbell","-","416","2","1","4"
-"WY5600864","WESTVIEW VILLAGE","Community water system","Ground water","Lincoln","AFTON","83","5","37","11"
-"WY5600187","WHEATLAND, TOWN OF","Community water system","Ground water","Platte","WHEATLAND","3,627","23","90","10"
-"WY5601391","WHITE MOUNTAIN W&S DISTRICT","Community water system","Surface water purchased","Sweetwater","ROCK SPRINGS","3,000","3","0","6"
-"WY5601624","WILSON PARK SUBDIVISION","Community water system","Ground water","Teton","WILSON","75","6","0","1"
-"WY5600779","WINCHESTER HILLS","Community water system","Ground water","Laramie","CHEYENNE","1,125","10","27","8"
-"WY5600197","WORLAND UTILITIES COMMISSION","Community water system","Ground water purchased","Washakie","WORLAND","5,487","9","16","10"
-"WY5601474","WRANGLER ESTATES","Community water system","Ground water","Campbell","GILLETTE","250","8","77","5"
-"WY5600136","WRIGHT WATER & SEWER DISTRICT","Community water system","Ground water","Campbell","WRIGHT","2,500","11","4","9"
-"WY5600777","Y-O INVESTMENTS, INC.","Community water system","Ground water","Platte","WHEATLAND","180","11","28","14"
-"WY5600820","YELLOW CREEK ESTATES MHP","Community water system","Ground water","Uinta","EVANSTON","165","7","13","11"
-"WY5680085","YELLOWSTONE NP-OLD FAITHFUL","Community water system","Surface water","Teton","YELLOWSTONE NP","6,225","6","5","8"
-"WY5680092","YNP-MAMMOTH HOT SPRINGS","Community water system","Surface water","Park","YELLOWSTONE NP","2,600","10","6","10"
-"WY5600169","YODER, TOWN OF","Community water system","Ground water","Goshen","YODER","158","10","17","7"
-"WY5601561","ALTA SCHOOL","Non-Transient non-community system","Ground water","Teton","-","60","6","2","3"
-"WY5601252","AMERICAN COLLOID COMPANY","Non-Transient non-community system","Ground water","Big Horn","LOVELL","90","34","14","5"
-"WY5601235","AMERICAN COLLOID-COLONY EAST","Non-Transient non-community system","Ground water","Crook","COLONY","45","6","5","7"
-"WY5601236","AMERICAN COLLOID-COLONY WEST","Non-Transient non-community system","Ground water","Crook","COLONY","60","11","50","7"
-"WY5601374","ANTELOPE COAL COMPANY","Non-Transient non-community system","Ground water","Converse","GILLETTE","550","7","3","5"
-"WY5601468","ANTELOPE VALLEY BUS PARK I&S DIST","Non-Transient non-community system","Ground water","Campbell","GILLETTE","163","8","7","4"
-"WY5600797","ARNG TRAINING SITE WELLS-CAMP GUERNSEY","Non-Transient non-community system","Ground water","Platte","CAMP GUERNSEY","2,000","9","9","9"
-"WY5600817","BASIN ELECTRIC POWER CO-OP","Non-Transient non-community system","Ground water","Platte","WHEATLAND","310","11","25","6"
-"WY5601476","BENTONITE PERFORMANCE MINERALS, LLC","Non-Transient non-community system","Ground water","Crook","COLONY","115","6","13","4"
-"WY5601475","BENTONITE PERFORMANCE MINERALS/LOVELL","Non-Transient non-community system","Ground water","Big Horn","LOVELL","68","7","13","4"
-"WY5600638","BLACK BUTTE COAL COMPANY","Non-Transient non-community system","Ground water","Sweetwater","POINT OF ROCKS","191","7","3","9"
-"WY5600135","BLACK HILLS POWER INCORPORATED","Non-Transient non-community system","Ground water","Campbell","GILLETTE","154","11","9","7"
-"WY5600360","BLACK THUNDER COAL MINE","Non-Transient non-community system","Ground water","Campbell","WRIGHT","600","9","1","7"
-"WY5600356","BLACKJEWEL LLC - BELLE AYR","Non-Transient non-community system","Ground water","Campbell","GILLETTE","300","5","2","7"
-"WY5600357","BLACKJEWEL LLC - EAGLE BUTTE MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","277","9","24","8"
-"WY5601260","BRIDGER COAL COMPANY","Non-Transient non-community system","Ground water","Sweetwater","ROCK SPRINGS","300","11","0","3"
-"WY5601634","BRIDGER COAL COMPANY-ADMIN","Non-Transient non-community system","Surface water purchased","Sweetwater","POINT OF ROCKS","191","3","2","1"
-"WY5680258","BRIDGER-TETON NF BIG PINEY ADMIN SITE","Non-Transient non-community system","Ground water","Sublette","BIG PINEY","45","5","109","1"
-"WY5600818","BUCKSKIN MINING COMPANY-KIEWIT CORP","Non-Transient non-community system","Ground water","Campbell","GILLETTE","80","8","5","6"
-"WY5601462","BURLINGTON RESOURCES/CONOCO PHILLIPS","Non-Transient non-community system","Ground water","Fremont","LYSITE","66","11","13","4"
-"WY5601023","CAMPBELL COUNTY AIRPORT","Non-Transient non-community system","Ground water","Campbell","GILLETTE","50","6","23","7"
-"WY5600880","CATHEDRAL HOME","Non-Transient non-community system","Ground water","Albany","LARAMIE","275","7","16","7"
-"WY5601708","CHAMPS LLC","Non-Transient non-community system","Ground water","Laramie","ALBIN","35","9","3","2"
-"WY5600634","CINER WYOMING LLC","Non-Transient non-community system","Surface water","Sweetwater","GREEN RIVER","450","10","6","9"
-"WY5600920","COAL CREEK MINE-THUNDER BASIN COAL CO","Non-Transient non-community system","Ground water","Campbell","WRIGHT","150","9","2","5"
-"WY5600374","CORDERO MINING LLC (CORDERO)","Non-Transient non-community system","Ground water","Campbell","GILLETTE","550","6","4","5"
-"WY5600796","CORDERO MINING LLC (ROJO)","Non-Transient non-community system","Ground water","Campbell","GILLETTE","50","11","3","7"
-"WY5600291","DAVE JOHNSTON POWER PLANT","Non-Transient non-community system","Ground water","Converse","GLENROCK","165","17","18","11"
-"WY5601651","DEVILS TOWER FOREST PRODUCTS","Non-Transient non-community system","Ground water","Crook","HULETT","90","4","0","1"
-"WY5601638","DRY FORK STATION","Non-Transient non-community system","Ground water","Campbell","GILLETTE","75","6","27","1"
-"WY5600910","DYNO NOBEL, INC","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","170","14","9","7"
-"WY5600919","EXXON MOBIL - SHUTE CREEK GAS PLANT","Non-Transient non-community system","Surface water","Lincoln","KEMMERER","250","7","24","7"
-"WY5601099","EXXON MOBIL-LABARGE SW DIVISION","Non-Transient non-community system","Ground water","Sublette","KEMMERER","35","8","7","7"
-"WY5600102","FLYING J TRAVEL PLAZA","Non-Transient non-community system","Ground water","Carbon","RAWLINS","440","12","14","9"
-"WY5601056","FOUR J SCHOOL CAMPBELL SCH DIS","Non-Transient non-community system","Ground water","Campbell","GILLETTE","50","10","36","8"
-"WY5600647","GENESIS ALKALI WYOMING, LP","Non-Transient non-community system","Surface water","Sweetwater","GRANGER","95","11","14","10"
-"WY5600728","GENESIS ALKALI-WESTVACO, LLC","Non-Transient non-community system","Surface water","Sweetwater","GREEN RIVER","930","7","14","10"
-"WY5600611","GEORGIA-PACIFIC GYPSUM LLC","Non-Transient non-community system","Ground water","Big Horn","LOVELL","90","12","34","7"
-"WY5601025","GILCHRIST ELEMENTARY","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","160","6","8","7"
-"WY5601201","GRAND TARGHEE RESORT","Non-Transient non-community system","Ground water","Teton","ALTA","500","13","3","6"
-"WY5680108","GRAND TETON NP SIGNAL MTN","Non-Transient non-community system","Ground water","Teton","MOOSE","1,659","6","1","5"
-"WY5680099","GRAND TETON NP TETON SCIENCE SCHOOL","Non-Transient non-community system","Ground water","Teton","MOOSE","31","9","7","6"
-"WY5680110","GRAND TETON NP TRIANGLE X RANC","Non-Transient non-community system","Ground water","Teton","MOOSE","25","8","1","5"
-"WY5680107","GRAND TETON NP-MORAN BFLO RNGR","Non-Transient non-community system","Ground water","Teton","MOOSE","50","6","0","5"
-"WY5601146","GRANITE CANYON QUARRY","Non-Transient non-community system","Ground water","Laramie","-","40","15","18","7"
-"WY5600980","HILCORP CARTER CREEK GAS PLANT","Non-Transient non-community system","Surface water","Uinta","EVANSTON","80","6","37","8"
-"WY5600909","INTERSTATE INDUSTRIAL PARK","Non-Transient non-community system","Ground water","Campbell","GILLETTE","200","6","23","7"
-"WY5600844","JACKSON HOLE AIRPORT","Non-Transient non-community system","Ground water","Teton","JACKSON","1,300","12","55","7"
-"WY5600639","JIM BRIDGER POWER PLANT","Non-Transient non-community system","Surface water","Sweetwater","POINT OF ROCKS","450","13","31","9"
-"WY5601595","JONAH ENERGY (LINN) OC","Non-Transient non-community system","Ground water","Sublette","FARSON","130","6","0","2"
-"WY5601668","JONAH ENERGY LLC FIELD OFFICE","Non-Transient non-community system","Ground water","Sublette","PINEDALE","92","6","0","1"
-"WY5600904","KELLY SCHOOL (TCSD #1)","Non-Transient non-community system","Ground water","Teton","KELLY","100","6","105","7"
-"WY5600485","LITTLE AMERICA HOTELS & RESORTS CHEYENNE","Non-Transient non-community system","Surface water purchased","Laramie","CHEYENNE","525","11","11","8"
-"WY5601674","LITTLE POWDER SCHOOL","Non-Transient non-community system","Ground water","Campbell","GILLETTE","32","5","2","1"
-"WY5601504","LOVE`S TRAVEL CENTER","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","1,545","7","3","3"
-"WY5601403","LOWER VALLEY ENERGY","Non-Transient non-community system","Ground water","Teton","-","40","5","7","5"
-"WY5601243","MCDONALD'S (PREISS CORPORATION)","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","570","8","6","5"
-"WY5601480","MEADOWLARK ACADEMY","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","70","8","32","4"
-"WY5601327","MOUNTAIN CEMENT COMPANY","Non-Transient non-community system","Ground water","Albany","LARAMIE","85","9","55","5"
-"WY5601325","NATIONAL WILDLIFE ART MUSEUM","Non-Transient non-community system","Ground water","Teton","JACKSON","213","7","10","5"
-"WY5601665","NICHOLS RANCH IN-SITU RECOVERY PROJECT","Non-Transient non-community system","Ground water","Johnson","LINCH","40","8","1","1"
-"WY5600874","NORTH ANTELOPE COAL MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","170","6","2","5"
-"WY5601693","O BAR B IMPROVEMENT & SERVICE DISTRICT","Non-Transient non-community system","Ground water","Teton","JACKSON","100","4","0","1"
-"WY5601610","OAK TREE INN & PENNY'S DINER","Non-Transient non-community system","Ground water","Converse","BILL","240","7","0","2"
-"WY5600328","POWDER RIVER COAL-CABALLO MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","200","11","22","7"
-"WY5600815","POWDER RIVER COAL-RAWHIDE MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","235","7","8","6"
-"WY5601500","POWER RESOURCES INC/SMITH RANCH","Non-Transient non-community system","Ground water","Converse","GLENROCK","70","8","17","3"
-"WY5601690","PRAIRIE WIND ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","491","7","0","1"
-"WY5601685","QEP ENERGY COMPANY","Non-Transient non-community system","Ground water","Sublette","PINEDALE","50","5","1","1"
-"WY5600123","RAG COAL WEST INC/RAWHIDE SCHOOL","Non-Transient non-community system","Ground water","Campbell","GILLETTE","295","7","25","8"
-"WY5601057","RECLUSE SCHOOL #2","Non-Transient non-community system","Ground water","Campbell","GILLETTE","31","11","9","7"
-"WY5601184","ROCHELLE COAL MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","306","7","6","6"
-"WY5601034","SAPP BROTHERS TRUCK STOP","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","400","8","20","7"
-"WY5601467","SCHOOL CREEK MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","75","7","22","4"
-"WY5601653","SIGMA-ALDRICH RTC","Non-Transient non-community system","Ground water","Albany","LARAMIE","27","7","48","1"
-"WY5601368","SIMPLOT PHOSPHATES, LLC","Non-Transient non-community system","Surface water purchased","Sweetwater","ROCK SPRINGS","240","6","1","5"
-"WY5601366","SINKS CANYON CENTER","Non-Transient non-community system","Ground water","Fremont","LANDER","85","5","10","5"
-"WY5601699","SNAKE RIVER SPORTING CLUB","Non-Transient non-community system","Ground water","Teton","JACKSON","105","5","4","0"
-"WY5601588","SNOW KING RESORT","Non-Transient non-community system","Ground water purchased","Teton","JACKSON","100","5","3","3"
-"WY5600914","SOLVAY CHEMICALS, INC.","Non-Transient non-community system","Surface water","Sweetwater","GREEN RIVER","450","8","57","8"
-"WY5600578","STORY ELEMENTARY SCHOOL","Non-Transient non-community system","Ground water","Sheridan","STORY","40","7","4","3"
-"WY5600749","SWEETWATER COUNTY AIRPORT","Non-Transient non-community system","Surface water purchased","Sweetwater","ROCK SPRINGS","30","7","16","8"
-"WY5600636","TATA CHEMICALS (SODA ASH) PARTNERS","Non-Transient non-community system","Surface water","Sweetwater","GREEN RIVER","701","6","64","11"
-"WY5600501","TOGWOTEE MOUNTAIN LODGE","Non-Transient non-community system","Groundwater under influence of surface water","Teton","MORAN JCT","270","13","7","5"
-"WY5600807","TRAVEL CENTERS OF AMERICA","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","1,525","7","22","8"
-"WY5600793","TRAVEL CENTERS OF AMERICA-FT. BRIDGER","Non-Transient non-community system","Ground water","Uinta","FORT BRIDGER","70","7","18","8"
-"WY5601664","UR-ENERGY USA, LOST CREEK ISR","Non-Transient non-community system","Ground water","Sweetwater","CASPER","55","3","2","1"
-"WY5600298","VALERO","Non-Transient non-community system","Ground water","Laramie","CHEYENNE","1,022","7","121","8"
-"WY5600906","VANGUARD OPERATING, LLC","Non-Transient non-community system","Groundwater under influence of surface water","Park","POWELL","60","17","11","7"
-"WY5601214","WESTERN FUELS-WYOMING INC.","Non-Transient non-community system","Ground water","Campbell","GILLETTE","64","9","24","6"
-"WY5600603","WILLIAMS FIELD SERVICES-OPAL","Non-Transient non-community system","Ground water purchased","Lincoln","OPAL","41","16","78","9"
-"WY5601410","WINLAND INDUSTRIAL PARK","Non-Transient non-community system","Ground water purchased","Campbell","GILLETTE","251","7","5","4"
-"WY5600798","WYODAK MINE","Non-Transient non-community system","Ground water","Campbell","GILLETTE","60","9","2","3"
-"WY5680074","YELLOWSTONE NP CANYON VILLAGE","Non-Transient non-community system","Surface water","Park","YELLOWSTONE NP","4,300","8","5","9"
-"WY5600566","7D RANCH","Transient non-community system","Ground water","Park","CODY","51","8","13","7"
-"WY5600334","A BAR A RANCH","Transient non-community system","Ground water","Carbon","ENCAMPMENT","200","16","18","8"
-"WY5601333","A-OK RV PARK","Transient non-community system","Ground water","Platte","WHEATLAND","50","9","4","1"
-"WY5600467","ABSAROKA LODGE","Transient non-community system","Ground water","Park","WAPITI","65","5","4","9"
-"WY5600983","ABSAROKA RANCH","Transient non-community system","Ground water","Fremont","DUBOIS","41","4","4","5"
-"WY5601654","AILPORT PROPERTIES WYOMING","Transient non-community system","Ground water","Converse","GLENROCK","26","8","4","1"
-"WY5600313","AKAL TRAVEL CENTER","Transient non-community system","Ground water","Albany","LARAMIE","250","7","20","6"
-"WY5601489","ALADDIN, TOWN OF","Transient non-community system","Ground water","Crook","-","62","6","1","1"
-"WY5600301","ALBANY COUNTY LODGE","Transient non-community system","Ground water","Albany","LARAMIE","250","8","16","9"
-"WY5601465","ALCOVA LAKEVIEW ESTATES I","Transient non-community system","Ground water","Natrona","CASPER","38","6","0","4"
-"WY5601585","ALCOVA LAKEVIEW ESTATES II","Transient non-community system","Ground water","Natrona","CASPER","9","6","1","3"
-"WY5601658","ALL SEASONS RV PARK","Transient non-community system","Ground water","Campbell","-","5","7","3","1"
-"WY5601530","ALPINE 4-H CAMP","Transient non-community system","Ground water","Lincoln","ALPINE","250","5","5","4"
-"WY5601526","AMERICAN WILDERNESS LEADERSHIP SCHOOL","Transient non-community system","Ground water","Teton","JACKSON","75","5","4","4"
-"WY5601027","ANTELOPE TRUCK STOP","Transient non-community system","Ground water","Laramie","BURNS","358","6","31","8"
-"WY5601603","ARBYS RESTAURANT","Transient non-community system","Ground water","Laramie","CHEYENNE","316","6","6","2"
-"WY5601670","ARNG GUERNSEY-MRF RANGE","Transient non-community system","Ground water","Platte","GUERNSEY","149","3","0","1"
-"WY5601671","ARNG GUERNSEY-QTR RANGE","Transient non-community system","Ground water","Platte","GUERNSEY","163","3","1","1"
-"WY5601433","ARNG-DEERCORN SPRINGS-CAMP GUERNSEY","Transient non-community system","Ground water","Platte","GUERNSEY","283","5","3","6"
-"WY5601432","ARNG-LAW RANGE WELL #5-CAMP GUERNSEY","Transient non-community system","Ground water","Platte","GUERNSEY","800","6","2","5"
-"WY5601434","ARNG-RYAN SPRINGS WELL #6-CAMP GUERNSEY","Transient non-community system","Ground water","Platte","GUERNSEY","800","6","5","5"
-"WY5600480","ARROWHEAD LODGE WYOMING, LLC","Transient non-community system","Ground water","Sheridan","DAYTON","100","16","32","10"
-"WY5601506","ARVADA MOBILE HOME PARK","Transient non-community system","Ground water","Sheridan","ARVADA","29","8","13","3"
-"WY5680120","ASHLEY NF-BUCKBOARD CROSSING CG","Transient non-community system","Surface water","Sweetwater","-","62","7","6","8"
-"WY5600995","ASHLEY NF-FIREHOLE RECREATION AREA","Transient non-community system","Ground water","Sweetwater","-","70","5","2","7"
-"WY5600432","ATLANTIC CITY MERCANTILE","Transient non-community system","Groundwater under influence of surface water","Fremont","ATLANTIC CITY","52","5","27","8"
-"WY5600886","BAR J CHUCKWAGON","Transient non-community system","Ground water","Teton","WILSON","170","5","8","5"
-"WY5600479","BEAR LODGE","Transient non-community system","Ground water","Sheridan","DAYTON","93","17","10","7"
-"WY5600744","BIGHORN BASIN BOAT CLUB","Transient non-community system","Ground water","Park","POWELL","50","9","5","6"
-"WY5680175","BIGHORN CANYON NAT'L REC. AREA","Transient non-community system","Ground water","Big Horn","LOVELL","40","6","2","7"
-"WY5680263","BIGHORN NF - BURGESS TRAILER DUMP STATIO","Transient non-community system","Ground water","Sheridan","-","150","3","1","1"
-"WY5680231","BIGHORN NF - SIBLEY LAKE CG","Transient non-community system","Ground water","Sheridan","DAYTON","60","7","12","5"
-"WY5680004","BIGHORN NF-BOULDER PARK CG","Transient non-community system","Ground water","Big Horn","SHERIDAN","100","6","8","7"
-"WY5680232","BIGHORN NF-BURGESS JCT VISITOR CNTR","Transient non-community system","Ground water","Sheridan","DAYTON","650","8","6","5"
-"WY5680244","BIGHORN NF-BURGESS RANGER STATION","Transient non-community system","Ground water","Sheridan","SHERIDAN","20","7","8","3"
-"WY5601539","BIGHORN NF-LEIGH CREEK DUMP STATION","Transient non-community system","Ground water","Johnson","-","40","4","1","3"
-"WY5680243","BIGHORN NF-RANGER CREEK CAMPGROUND","Transient non-community system","Ground water","Big Horn","SHERIDAN","40","6","5","3"
-"WY5680008","BIGHORN NF-SHELL FALLS INTERPRETIVE SITE","Transient non-community system","Ground water","Big Horn","GREYBULL","1,500","8","17","7"
-"WY5680005","BIGHORN NF-SITTING BULL CG","Transient non-community system","Ground water","Big Horn","TEN SLEEP","100","7","13","8"
-"WY5680184","BIGHORN NF-TIE HACK CAMPGROUND","Transient non-community system","Ground water","Johnson","BUFFALO","35","7","7","5"
-"WY5601009","BIGHORN NF-TYRRELL WORK CENTER","Transient non-community system","Ground water","Big Horn","SHERIDAN","30","7","8","7"
-"WY5600477","BILL CODY RANCH","Transient non-community system","Ground water","Park","CODY","65","6","20","10"
-"WY5601511","BITTERROOT RANCH","Transient non-community system","Groundwater under influence of surface water","Fremont","DUBOIS","47","22","12","4"
-"WY5680010","BLACK HILLS NF-COOK LAKE CG","Transient non-community system","Ground water","Crook","SUNDANCE","165","4","9","6"
-"WY5601424","BLACKWATER CREEK RANCH","Transient non-community system","Ground water","Park","CODY","40","5","22","5"
-"WY5680240","BLM - FIVE SPRINGS CAMPGROUND","Transient non-community system","Ground water","Big Horn","CODY","25","3","4","4"
-"WY5601140","BLM FONTENELLE CREEK CAMPGROUND","Transient non-community system","Ground water","Lincoln, Sweetwater","ROCK SPRINGS","25","7","6","7"
-"WY5680146","BLM LODGEPOLE CAMPGROUND","Transient non-community system","Ground water","Natrona","CASPER","25","8","12","9"
-"WY5680260","BLM-ATLANTIC CITY CG","Transient non-community system","Ground water","Fremont","ATLANTIC CITY","25","4","0","1"
-"WY5680262","BLM-BIG ATLANTIC GULCH CG","Transient non-community system","Ground water","Fremont","ATLANTIC CITY","25","3","0","1"
-"WY5680261","BLM-COTTONWOOD CG","Transient non-community system","Ground water","Fremont","LANDER","25","3","0","1"
-"WY5680147","BLM-WARREN BRIDGE CG","Transient non-community system","Ground water","Sublette","ROCK SPRINGS","25","5","11","7"
-"WY5601659","BOMGAARS SUPPLY, INCORPORATED","Transient non-community system","Ground water","Sublette","PINEDALE","450","4","2","1"
-"WY5600981","BOULDER STORE/GAS STATION","Transient non-community system","Ground water","Sublette","BOULDER","25","5","24","7"
-"WY5600659","BOYSEN ST PK COTTONWOOD","Transient non-community system","Ground water","Fremont","SHOSHONI","25","7","6","5"
-"WY5600654","BOYSEN ST PK HDQRTS","Transient non-community system","Surface water","Fremont","SHOSHONI","90","8","11","9"
-"WY5601189","BOYSEN ST PK TOUGH CREEK #2","Transient non-community system","Ground water","Fremont","SHOSHONI","25","7","3","7"
-"WY5600658","BOYSEN STATE PARK-FREMONT BAY CG","Transient non-community system","Ground water","Fremont","SHOSHONI","25","6","9","5"
-"WY5600656","BOYSEN STATE PARK-LOWER WIND RIVER","Transient non-community system","Ground water","Fremont","SHOSHONI","30","6","7","7"
-"WY5600655","BOYSEN STATE PARK-UPPER WIND RIVER","Transient non-community system","Ground water","Fremont","SHOSHONI","30","6","4","7"
-"WY5680207","BRIDGER-TETON NF ATHERTON CREEK CG","Transient non-community system","Ground water","Teton","JACKSON","80","6","8","5"
-"WY5680212","BRIDGER-TETON NF BLACKROCK RS","Transient non-community system","Ground water","Teton","MORAN JCT","68","6","4","5"
-"WY5680211","BRIDGER-TETON NF BUFFALO WORK CENTER","Transient non-community system","Ground water","Teton","MORAN JCT","40","6","17","5"
-"WY5680136","BRIDGER-TETON NF CURTIS CANYON CG","Transient non-community system","Ground water","Teton","JACKSON","67","4","5","5"
-"WY5680124","BRIDGER-TETON NF FREMONT LK CG","Transient non-community system","Ground water","Sublette","PINEDALE","50","5","4","5"
-"WY5680137","BRIDGER-TETON NF GRANITE CK CG","Transient non-community system","Groundwater under influence of surface water","Teton","JACKSON","100","7","16","5"
-"WY5680140","BRIDGER-TETON NF GRN RVR LK CG","Transient non-community system","Ground water","Sublette","PINEDALE","80","5","4","5"
-"WY5680139","BRIDGER-TETON NF HOBACK CAMPGROUND","Transient non-community system","Ground water","Teton","JACKSON","50","5","7","5"
-"WY5680135","BRIDGER-TETON NF STATION CREEK CG","Transient non-community system","Ground water","Lincoln","JACKSON","160","5","4","5"
-"WY5680259","BRIDGER-TETON NF TRAILS END CAMPGROUND","Transient non-community system","Ground water","Sublette","PINEDALE","40","3","0","0"
-"WY5680210","BRIDGER-TETON NF TURPIN MEADOWS CG","Transient non-community system","Ground water","Teton","MORAN JCT","30","5","6","5"
-"WY5601677","BRINTON MUSEUM","Transient non-community system","Surface water","Sheridan","BIG HORN","62","6","1","1"
-"WY5601081","BROKEN ARROW RANCH","Transient non-community system","Ground water","Teton","JACKSON","60","8","9","6"
-"WY5601625","BROKEN WHEEL RANCH ASSOCIATION","Transient non-community system","Ground water","Lincoln","ALPINE","27","6","0","2"
-"WY5601001","BROKEN WHEEL TRUCK STOP","Transient non-community system","Ground water","Converse","DOUGLAS","320","5","31","7"
-"WY5601400","BROOKS LAKE LODGE","Transient non-community system","Surface water","Fremont","DUBOIS","40","11","24","5"
-"WY5601644","BRUSH CREEK RANCH & EMPLOYEE HOUSING","Transient non-community system","Ground water","Carbon","SARATOGA","365","32","23","4"
-"WY5601477","BRYAN`S PLACE","Transient non-community system","Ground water","Campbell","ROZET","26","4","31","2"
-"WY5600600","BUCKHORN BAR AND GRILL","Transient non-community system","Ground water","Weston","NEWCASTLE","104","5","27","7"
-"WY5601611","BUCKING HORSE STEAK HOUSE","Transient non-community system","Ground water","Goshen","TORRINGTON","100","4","12","2"
-"WY5601246","BUFFALO BILL DAM VISITOR CENTER","Transient non-community system","Surface water purchased","Park","CODY","500","6","7","5"
-"WY5601268","BUFFALO BILL ST PK NO.SHORE BA","Transient non-community system","Ground water","Park","CODY","25","5","0","6"
-"WY5600667","BUFFALO BILL ST PK NORTH FORK","Transient non-community system","Ground water","Park","CODY","40","6","2","8"
-"WY5601129","BUNKHOUSE BAR AND GRILL","Transient non-community system","Ground water","Laramie","CHEYENNE","30","7","14","5"
-"WY5600396","C M RANCH LLC","Transient non-community system","Ground water","Fremont","DUBOIS","75","21","16","7"
-"WY5600525","CALICO ITALIAN RESTAURANT","Transient non-community system","Ground water","Teton","TETON VILLAGE","300","5","2","6"
-"WY5601497","CAMP BETHEL","Transient non-community system","Ground water","Sheridan","DAYTON","70","8","2","4"
-"WY5601373","CAMP BUFFALO BILL","Transient non-community system","Ground water","Park","POWELL","250","7","9","5"
-"WY5601590","CAMP GRACE/FLETCHER PARK BAPTIST YOUTH","Transient non-community system","Ground water","Albany","WHEATLAND","100","5","5","2"
-"WY5601544","CAMP LOLL- BOY SCOUTS OF AMERICA","Transient non-community system","Ground water","Teton","-","300","6","3","3"
-"WY5600564","CAMP NEW FORK-BOY SCOUTS OF AMERICA","Transient non-community system","Ground water","Sublette","-","450","12","10","4"
-"WY5601513","CAMP PAINTROCK","Transient non-community system","Ground water","Big Horn","HYATTVILLE","100","5","23","4"
-"WY5600856","CAMP SACAJAWEA","Transient non-community system","Ground water","Natrona","CASPER","75","23","22","9"
-"WY5600685","CAMP WYOBA AND LIONS CLUB","Transient non-community system","Groundwater under influence of surface water","Natrona","CASPER","100","6","22","9"
-"WY5601706","CHEYENNE HILLS CHURCH","Transient non-community system","Ground water","Laramie","-","1,211","2","0","1"
-"WY5601102","CHEYENNE SHRINE CLUB","Transient non-community system","Ground water","Laramie","CHEYENNE","25","5","19","7"
-"WY5601688","CHIPPY'S CATERING/WILSON HARDWARE","Transient non-community system","Ground water","Teton","WILSON","45","3","7","1"
-"WY5601165","CIRCLE J RANCH","Transient non-community system","Ground water","Washakie","TEN SLEEP","200","15","19","9"
-"WY5601621","COTTONWOOD COUNTRY CLUB","Transient non-community system","Ground water","Goshen","TORRINGTON","49","9","1","2"
-"WY5601570","COUNTRY BURGERS","Transient non-community system","Ground water","Sweetwater","FARSON","70","7","15","3"
-"WY5600468","CREEKSIDE LODGE","Transient non-community system","Ground water","Park","CODY","53","6","19","8"
-"WY5601542","CROOKED CREEK GUEST RANCH","Transient non-community system","Ground water","Fremont","DUBOIS","33","7","12","3"
-"WY5600443","CROSSED SABRES GUEST RANCH","Transient non-community system","Groundwater under influence of surface water","Park","WAPITI","25","9","20","8"
-"WY5601157","CROWHEART STORE","Transient non-community system","Ground water","Fremont","CROWHEART","114","6","21","8"
-"WY5600866","CURT GOWDY ST PK HEADQUARTERS","Transient non-community system","Ground water","Laramie","CHEYENNE","25","6","28","7"
-"WY5600867","CURT GOWDY ST PK N GRANITE SPR RES","Transient non-community system","Ground water","Laramie","CHEYENNE","70","5","7","6"
-"WY5601222","CURT GOWDY ST PK-CRYSTAL DAM OVERLOOK","Transient non-community system","Ground water","Laramie","CHEYENNE","25","6","3","7"
-"WY5601514","CURT GOWDY ST PK-NE GRANITE SPRINGS","Transient non-community system","Ground water","Laramie","CHEYENNE","25","5","3","3"
-"WY5601517","DANIEL JUNCTION","Transient non-community system","Ground water","Sublette","-","125","6","4","3"
-"WY5601451","DARBY GIRLS CAMP","Transient non-community system","Ground water","Teton","-","200","8","8","4"
-"WY5600565","DEER HAVEN LODGE","Transient non-community system","Ground water","Washakie","TEN SLEEP","50","7","24","7"
-"WY5600225","DEER HAVEN MOBILE HOME PARK","Transient non-community system","Ground water","Carbon","SARATOGA","35","7","11","9"
-"WY5600487","DEER PARK MHP & CG","Transient non-community system","Ground water","Johnson","BUFFALO","83","13","2","8"
-"WY5600370","DEVIL'S TOWER KOA-CAMPSTOOL CG","Transient non-community system","Ground water","Crook","DEVILS TOWER","250","6","18","8"
-"WY5680114","DEVIL'S TOWER NAT'L MONUMENT","Transient non-community system","Ground water","Crook","DEVILS TOWER","2,000","8","1","8"
-"WY5601375","DEVIL'S TOWER TRADING POST","Transient non-community system","Ground water","Crook","DEVILS TOWER","100","4","3","5"
-"WY5601516","DEVILS TOWER VIEW","Transient non-community system","Ground water","Crook","HULETT","40","9","9","3"
-"WY5601261","DORNAN`S MOOSE ENTERPRISES","Transient non-community system","Ground water","Teton","MOOSE","1,010","9","22","5"
-"WY5600870","EAGLE CREEK RV & TRAILER PARK","Transient non-community system","Ground water","Natrona","ALCOVA","25","4","12","11"
-"WY5601583","EATON INVESTMENTS","Transient non-community system","Ground water","Sweetwater","FARSON","27","7","6","5"
-"WY5600929","EATON'S DUDE RANCH","Transient non-community system","Ground water","Sheridan","-","210","7","1","7"
-"WY5600860","EDELWEISS","Transient non-community system","Ground water","Park","CLARK","29","5","18","7"
-"WY5600111","EDEN SALOON","Transient non-community system","Ground water","Sweetwater","EDEN","29","6","31","10"
-"WY5601460","EKW STATE PARK - COTTONWOOD","Transient non-community system","Ground water","Natrona","EVANSVILLE","25","5","2","5"
-"WY5601459","EKW STATE PARK - PLATTE RIVER","Transient non-community system","Ground water","Natrona","EVANSVILLE","25","6","3","5"
-"WY5600461","ELEPHANT HEAD LODGE","Transient non-community system","Ground water","Park","WAPITI","57","7","16","5"
-"WY5600999","ELK REFUGE INN","Transient non-community system","Ground water","Teton","JACKSON","72","7","18","8"
-"WY5601484","ELK VIEW INN","Transient non-community system","Ground water","Sheridan","DAYTON","160","14","18","4"
-"WY5600528","ELKHORN LODGE, LLC","Transient non-community system","Ground water","Sublette","BONDURANT","66","10","26","9"
-"WY5601084","ELKHORN TRAILER PARK","Transient non-community system","Ground water","Sheridan","SHERIDAN","20","4","0","5"
-"WY5601700","EMMANUEL BIBLE CHURCH","Transient non-community system","Ground water","Lincoln","-","138","3","4","0"
-"WY5601412","FISH CREEK CENTER","Transient non-community system","Ground water","Teton","WILSON","120","5","13","5"
-"WY5601186","FLAT CREEK INN","Transient non-community system","Ground water","Teton","JACKSON","200","10","8","5"
-"WY5601273","FLAT CREEK RV PARK","Transient non-community system","Ground water","Lincoln","THAYNE","23","6","20","5"
-"WY5601250","FLYING V CAMBRIA INN","Transient non-community system","Ground water","Weston","NEWCASTLE","30","5","21","4"
-"WY5601104","FLYING X RANCH MHP","Transient non-community system","Ground water","Albany","WHEATLAND","200","18","21","8"
-"WY5680174","FORT FETTERMAN STATE HISTORIC SITE","Transient non-community system","Ground water","Converse","DOUGLAS","52","9","11","8"
-"WY5680115","FORT LARAMIE NATIONAL HISTORIC SITE","Transient non-community system","Ground water","Goshen","FORT LARAMIE","352","10","0","7"
-"WY5600672","FORT PHIL KEARNEY ST HIST SITE","Transient non-community system","Ground water","Johnson","STORY","100","7","10","6"
-"WY5600389","FREMONT COUNTY YOUTH CAMP","Transient non-community system","Ground water","Fremont","LANDER","70","6","17","6"
-"WY5601419","FRONTIER MART","Transient non-community system","Ground water","Goshen","TORRINGTON","140","7","9","5"
-"WY5601598","GLENDO LAKESIDE RV PARK","Transient non-community system","Ground water","Platte","GLENDO","100","5","1","2"
-"WY5600665","GLENDO ST PARK COTTONWOOD","Transient non-community system","Ground water","Platte","GLENDO","50","6","9","7"
-"WY5600661","GLENDO ST PARK HEADQUARTERS","Transient non-community system","Ground water","Platte","GLENDO","156","12","5","9"
-"WY5600664","GLENDO ST PARK WHISKEY GULCH","Transient non-community system","Ground water","Platte","GLENDO","50","5","2","7"
-"WY5600662","GLENDO ST PARK-RENO COVE","Transient non-community system","Ground water","Platte","GLENDO","25","5","0","6"
-"WY5601069","GLENROCK SOUTH RECREATION COMPLEX","Transient non-community system","Ground water","Converse","GLENROCK","30","6","4","6"
-"WY5601510","GOOSEWING RANCH","Transient non-community system","Ground water","Teton","JACKSON","56","8","6","4"
-"WY5680111","GRAND TETON NP AMK RANCH","Transient non-community system","Ground water","Teton","MOOSE","25","11","1","4"
-"WY5680094","GRAND TETON NP CLIMBERS RANCH","Transient non-community system","Ground water","Teton","MOOSE","50","5","1","5"
-"WY5680097","GRAND TETON NP FLAGG RANCH","Transient non-community system","Ground water","Teton","MOOSE","600","7","0","5"
-"WY5680100","GRAND TETON NP GROS VENTRE CG","Transient non-community system","Ground water","Teton","MOOSE","500","5","0","5"
-"WY5680101","GRAND TETON NP HIGHLANDS","Transient non-community system","Ground water","Teton","MOOSE","25","5","0","5"
-"WY5680157","GRAND TETON NP-JENNY LAKE LODGE","Transient non-community system","Ground water","Teton","MOOSE","225","5","1","5"
-"WY5680250","GRAND TETON NP-LAURANCE S.ROCKEFELLER PC","Transient non-community system","Ground water","Teton","MOOSE","275","4","0","2"
-"WY5680105","GRAND TETON NP-LEEKS MARINA","Transient non-community system","Ground water","Teton","MOOSE","120","6","0","5"
-"WY5680106","GRAND TETON NP-LIZARD CREEK CG","Transient non-community system","Ground water","Teton","MOOSE","90","5","0","5"
-"WY5680156","GRAND TETON NP-LUPINE MEADOWS","Transient non-community system","Ground water","Teton","MOOSE","40","5","1","5"
-"WY5680096","GRAND TETON NP-SOUTH JENNY LAKE","Transient non-community system","Ground water","Teton","MOOSE","120","5","0","5"
-"WY5600682","GRAND TETON PARK RV RESORT","Transient non-community system","Ground water","Teton","MORAN JCT","502","16","38","5"
-"WY5600416","GRANDMA'S INN","Transient non-community system","Ground water","Goshen","TORRINGTON","25","7","29","7"
-"WY5601599","GRAY ROCK CONFERENCE CENTER","Transient non-community system","Ground water","Platte","GUERNSEY","50","7","3","3"
-"WY5601574","GREEN CREEK INN & RV","Transient non-community system","Ground water","Park","CODY","50","5","3","3"
-"WY5601406","GROS VENTRE RIVER RANCH","Transient non-community system","Ground water","Teton","MOOSE","51","8","6","5"
-"WY5600689","GUERNSEY ST PARK EAST SIDE","Transient non-community system","Ground water","Platte","GUERNSEY","25","5","18","7"
-"WY5600690","GUERNSEY ST PARK FISH CANYON","Transient non-community system","Ground water","Platte","GUERNSEY","25","5","2","7"
-"WY5680177","GUERNSEY ST PARK HEADQUARTERS","Transient non-community system","Ground water","Platte","GUERNSEY","25","5","9","8"
-"WY5600691","GUERNSEY ST PARK LONG CANYON","Transient non-community system","Ground water","Platte","GUERNSEY","50","5","3","7"
-"WY5600693","GUERNSEY ST PARK SANDY BEACH 1","Transient non-community system","Ground water","Platte","GUERNSEY","50","5","3","7"
-"WY5600694","GUERNSEY ST PARK SANDY BEACH 2","Transient non-community system","Ground water","Platte","GUERNSEY","50","5","3","7"
-"WY5600692","GUERNSEY ST PARK SEWER DUMP","Transient non-community system","Ground water","Platte","GUERNSEY","25","4","2","7"
-"WY5600517","HATCHET RESORT","Transient non-community system","Ground water","Teton","MORAN JCT","204","7","14","5"
-"WY5600502","HEART SIX GUEST RANCH","Transient non-community system","Ground water","Teton","MORAN JCT","40","11","38","6"
-"WY5600989","HF BAR RANCH","Transient non-community system","Surface water","Johnson","-","153","5","24","5"
-"WY5601540","HIGHLINE TRAIL RV PARK","Transient non-community system","Ground water","Sublette","BOULDER","62","6","0","3"
-"WY5601491","HILLIARD WARD","Transient non-community system","Ground water","Uinta","EVANSTON","45","7","8","4"
-"WY5601532","HOBACK STORES, INC. DBA HOBACK MARKET","Transient non-community system","Ground water","Teton","JACKSON","200","5","18","5"
-"WY5600736","HOGADON SKI AREA","Transient non-community system","Ground water","Natrona","CASPER","417","8","8","9"
-"WY5601701","HOLY FAMILY CATHOLIC CHURCH, INC.","Transient non-community system","Ground water","Lincoln","-","140","3","6","0"
-"WY5601647","INDIAN SPRINGS RANCH HOA","Transient non-community system","Ground water","Teton","JACKSON","63","6","2","1"
-"WY5601370","J & E INFANGER, INC.","Transient non-community system","Ground water","Teton","JACKSON","33","4","14","5"
-"WY5600520","JACKSON HOLE CAMPGROUND","Transient non-community system","Ground water","Teton","TETON VILLAGE","170","5","30","8"
-"WY5600448","K BAR Z GUEST RANCH","Transient non-community system","Ground water","Park","CODY","46","4","12","7"
-"WY5600373","KEYHOLE RESORT/MARINA","Transient non-community system","Ground water purchased","Crook","MOORCROFT","50","14","19","6"
-"WY5600652","KEYHOLE ST PARK COTTONWOOD CG","Transient non-community system","Ground water","Crook","MOORCROFT","25","9","6","9"
-"WY5680179","KEYHOLE ST PARK HEADQUARTERS","Transient non-community system","Ground water","Crook","MOORCROFT","100","15","8","8"
-"WY5601577","KINNEAR STORE","Transient non-community system","Ground water","Fremont","KINNEAR","45","5","27","3"
-"WY5601428","KOA CAMPGROUND CHEYENNE","Transient non-community system","Ground water","Laramie","CHEYENNE","131","6","9","4"
-"WY5601528","LAKE STOP","Transient non-community system","Ground water","Johnson","BUFFALO","29","12","7","3"
-"WY5600509","LAKE WATER CO., LLC.","Transient non-community system","Ground water","Platte","GLENDO","25","7","12","7"
-"WY5600474","LAKESIDE LODGE","Transient non-community system","Surface water","Sublette","PINEDALE","75","4","15","12"
-"WY5601646","LARAMIE COUNTY ARCHER COMPLEX","Transient non-community system","Ground water","Laramie","CHEYENNE","62","9","2","1"
-"WY5601376","LARSON'S PARK","Transient non-community system","Ground water","Platte","GUERNSEY","45","6","6","5"
-"WY5600407","LAVA MOUNTAIN LODGE","Transient non-community system","Ground water","Fremont","DUBOIS","50","6","16","7"
-"WY5600741","LAZY L AND B RANCH","Transient non-community system","Ground water","Fremont","DUBOIS","50","8","15","7"
-"WY5600500","LCRH20, LLC","Transient non-community system","Ground water","Teton","MOOSE","105","8","3","6"
-"WY5601696","LDS AUBURN/GROVER/MEADOWS MEETINGHOUSE","Transient non-community system","Ground water","Lincoln","GROVER","500","3","1","1"
-"WY5601682","LDS BUFFALO RIDGE CHURCH","Transient non-community system","Ground water","Laramie","CHEYENNE","530","5","1","1"
-"WY5601683","LDS LARMIE WY STAKE REC CAMP/BATEL RANCH","Transient non-community system","Ground water","Albany","LARAMIE","300","5","0","1"
-"WY5601687","LDS TEN SLEEP MEETINGHOUSE","Transient non-community system","Ground water","Washakie","TEN SLEEP","80","4","15","2"
-"WY5601681","LDS WHEATLAND CHURCH","Transient non-community system","Ground water","Platte","WHEATLAND","95","3","0","1"
-"WY5601479","LINE SHACK LODGE","Transient non-community system","Ground water","Fremont","DUBOIS","50","5","13","4"
-"WY5600740","LITTLE BEAR INN","Transient non-community system","Ground water","Laramie","CHEYENNE","108","4","28","7"
-"WY5601538","LONGHORN RV AND MOTEL","Transient non-community system","Ground water","Fremont","DUBOIS","200","10","5","5"
-"WY5600972","LORD OF LORDS LUTHERAN CHURCH","Transient non-community system","Ground water","Natrona","CASPER","70","5","11","9"
-"WY5601488","LUTON'S TETON CABINS","Transient non-community system","Ground water","Teton","MORAN JCT","70","6","0","3"
-"WY5600379","LYMAN KOA CAMPGROUND","Transient non-community system","Ground water","Uinta","LYMAN","154","4","23","8"
-"WY5600688","MEADOWLARK LAKE LODGE","Transient non-community system","Ground water","Big Horn, Washakie","WORLAND","150","4","14","6"
-"WY5600362","MEADOWLARK SKI RESORT","Transient non-community system","Ground water","Washakie","-","60","5","24","6"
-"WY5680054","MED BOW NF- SOUTH BRUSH CREEK CAMPGROUND","Transient non-community system","Ground water","Carbon","SARATOGA","80","6","10","7"
-"WY5680254","MEDICINE BOW NF LAKE OWEN CG","Transient non-community system","Ground water","Albany","LARAMIE","26","10","5","1"
-"WY5680252","MEDICINE BOW NF PELTON CREEK CG","Transient non-community system","Ground water","Albany","LARAMIE","30","3","8","1"
-"WY5680051","MEDICINE BOW NF RYAN PARK CG","Transient non-community system","Ground water","Carbon","SARATOGA","40","8","17","7"
-"WY5680068","MEDICINE BOW NF VEDAUWOO CG","Transient non-community system","Ground water","Albany","LARAMIE","26","12","28","7"
-"WY5680176","MEDICINE BOW NF- HOG PARK CG","Transient non-community system","Ground water","Carbon","ENCAMPMENT","30","5","11","7"
-"WY5680233","MEDICINE BOW NF-BR CRK/HAYDEN RS","Transient non-community system","Ground water","Carbon","SARATOGA","50","5","8","4"
-"WY5680062","MEDICINE BOW NF-HIDDEN VALLEY PG","Transient non-community system","Ground water","Albany","LARAMIE","30","4","10","7"
-"WY5680050","MEDICINE BOW NF-MIRROR LAKE PG","Transient non-community system","Ground water","Albany","SARATOGA","250","4","16","7"
-"WY5680249","MEDICINE BOW NF-ROB ROY UPPER LOOP CG","Transient non-community system","Ground water","Albany","LARAMIE","30","6","10","3"
-"WY5600979","MEDICINE LODGE ST HIST SITE","Transient non-community system","Ground water","Big Horn","HYATTVILLE","115","6","4","7"
-"WY5601446","MHVC 66 RANCH","Transient non-community system","Ground water","Natrona","ALCOVA","96","15","2","5"
-"WY5601444","MHVC CHERRY CREEK CG","Transient non-community system","Ground water","Natrona","ALCOVA","25","6","4","4"
-"WY5601445","MHVC JACKSON CG","Transient non-community system","Ground water","Natrona","ALCOVA","25","6","1","4"
-"WY5601559","MHVC SAGE CG","Transient non-community system","Ground water","Fremont","AFTON","120","3","1","4"
-"WY5601487","MHVC SIXTH CROSSING RANCH RV PARK","Transient non-community system","Ground water","Fremont","-","200","19","5","5"
-"WY5601431","MHVC VISITORS CENTER","Transient non-community system","Ground water","Natrona","ALCOVA","612","11","4","4"
-"WY5600631","MILLS SPRING RANCH","Transient non-community system","Ground water","Natrona","CASPER","200","8","38","10"
-"WY5601105","MINERS GRUBSTAKE, LLC","Transient non-community system","Ground water","Fremont","ATLANTIC CITY","102","7","34","8"
-"WY5600559","MITCH`S CAFE","Transient non-community system","Ground water","Sweetwater","FARSON","35","7","8","8"
-"WY5600495","MOOSEHEAD RANCH","Transient non-community system","Ground water","Teton","MORAN JCT","43","17","8","7"
-"WY5601552","MOUNTAIN MAN, LLC","Transient non-community system","Ground water","Park","CODY","20","5","14","3"
-"WY5601710","MOUNTAIN TOP BAPTIST ASSEMBLY","Transient non-community system","Ground water","Natrona","CASPER","175","4","5","0"
-"WY5600677","NATRONA COUNTY PARKS-ALCOVA","Transient non-community system","Ground water","Natrona","MILLS","800","6","5","9"
-"WY5600678","NATRONA COUNTY PARKS-BEARTRAP CG","Transient non-community system","Ground water","Natrona","MILLS","75","5","9","9"
-"WY5600903","NORA'S FISH CREEK INN","Transient non-community system","Ground water","Teton","WILSON","263","9","14","5"
-"WY5600592","NORTHERN DREAM LOUNGE","Transient non-community system","Ground water","Natrona","CASPER","42","5","11","9"
-"WY5601573","NORTHWEST COLLEGE FIELD STATION","Transient non-community system","Surface water","Park","CODY","80","12","3","2"
-"WY5680202","NPS FOSSIL BUTTE NATL MONUMENT","Transient non-community system","Ground water","Lincoln","KEMMERER","100","8","2","6"
-"WY5601709","OLD WILSON SCHOOLHOUSE CMTY CTR","Transient non-community system","Ground water","Teton","WILSON","54","5","3","1"
-"WY5601601","ORIN JUNCTION TRUCK STOP","Transient non-community system","Ground water","Converse","DOUGLAS","50","4","10","2"
-"WY5600439","PAHASKA TEPEE RESORT","Transient non-community system","Groundwater under influence of surface water","Park","CODY","205","5","29","7"
-"WY5601452","PAINTBRUSH MOTEL","Transient non-community system","Ground water","Fremont","RIVERTON","28","7","4","4"
-"WY5601554","PAINTER ESTATES HOA","Transient non-community system","Ground water","Park","CODY","12","7","14","3"
-"WY5600434","PARADISE GUEST RANCH","Transient non-community system","Ground water","Johnson","BUFFALO","90","11","15","10"
-"WY5600552","PARKMAN BAR","Transient non-community system","Ground water","Sheridan","PARKMAN","40","6","24","9"
-"WY5601686","PLATTE RIVER RV/A BIG STORAGE","Transient non-community system","Ground water","Converse","GLENROCK","23","3","3","1"
-"WY5600915","PONY SOLDIER RV CAMP","Transient non-community system","Ground water","Goshen","LINGLE","23","8","5","7"
-"WY5601070","PRAIRIE VIEW CAMPGROUND","Transient non-community system","Ground water","Niobrara","LUSK","25","5","22","5"
-"WY5601258","PUB PLACE","Transient non-community system","Ground water","Teton","JACKSON","195","7","24","5"
-"WY5600499","R LAZY S RANCH","Transient non-community system","Ground water","Teton","TETON VILLAGE","62","6","8","6"
-"WY5601442","RAM CENTER","Transient non-community system","Ground water","Crook","SUNDANCE","85","8","8","3"
-"WY5601505","RANCH A","Transient non-community system","Ground water","Crook","BEULAH","40","10","1","4"
-"WY5601643","RAND CREEK RANCH","Transient non-community system","Ground water","Park","WAPITI","25","6","2","1"
-"WY5601501","RAZOR CITY SKATELAND","Transient non-community system","Ground water","Campbell","GILLETTE","50","7","27","4"
-"WY5601697","RED CLIFF BIBLE CAMP","Transient non-community system","Ground water","Sublette","PINEDALE","200","5","1","1"
-"WY5601508","RED ROCK RANCH","Transient non-community system","Ground water","Teton","KELLY","50","25","6","3"
-"WY5601694","RENDEZVOUS MEADOWS GOLF COURSE","Transient non-community system","Ground water","Sublette","PINEDALE","35","3","1","2"
-"WY5601521","RIMROCK RANCH","Transient non-community system","Ground water","Park","CODY","40","5","1","3"
-"WY5600404","RING LAKE RANCH","Transient non-community system","Ground water","Fremont","DUBOIS","34","12","17","9"
-"WY5601135","ROBERTOS CAFE","Transient non-community system","Ground water","Campbell","GILLETTE","90","6","12","5"
-"WY5601438","ROCK CREEK HOLLOW LDS CHURCH CG","Transient non-community system","Ground water","Fremont","LANDER","100","8","8","4"
-"WY5600096","ROCK SPRINGS/GREEN RIVER KOA","Transient non-community system","Surface water purchased","Sweetwater","ROCK SPRINGS","405","7","15","7"
-"WY5600879","ROCKY MOUNTAIN LODGE","Transient non-community system","Ground water","Teton","JACKSON","45","6","8","2"
-"WY5600632","ROLLING GREEN COUNTRY CLUB","Transient non-community system","Groundwater under influence of surface water","Sweetwater","GREEN RIVER","100","5","18","9"
-"WY5600309","ROOCH'S MARINA IN GLENDO","Transient non-community system","Ground water","Platte","GLENDO","202","12","12","7"
-"WY5600300","SAND CREEK TRADING POST","Transient non-community system","Ground water","Crook","BEULAH","36","5","49","6"
-"WY5601702","SAND DRAW INN, LLC","Transient non-community system","Ground water","Sublette","-","30","3","0","0"
-"WY5600335","SEMINOE BOAT CLUB, INC.","Transient non-community system","Ground water","Carbon","RAWLINS","100","8","11","9"
-"WY5600478","SHOSHONE LODGE","Transient non-community system","Ground water","Park","CODY","60","10","30","9"
-"WY5680218","SHOSHONE NF EAGLE CREEK CAMPGROUND","Transient non-community system","Ground water","Park","CODY","50","5","4","5"
-"WY5680027","SHOSHONE NF FALLS CAMPGROUND","Transient non-community system","Ground water purchased","Fremont","DUBOIS","50","6","2","1"
-"WY5680237","SHOSHONE NF-BEARTOOTH LAKE CG","Transient non-community system","Ground water","Park","CODY","80","6","5","4"
-"WY5680236","SHOSHONE NF-FOX CREEK CG","Transient non-community system","Ground water","Park","CODY","120","8","3","4"
-"WY5680235","SHOSHONE NF-ISLAND LAKE CG","Transient non-community system","Ground water","Park","-","75","7","0","1"
-"WY5680221","SHOSHONE NF-NEWTON CREEK #12 CG","Transient non-community system","Ground water","Park","CODY","25","3","5","5"
-"WY5680224","SHOSHONE NF-REX HALE CAMPGROUND","Transient non-community system","Ground water","Park","CODY","40","5","10","5"
-"WY5680017","SHOSHONE NF-THREE MILE CG EAST","Transient non-community system","Ground water","Park","CODY","100","3","9","7"
-"WY5680018","SHOSHONE NF-THREE MILE CG MIDDLE","Transient non-community system","Ground water","Park","CODY","50","3","5","3"
-"WY5680019","SHOSHONE NF-WAPITI CG & RANGER STATION","Transient non-community system","Ground water","Park","CODY","200","6","9","7"
-"WY5601550","SINCLAIR WY REFINING COMPANY/GOLF COURSE","Transient non-community system","Surface water","Carbon","SINCLAIR","138","6","15","3"
-"WY5680251","SINKS CANYON CAMPGROUND","Transient non-community system","Ground water","Fremont","LANDER","25","2","4","2"
-"WY5601190","SINKS CANYON STATE PK-POPO AGIE CG","Transient non-community system","Ground water","Fremont","LANDER","25","5","3","5"
-"WY5601628","SLEEPING GIANT SKI AREA","Transient non-community system","Ground water","Park","CODY","112","4","8","2"
-"WY5601066","SLOANES GENERAL STORE","Transient non-community system","Ground water","Natrona","ALCOVA","40","12","10","7"
-"WY5600519","SNAKE RIVER PARK KOA","Transient non-community system","Groundwater under influence of surface water","Teton","JACKSON","200","10","14","5"
-"WY5600946","SNOWY RANGE SKI AREA","Transient non-community system","Ground water","Albany","CENTENNIAL","350","6","13","5"
-"WY5601068","SOUTH FORK MOUNTAIN LODGE","Transient non-community system","Ground water","Johnson","BUFFALO","72","8","29","5"
-"WY5601137","SOUTH PASS CITY HISTORICAL SITE","Transient non-community system","Ground water","Fremont","SOUTH PASS CITY","103","6","17","4"
-"WY5600492","SPOTTED HORSE RANCH","Transient non-community system","Ground water","Teton","JACKSON","40","11","13","5"
-"WY5600523","STAGECOACH BAR INCORPORATED","Transient non-community system","Ground water","Teton","WILSON","152","6","13","5"
-"WY5601525","STATELINE STATION","Transient non-community system","Ground water","Crook","BEULAH","300","6","15","3"
-"WY5601637","SUBLETTE COUNTY ROAD AND BRIDGE","Transient non-community system","Ground water","Sublette","PINEDALE","26","4","52","1"
-"WY5600078","SUNSET GRILL & RIVER VIEW INN","Transient non-community system","Ground water","Natrona","ALCOVA","56","9","24","9"
-"WY5601111","SYLVAN BAY HOA","Transient non-community system","Ground water","Sublette","PINEDALE","25","7","13","13"
-"WY5680118","TARGHEE NF ALPINE CG","Transient non-community system","Ground water","Lincoln","ALPINE","45","6","12","7"
-"WY5680208","TARGHEE NF-REUNION FLAT CAMPGROUND","Transient non-community system","Ground water","Teton","-","300","6","9","5"
-"WY5680119","TARGHEE NF-TETON CANYON CAMPGROUND","Transient non-community system","Ground water","Teton","-","125","7","9","5"
-"WY5680116","TARGHEE NF-TRAIL CREEK CAMPGROUND","Transient non-community system","Ground water","Teton","-","40","5","12","6"
-"WY5601713","TEN SLEEP ROCK RANCH","Transient non-community system","Surface water","Washakie","TEN SLEEP","35","5","0","0"
-"WY5601267","TERRY BISON RANCH","Transient non-community system","Ground water","Laramie","CHEYENNE","50","10","16","5"
-"WY5601689","TETON COUNTY WEED & PEST DISTRICT","Transient non-community system","Ground water","Teton","JACKSON","29","4","1","1"
-"WY5601241","TETON HIGH ADVENTURE BASE","Transient non-community system","Ground water","Teton","JACKSON","156","5","13","6"
-"WY5601536","TETON VALLEY RANCH CAMP-DUBOIS","Transient non-community system","Ground water","Fremont","JACKSON","195","11","8","3"
-"WY5600785","THE DEN","Transient non-community system","Ground water","Laramie","CHEYENNE","50","13","22","7"
-"WY5601587","THE STATION","Transient non-community system","Ground water","Sublette","BOULDER","195","5","4","3"
-"WY5601326","THREE FORKS-MUDDY GAP SERVICE","Transient non-community system","Ground water","Carbon","RAWLINS","25","3","12","5"
-"WY5601698","TRACTOR SUPPLY COMPANY-CHEYENNE","Transient non-community system","Ground water","Laramie","CHEYENNE","110","4","1","0"
-"WY5600570","TRAIL SHOP","Transient non-community system","Ground water","Park","WAPITI","40","4","20","8"
-"WY5601495","TREASURE MOUNTAIN SCOUT CAMP","Transient non-community system","Ground water","Teton","-","300","5","9","4"
-"WY5601649","TRIAL LAWYERS COLLEGE, AKA, THUNDERHEAD","Transient non-community system","Ground water","Fremont","DUBOIS","100","12","2","1"
-"WY5600400","TRIANGLE C RANCH","Transient non-community system","Ground water","Fremont","DUBOIS","67","9","31","7"
-"WY5601091","TURPIN MEADOW RANCH","Transient non-community system","Ground water","Teton","MORAN JCT","76","7","28","6"
-"WY5601652","TWIN PINES RV PARK","Transient non-community system","Surface water purchased","Fremont","LANDER","25","3","4","1"
-"WY5601117","U.S. AIR FORCE DET 21, ECRG","Transient non-community system","Ground water","Crook","BELLE FOURCHE","25","7","10","7"
-"WY5601149","UCROSS GUEST RANCH","Transient non-community system","Ground water","Sheridan","CLEARMONT","441","7","9","8"
-"WY5601026","UINTA COUNTY YOUTH CAMP","Transient non-community system","Ground water","Uinta","EVANSTON","203","10","17","7"
-"WY5600978","UNION PACIFIC RAILROAD","Transient non-community system","Ground water","Converse","BILL","250","8","3","5"
-"WY5601650","UNIVERSITY OF MICHIGAN CAMP DAVIS","Transient non-community system","Ground water","Teton","JACKSON","73","4","2","1"
-"WY5600457","UXU RANCH LLC","Transient non-community system","Groundwater under influence of surface water","Park","WAPITI","35","6","28","7"
-"WY5600684","VIRGINIAN LODGE","Transient non-community system","Ground water","Teton","JACKSON","300","5","11","7"
-"WY5601680","VORE BUFFALO JUMP","Transient non-community system","Ground water","Crook","SUNDANCE","85","4","1","1"
-"WY5601103","WAGON BOX INN","Transient non-community system","Ground water","Sheridan","STORY","103","10","17","8"
-"WY5601703","WAPITI VILLAGE RV PARK","Transient non-community system","Ground water","Lincoln","-","14","3","0","0"
-"WY5600515","WESTON COUNTY MALLO CAMP","Transient non-community system","Ground water","Weston","NEWCASTLE","317","10","10","5"
-"WY5601707","WHISKEY MOUNTAIN CONSERVATION CAMP","Transient non-community system","Ground water","Fremont","-","96","8","0","0"
-"WY5601486","WHITE PINE RESORTS","Transient non-community system","Ground water","Sublette","PINEDALE","500","5","10","4"
-"WY5601531","WILSON GAS","Transient non-community system","Ground water","Teton","WILSON","150","5","12","3"
-"WY5601437","WIND RIVER VIEW CAMPGROUND","Transient non-community system","Ground water","Sublette","BOULDER","110","5","6","3"
-"WY5601566","WOLF DEN","Transient non-community system","Ground water","Lincoln","THAYNE","38","5","3","3"
-"WY5600307","WOOD'S LANDING RESORT","Transient non-community system","Ground water","Albany","WOODS LANDING","60","15","6","1"
-"WY5601194","WY DOT - GOOSEBERRY RA","Transient non-community system","Ground water","Hot Springs","MEETEETSE","350","7","11","7"
-"WY5601197","WY DOT - ORIN JUNCTION REST AREA","Transient non-community system","Ground water","Converse","CASPER","750","7","3","6"
-"WY5600845","WY DOT- I-80 PORT OF ENTRY","Transient non-community system","Ground water","Laramie","CHEYENNE","808","6","6","7"
-"WY5600646","WY DOT- LUSK REST AREA","Transient non-community system","Ground water","Niobrara","LUSK","750","6","4","9"
-"WY5600469","WY DOT-BITTER CREEK EAST RA","Transient non-community system","Ground water","Sweetwater","ROCK SPRINGS","1,000","7","1","7"
-"WY5600470","WY DOT-BITTER CREEK WEST RA","Transient non-community system","Ground water","Sweetwater","ROCK SPRINGS","1,000","9","3","10"
-"WY5601061","WY DOT-CHEYENNE RIVER RA","Transient non-community system","Ground water","Converse","BILL","300","7","6","7"
-"WY5601042","WY DOT-DIVERSION DAM RA","Transient non-community system","Ground water","Fremont","DUBOIS","501","6","8","7"
-"WY5600622","WY DOT-DRIVER SERVICES CENTER","Transient non-community system","Ground water","Laramie","CHEYENNE","80","6","0","7"
-"WY5601582","WY DOT-DWYER JUNCTION REST AREA","Transient non-community system","Ground water","Platte","CASPER","650","9","1","3"
-"WY5601217","WY DOT-EVANSTON PORT OF ENTRY","Transient non-community system","Ground water","Uinta","EVANSTON","1,000","6","10","8"
-"WY5600953","WY DOT-FORT STEELE REST AREA","Transient non-community system","Surface water","Carbon","RAWLINS","504","11","9","11"
-"WY5601567","WY DOT-HIGHWAY 339 PORT OF ENTRY","Transient non-community system","Ground water","Sheridan","SHERIDAN","165","7","1","3"
-"WY5600921","WY DOT-MERIDEN RA","Transient non-community system","Ground water","-","LARAMIE","150","7","12","6"
-"WY5600949","WY DOT-POWDER RIVER RA","Transient non-community system","Ground water","Johnson","SHERIDAN","27","9","3","6"
-"WY5601062","WY DOT-SHIRLEY RIM REST AREA","Transient non-community system","Ground water","Carbon","CASPER","104","10","3","7"
-"WY5600965","WY DOT-SOUTH PASS REST AREA","Transient non-community system","Ground water","Fremont","LANDER","401","7","3","7"
-"WY5600952","WY DOT-STAR VALLEY REST AREA","Transient non-community system","Ground water","Lincoln, Sweetwater","AFTON","100","7","2","8"
-"WY5600310","WY DOT-SUMMIT REST AREA","Transient non-community system","Ground water","Albany","LARAMIE","1,500","9","8","5"
-"WY5601043","WY DOT-SWEETWATER REST AREA","Transient non-community system","Ground water","Fremont","RIVERTON","500","6","6","7"
-"WY5601430","WY DOT-TORRINGTON PORT OF ENTRY","Transient non-community system","Ground water","Goshen","TORRINGTON","150","5","5","4"
-"WY5600825","WY DOT-WAGONHOUND REST AREA","Transient non-community system","Ground water","Carbon","LARAMIE","750","7","11","8"
-"WY5601642","WY TRANS DEPT ALADDIN WELCOME CTR","Transient non-community system","Ground water","Crook","SUNDANCE","75","5","2","1"
-"WY5600944","WY TRANS DEPT I-25 PORT OF ENT","Transient non-community system","Ground water","Laramie","CHEYENNE","900","6","0","7"
-"WY5601162","WY TRANS DEPT INDEPENDENCE RA","Transient non-community system","Ground water","Natrona","CASPER","350","9","2","6"
-"WY5600951","WY TRANS DEPT MULE CREEK RA","Transient non-community system","Ground water","Niobrara","NEWCASTLE","500","8","3","4"
-"WY5601092","WY TRANS DEPT PORT OF ENTRY 85","Transient non-community system","Ground water","Laramie","CHEYENNE","300","6","4","6"
-"WY5600964","WY TRANS DEPT WALTMAN RA","Transient non-community system","Ground water","Natrona","POWDER RIVER","300","10","3","8"
-"WY5601291","WYOMING CAMPGROUND","Transient non-community system","Ground water","Laramie","BURNS","74","7","7","4"
-"WY5601636","WYOMING HIGH COUNTRY, LLC","Transient non-community system","Ground water","Big Horn","LOVELL","35","7","3","1"
-"WY5680077","YELLOWSTONE NP GRANT VILLAGE","Transient non-community system","Surface water","Teton","YELLOWSTONE NP","3,563","7","1","7"
-"WY5680079","YELLOWSTONE NP LAKE VILLAGE","Transient non-community system","Ground water","Teton","YELLOWSTONE NT","5,900","23","4","9"
-"WY5680080","YELLOWSTONE NP LAMAR RANGER ST","Transient non-community system","Ground water","Teton","YELLOWSTONE NP","100","5","0","6"
-"WY5680081","YELLOWSTONE NP LEWIS LAKE CG","Transient non-community system","Ground water","Teton","YELLOWSTONE NP","294","6","1","6"
-"WY5680082","YELLOWSTONE NP MADISON WTR SYS","Transient non-community system","Ground water","Teton","YELLOWSTONE NT","1,775","7","2","8"
-"WY5680084","YELLOWSTONE NP NORRIS","Transient non-community system","Surface water","Park, Teton","YELLOWSTONE NP","1,515","10","4","8"
-"WY5680090","YELLOWSTONE NP TOWER JCT RGR","Transient non-community system","Ground water","Teton","YELLOWSTONE NP","300","8","0","8"
-"WY5680078","YELLOWSTONE NP-INDIAN CREEK","Transient non-community system","Ground water","Park","YELLOWSTONE NP","178","7","0","6"
-"WY5680086","YELLOWSTONE NP-PEBBLE CREEK CG","Transient non-community system","Ground water","Park","YELLOWSTONE NP","100","10","3","9"
-"WY5680152","YELLOWSTONE NP-SLOUGH CREEK CG","Transient non-community system","Ground water","Park","YELLOWSTONE NP","94","10","4","7"
-"WY5680089","YELLOWSTONE NP-TOWER FALL CG","Transient non-community system","Ground water","Park","YELLOWSTONE NP","495","6","1","9"
-"WY5600471","YELLOWSTONE VALLEY INN","Transient non-community system","Ground water","Park","CODY","315","6","23","7"
-"WY5600641","YMCA OF THE BIG HORNS CAMP ROBERTS","Transient non-community system","Ground water","Johnson","BUFFALO","60","15","47","12"
+PWS ID,PWS Name,PWS Type,Primary Source,Counties Served,Cities Served,PopulationServed Count,Number of Facilities,Number of Violations,Number of Site Visits
+WY5600179,A & J MOBILE HOME PARK,Community water system,Ground water,Fremont,RIVERTON,100,11,75,12
+WY5600002,"AFTON, BOARD OF PUB UTILITIES",Community water system,Ground water,Lincoln,AFTON,1818,18,42,12
+WY5600080,AIR BASE ACRES IMPROVEMENT & SERVICE DIS,Community water system,Surface water purchased,Natrona,MILLS,215,3,13,13
+WY5600189,"ALBIN, TOWN OF",Community water system,Ground water,Laramie,ALBIN,181,15,78,9
+WY5601592,ALCOVA DAM TRAILER PARK,Community water system,Ground water,Natrona,-,7,3,258,4
+WY5600156,"ALPINE, TOWN OF",Community water system,Ground water,Lincoln,ALPINE,1100,12,36,9
+WY5600275,ALTA COMMUNITY PIPELINE,Community water system,Ground water,Teton,ALTA,40,6,83,11
+WY5600968,AMERICAN ROAD W&S DISTRICT,Community water system,Ground water,Campbell,GILLETTE,220,15,24,8
+WY5600131,ANTELOPE MOBILE HOME PARK,Community water system,Ground water,Campbell,GILLETTE,351,8,13,7
+WY5601457,ANTELOPE RIDGE HOA,Community water system,Ground water,Albany,LARAMIE,70,5,7,5
+WY5600251,ANTELOPE VALLEY I&S DISTRICT,Community water system,Ground water,Campbell,GILLETTE,1280,12,7,10
+WY5600220,ASPENS WATER & SEWER DISTRICT,Community water system,Ground water,Teton,JACKSON,1400,6,17,10
+WY5600180,B&K MOBILE HOME PARK,Community water system,Ground water,Fremont,RIVERTON,200,7,48,11
+WY5600058,"BAGGS, TOWN OF",Community water system,Groundwater under influence of surface water,Carbon,BAGGS,435,11,29,11
+WY5600003,"BAIROIL, TOWN OF",Community water system,Ground water,Sweetwater,BAIROIL,90,12,9,10
+WY5600258,BALD MOUNTAIN TRAILER COURT,Community water system,Ground water,Johnson,BUFFALO,150,8,18,10
+WY5600976,BAR Y ESTATES/GROS VENTRE WEST WTR DISTS,Community water system,Ground water,Teton,JACKSON,270,8,101,7
+WY5601439,BAR-B-BAR MEADOWS,Community water system,Ground water,Teton,JACKSON,55,6,52,5
+WY5600004,"BASIN, TOWN OF",Community water system,Ground water purchased,Big Horn,BASIN,1250,6,11,13
+WY5601019,BEAR RIVER REGIONAL JOINT POWERS,Community water system,Surface water purchased,Uinta,EVANSTON,1200,17,21,13
+WY5600006,BEDFORD WATER & SEWER DISTRICT,Community water system,Ground water,Lincoln,BEDFORD,725,11,7,10
+WY5601596,BENNOR ESTATES & IMPROVEMENT DISTRICT,Community water system,Ground water purchased,Campbell,-,174,6,23,4
+WY5601692,BEULAH LAND WATER,Community water system,Ground water,Crook,BEULAH,40,5,2,1
+WY5601271,BIG COUNTRY ESTATES,Community water system,Surface water purchased,Laramie,CHEYENNE,615,5,7,2
+WY5601630,BIG HORN REGIONAL JPB,Community water system,Ground water,Washakie,WORLAND,25,18,1,2
+WY5600007,"BIG PINEY, TOWN OF",Community water system,Ground water,Sublette,BIG PINEY,652,20,23,11
+WY5601193,BIG VALLEY & CROSSED ARROWS IMP DIST,Community water system,Ground water,Park,MEETEETSE,35,7,72,8
+WY5600229,BIGHORN MOUNTAIN CAMPGROUND,Community water system,Ground water,Johnson,BUFFALO,70,5,12,9
+WY5600127,BRADY-HENNING WATER SYSTEM,Community water system,Ground water,Campbell,GILLETTE,96,9,3,4
+WY5601279,BREAZEALE'S MOBILE HOME PARK,Community water system,Surface water purchased,Albany,LARAMIE,345,14,3,4
+WY5600757,BRIDGER VALLEY JOINT POWERS BOARD,Community water system,Surface water,Uinta,LYMAN,1728,8,28,15
+WY5600074,BROKEN WRENCH LLC,Community water system,Ground water,Natrona,CASPER,30,5,122,9
+WY5601695,"BUCKMILLER ENTERPRISES, LLC",Community water system,Ground water,Crook,MOORCROFT,25,5,1,1
+WY5600435,BUFFALO VALLEY WATER DISTRICT,Community water system,Ground water,Teton,MORAN JCT,50,8,32,9
+WY5600005,"BUFFALO, CITY OF",Community water system,Surface water,Johnson,BUFFALO,4200,12,29,10
+WY5601098,"BURLINGTON, TOWN OF",Community water system,Ground water,Big Horn,BURLINGTON,348,8,11,10
+WY5600188,BURNS BOARD OF PUBLIC UTILITIES,Community water system,Ground water,Laramie,BURNS,922,15,28,10
+WY5600008,"BYRON, TOWN OF",Community water system,Surface water purchased,Big Horn,BYRON,593,4,6,9
+WY5600806,C-V RANCHES (BOCES REG V),Community water system,Ground water,Teton,WILSON,75,7,34,9
+WY5601028,CAMBRIA I&S DISTRICT,Community water system,Ground water purchased,Weston,NEWCASTLE,148,7,25,8
+WY5601632,CANYON IMPROVEMENT & SERVICE DISTRICT,Community water system,Ground water,Weston,NEWCASTLE,79,5,0,2
+WY5601464,CARPENTER WATER & SEWER DISTRICT,Community water system,Ground water,Laramie,CARPENTER,94,6,39,4
+WY5601415,"CASPER, CITY OF",Community water system,Surface water purchased,Natrona,CASPER,58343,21,2,5
+WY5600780,CEDAR HILLS WATER ASSOCIATION,Community water system,Ground water,Campbell,GILLETTE,258,11,15,7
+WY5601232,CENTENNIAL WATER AND SEWER,Community water system,Ground water,Albany,CENTENNIAL,150,6,47,8
+WY5600009,CENTRAL WY REG WATER SYS JPB,Community water system,Surface water,Natrona,CASPER,25,47,3,10
+WY5600011,CHEYENNE BOARD OF PUBLIC UTILITIES,Community water system,Surface water,Laramie,CHEYENNE,58710,59,9,10
+WY5600200,"CHUGWATER, TOWN OF",Community water system,Ground water,Platte,CHUGWATER,200,11,11,10
+WY5601315,CIMMARON VILLAGE,Community water system,Surface water purchased,Laramie,CHEYENNE,327,5,2,3
+WY5600208,CITY OF LARAMIE WY TECHNICAL INSTITUTE,Community water system,Ground water,Albany,LARAMIE,775,8,47,9
+WY5600013,"CLEARMONT, TOWN OF",Community water system,Ground water,Sheridan,CLEARMONT,142,7,17,10
+WY5600091,CLEARVIEW I&S DISTRICT,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,930,3,43,12
+WY5600207,"CODY, CITY OF",Community water system,Surface water purchased,Park,CODY,8999,10,4,10
+WY5600015,"COKEVILLE, TOWN OF",Community water system,Ground water,Lincoln,COKEVILLE,535,8,35,13
+WY5601399,COOK ROAD WATER DISTRICT,Community water system,Ground water,Campbell,GILLETTE,291,7,9,6
+WY5601233,COTTONWOOD ACRES,Community water system,Ground water,Goshen,TORRINGTON,96,13,13,7
+WY5600162,COUNTRY MEADOW ESTATES,Community water system,Ground water,Albany,LARAMIE,375,9,4,11
+WY5600756,COUNTRYSIDE COURT,Community water system,Ground water,Natrona,MILLS,125,5,91,13
+WY5600192,"COUNTRYSIDE WATER USERS, INC.",Community water system,Ground water,Campbell,GILLETTE,360,8,14,9
+WY5600206,"COWLEY, TOWN OF",Community water system,Ground water,Big Horn,COWLEY,800,5,41,11
+WY5600181,COZY MOBILE HOME PARK,Community water system,Ground water,Fremont,RIVERTON,200,8,167,12
+WY5600853,CRESTVIEW ESTATES SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,500,7,8,8
+WY5600202,"DAYTON, TOWN OF",Community water system,Surface water,Sheridan,DAYTON,800,9,48,11
+WY5600016,DEAVER MUNICIPAL WATER SYSTEM,Community water system,Surface water purchased,Big Horn,DEAVER,180,5,15,10
+WY5601608,DESERT TRAILS MHC,Community water system,Surface water purchased,Sweetwater,GREEN RIVER,238,2,0,3
+WY5601248,DILLMAN ESTATES,Community water system,Ground water,Goshen,TORRINGTON,100,17,22,7
+WY5600059,"DIXON, TOWN OF",Community water system,Groundwater under influence of surface water,Carbon,DIXON,92,7,29,11
+WY5600247,DOUGLAS KOA CG/PINE MEADOWS MHP,Community water system,Ground water,Converse,DOUGLAS,165,9,20,10
+WY5600137,"DOUGLAS, CITY OF",Community water system,Surface water,Converse,DOUGLAS,6120,18,10,11
+WY5601537,DOWNER NEIGHBORHOOD I&S DISTRICT,Community water system,Surface water purchased,Sheridan,SHERIDAN,400,3,4,4
+WY5600177,"DUBOIS, TOWN OF",Community water system,Ground water,Fremont,DUBOIS,1067,14,6,10
+WY5600119,"EAGLE RIDGE MHP, LLC",Community water system,Ground water,Campbell,GILLETTE,140,9,151,10
+WY5600226,"EAST THERMOPOLIS, TOWN OF",Community water system,Surface water purchased,Hot Springs,THERMOPOLIS,280,3,4,9
+WY5601353,EASTVIEW MANUFACTURED HOME COMMUNITY,Community water system,Ground water purchased,Campbell,GILLETTE,688,3,4,4
+WY5600017,"EDGERTON, TOWN OF",Community water system,Surface water purchased,Natrona,EDGERTON,195,6,11,11
+WY5600829,EIGHT MILE SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,87,7,1,7
+WY5600065,"ELK MOUNTAIN, TOWN OF",Community water system,Ground water,Carbon,ELK MOUNTAIN,191,8,17,10
+WY5600060,"ENCAMPMENT, TOWN OF",Community water system,Surface water,Carbon,ENCAMPMENT,450,7,126,11
+WY5601304,ENGLEWOOD VILLAGE MHP,Community water system,Surface water purchased,Laramie,CHEYENNE,152,6,2,2
+WY5600157,ETNA WATER & SEWER DISTRICT,Community water system,Ground water,Lincoln,ETNA,120,8,61,10
+WY5600215,EVANS MOBILE HOME COURT,Community water system,Ground water,Teton,JACKSON,150,7,12,8
+WY5600150,"EVANSTON, CITY OF",Community water system,Surface water,Uinta,EVANSTON,12000,14,3,14
+WY5600018,"EVANSVILLE, TOWN OF",Community water system,Surface water,Natrona,EVANSVILLE,2544,8,3,12
+WY5600021,EVERGREEN MOBILE HOME PARK,Community water system,Ground water,Laramie,CHEYENNE,50,7,115,11
+WY5600166,FAIRVIEW WATER & SEWER DISTRICT,Community water system,Ground water,Lincoln,AFTON,230,6,24,10
+WY5600918,FAIRWAY ESTATES,Community water system,Ground water,Converse,DOUGLAS,133,12,35,8
+WY5600113,FARSON EDEN SCHOOL,Community water system,Ground water,Sweetwater,FARSON,366,10,21,9
+WY5600112,FARSON MOBILE HOME COURT,Community water system,Ground water,Sweetwater,FARSON,46,6,72,10
+WY5601546,FARVIEW WATER AND SEWER DISTRICT,Community water system,Ground water,Fremont,RIVERTON,60,9,8,5
+WY5600194,FIRST FIKE SUBDIVISION,Community water system,Ground water,Fremont,RIVERTON,150,6,11,12
+WY5601473,FISH CREEK IMPROVEMENT AND SERVICE DIST,Community water system,Ground water,Teton,WILSON,200,8,0,4
+WY5601239,FOOTHILLS MOBILE HOME PARK,Community water system,Ground water purchased,Campbell,GILLETTE,735,4,1,3
+WY5601202,FOOTHILLS VILLAGE MOBILE HOME PARK,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,450,4,1,3
+WY5600148,FORCE ROAD JOINT POWERS BOARD,Community water system,Ground water,Campbell,GILLETTE,195,8,13,10
+WY5600185,"FORT LARAMIE, TOWN OF",Community water system,Ground water,Goshen,FORT LARAMIE,199,10,18,9
+WY5600745,FOX PARK SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,843,6,5,9
+WY5601615,FOX RIDGE WATER SYSTEM,Community water system,Ground water,Campbell,GILLETTE,38,6,1,2
+WY5600210,"FRANNIE, TOWN OF",Community water system,Surface water purchased,Big Horn,FRANNIE,157,4,18,12
+WY5600789,FREEDOM HILLS SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,400,10,27,7
+WY5600158,FREEDOM W&S DISTRICT,Community water system,Ground water,Lincoln,FREEDOM,300,7,49,10
+WY5600774,GARDENS NORTH HOME OWNERS ASSOCIATION,Community water system,Ground water,Fremont,RIVERTON,300,6,4,9
+WY5600019,"GILLETTE, CITY OF",Community water system,Ground water,Campbell,GILLETTE,31971,59,2,8
+WY5600231,"GLENDO, TOWN OF",Community water system,Ground water,Platte,GLENDO,205,10,23,11
+WY5600199,"GLENROCK, TOWN OF",Community water system,Ground water,Converse,GLENROCK,2466,13,6,11
+WY5680095,GRAND TETON NP-COLTER BAY VILLAGE,Community water system,Ground water,Teton,MOOSE,110,9,1,8
+WY5680103,GRAND TETON NP-JACKSON LK LDGE,Community water system,Ground water,Teton,MOOSE,55,11,0,7
+WY5680093,GRAND TETON NP-MOOSE/BEAVER CREEK,Community water system,Ground water,Teton,MOOSE,177,8,3,8
+WY5600020,"GRANGER, TOWN OF",Community water system,Surface water,Sweetwater,GRANGER,139,9,90,13
+WY5601397,GREATER SMOOT W&S DISTRICT,Community water system,Ground water,Lincoln,SMOOT,260,8,26,7
+WY5600238,GREEN ACRES MOBILE HOME PARK,Community water system,Surface water purchased,Park,CODY,375,3,11,11
+WY5601181,"GREEN RIVER, CITY OF",Community water system,Surface water purchased,Sweetwater,GREEN RIVER,10500,12,3,8
+WY5601245,GREEN VALLEY ESTATES I&S DISTRICT,Community water system,Ground water,Campbell,GILLETTE,140,7,21,6
+WY5600969,GREEN VALLEY MHP,Community water system,Surface water purchased,Natrona,CASPER,265,5,3,5
+WY5600230,GREYBULL HEIGHTS WATER USERS,Community water system,Ground water purchased,Big Horn,GREYBULL,60,4,7,9
+WY5600022,"GREYBULL, TOWN OF",Community water system,Ground water purchased,Big Horn,GREYBULL,3260,18,21,13
+WY5601357,GROS VENTRE NORTH HOA,Community water system,Ground water,Teton,JACKSON,84,7,117,6
+WY5600027,GROS VENTRE UTILITY,Community water system,Ground water,Teton,JACKSON,200,14,14,9
+WY5600160,GROVER WATER & SEWER DISTRICT,Community water system,Ground water,Lincoln,GROVER,252,8,33,7
+WY5600023,"GUERNSEY, TOWN OF",Community water system,Ground water,Platte,GUERNSEY,1157,8,75,13
+WY5600025,"HANNA, TOWN OF",Community water system,Surface water,Carbon,HANNA,841,6,21,13
+WY5600153,HAPPY VALLEY PIPELINE,Community water system,Ground water,Lincoln,AFTON,60,6,29,11
+WY5600186,"HARTVILLE, TOWN OF",Community water system,Ground water,Platte,HARTVILLE,62,12,117,10
+WY5600249,HERITAGE VILLAGE SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,750,8,8,8
+WY5600216,HI-COUNTRY WATER DISTRICT,Community water system,Ground water,Teton,JACKSON,85,7,46,11
+WY5601339,HIDDEN HILLS MHP,Community water system,Surface water purchased,Natrona,CASPER,320,3,2,3
+WY5600263,HIDE-A-WAY MOBILE VILLAGE,Community water system,Ground water,Laramie,CHEYENNE,76,16,46,10
+WY5601569,HIGH MEADOW RANCH,Community water system,Ground water,Sublette,-,475,10,9,5
+WY5600260,HIGH PLAINS RANCH,Community water system,Ground water,Laramie,CHEYENNE,50,5,132,9
+WY5600120,HIGHVIEW MFG HOME COMMUNITY (MHC),Community water system,Ground water purchased,Campbell,GILLETTE,304,7,39,8
+WY5600347,HOBACK RV PARK,Community water system,Ground water,Teton,JACKSON,52,8,10,6
+WY5600088,HORIZON MHP,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,309,6,3,4
+WY5600141,HOY MOBILE HOME PARK,Community water system,Ground water,Campbell,GILLETTE,100,7,37,9
+WY5600183,"HUDSON, TOWN OF",Community water system,Groundwater under influence of surface water,Fremont,HUDSON,460,17,12,13
+WY5600026,"HULETT, TOWN OF",Community water system,Ground water,Crook,HULETT,400,7,27,9
+WY5600209,HYATTVILLE S&I DISTRICT,Community water system,Ground water,Big Horn,HYATTVILLE,66,5,123,11
+WY5600758,INDIAN PAINTBRUSH WATER DISTRICT,Community water system,Ground water,Teton,WILSON,150,19,120,10
+WY5600877,J-W SUBDIVISION ASSOCIATION,Community water system,Ground water,Teton,JACKSON,40,8,6,10
+WY5600213,"JACKSON, TOWN OF",Community water system,Ground water,Teton,JACKSON,8000,17,104,7
+WY5600810,JAMESTOWN-RIO VISTA W&S DISTRICT,Community water system,Surface water purchased,Sweetwater,GREEN RIVER,560,9,1,12
+WY5600106,JEFFREY CITY WATER & SEWER DISTRICT,Community water system,Ground water,Fremont,RIVERTON,59,12,132,10
+WY5601496,JUBY`S MOBILE HOME PARK,Community water system,Surface water purchased,Park,CODY,300,3,7,5
+WY5601275,JUNIPER PARK WATER ASSOCIATION,Community water system,Ground water,Fremont,LANDER,42,3,0,5
+WY5600196,"KAYCEE, TOWN OF",Community water system,Ground water,Johnson,KAYCEE,263,9,15,9
+WY5600028,KEMMERER-DIAMONDVILLE JPB,Community water system,Surface water,Lincoln,KEMMERER,3367,13,18,13
+WY5601199,KENNINGTON SPRINGS PIPELINE,Community water system,Ground water,Lincoln,FAIRVIEW,45,6,56,11
+WY5600236,"KIRBY, TOWN OF",Community water system,Ground water purchased,Hot Springs,KIRBY,92,7,32,9
+WY5601270,KNECHT INVESTMENTS,Community water system,Ground water,Laramie,CHEYENNE,75,8,39,6
+WY5600222,"LA BARGE, TOWN OF",Community water system,Surface water,Lincoln,LA BARGE,347,10,26,13
+WY5600788,"LA GRANGE, TOWN OF",Community water system,Ground water,Goshen,LA GRANGE,448,6,13,8
+WY5601494,LAKEVIEW I&S DISTRICT,Community water system,Surface water purchased,Natrona,MILLS,62,3,11,5
+WY5601449,LAKEVIEW MOBILE HOME PARK,Community water system,Ground water,Campbell,GILLETTE,36,6,41,5
+WY5600109,LANCE CREEK WATER DISTRICT,Community water system,Ground water,Niobrara,LANCE CREEK,45,7,180,11
+WY5600176,"LANDER, CITY OF",Community water system,Surface water,Fremont,LANDER,7487,10,34,10
+WY5600029,"LARAMIE, CITY OF",Community water system,Surface water,Albany,LARAMIE,30861,43,14,13
+WY5601471,LEISURE VALLEY INC/ STAR VALLEY RV PARK,Community water system,Ground water,Lincoln,THAYNE,433,7,196,5
+WY5601175,LEWIS MOBILE HOME PARK,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,370,4,17,4
+WY5600030,"LINGLE, TOWN OF",Community water system,Ground water,Goshen,LINGLE,486,8,15,11
+WY5600097,"LITTLE AMERICA HOTELS & RESORTS, INC- WY",Community water system,Surface water,Sweetwater,LITTLE AMERICA,2000,8,61,14
+WY5601343,LONE TREE VILLAGE MHP,Community water system,Surface water purchased,Converse,DOUGLAS,425,5,7,3
+WY5600031,"LOVELL, TOWN OF",Community water system,Surface water purchased,Big Horn,LOVELL,2360,5,24,10
+WY5600935,LUCERNE WATER AND SEWER DIST.,Community water system,Ground water purchased,Hot Springs,THERMOPOLIS,350,5,10,9
+WY5600032,"LUSK, TOWN OF",Community water system,Ground water,Niobrara,LUSK,1576,16,62,8
+WY5600033,"LYMAN, TOWN OF",Community water system,Groundwater under influence of surface water,Uinta,LYMAN,2000,11,18,13
+WY5600204,"MANDERSON, TOWN OF",Community water system,Ground water purchased,Big Horn,MANDERSON,110,4,13,11
+WY5600110,"MANVILLE, TOWN OF",Community water system,Ground water,Niobrara,MANVILLE,97,8,56,8
+WY5600223,"MARBLETON, TOWN OF",Community water system,Ground water,Sublette,MARBLETON,780,14,32,9
+WY5601507,MEADOW SPRINGS IMP & SERV,Community water system,Ground water,Campbell,GILLETTE,37,9,11,4
+WY5600760,MEANS IMPROVEMENT & SERVICE DISTRICT,Community water system,Ground water,Campbell,GILLETTE,410,10,9,7
+WY5600034,"MEDICINE BOW, TOWN OF",Community water system,Ground water,Carbon,MEDICINE BOW,282,10,17,14
+WY5600035,"MEETEETSE, TOWN OF",Community water system,Groundwater under influence of surface water,Park,MEETEETSE,327,11,23,20
+WY5601440,MELODY RANCH IMPROVEMENT & SERVICE DIST.,Community water system,Ground water,Teton,JACKSON,700,7,32,5
+WY5600201,"MIDWEST, TOWN OF",Community water system,Surface water purchased,Natrona,MIDWEST,408,10,28,14
+WY5601645,MILE-HI I&S DISTRICT,Community water system,Surface water purchased,Natrona,-,48,2,2,2
+WY5600051,MILLER LOWER MOBILE HOME PARK,Community water system,Ground water,Laramie,CHEYENNE,30,6,10,11
+WY5600036,"MILLS, TOWN OF",Community water system,Groundwater under influence of surface water,Natrona,MILLS,3200,17,5,11
+WY5601203,MOBILE CORRALS/STALLS COURT,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,300,4,6,3
+WY5600037,"MOORCROFT, TOWN OF",Community water system,Ground water,Crook,MOORCROFT,1009,11,9,10
+WY5600182,MOUNTAIN VIEW ACRES,Community water system,Ground water,Fremont,RIVERTON,165,10,16,10
+WY5600847,"MOUNTAIN VIEW, TOWN OF",Community water system,Surface water purchased,Uinta,MOUNTAIN VIEW,1250,5,11,12
+WY5600221,MOUNTAIN VILLAGE PARKS,Community water system,Ground water,Sublette,BIG PINEY,53,20,99,10
+WY5600079,NATRONA COUNTY INT'L AIRPORT,Community water system,Surface water purchased,Natrona,CASPER,332,4,7,10
+WY5600256,"NEWCASTLE, CITY OF",Community water system,Ground water,Weston,NEWCASTLE,3541,13,67,8
+WY5600619,NICKELSON FARMS WATER COMPANY,Community water system,Ground water,Campbell,GILLETTE,400,10,3,7
+WY5601533,NINE-MILE WATER & SEWER DISTRICT,Community water system,Surface water purchased,Albany,LARAMIE,180,4,0,4
+WY5601418,"NORDIC RANCHES WATER, LLC.",Community water system,Ground water,Lincoln,ALPINE,459,7,4,5
+WY5601021,NORTH ALPINE I&S DISTRICT,Community water system,Ground water,Lincoln,ALPINE,121,12,74,10
+WY5601254,NORTHWEST RURAL WATER DISTRICT,Community water system,Surface water purchased,Park,CODY,5998,28,2,6
+WY5600422,OLD BALDY CLUB,Community water system,Ground water purchased,Carbon,SARATOGA,117,7,6,10
+WY5601187,OLD WEST CABINS,Community water system,Ground water,Teton,JACKSON,55,9,5,1
+WY5600835,"OPAL, TOWN OF",Community water system,Ground water,Lincoln,OPAL,102,11,17,14
+WY5600012,ORCHARD VALLEY WATER COMPANY,Community water system,Ground water,Laramie,CHEYENNE,264,7,14,10
+WY5600038,OSAGE WATER DISTRICT,Community water system,Ground water,Weston,OSAGE,240,7,2,11
+WY5600154,OSMOND PIPELINE CO,Community water system,Ground water,Lincoln,AFTON,250,5,33,9
+WY5601572,OVERBROOK SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,66,8,3,4
+WY5601673,OWL CREEK WATER DISTRICT,Community water system,Surface water purchased,Hot Springs,-,60,5,9,1
+WY5600039,"PAVILLION, TOWN OF",Community water system,Ground water,Fremont,PAVILLION,240,19,11,11
+WY5600898,PEOPLE`S IMPROVEMENT & SERVICE DISTRICT,Community water system,Ground water,Campbell,GILLETTE,176,7,62,8
+WY5600040,"PINE BLUFFS, TOWN OF",Community water system,Ground water,Laramie,PINE BLUFFS,1186,16,24,11
+WY5600191,"PINE HAVEN, TOWN OF",Community water system,Ground water,Crook,PINE HAVEN,498,8,72,8
+WY5600041,PINEDALE MUNICIPAL WS,Community water system,Surface water,Sublette,PINEDALE,2030,11,58,19
+WY5601490,PINEVIEW I&S DISTRICT,Community water system,Ground water,Campbell,GILLETTE,75,7,32,5
+WY5601173,PIONEER MOBILE HOME PARK,Community water system,Surface water purchased,Sweetwater,GREEN RIVER,1500,4,7,6
+WY5600828,PIONEER WATER & SEWER DISTRICT,Community water system,Surface water purchased,Natrona,MILLS,1500,6,4,11
+WY5600082,PLEASANT VIEW WATER COMPANY,Community water system,Surface water purchased,Natrona,MILLS,130,3,3,9
+WY5600093,POINT OF ROCKS MERCANTILE,Community water system,Ground water,Sweetwater,POINT OF ROCKS,150,5,9,12
+WY5600073,POISON SPIDER I&S DISTRICT,Community water system,Surface water purchased,Natrona,MILLS,220,3,57,8
+WY5600171,POTLATCH TRAILER COURT,Community water system,Ground water,Goshen,TORRINGTON,70,4,58,10
+WY5600042,"POWELL, CITY OF",Community water system,Surface water purchased,Park,POWELL,6700,7,2,9
+WY5601609,RAFTER D IMPROVEMENT & SERVICE DISTRICT,Community water system,Ground water,Campbell,GILLETTE,40,7,0,2
+WY5600822,RAFTER J SUBDIVISION HOA,Community water system,Ground water,Teton,JACKSON,1500,10,103,8
+WY5601100,RAINTREE ESTATES,Community water system,Ground water,Fremont,RIVERTON,75,7,14,8
+WY5600044,"RANCHESTER, TOWN OF",Community water system,Surface water,Sheridan,RANCHESTER,855,7,8,10
+WY5600045,"RAWLINS WATER SUPPLY, CITY OF",Community water system,Surface water,Carbon,RAWLINS,9749,22,15,11
+WY5601657,RED HILLS,Community water system,Ground water purchased,Campbell,GILLETTE,102,2,0,2
+WY5600232,"RED LANE DOMESTIC WATER, INC.",Community water system,Surface water purchased,Hot Springs,THERMOPOLIS,111,4,30,9
+WY5600805,REDD FOX PARK HOA,Community water system,Surface water purchased,Fremont,LANDER,50,3,23,9
+WY5601292,RESTWAY TRAVEL PARK,Community water system,Ground water,Laramie,CHEYENNE,76,7,20,5
+WY5600285,RIDGEWATER IMPROVEMENT DISTRICT,Community water system,Surface water purchased,Converse,DOUGLAS,218,3,16,11
+WY5600786,RIVERMEADOWS WATER DISTRICT,Community water system,Ground water,Teton,JACKSON,100,10,107,6
+WY5600212,RIVERS BEND TRAILER COURT,Community water system,Surface water purchased,Park,CODY,100,3,26,11
+WY5601641,"RIVERSIDE T. C. (SECTIONS B, C & E)",Community water system,Surface water purchased,Natrona,CASPER,70,2,2,2
+WY5600072,RIVERSIDE TRAILER COURT,Community water system,Ground water,Natrona,CASPER,260,6,15,11
+WY5600047,"RIVERTON, CITY OF",Community water system,Surface water,Fremont,RIVERTON,10001,40,4,15
+WY5600377,ROBERTS TRAILER PARK,Community water system,Ground water,Crook,HULETT,38,3,113,8
+WY5600048,"ROCK RIVER, TOWN OF",Community water system,Surface water,Albany,ROCK RIVER,245,6,34,9
+WY5601182,"ROCK SPRINGS, CITY OF",Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,24000,11,5,8
+WY5600050,ROCK SPRINGS/GREEN RIVER JPB,Community water system,Surface water,Sweetwater,GREEN RIVER,25,11,8,10
+WY5601626,RODEO FLATS,Community water system,Ground water,Campbell,GILLETTE,72,6,0,2
+WY5600782,"ROLLING HILLS, TOWN OF",Community water system,Ground water,Converse,ROLLING HILLS,450,14,12,10
+WY5601620,ROZET RANCHETTES I&S DISTRICT,Community water system,Ground water,Campbell,GILLETTE,85,5,3,3
+WY5600133,SALT CREEK WATER DISTRICT,Community water system,Ground water,Weston,NEWCASTLE,600,7,6,8
+WY5601581,SANDY LAKE ESTATES I&S DISTRICT,Community water system,Surface water purchased,Natrona,CASPER,150,3,8,4
+WY5600061,"SARATOGA, TOWN OF",Community water system,Ground water,Carbon,SARATOGA,1760,11,36,10
+WY5601666,SCHAREN SUBDIVISION,Community water system,Ground water purchased,Big Horn,GREYBULL,50,2,0,2
+WY5600195,SECOND FIKE SUBDIVISION,Community water system,Ground water,Fremont,RIVERTON,34,5,12,10
+WY5601519,SECTION 4 WATER SYSTEM INCORPORATED,Community water system,Ground water,Campbell,GILLETTE,120,5,11,4
+WY5601004,SEVEN MILE WATER & SEWER DISTRICT,Community water system,Surface water purchased,Albany,LARAMIE,60,3,21,8
+WY5600205,"SHELL WATER USERS, INC.",Community water system,Ground water purchased,Big Horn,SHELL,55,3,2,10
+WY5600052,"SHERIDAN, CITY OF",Community water system,Surface water,Sheridan,SHERIDAN,15500,11,13,10
+WY5601198,SHOSHONE MUNICIPAL PIPELINE,Community water system,Surface water,Park,CODY,25,10,0,8
+WY5600053,"SHOSHONI, TOWN OF",Community water system,Ground water,Fremont,SHOSHONI,649,11,35,12
+WY5601332,SIERRA MADRE JPB,Community water system,Ground water,Carbon,ENCAMPMENT,200,7,7,6
+WY5600054,"SINCLAIR, TOWN OF",Community water system,Surface water purchased,Carbon,SINCLAIR,433,7,19,14
+WY5600217,SKYLINE RANCH I&S DISTRICT,Community water system,Ground water,Teton,JACKSON,260,9,83,8
+WY5601176,SKYLINE VILLAGE MOBILE HOME PK,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,690,6,15,7
+WY5600764,SLEEPY HOLLOW SUBDIVISION,Community water system,Ground water,Campbell,GILLETTE,2400,14,18,7
+WY5600214,SNAKE RIVER MOBILE HOME PARK,Community water system,Groundwater under influence of surface water,Teton,JACKSON,65,11,231,9
+WY5601454,SOUTH BIG HORN COUNTY JPB,Community water system,Ground water purchased,Big Horn,BASIN,1000,7,4,5
+WY5600239,SOUTH CHEYENNE WATER & SEWER DISTRICT,Community water system,Surface water purchased,Laramie,CHEYENNE,10000,3,10,9
+WY5600970,SOUTH END WATER USERS SVC & IMP DISTRICT,Community water system,Ground water purchased,Big Horn,LOVELL,150,4,11,7
+WY5601393,SOUTH LARAMIE W&S DISTRICT,Community water system,Surface water purchased,Albany,LARAMIE,478,7,2,6
+WY5600836,SOUTH PARK VILLAGE SUBDIVISION,Community water system,Ground water,Teton,JACKSON,65,7,35,11
+WY5601072,SOUTH RIVERSIDE ACRES WTR IMPR DIST,Community water system,Ground water,Natrona,EVANSVILLE,70,7,6,7
+WY5601083,SOUTH THERMOPOLIS W&S DISTRICT,Community water system,Surface water purchased,Hot Springs,THERMOPOLIS,450,6,4,9
+WY5600168,SOUTH TORRINGTON WATER DISTRICT,Community water system,Ground water purchased,Goshen,TORRINGTON,450,3,12,9
+WY5600235,SOUTH WORLAND WATER USERS CORPORATION,Community water system,Ground water purchased,Washakie,WORLAND,490,3,3,9
+WY5600832,SOUTHFORK ESTATES,Community water system,Ground water,Campbell,GILLETTE,144,7,21,8
+WY5600122,SOUTHSIDE WELL I&S DISTRICT,Community water system,Ground water purchased,Campbell,GILLETTE,30,8,30,8
+WY5600184,SPENCER HOMESITE WATER ASSOCIATION,Community water system,Ground water,Fremont,RIVERTON,40,5,12,9
+WY5600811,SPRING CREEK IMPROVEMENT DISTRICT,Community water system,Ground water,Teton,JACKSON,400,11,138,9
+WY5600737,SQUAW CREEK WATER DISTRICT,Community water system,Ground water,Teton,JACKSON,160,8,101,11
+WY5600287,"STAR VALLEY RANCH, TOWN OF",Community water system,Ground water,Lincoln,"STAR VALLEY RANCH, THAYNE",1215,12,48,14
+WY5601017,STAR VALLEY TRAILER COURT,Community water system,Ground water,Lincoln,AFTON,95,6,44,9
+WY5600893,STAR VIEW ESTATES,Community water system,Ground water,Lincoln,AFTON,62,4,19,10
+WY5601586,STONE CREEK,Community water system,Ground water,Goshen,TORRINGTON,78,5,2,3
+WY5601329,STONE GATE ESTATES,Community water system,Ground water,Campbell,GILLETTE,198,8,8,6
+WY5600145,STROUP TRAILER COURT,Community water system,Ground water,Campbell,GILLETTE,74,7,192,8
+WY5601639,SUNDANCE MEADOWS SPECIAL IMP DIST (SMSID,Community water system,Surface water purchased,Converse,DOUGLAS,50,2,3,2
+WY5600055,"SUNDANCE, CITY OF",Community water system,Ground water,Crook,SUNDANCE,1279,25,7,11
+WY5601289,SUNNY MEADOWS VILLAGE,Community water system,Surface water purchased,Albany,LARAMIE,485,4,1,3
+WY5601225,SUNRIDGE ESTATES,Community water system,Ground water,Fremont,RIVERTON,220,5,5,7
+WY5601633,SUNSET RANCH WATER DISTRICT,Community water system,Ground water purchased,Weston,NEWCASTLE,70,2,1,2
+WY5600092,"SUPERIOR, TOWN OF",Community water system,Ground water,Sweetwater,SUPERIOR,356,10,25,11
+WY5601675,SWEETWATER I&S DISTRICT,Community water system,Surface water,Weston,NEWCASTLE,46,3,489,2
+WY5600787,TARGHEE TOWNE WATER DISTRICT,Community water system,Ground water,Teton,ALTA,120,14,38,9
+WY5601369,TEN MILE WATER AND SEWER DISTRICT,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,305,6,7,6
+WY5600203,"TEN SLEEP, TOWN OF",Community water system,Ground water,Washakie,TEN SLEEP,299,9,19,9
+WY5601622,TERRACE II MHC,Community water system,Surface water purchased,Natrona,CASPER,213,2,0,3
+WY5601231,TERRACE MOBILE HOME COURT,Community water system,Surface water purchased,Natrona,CASPER,336,5,1,3
+WY5600724,TETON SHADOWS HOA,Community water system,Ground water,Teton,JACKSON,50,8,51,11
+WY5600218,TETON VILLAGE WATER & SEWER DISTRICT,Community water system,Ground water,Teton,TETON VILLAGE,660,14,9,10
+WY5600159,"THAYNE, TOWN OF",Community water system,Ground water,Lincoln,THAYNE,366,9,7,12
+WY5600056,"THERMOPOLIS, TOWN OF",Community water system,Surface water,Hot Springs,THERMOPOLIS,3009,16,25,9
+WY5601579,THIRTY-THREE MILE ROAD I & SD,Community water system,Surface water purchased,Natrona,MILLS,183,3,3,4
+WY5600164,TORRINGTON MUNICIPAL WS,Community water system,Ground water,Goshen,TORRINGTON,6798,33,28,11
+WY5601576,TRAIL RIDGE WATER SYSTEM,Community water system,Ground water,Lincoln,-,100,4,1,2
+WY5601115,TURNERVILLE WATER AND SEWER DISTRICT,Community water system,Groundwater under influence of surface water,Lincoln,BEDFORD,90,7,31,8
+WY5680122,"U.S. AIR FORCE, F.E. WARREN AFB",Community water system,Surface water purchased,Laramie,CHEYENNE,5500,3,6,8
+WY5600140,"UPTON, TOWN OF",Community water system,Ground water,Weston,UPTON,1100,19,5,8
+WY5601499,VALLEY VIEW MUTUAL WATER COMPANY,Community water system,Ground water,Teton,JACKSON,100,9,10,3
+WY5680001,VETERANS ADMINISTRATION MEDICAL CENTER,Community water system,Surface water,Sheridan,SHERIDAN,470,6,10,10
+WY5600246,VISTA WEST IMPROVEMENT & SERV DISTRICT,Community water system,Ground water,Crook,SUNDANCE,120,7,26,10
+WY5600069,VISTA WEST WATER COMPANY,Community water system,Surface water purchased,Natrona,CASPER,1600,5,10,13
+WY5601206,VOLCIC MOBILE HOME PARK,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,270,4,8,3
+WY5601607,W BAR K MOBILE HOME PARK,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,110,2,3,3
+WY5600105,"WAMSUTTER, TOWN OF",Community water system,Ground water,Sweetwater,WAMSUTTER,250,13,20,11
+WY5600850,WARD CREEK LANDOWNERS ASSOCIATION,Community water system,Ground water,Campbell,ROZET,72,6,57,10
+WY5600067,WARDWELL WATER & SEWER DISTRICT,Community water system,Surface water purchased,Natrona,MILLS,3670,7,13,10
+WY5600861,WARM SPRINGS WATER DISTRICT,Community water system,Ground water,Fremont,DUBOIS,52,6,29,8
+WY5601523,WASHAKIE RURAL WATER SYSTEM,Community water system,Ground water purchased,Washakie,-,625,6,2,4
+WY5600132,"WATER UNLIMITED, INCORPORATED",Community water system,Ground water,Weston,NEWCASTLE,80,3,17,8
+WY5601032,WEST END WATER DISTRICT,Community water system,Ground water,Weston,NEWCASTLE,225,3,84,8
+WY5601619,WEST WINDS,Community water system,Surface water purchased,Laramie,CHEYENNE,663,2,11,3
+WY5601085,WESTERN HILLS MHP,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,450,4,4,3
+WY5601593,WESTVIEW MANUFACTURED HOME COMMUNITY,Community water system,Ground water purchased,Campbell,-,416,2,1,4
+WY5600864,WESTVIEW VILLAGE,Community water system,Ground water,Lincoln,AFTON,83,5,37,11
+WY5600187,"WHEATLAND, TOWN OF",Community water system,Ground water,Platte,WHEATLAND,3627,23,90,10
+WY5601391,WHITE MOUNTAIN W&S DISTRICT,Community water system,Surface water purchased,Sweetwater,ROCK SPRINGS,3000,3,0,6
+WY5601624,WILSON PARK SUBDIVISION,Community water system,Ground water,Teton,WILSON,75,6,0,1
+WY5600779,WINCHESTER HILLS,Community water system,Ground water,Laramie,CHEYENNE,1125,10,27,8
+WY5600197,WORLAND UTILITIES COMMISSION,Community water system,Ground water purchased,Washakie,WORLAND,5487,9,16,10
+WY5601474,WRANGLER ESTATES,Community water system,Ground water,Campbell,GILLETTE,250,8,77,5
+WY5600136,WRIGHT WATER & SEWER DISTRICT,Community water system,Ground water,Campbell,WRIGHT,2500,11,4,9
+WY5600777,"Y-O INVESTMENTS, INC.",Community water system,Ground water,Platte,WHEATLAND,180,11,28,14
+WY5600820,YELLOW CREEK ESTATES MHP,Community water system,Ground water,Uinta,EVANSTON,165,7,13,11
+WY5680085,YELLOWSTONE NP-OLD FAITHFUL,Community water system,Surface water,Teton,YELLOWSTONE NP,6225,6,5,8
+WY5680092,YNP-MAMMOTH HOT SPRINGS,Community water system,Surface water,Park,YELLOWSTONE NP,2600,10,6,10
+WY5600169,"YODER, TOWN OF",Community water system,Ground water,Goshen,YODER,158,10,17,7
+WY5601561,ALTA SCHOOL,Non-Transient non-community system,Ground water,Teton,-,60,6,2,3
+WY5601252,AMERICAN COLLOID COMPANY,Non-Transient non-community system,Ground water,Big Horn,LOVELL,90,34,14,5
+WY5601235,AMERICAN COLLOID-COLONY EAST,Non-Transient non-community system,Ground water,Crook,COLONY,45,6,5,7
+WY5601236,AMERICAN COLLOID-COLONY WEST,Non-Transient non-community system,Ground water,Crook,COLONY,60,11,50,7
+WY5601374,ANTELOPE COAL COMPANY,Non-Transient non-community system,Ground water,Converse,GILLETTE,550,7,3,5
+WY5601468,ANTELOPE VALLEY BUS PARK I&S DIST,Non-Transient non-community system,Ground water,Campbell,GILLETTE,163,8,7,4
+WY5600797,ARNG TRAINING SITE WELLS-CAMP GUERNSEY,Non-Transient non-community system,Ground water,Platte,CAMP GUERNSEY,2000,9,9,9
+WY5600817,BASIN ELECTRIC POWER CO-OP,Non-Transient non-community system,Ground water,Platte,WHEATLAND,310,11,25,6
+WY5601476,"BENTONITE PERFORMANCE MINERALS, LLC",Non-Transient non-community system,Ground water,Crook,COLONY,115,6,13,4
+WY5601475,BENTONITE PERFORMANCE MINERALS/LOVELL,Non-Transient non-community system,Ground water,Big Horn,LOVELL,68,7,13,4
+WY5600638,BLACK BUTTE COAL COMPANY,Non-Transient non-community system,Ground water,Sweetwater,POINT OF ROCKS,191,7,3,9
+WY5600135,BLACK HILLS POWER INCORPORATED,Non-Transient non-community system,Ground water,Campbell,GILLETTE,154,11,9,7
+WY5600360,BLACK THUNDER COAL MINE,Non-Transient non-community system,Ground water,Campbell,WRIGHT,600,9,1,7
+WY5600356,BLACKJEWEL LLC - BELLE AYR,Non-Transient non-community system,Ground water,Campbell,GILLETTE,300,5,2,7
+WY5600357,BLACKJEWEL LLC - EAGLE BUTTE MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,277,9,24,8
+WY5601260,BRIDGER COAL COMPANY,Non-Transient non-community system,Ground water,Sweetwater,ROCK SPRINGS,300,11,0,3
+WY5601634,BRIDGER COAL COMPANY-ADMIN,Non-Transient non-community system,Surface water purchased,Sweetwater,POINT OF ROCKS,191,3,2,1
+WY5680258,BRIDGER-TETON NF BIG PINEY ADMIN SITE,Non-Transient non-community system,Ground water,Sublette,BIG PINEY,45,5,109,1
+WY5600818,BUCKSKIN MINING COMPANY-KIEWIT CORP,Non-Transient non-community system,Ground water,Campbell,GILLETTE,80,8,5,6
+WY5601462,BURLINGTON RESOURCES/CONOCO PHILLIPS,Non-Transient non-community system,Ground water,Fremont,LYSITE,66,11,13,4
+WY5601023,CAMPBELL COUNTY AIRPORT,Non-Transient non-community system,Ground water,Campbell,GILLETTE,50,6,23,7
+WY5600880,CATHEDRAL HOME,Non-Transient non-community system,Ground water,Albany,LARAMIE,275,7,16,7
+WY5601708,CHAMPS LLC,Non-Transient non-community system,Ground water,Laramie,ALBIN,35,9,3,2
+WY5600634,CINER WYOMING LLC,Non-Transient non-community system,Surface water,Sweetwater,GREEN RIVER,450,10,6,9
+WY5600920,COAL CREEK MINE-THUNDER BASIN COAL CO,Non-Transient non-community system,Ground water,Campbell,WRIGHT,150,9,2,5
+WY5600374,CORDERO MINING LLC (CORDERO),Non-Transient non-community system,Ground water,Campbell,GILLETTE,550,6,4,5
+WY5600796,CORDERO MINING LLC (ROJO),Non-Transient non-community system,Ground water,Campbell,GILLETTE,50,11,3,7
+WY5600291,DAVE JOHNSTON POWER PLANT,Non-Transient non-community system,Ground water,Converse,GLENROCK,165,17,18,11
+WY5601651,DEVILS TOWER FOREST PRODUCTS,Non-Transient non-community system,Ground water,Crook,HULETT,90,4,0,1
+WY5601638,DRY FORK STATION,Non-Transient non-community system,Ground water,Campbell,GILLETTE,75,6,27,1
+WY5600910,"DYNO NOBEL, INC",Non-Transient non-community system,Ground water,Laramie,CHEYENNE,170,14,9,7
+WY5600919,EXXON MOBIL - SHUTE CREEK GAS PLANT,Non-Transient non-community system,Surface water,Lincoln,KEMMERER,250,7,24,7
+WY5601099,EXXON MOBIL-LABARGE SW DIVISION,Non-Transient non-community system,Ground water,Sublette,KEMMERER,35,8,7,7
+WY5600102,FLYING J TRAVEL PLAZA,Non-Transient non-community system,Ground water,Carbon,RAWLINS,440,12,14,9
+WY5601056,FOUR J SCHOOL CAMPBELL SCH DIS,Non-Transient non-community system,Ground water,Campbell,GILLETTE,50,10,36,8
+WY5600647,"GENESIS ALKALI WYOMING, LP",Non-Transient non-community system,Surface water,Sweetwater,GRANGER,95,11,14,10
+WY5600728,"GENESIS ALKALI-WESTVACO, LLC",Non-Transient non-community system,Surface water,Sweetwater,GREEN RIVER,930,7,14,10
+WY5600611,GEORGIA-PACIFIC GYPSUM LLC,Non-Transient non-community system,Ground water,Big Horn,LOVELL,90,12,34,7
+WY5601025,GILCHRIST ELEMENTARY,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,160,6,8,7
+WY5601201,GRAND TARGHEE RESORT,Non-Transient non-community system,Ground water,Teton,ALTA,500,13,3,6
+WY5680108,GRAND TETON NP SIGNAL MTN,Non-Transient non-community system,Ground water,Teton,MOOSE,1659,6,1,5
+WY5680099,GRAND TETON NP TETON SCIENCE SCHOOL,Non-Transient non-community system,Ground water,Teton,MOOSE,31,9,7,6
+WY5680110,GRAND TETON NP TRIANGLE X RANC,Non-Transient non-community system,Ground water,Teton,MOOSE,25,8,1,5
+WY5680107,GRAND TETON NP-MORAN BFLO RNGR,Non-Transient non-community system,Ground water,Teton,MOOSE,50,6,0,5
+WY5601146,GRANITE CANYON QUARRY,Non-Transient non-community system,Ground water,Laramie,-,40,15,18,7
+WY5600980,HILCORP CARTER CREEK GAS PLANT,Non-Transient non-community system,Surface water,Uinta,EVANSTON,80,6,37,8
+WY5600909,INTERSTATE INDUSTRIAL PARK,Non-Transient non-community system,Ground water,Campbell,GILLETTE,200,6,23,7
+WY5600844,JACKSON HOLE AIRPORT,Non-Transient non-community system,Ground water,Teton,JACKSON,1300,12,55,7
+WY5600639,JIM BRIDGER POWER PLANT,Non-Transient non-community system,Surface water,Sweetwater,POINT OF ROCKS,450,13,31,9
+WY5601595,JONAH ENERGY (LINN) OC,Non-Transient non-community system,Ground water,Sublette,FARSON,130,6,0,2
+WY5601668,JONAH ENERGY LLC FIELD OFFICE,Non-Transient non-community system,Ground water,Sublette,PINEDALE,92,6,0,1
+WY5600904,KELLY SCHOOL (TCSD #1),Non-Transient non-community system,Ground water,Teton,KELLY,100,6,105,7
+WY5600485,LITTLE AMERICA HOTELS & RESORTS CHEYENNE,Non-Transient non-community system,Surface water purchased,Laramie,CHEYENNE,525,11,11,8
+WY5601674,LITTLE POWDER SCHOOL,Non-Transient non-community system,Ground water,Campbell,GILLETTE,32,5,2,1
+WY5601504,LOVE`S TRAVEL CENTER,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,1545,7,3,3
+WY5601403,LOWER VALLEY ENERGY,Non-Transient non-community system,Ground water,Teton,-,40,5,7,5
+WY5601243,MCDONALD'S (PREISS CORPORATION),Non-Transient non-community system,Ground water,Laramie,CHEYENNE,570,8,6,5
+WY5601480,MEADOWLARK ACADEMY,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,70,8,32,4
+WY5601327,MOUNTAIN CEMENT COMPANY,Non-Transient non-community system,Ground water,Albany,LARAMIE,85,9,55,5
+WY5601325,NATIONAL WILDLIFE ART MUSEUM,Non-Transient non-community system,Ground water,Teton,JACKSON,213,7,10,5
+WY5601665,NICHOLS RANCH IN-SITU RECOVERY PROJECT,Non-Transient non-community system,Ground water,Johnson,LINCH,40,8,1,1
+WY5600874,NORTH ANTELOPE COAL MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,170,6,2,5
+WY5601693,O BAR B IMPROVEMENT & SERVICE DISTRICT,Non-Transient non-community system,Ground water,Teton,JACKSON,100,4,0,1
+WY5601610,OAK TREE INN & PENNY'S DINER,Non-Transient non-community system,Ground water,Converse,BILL,240,7,0,2
+WY5600328,POWDER RIVER COAL-CABALLO MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,200,11,22,7
+WY5600815,POWDER RIVER COAL-RAWHIDE MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,235,7,8,6
+WY5601500,POWER RESOURCES INC/SMITH RANCH,Non-Transient non-community system,Ground water,Converse,GLENROCK,70,8,17,3
+WY5601690,PRAIRIE WIND ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,491,7,0,1
+WY5601685,QEP ENERGY COMPANY,Non-Transient non-community system,Ground water,Sublette,PINEDALE,50,5,1,1
+WY5600123,RAG COAL WEST INC/RAWHIDE SCHOOL,Non-Transient non-community system,Ground water,Campbell,GILLETTE,295,7,25,8
+WY5601057,RECLUSE SCHOOL #2,Non-Transient non-community system,Ground water,Campbell,GILLETTE,31,11,9,7
+WY5601184,ROCHELLE COAL MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,306,7,6,6
+WY5601034,SAPP BROTHERS TRUCK STOP,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,400,8,20,7
+WY5601467,SCHOOL CREEK MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,75,7,22,4
+WY5601653,SIGMA-ALDRICH RTC,Non-Transient non-community system,Ground water,Albany,LARAMIE,27,7,48,1
+WY5601368,"SIMPLOT PHOSPHATES, LLC",Non-Transient non-community system,Surface water purchased,Sweetwater,ROCK SPRINGS,240,6,1,5
+WY5601366,SINKS CANYON CENTER,Non-Transient non-community system,Ground water,Fremont,LANDER,85,5,10,5
+WY5601699,SNAKE RIVER SPORTING CLUB,Non-Transient non-community system,Ground water,Teton,JACKSON,105,5,4,0
+WY5601588,SNOW KING RESORT,Non-Transient non-community system,Ground water purchased,Teton,JACKSON,100,5,3,3
+WY5600914,"SOLVAY CHEMICALS, INC.",Non-Transient non-community system,Surface water,Sweetwater,GREEN RIVER,450,8,57,8
+WY5600578,STORY ELEMENTARY SCHOOL,Non-Transient non-community system,Ground water,Sheridan,STORY,40,7,4,3
+WY5600749,SWEETWATER COUNTY AIRPORT,Non-Transient non-community system,Surface water purchased,Sweetwater,ROCK SPRINGS,30,7,16,8
+WY5600636,TATA CHEMICALS (SODA ASH) PARTNERS,Non-Transient non-community system,Surface water,Sweetwater,GREEN RIVER,701,6,64,11
+WY5600501,TOGWOTEE MOUNTAIN LODGE,Non-Transient non-community system,Groundwater under influence of surface water,Teton,MORAN JCT,270,13,7,5
+WY5600807,TRAVEL CENTERS OF AMERICA,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,1525,7,22,8
+WY5600793,TRAVEL CENTERS OF AMERICA-FT. BRIDGER,Non-Transient non-community system,Ground water,Uinta,FORT BRIDGER,70,7,18,8
+WY5601664,"UR-ENERGY USA, LOST CREEK ISR",Non-Transient non-community system,Ground water,Sweetwater,CASPER,55,3,2,1
+WY5600298,VALERO,Non-Transient non-community system,Ground water,Laramie,CHEYENNE,1022,7,121,8
+WY5600906,"VANGUARD OPERATING, LLC",Non-Transient non-community system,Groundwater under influence of surface water,Park,POWELL,60,17,11,7
+WY5601214,WESTERN FUELS-WYOMING INC.,Non-Transient non-community system,Ground water,Campbell,GILLETTE,64,9,24,6
+WY5600603,WILLIAMS FIELD SERVICES-OPAL,Non-Transient non-community system,Ground water purchased,Lincoln,OPAL,41,16,78,9
+WY5601410,WINLAND INDUSTRIAL PARK,Non-Transient non-community system,Ground water purchased,Campbell,GILLETTE,251,7,5,4
+WY5600798,WYODAK MINE,Non-Transient non-community system,Ground water,Campbell,GILLETTE,60,9,2,3
+WY5680074,YELLOWSTONE NP CANYON VILLAGE,Non-Transient non-community system,Surface water,Park,YELLOWSTONE NP,4300,8,5,9
+WY5600566,7D RANCH,Transient non-community system,Ground water,Park,CODY,51,8,13,7
+WY5600334,A BAR A RANCH,Transient non-community system,Ground water,Carbon,ENCAMPMENT,200,16,18,8
+WY5601333,A-OK RV PARK,Transient non-community system,Ground water,Platte,WHEATLAND,50,9,4,1
+WY5600467,ABSAROKA LODGE,Transient non-community system,Ground water,Park,WAPITI,65,5,4,9
+WY5600983,ABSAROKA RANCH,Transient non-community system,Ground water,Fremont,DUBOIS,41,4,4,5
+WY5601654,AILPORT PROPERTIES WYOMING,Transient non-community system,Ground water,Converse,GLENROCK,26,8,4,1
+WY5600313,AKAL TRAVEL CENTER,Transient non-community system,Ground water,Albany,LARAMIE,250,7,20,6
+WY5601489,"ALADDIN, TOWN OF",Transient non-community system,Ground water,Crook,-,62,6,1,1
+WY5600301,ALBANY COUNTY LODGE,Transient non-community system,Ground water,Albany,LARAMIE,250,8,16,9
+WY5601465,ALCOVA LAKEVIEW ESTATES I,Transient non-community system,Ground water,Natrona,CASPER,38,6,0,4
+WY5601585,ALCOVA LAKEVIEW ESTATES II,Transient non-community system,Ground water,Natrona,CASPER,9,6,1,3
+WY5601658,ALL SEASONS RV PARK,Transient non-community system,Ground water,Campbell,-,5,7,3,1
+WY5601530,ALPINE 4-H CAMP,Transient non-community system,Ground water,Lincoln,ALPINE,250,5,5,4
+WY5601526,AMERICAN WILDERNESS LEADERSHIP SCHOOL,Transient non-community system,Ground water,Teton,JACKSON,75,5,4,4
+WY5601027,ANTELOPE TRUCK STOP,Transient non-community system,Ground water,Laramie,BURNS,358,6,31,8
+WY5601603,ARBYS RESTAURANT,Transient non-community system,Ground water,Laramie,CHEYENNE,316,6,6,2
+WY5601670,ARNG GUERNSEY-MRF RANGE,Transient non-community system,Ground water,Platte,GUERNSEY,149,3,0,1
+WY5601671,ARNG GUERNSEY-QTR RANGE,Transient non-community system,Ground water,Platte,GUERNSEY,163,3,1,1
+WY5601433,ARNG-DEERCORN SPRINGS-CAMP GUERNSEY,Transient non-community system,Ground water,Platte,GUERNSEY,283,5,3,6
+WY5601432,ARNG-LAW RANGE WELL #5-CAMP GUERNSEY,Transient non-community system,Ground water,Platte,GUERNSEY,800,6,2,5
+WY5601434,ARNG-RYAN SPRINGS WELL #6-CAMP GUERNSEY,Transient non-community system,Ground water,Platte,GUERNSEY,800,6,5,5
+WY5600480,"ARROWHEAD LODGE WYOMING, LLC",Transient non-community system,Ground water,Sheridan,DAYTON,100,16,32,10
+WY5601506,ARVADA MOBILE HOME PARK,Transient non-community system,Ground water,Sheridan,ARVADA,29,8,13,3
+WY5680120,ASHLEY NF-BUCKBOARD CROSSING CG,Transient non-community system,Surface water,Sweetwater,-,62,7,6,8
+WY5600995,ASHLEY NF-FIREHOLE RECREATION AREA,Transient non-community system,Ground water,Sweetwater,-,70,5,2,7
+WY5600432,ATLANTIC CITY MERCANTILE,Transient non-community system,Groundwater under influence of surface water,Fremont,ATLANTIC CITY,52,5,27,8
+WY5600886,BAR J CHUCKWAGON,Transient non-community system,Ground water,Teton,WILSON,170,5,8,5
+WY5600479,BEAR LODGE,Transient non-community system,Ground water,Sheridan,DAYTON,93,17,10,7
+WY5600744,BIGHORN BASIN BOAT CLUB,Transient non-community system,Ground water,Park,POWELL,50,9,5,6
+WY5680175,BIGHORN CANYON NAT'L REC. AREA,Transient non-community system,Ground water,Big Horn,LOVELL,40,6,2,7
+WY5680263,BIGHORN NF - BURGESS TRAILER DUMP STATIO,Transient non-community system,Ground water,Sheridan,-,150,3,1,1
+WY5680231,BIGHORN NF - SIBLEY LAKE CG,Transient non-community system,Ground water,Sheridan,DAYTON,60,7,12,5
+WY5680004,BIGHORN NF-BOULDER PARK CG,Transient non-community system,Ground water,Big Horn,SHERIDAN,100,6,8,7
+WY5680232,BIGHORN NF-BURGESS JCT VISITOR CNTR,Transient non-community system,Ground water,Sheridan,DAYTON,650,8,6,5
+WY5680244,BIGHORN NF-BURGESS RANGER STATION,Transient non-community system,Ground water,Sheridan,SHERIDAN,20,7,8,3
+WY5601539,BIGHORN NF-LEIGH CREEK DUMP STATION,Transient non-community system,Ground water,Johnson,-,40,4,1,3
+WY5680243,BIGHORN NF-RANGER CREEK CAMPGROUND,Transient non-community system,Ground water,Big Horn,SHERIDAN,40,6,5,3
+WY5680008,BIGHORN NF-SHELL FALLS INTERPRETIVE SITE,Transient non-community system,Ground water,Big Horn,GREYBULL,1500,8,17,7
+WY5680005,BIGHORN NF-SITTING BULL CG,Transient non-community system,Ground water,Big Horn,TEN SLEEP,100,7,13,8
+WY5680184,BIGHORN NF-TIE HACK CAMPGROUND,Transient non-community system,Ground water,Johnson,BUFFALO,35,7,7,5
+WY5601009,BIGHORN NF-TYRRELL WORK CENTER,Transient non-community system,Ground water,Big Horn,SHERIDAN,30,7,8,7
+WY5600477,BILL CODY RANCH,Transient non-community system,Ground water,Park,CODY,65,6,20,10
+WY5601511,BITTERROOT RANCH,Transient non-community system,Groundwater under influence of surface water,Fremont,DUBOIS,47,22,12,4
+WY5680010,BLACK HILLS NF-COOK LAKE CG,Transient non-community system,Ground water,Crook,SUNDANCE,165,4,9,6
+WY5601424,BLACKWATER CREEK RANCH,Transient non-community system,Ground water,Park,CODY,40,5,22,5
+WY5680240,BLM - FIVE SPRINGS CAMPGROUND,Transient non-community system,Ground water,Big Horn,CODY,25,3,4,4
+WY5601140,BLM FONTENELLE CREEK CAMPGROUND,Transient non-community system,Ground water,"Lincoln, Sweetwater",ROCK SPRINGS,25,7,6,7
+WY5680146,BLM LODGEPOLE CAMPGROUND,Transient non-community system,Ground water,Natrona,CASPER,25,8,12,9
+WY5680260,BLM-ATLANTIC CITY CG,Transient non-community system,Ground water,Fremont,ATLANTIC CITY,25,4,0,1
+WY5680262,BLM-BIG ATLANTIC GULCH CG,Transient non-community system,Ground water,Fremont,ATLANTIC CITY,25,3,0,1
+WY5680261,BLM-COTTONWOOD CG,Transient non-community system,Ground water,Fremont,LANDER,25,3,0,1
+WY5680147,BLM-WARREN BRIDGE CG,Transient non-community system,Ground water,Sublette,ROCK SPRINGS,25,5,11,7
+WY5601659,"BOMGAARS SUPPLY, INCORPORATED",Transient non-community system,Ground water,Sublette,PINEDALE,450,4,2,1
+WY5600981,BOULDER STORE/GAS STATION,Transient non-community system,Ground water,Sublette,BOULDER,25,5,24,7
+WY5600659,BOYSEN ST PK COTTONWOOD,Transient non-community system,Ground water,Fremont,SHOSHONI,25,7,6,5
+WY5600654,BOYSEN ST PK HDQRTS,Transient non-community system,Surface water,Fremont,SHOSHONI,90,8,11,9
+WY5601189,BOYSEN ST PK TOUGH CREEK #2,Transient non-community system,Ground water,Fremont,SHOSHONI,25,7,3,7
+WY5600658,BOYSEN STATE PARK-FREMONT BAY CG,Transient non-community system,Ground water,Fremont,SHOSHONI,25,6,9,5
+WY5600656,BOYSEN STATE PARK-LOWER WIND RIVER,Transient non-community system,Ground water,Fremont,SHOSHONI,30,6,7,7
+WY5600655,BOYSEN STATE PARK-UPPER WIND RIVER,Transient non-community system,Ground water,Fremont,SHOSHONI,30,6,4,7
+WY5680207,BRIDGER-TETON NF ATHERTON CREEK CG,Transient non-community system,Ground water,Teton,JACKSON,80,6,8,5
+WY5680212,BRIDGER-TETON NF BLACKROCK RS,Transient non-community system,Ground water,Teton,MORAN JCT,68,6,4,5
+WY5680211,BRIDGER-TETON NF BUFFALO WORK CENTER,Transient non-community system,Ground water,Teton,MORAN JCT,40,6,17,5
+WY5680136,BRIDGER-TETON NF CURTIS CANYON CG,Transient non-community system,Ground water,Teton,JACKSON,67,4,5,5
+WY5680124,BRIDGER-TETON NF FREMONT LK CG,Transient non-community system,Ground water,Sublette,PINEDALE,50,5,4,5
+WY5680137,BRIDGER-TETON NF GRANITE CK CG,Transient non-community system,Groundwater under influence of surface water,Teton,JACKSON,100,7,16,5
+WY5680140,BRIDGER-TETON NF GRN RVR LK CG,Transient non-community system,Ground water,Sublette,PINEDALE,80,5,4,5
+WY5680139,BRIDGER-TETON NF HOBACK CAMPGROUND,Transient non-community system,Ground water,Teton,JACKSON,50,5,7,5
+WY5680135,BRIDGER-TETON NF STATION CREEK CG,Transient non-community system,Ground water,Lincoln,JACKSON,160,5,4,5
+WY5680259,BRIDGER-TETON NF TRAILS END CAMPGROUND,Transient non-community system,Ground water,Sublette,PINEDALE,40,3,0,0
+WY5680210,BRIDGER-TETON NF TURPIN MEADOWS CG,Transient non-community system,Ground water,Teton,MORAN JCT,30,5,6,5
+WY5601677,BRINTON MUSEUM,Transient non-community system,Surface water,Sheridan,BIG HORN,62,6,1,1
+WY5601081,BROKEN ARROW RANCH,Transient non-community system,Ground water,Teton,JACKSON,60,8,9,6
+WY5601625,BROKEN WHEEL RANCH ASSOCIATION,Transient non-community system,Ground water,Lincoln,ALPINE,27,6,0,2
+WY5601001,BROKEN WHEEL TRUCK STOP,Transient non-community system,Ground water,Converse,DOUGLAS,320,5,31,7
+WY5601400,BROOKS LAKE LODGE,Transient non-community system,Surface water,Fremont,DUBOIS,40,11,24,5
+WY5601644,BRUSH CREEK RANCH & EMPLOYEE HOUSING,Transient non-community system,Ground water,Carbon,SARATOGA,365,32,23,4
+WY5601477,BRYAN`S PLACE,Transient non-community system,Ground water,Campbell,ROZET,26,4,31,2
+WY5600600,BUCKHORN BAR AND GRILL,Transient non-community system,Ground water,Weston,NEWCASTLE,104,5,27,7
+WY5601611,BUCKING HORSE STEAK HOUSE,Transient non-community system,Ground water,Goshen,TORRINGTON,100,4,12,2
+WY5601246,BUFFALO BILL DAM VISITOR CENTER,Transient non-community system,Surface water purchased,Park,CODY,500,6,7,5
+WY5601268,BUFFALO BILL ST PK NO.SHORE BA,Transient non-community system,Ground water,Park,CODY,25,5,0,6
+WY5600667,BUFFALO BILL ST PK NORTH FORK,Transient non-community system,Ground water,Park,CODY,40,6,2,8
+WY5601129,BUNKHOUSE BAR AND GRILL,Transient non-community system,Ground water,Laramie,CHEYENNE,30,7,14,5
+WY5600396,C M RANCH LLC,Transient non-community system,Ground water,Fremont,DUBOIS,75,21,16,7
+WY5600525,CALICO ITALIAN RESTAURANT,Transient non-community system,Ground water,Teton,TETON VILLAGE,300,5,2,6
+WY5601497,CAMP BETHEL,Transient non-community system,Ground water,Sheridan,DAYTON,70,8,2,4
+WY5601373,CAMP BUFFALO BILL,Transient non-community system,Ground water,Park,POWELL,250,7,9,5
+WY5601590,CAMP GRACE/FLETCHER PARK BAPTIST YOUTH,Transient non-community system,Ground water,Albany,WHEATLAND,100,5,5,2
+WY5601544,CAMP LOLL- BOY SCOUTS OF AMERICA,Transient non-community system,Ground water,Teton,-,300,6,3,3
+WY5600564,CAMP NEW FORK-BOY SCOUTS OF AMERICA,Transient non-community system,Ground water,Sublette,-,450,12,10,4
+WY5601513,CAMP PAINTROCK,Transient non-community system,Ground water,Big Horn,HYATTVILLE,100,5,23,4
+WY5600856,CAMP SACAJAWEA,Transient non-community system,Ground water,Natrona,CASPER,75,23,22,9
+WY5600685,CAMP WYOBA AND LIONS CLUB,Transient non-community system,Groundwater under influence of surface water,Natrona,CASPER,100,6,22,9
+WY5601706,CHEYENNE HILLS CHURCH,Transient non-community system,Ground water,Laramie,-,1211,2,0,1
+WY5601102,CHEYENNE SHRINE CLUB,Transient non-community system,Ground water,Laramie,CHEYENNE,25,5,19,7
+WY5601688,CHIPPY'S CATERING/WILSON HARDWARE,Transient non-community system,Ground water,Teton,WILSON,45,3,7,1
+WY5601165,CIRCLE J RANCH,Transient non-community system,Ground water,Washakie,TEN SLEEP,200,15,19,9
+WY5601621,COTTONWOOD COUNTRY CLUB,Transient non-community system,Ground water,Goshen,TORRINGTON,49,9,1,2
+WY5601570,COUNTRY BURGERS,Transient non-community system,Ground water,Sweetwater,FARSON,70,7,15,3
+WY5600468,CREEKSIDE LODGE,Transient non-community system,Ground water,Park,CODY,53,6,19,8
+WY5601542,CROOKED CREEK GUEST RANCH,Transient non-community system,Ground water,Fremont,DUBOIS,33,7,12,3
+WY5600443,CROSSED SABRES GUEST RANCH,Transient non-community system,Groundwater under influence of surface water,Park,WAPITI,25,9,20,8
+WY5601157,CROWHEART STORE,Transient non-community system,Ground water,Fremont,CROWHEART,114,6,21,8
+WY5600866,CURT GOWDY ST PK HEADQUARTERS,Transient non-community system,Ground water,Laramie,CHEYENNE,25,6,28,7
+WY5600867,CURT GOWDY ST PK N GRANITE SPR RES,Transient non-community system,Ground water,Laramie,CHEYENNE,70,5,7,6
+WY5601222,CURT GOWDY ST PK-CRYSTAL DAM OVERLOOK,Transient non-community system,Ground water,Laramie,CHEYENNE,25,6,3,7
+WY5601514,CURT GOWDY ST PK-NE GRANITE SPRINGS,Transient non-community system,Ground water,Laramie,CHEYENNE,25,5,3,3
+WY5601517,DANIEL JUNCTION,Transient non-community system,Ground water,Sublette,-,125,6,4,3
+WY5601451,DARBY GIRLS CAMP,Transient non-community system,Ground water,Teton,-,200,8,8,4
+WY5600565,DEER HAVEN LODGE,Transient non-community system,Ground water,Washakie,TEN SLEEP,50,7,24,7
+WY5600225,DEER HAVEN MOBILE HOME PARK,Transient non-community system,Ground water,Carbon,SARATOGA,35,7,11,9
+WY5600487,DEER PARK MHP & CG,Transient non-community system,Ground water,Johnson,BUFFALO,83,13,2,8
+WY5600370,DEVIL'S TOWER KOA-CAMPSTOOL CG,Transient non-community system,Ground water,Crook,DEVILS TOWER,250,6,18,8
+WY5680114,DEVIL'S TOWER NAT'L MONUMENT,Transient non-community system,Ground water,Crook,DEVILS TOWER,2000,8,1,8
+WY5601375,DEVIL'S TOWER TRADING POST,Transient non-community system,Ground water,Crook,DEVILS TOWER,100,4,3,5
+WY5601516,DEVILS TOWER VIEW,Transient non-community system,Ground water,Crook,HULETT,40,9,9,3
+WY5601261,DORNAN`S MOOSE ENTERPRISES,Transient non-community system,Ground water,Teton,MOOSE,1010,9,22,5
+WY5600870,EAGLE CREEK RV & TRAILER PARK,Transient non-community system,Ground water,Natrona,ALCOVA,25,4,12,11
+WY5601583,EATON INVESTMENTS,Transient non-community system,Ground water,Sweetwater,FARSON,27,7,6,5
+WY5600929,EATON'S DUDE RANCH,Transient non-community system,Ground water,Sheridan,-,210,7,1,7
+WY5600860,EDELWEISS,Transient non-community system,Ground water,Park,CLARK,29,5,18,7
+WY5600111,EDEN SALOON,Transient non-community system,Ground water,Sweetwater,EDEN,29,6,31,10
+WY5601460,EKW STATE PARK - COTTONWOOD,Transient non-community system,Ground water,Natrona,EVANSVILLE,25,5,2,5
+WY5601459,EKW STATE PARK - PLATTE RIVER,Transient non-community system,Ground water,Natrona,EVANSVILLE,25,6,3,5
+WY5600461,ELEPHANT HEAD LODGE,Transient non-community system,Ground water,Park,WAPITI,57,7,16,5
+WY5600999,ELK REFUGE INN,Transient non-community system,Ground water,Teton,JACKSON,72,7,18,8
+WY5601484,ELK VIEW INN,Transient non-community system,Ground water,Sheridan,DAYTON,160,14,18,4
+WY5600528,"ELKHORN LODGE, LLC",Transient non-community system,Ground water,Sublette,BONDURANT,66,10,26,9
+WY5601084,ELKHORN TRAILER PARK,Transient non-community system,Ground water,Sheridan,SHERIDAN,20,4,0,5
+WY5601700,EMMANUEL BIBLE CHURCH,Transient non-community system,Ground water,Lincoln,-,138,3,4,0
+WY5601412,FISH CREEK CENTER,Transient non-community system,Ground water,Teton,WILSON,120,5,13,5
+WY5601186,FLAT CREEK INN,Transient non-community system,Ground water,Teton,JACKSON,200,10,8,5
+WY5601273,FLAT CREEK RV PARK,Transient non-community system,Ground water,Lincoln,THAYNE,23,6,20,5
+WY5601250,FLYING V CAMBRIA INN,Transient non-community system,Ground water,Weston,NEWCASTLE,30,5,21,4
+WY5601104,FLYING X RANCH MHP,Transient non-community system,Ground water,Albany,WHEATLAND,200,18,21,8
+WY5680174,FORT FETTERMAN STATE HISTORIC SITE,Transient non-community system,Ground water,Converse,DOUGLAS,52,9,11,8
+WY5680115,FORT LARAMIE NATIONAL HISTORIC SITE,Transient non-community system,Ground water,Goshen,FORT LARAMIE,352,10,0,7
+WY5600672,FORT PHIL KEARNEY ST HIST SITE,Transient non-community system,Ground water,Johnson,STORY,100,7,10,6
+WY5600389,FREMONT COUNTY YOUTH CAMP,Transient non-community system,Ground water,Fremont,LANDER,70,6,17,6
+WY5601419,FRONTIER MART,Transient non-community system,Ground water,Goshen,TORRINGTON,140,7,9,5
+WY5601598,GLENDO LAKESIDE RV PARK,Transient non-community system,Ground water,Platte,GLENDO,100,5,1,2
+WY5600665,GLENDO ST PARK COTTONWOOD,Transient non-community system,Ground water,Platte,GLENDO,50,6,9,7
+WY5600661,GLENDO ST PARK HEADQUARTERS,Transient non-community system,Ground water,Platte,GLENDO,156,12,5,9
+WY5600664,GLENDO ST PARK WHISKEY GULCH,Transient non-community system,Ground water,Platte,GLENDO,50,5,2,7
+WY5600662,GLENDO ST PARK-RENO COVE,Transient non-community system,Ground water,Platte,GLENDO,25,5,0,6
+WY5601069,GLENROCK SOUTH RECREATION COMPLEX,Transient non-community system,Ground water,Converse,GLENROCK,30,6,4,6
+WY5601510,GOOSEWING RANCH,Transient non-community system,Ground water,Teton,JACKSON,56,8,6,4
+WY5680111,GRAND TETON NP AMK RANCH,Transient non-community system,Ground water,Teton,MOOSE,25,11,1,4
+WY5680094,GRAND TETON NP CLIMBERS RANCH,Transient non-community system,Ground water,Teton,MOOSE,50,5,1,5
+WY5680097,GRAND TETON NP FLAGG RANCH,Transient non-community system,Ground water,Teton,MOOSE,600,7,0,5
+WY5680100,GRAND TETON NP GROS VENTRE CG,Transient non-community system,Ground water,Teton,MOOSE,500,5,0,5
+WY5680101,GRAND TETON NP HIGHLANDS,Transient non-community system,Ground water,Teton,MOOSE,25,5,0,5
+WY5680157,GRAND TETON NP-JENNY LAKE LODGE,Transient non-community system,Ground water,Teton,MOOSE,225,5,1,5
+WY5680250,GRAND TETON NP-LAURANCE S.ROCKEFELLER PC,Transient non-community system,Ground water,Teton,MOOSE,275,4,0,2
+WY5680105,GRAND TETON NP-LEEKS MARINA,Transient non-community system,Ground water,Teton,MOOSE,120,6,0,5
+WY5680106,GRAND TETON NP-LIZARD CREEK CG,Transient non-community system,Ground water,Teton,MOOSE,90,5,0,5
+WY5680156,GRAND TETON NP-LUPINE MEADOWS,Transient non-community system,Ground water,Teton,MOOSE,40,5,1,5
+WY5680096,GRAND TETON NP-SOUTH JENNY LAKE,Transient non-community system,Ground water,Teton,MOOSE,120,5,0,5
+WY5600682,GRAND TETON PARK RV RESORT,Transient non-community system,Ground water,Teton,MORAN JCT,502,16,38,5
+WY5600416,GRANDMA'S INN,Transient non-community system,Ground water,Goshen,TORRINGTON,25,7,29,7
+WY5601599,GRAY ROCK CONFERENCE CENTER,Transient non-community system,Ground water,Platte,GUERNSEY,50,7,3,3
+WY5601574,GREEN CREEK INN & RV,Transient non-community system,Ground water,Park,CODY,50,5,3,3
+WY5601406,GROS VENTRE RIVER RANCH,Transient non-community system,Ground water,Teton,MOOSE,51,8,6,5
+WY5600689,GUERNSEY ST PARK EAST SIDE,Transient non-community system,Ground water,Platte,GUERNSEY,25,5,18,7
+WY5600690,GUERNSEY ST PARK FISH CANYON,Transient non-community system,Ground water,Platte,GUERNSEY,25,5,2,7
+WY5680177,GUERNSEY ST PARK HEADQUARTERS,Transient non-community system,Ground water,Platte,GUERNSEY,25,5,9,8
+WY5600691,GUERNSEY ST PARK LONG CANYON,Transient non-community system,Ground water,Platte,GUERNSEY,50,5,3,7
+WY5600693,GUERNSEY ST PARK SANDY BEACH 1,Transient non-community system,Ground water,Platte,GUERNSEY,50,5,3,7
+WY5600694,GUERNSEY ST PARK SANDY BEACH 2,Transient non-community system,Ground water,Platte,GUERNSEY,50,5,3,7
+WY5600692,GUERNSEY ST PARK SEWER DUMP,Transient non-community system,Ground water,Platte,GUERNSEY,25,4,2,7
+WY5600517,HATCHET RESORT,Transient non-community system,Ground water,Teton,MORAN JCT,204,7,14,5
+WY5600502,HEART SIX GUEST RANCH,Transient non-community system,Ground water,Teton,MORAN JCT,40,11,38,6
+WY5600989,HF BAR RANCH,Transient non-community system,Surface water,Johnson,-,153,5,24,5
+WY5601540,HIGHLINE TRAIL RV PARK,Transient non-community system,Ground water,Sublette,BOULDER,62,6,0,3
+WY5601491,HILLIARD WARD,Transient non-community system,Ground water,Uinta,EVANSTON,45,7,8,4
+WY5601532,"HOBACK STORES, INC. DBA HOBACK MARKET",Transient non-community system,Ground water,Teton,JACKSON,200,5,18,5
+WY5600736,HOGADON SKI AREA,Transient non-community system,Ground water,Natrona,CASPER,417,8,8,9
+WY5601701,"HOLY FAMILY CATHOLIC CHURCH, INC.",Transient non-community system,Ground water,Lincoln,-,140,3,6,0
+WY5601647,INDIAN SPRINGS RANCH HOA,Transient non-community system,Ground water,Teton,JACKSON,63,6,2,1
+WY5601370,"J & E INFANGER, INC.",Transient non-community system,Ground water,Teton,JACKSON,33,4,14,5
+WY5600520,JACKSON HOLE CAMPGROUND,Transient non-community system,Ground water,Teton,TETON VILLAGE,170,5,30,8
+WY5600448,K BAR Z GUEST RANCH,Transient non-community system,Ground water,Park,CODY,46,4,12,7
+WY5600373,KEYHOLE RESORT/MARINA,Transient non-community system,Ground water purchased,Crook,MOORCROFT,50,14,19,6
+WY5600652,KEYHOLE ST PARK COTTONWOOD CG,Transient non-community system,Ground water,Crook,MOORCROFT,25,9,6,9
+WY5680179,KEYHOLE ST PARK HEADQUARTERS,Transient non-community system,Ground water,Crook,MOORCROFT,100,15,8,8
+WY5601577,KINNEAR STORE,Transient non-community system,Ground water,Fremont,KINNEAR,45,5,27,3
+WY5601428,KOA CAMPGROUND CHEYENNE,Transient non-community system,Ground water,Laramie,CHEYENNE,131,6,9,4
+WY5601528,LAKE STOP,Transient non-community system,Ground water,Johnson,BUFFALO,29,12,7,3
+WY5600509,"LAKE WATER CO., LLC.",Transient non-community system,Ground water,Platte,GLENDO,25,7,12,7
+WY5600474,LAKESIDE LODGE,Transient non-community system,Surface water,Sublette,PINEDALE,75,4,15,12
+WY5601646,LARAMIE COUNTY ARCHER COMPLEX,Transient non-community system,Ground water,Laramie,CHEYENNE,62,9,2,1
+WY5601376,LARSON'S PARK,Transient non-community system,Ground water,Platte,GUERNSEY,45,6,6,5
+WY5600407,LAVA MOUNTAIN LODGE,Transient non-community system,Ground water,Fremont,DUBOIS,50,6,16,7
+WY5600741,LAZY L AND B RANCH,Transient non-community system,Ground water,Fremont,DUBOIS,50,8,15,7
+WY5600500,"LCRH20, LLC",Transient non-community system,Ground water,Teton,MOOSE,105,8,3,6
+WY5601696,LDS AUBURN/GROVER/MEADOWS MEETINGHOUSE,Transient non-community system,Ground water,Lincoln,GROVER,500,3,1,1
+WY5601682,LDS BUFFALO RIDGE CHURCH,Transient non-community system,Ground water,Laramie,CHEYENNE,530,5,1,1
+WY5601683,LDS LARMIE WY STAKE REC CAMP/BATEL RANCH,Transient non-community system,Ground water,Albany,LARAMIE,300,5,0,1
+WY5601687,LDS TEN SLEEP MEETINGHOUSE,Transient non-community system,Ground water,Washakie,TEN SLEEP,80,4,15,2
+WY5601681,LDS WHEATLAND CHURCH,Transient non-community system,Ground water,Platte,WHEATLAND,95,3,0,1
+WY5601479,LINE SHACK LODGE,Transient non-community system,Ground water,Fremont,DUBOIS,50,5,13,4
+WY5600740,LITTLE BEAR INN,Transient non-community system,Ground water,Laramie,CHEYENNE,108,4,28,7
+WY5601538,LONGHORN RV AND MOTEL,Transient non-community system,Ground water,Fremont,DUBOIS,200,10,5,5
+WY5600972,LORD OF LORDS LUTHERAN CHURCH,Transient non-community system,Ground water,Natrona,CASPER,70,5,11,9
+WY5601488,LUTON'S TETON CABINS,Transient non-community system,Ground water,Teton,MORAN JCT,70,6,0,3
+WY5600379,LYMAN KOA CAMPGROUND,Transient non-community system,Ground water,Uinta,LYMAN,154,4,23,8
+WY5600688,MEADOWLARK LAKE LODGE,Transient non-community system,Ground water,"Big Horn, Washakie",WORLAND,150,4,14,6
+WY5600362,MEADOWLARK SKI RESORT,Transient non-community system,Ground water,Washakie,-,60,5,24,6
+WY5680054,MED BOW NF- SOUTH BRUSH CREEK CAMPGROUND,Transient non-community system,Ground water,Carbon,SARATOGA,80,6,10,7
+WY5680254,MEDICINE BOW NF LAKE OWEN CG,Transient non-community system,Ground water,Albany,LARAMIE,26,10,5,1
+WY5680252,MEDICINE BOW NF PELTON CREEK CG,Transient non-community system,Ground water,Albany,LARAMIE,30,3,8,1
+WY5680051,MEDICINE BOW NF RYAN PARK CG,Transient non-community system,Ground water,Carbon,SARATOGA,40,8,17,7
+WY5680068,MEDICINE BOW NF VEDAUWOO CG,Transient non-community system,Ground water,Albany,LARAMIE,26,12,28,7
+WY5680176,MEDICINE BOW NF- HOG PARK CG,Transient non-community system,Ground water,Carbon,ENCAMPMENT,30,5,11,7
+WY5680233,MEDICINE BOW NF-BR CRK/HAYDEN RS,Transient non-community system,Ground water,Carbon,SARATOGA,50,5,8,4
+WY5680062,MEDICINE BOW NF-HIDDEN VALLEY PG,Transient non-community system,Ground water,Albany,LARAMIE,30,4,10,7
+WY5680050,MEDICINE BOW NF-MIRROR LAKE PG,Transient non-community system,Ground water,Albany,SARATOGA,250,4,16,7
+WY5680249,MEDICINE BOW NF-ROB ROY UPPER LOOP CG,Transient non-community system,Ground water,Albany,LARAMIE,30,6,10,3
+WY5600979,MEDICINE LODGE ST HIST SITE,Transient non-community system,Ground water,Big Horn,HYATTVILLE,115,6,4,7
+WY5601446,MHVC 66 RANCH,Transient non-community system,Ground water,Natrona,ALCOVA,96,15,2,5
+WY5601444,MHVC CHERRY CREEK CG,Transient non-community system,Ground water,Natrona,ALCOVA,25,6,4,4
+WY5601445,MHVC JACKSON CG,Transient non-community system,Ground water,Natrona,ALCOVA,25,6,1,4
+WY5601559,MHVC SAGE CG,Transient non-community system,Ground water,Fremont,AFTON,120,3,1,4
+WY5601487,MHVC SIXTH CROSSING RANCH RV PARK,Transient non-community system,Ground water,Fremont,-,200,19,5,5
+WY5601431,MHVC VISITORS CENTER,Transient non-community system,Ground water,Natrona,ALCOVA,612,11,4,4
+WY5600631,MILLS SPRING RANCH,Transient non-community system,Ground water,Natrona,CASPER,200,8,38,10
+WY5601105,"MINERS GRUBSTAKE, LLC",Transient non-community system,Ground water,Fremont,ATLANTIC CITY,102,7,34,8
+WY5600559,MITCH`S CAFE,Transient non-community system,Ground water,Sweetwater,FARSON,35,7,8,8
+WY5600495,MOOSEHEAD RANCH,Transient non-community system,Ground water,Teton,MORAN JCT,43,17,8,7
+WY5601552,"MOUNTAIN MAN, LLC",Transient non-community system,Ground water,Park,CODY,20,5,14,3
+WY5601710,MOUNTAIN TOP BAPTIST ASSEMBLY,Transient non-community system,Ground water,Natrona,CASPER,175,4,5,0
+WY5600677,NATRONA COUNTY PARKS-ALCOVA,Transient non-community system,Ground water,Natrona,MILLS,800,6,5,9
+WY5600678,NATRONA COUNTY PARKS-BEARTRAP CG,Transient non-community system,Ground water,Natrona,MILLS,75,5,9,9
+WY5600903,NORA'S FISH CREEK INN,Transient non-community system,Ground water,Teton,WILSON,263,9,14,5
+WY5600592,NORTHERN DREAM LOUNGE,Transient non-community system,Ground water,Natrona,CASPER,42,5,11,9
+WY5601573,NORTHWEST COLLEGE FIELD STATION,Transient non-community system,Surface water,Park,CODY,80,12,3,2
+WY5680202,NPS FOSSIL BUTTE NATL MONUMENT,Transient non-community system,Ground water,Lincoln,KEMMERER,100,8,2,6
+WY5601709,OLD WILSON SCHOOLHOUSE CMTY CTR,Transient non-community system,Ground water,Teton,WILSON,54,5,3,1
+WY5601601,ORIN JUNCTION TRUCK STOP,Transient non-community system,Ground water,Converse,DOUGLAS,50,4,10,2
+WY5600439,PAHASKA TEPEE RESORT,Transient non-community system,Groundwater under influence of surface water,Park,CODY,205,5,29,7
+WY5601452,PAINTBRUSH MOTEL,Transient non-community system,Ground water,Fremont,RIVERTON,28,7,4,4
+WY5601554,PAINTER ESTATES HOA,Transient non-community system,Ground water,Park,CODY,12,7,14,3
+WY5600434,PARADISE GUEST RANCH,Transient non-community system,Ground water,Johnson,BUFFALO,90,11,15,10
+WY5600552,PARKMAN BAR,Transient non-community system,Ground water,Sheridan,PARKMAN,40,6,24,9
+WY5601686,PLATTE RIVER RV/A BIG STORAGE,Transient non-community system,Ground water,Converse,GLENROCK,23,3,3,1
+WY5600915,PONY SOLDIER RV CAMP,Transient non-community system,Ground water,Goshen,LINGLE,23,8,5,7
+WY5601070,PRAIRIE VIEW CAMPGROUND,Transient non-community system,Ground water,Niobrara,LUSK,25,5,22,5
+WY5601258,PUB PLACE,Transient non-community system,Ground water,Teton,JACKSON,195,7,24,5
+WY5600499,R LAZY S RANCH,Transient non-community system,Ground water,Teton,TETON VILLAGE,62,6,8,6
+WY5601442,RAM CENTER,Transient non-community system,Ground water,Crook,SUNDANCE,85,8,8,3
+WY5601505,RANCH A,Transient non-community system,Ground water,Crook,BEULAH,40,10,1,4
+WY5601643,RAND CREEK RANCH,Transient non-community system,Ground water,Park,WAPITI,25,6,2,1
+WY5601501,RAZOR CITY SKATELAND,Transient non-community system,Ground water,Campbell,GILLETTE,50,7,27,4
+WY5601697,RED CLIFF BIBLE CAMP,Transient non-community system,Ground water,Sublette,PINEDALE,200,5,1,1
+WY5601508,RED ROCK RANCH,Transient non-community system,Ground water,Teton,KELLY,50,25,6,3
+WY5601694,RENDEZVOUS MEADOWS GOLF COURSE,Transient non-community system,Ground water,Sublette,PINEDALE,35,3,1,2
+WY5601521,RIMROCK RANCH,Transient non-community system,Ground water,Park,CODY,40,5,1,3
+WY5600404,RING LAKE RANCH,Transient non-community system,Ground water,Fremont,DUBOIS,34,12,17,9
+WY5601135,ROBERTOS CAFE,Transient non-community system,Ground water,Campbell,GILLETTE,90,6,12,5
+WY5601438,ROCK CREEK HOLLOW LDS CHURCH CG,Transient non-community system,Ground water,Fremont,LANDER,100,8,8,4
+WY5600096,ROCK SPRINGS/GREEN RIVER KOA,Transient non-community system,Surface water purchased,Sweetwater,ROCK SPRINGS,405,7,15,7
+WY5600879,ROCKY MOUNTAIN LODGE,Transient non-community system,Ground water,Teton,JACKSON,45,6,8,2
+WY5600632,ROLLING GREEN COUNTRY CLUB,Transient non-community system,Groundwater under influence of surface water,Sweetwater,GREEN RIVER,100,5,18,9
+WY5600309,ROOCH'S MARINA IN GLENDO,Transient non-community system,Ground water,Platte,GLENDO,202,12,12,7
+WY5600300,SAND CREEK TRADING POST,Transient non-community system,Ground water,Crook,BEULAH,36,5,49,6
+WY5601702,"SAND DRAW INN, LLC",Transient non-community system,Ground water,Sublette,-,30,3,0,0
+WY5600335,"SEMINOE BOAT CLUB, INC.",Transient non-community system,Ground water,Carbon,RAWLINS,100,8,11,9
+WY5600478,SHOSHONE LODGE,Transient non-community system,Ground water,Park,CODY,60,10,30,9
+WY5680218,SHOSHONE NF EAGLE CREEK CAMPGROUND,Transient non-community system,Ground water,Park,CODY,50,5,4,5
+WY5680027,SHOSHONE NF FALLS CAMPGROUND,Transient non-community system,Ground water purchased,Fremont,DUBOIS,50,6,2,1
+WY5680237,SHOSHONE NF-BEARTOOTH LAKE CG,Transient non-community system,Ground water,Park,CODY,80,6,5,4
+WY5680236,SHOSHONE NF-FOX CREEK CG,Transient non-community system,Ground water,Park,CODY,120,8,3,4
+WY5680235,SHOSHONE NF-ISLAND LAKE CG,Transient non-community system,Ground water,Park,-,75,7,0,1
+WY5680221,SHOSHONE NF-NEWTON CREEK #12 CG,Transient non-community system,Ground water,Park,CODY,25,3,5,5
+WY5680224,SHOSHONE NF-REX HALE CAMPGROUND,Transient non-community system,Ground water,Park,CODY,40,5,10,5
+WY5680017,SHOSHONE NF-THREE MILE CG EAST,Transient non-community system,Ground water,Park,CODY,100,3,9,7
+WY5680018,SHOSHONE NF-THREE MILE CG MIDDLE,Transient non-community system,Ground water,Park,CODY,50,3,5,3
+WY5680019,SHOSHONE NF-WAPITI CG & RANGER STATION,Transient non-community system,Ground water,Park,CODY,200,6,9,7
+WY5601550,SINCLAIR WY REFINING COMPANY/GOLF COURSE,Transient non-community system,Surface water,Carbon,SINCLAIR,138,6,15,3
+WY5680251,SINKS CANYON CAMPGROUND,Transient non-community system,Ground water,Fremont,LANDER,25,2,4,2
+WY5601190,SINKS CANYON STATE PK-POPO AGIE CG,Transient non-community system,Ground water,Fremont,LANDER,25,5,3,5
+WY5601628,SLEEPING GIANT SKI AREA,Transient non-community system,Ground water,Park,CODY,112,4,8,2
+WY5601066,SLOANES GENERAL STORE,Transient non-community system,Ground water,Natrona,ALCOVA,40,12,10,7
+WY5600519,SNAKE RIVER PARK KOA,Transient non-community system,Groundwater under influence of surface water,Teton,JACKSON,200,10,14,5
+WY5600946,SNOWY RANGE SKI AREA,Transient non-community system,Ground water,Albany,CENTENNIAL,350,6,13,5
+WY5601068,SOUTH FORK MOUNTAIN LODGE,Transient non-community system,Ground water,Johnson,BUFFALO,72,8,29,5
+WY5601137,SOUTH PASS CITY HISTORICAL SITE,Transient non-community system,Ground water,Fremont,SOUTH PASS CITY,103,6,17,4
+WY5600492,SPOTTED HORSE RANCH,Transient non-community system,Ground water,Teton,JACKSON,40,11,13,5
+WY5600523,STAGECOACH BAR INCORPORATED,Transient non-community system,Ground water,Teton,WILSON,152,6,13,5
+WY5601525,STATELINE STATION,Transient non-community system,Ground water,Crook,BEULAH,300,6,15,3
+WY5601637,SUBLETTE COUNTY ROAD AND BRIDGE,Transient non-community system,Ground water,Sublette,PINEDALE,26,4,52,1
+WY5600078,SUNSET GRILL & RIVER VIEW INN,Transient non-community system,Ground water,Natrona,ALCOVA,56,9,24,9
+WY5601111,SYLVAN BAY HOA,Transient non-community system,Ground water,Sublette,PINEDALE,25,7,13,13
+WY5680118,TARGHEE NF ALPINE CG,Transient non-community system,Ground water,Lincoln,ALPINE,45,6,12,7
+WY5680208,TARGHEE NF-REUNION FLAT CAMPGROUND,Transient non-community system,Ground water,Teton,-,300,6,9,5
+WY5680119,TARGHEE NF-TETON CANYON CAMPGROUND,Transient non-community system,Ground water,Teton,-,125,7,9,5
+WY5680116,TARGHEE NF-TRAIL CREEK CAMPGROUND,Transient non-community system,Ground water,Teton,-,40,5,12,6
+WY5601713,TEN SLEEP ROCK RANCH,Transient non-community system,Surface water,Washakie,TEN SLEEP,35,5,0,0
+WY5601267,TERRY BISON RANCH,Transient non-community system,Ground water,Laramie,CHEYENNE,50,10,16,5
+WY5601689,TETON COUNTY WEED & PEST DISTRICT,Transient non-community system,Ground water,Teton,JACKSON,29,4,1,1
+WY5601241,TETON HIGH ADVENTURE BASE,Transient non-community system,Ground water,Teton,JACKSON,156,5,13,6
+WY5601536,TETON VALLEY RANCH CAMP-DUBOIS,Transient non-community system,Ground water,Fremont,JACKSON,195,11,8,3
+WY5600785,THE DEN,Transient non-community system,Ground water,Laramie,CHEYENNE,50,13,22,7
+WY5601587,THE STATION,Transient non-community system,Ground water,Sublette,BOULDER,195,5,4,3
+WY5601326,THREE FORKS-MUDDY GAP SERVICE,Transient non-community system,Ground water,Carbon,RAWLINS,25,3,12,5
+WY5601698,TRACTOR SUPPLY COMPANY-CHEYENNE,Transient non-community system,Ground water,Laramie,CHEYENNE,110,4,1,0
+WY5600570,TRAIL SHOP,Transient non-community system,Ground water,Park,WAPITI,40,4,20,8
+WY5601495,TREASURE MOUNTAIN SCOUT CAMP,Transient non-community system,Ground water,Teton,-,300,5,9,4
+WY5601649,"TRIAL LAWYERS COLLEGE, AKA, THUNDERHEAD",Transient non-community system,Ground water,Fremont,DUBOIS,100,12,2,1
+WY5600400,TRIANGLE C RANCH,Transient non-community system,Ground water,Fremont,DUBOIS,67,9,31,7
+WY5601091,TURPIN MEADOW RANCH,Transient non-community system,Ground water,Teton,MORAN JCT,76,7,28,6
+WY5601652,TWIN PINES RV PARK,Transient non-community system,Surface water purchased,Fremont,LANDER,25,3,4,1
+WY5601117,"U.S. AIR FORCE DET 21, ECRG",Transient non-community system,Ground water,Crook,BELLE FOURCHE,25,7,10,7
+WY5601149,UCROSS GUEST RANCH,Transient non-community system,Ground water,Sheridan,CLEARMONT,441,7,9,8
+WY5601026,UINTA COUNTY YOUTH CAMP,Transient non-community system,Ground water,Uinta,EVANSTON,203,10,17,7
+WY5600978,UNION PACIFIC RAILROAD,Transient non-community system,Ground water,Converse,BILL,250,8,3,5
+WY5601650,UNIVERSITY OF MICHIGAN CAMP DAVIS,Transient non-community system,Ground water,Teton,JACKSON,73,4,2,1
+WY5600457,UXU RANCH LLC,Transient non-community system,Groundwater under influence of surface water,Park,WAPITI,35,6,28,7
+WY5600684,VIRGINIAN LODGE,Transient non-community system,Ground water,Teton,JACKSON,300,5,11,7
+WY5601680,VORE BUFFALO JUMP,Transient non-community system,Ground water,Crook,SUNDANCE,85,4,1,1
+WY5601103,WAGON BOX INN,Transient non-community system,Ground water,Sheridan,STORY,103,10,17,8
+WY5601703,WAPITI VILLAGE RV PARK,Transient non-community system,Ground water,Lincoln,-,14,3,0,0
+WY5600515,WESTON COUNTY MALLO CAMP,Transient non-community system,Ground water,Weston,NEWCASTLE,317,10,10,5
+WY5601707,WHISKEY MOUNTAIN CONSERVATION CAMP,Transient non-community system,Ground water,Fremont,-,96,8,0,0
+WY5601486,WHITE PINE RESORTS,Transient non-community system,Ground water,Sublette,PINEDALE,500,5,10,4
+WY5601531,WILSON GAS,Transient non-community system,Ground water,Teton,WILSON,150,5,12,3
+WY5601437,WIND RIVER VIEW CAMPGROUND,Transient non-community system,Ground water,Sublette,BOULDER,110,5,6,3
+WY5601566,WOLF DEN,Transient non-community system,Ground water,Lincoln,THAYNE,38,5,3,3
+WY5600307,WOOD'S LANDING RESORT,Transient non-community system,Ground water,Albany,WOODS LANDING,60,15,6,1
+WY5601194,WY DOT - GOOSEBERRY RA,Transient non-community system,Ground water,Hot Springs,MEETEETSE,350,7,11,7
+WY5601197,WY DOT - ORIN JUNCTION REST AREA,Transient non-community system,Ground water,Converse,CASPER,750,7,3,6
+WY5600845,WY DOT- I-80 PORT OF ENTRY,Transient non-community system,Ground water,Laramie,CHEYENNE,808,6,6,7
+WY5600646,WY DOT- LUSK REST AREA,Transient non-community system,Ground water,Niobrara,LUSK,750,6,4,9
+WY5600469,WY DOT-BITTER CREEK EAST RA,Transient non-community system,Ground water,Sweetwater,ROCK SPRINGS,1000,7,1,7
+WY5600470,WY DOT-BITTER CREEK WEST RA,Transient non-community system,Ground water,Sweetwater,ROCK SPRINGS,1000,9,3,10
+WY5601061,WY DOT-CHEYENNE RIVER RA,Transient non-community system,Ground water,Converse,BILL,300,7,6,7
+WY5601042,WY DOT-DIVERSION DAM RA,Transient non-community system,Ground water,Fremont,DUBOIS,501,6,8,7
+WY5600622,WY DOT-DRIVER SERVICES CENTER,Transient non-community system,Ground water,Laramie,CHEYENNE,80,6,0,7
+WY5601582,WY DOT-DWYER JUNCTION REST AREA,Transient non-community system,Ground water,Platte,CASPER,650,9,1,3
+WY5601217,WY DOT-EVANSTON PORT OF ENTRY,Transient non-community system,Ground water,Uinta,EVANSTON,1000,6,10,8
+WY5600953,WY DOT-FORT STEELE REST AREA,Transient non-community system,Surface water,Carbon,RAWLINS,504,11,9,11
+WY5601567,WY DOT-HIGHWAY 339 PORT OF ENTRY,Transient non-community system,Ground water,Sheridan,SHERIDAN,165,7,1,3
+WY5600921,WY DOT-MERIDEN RA,Transient non-community system,Ground water,-,LARAMIE,150,7,12,6
+WY5600949,WY DOT-POWDER RIVER RA,Transient non-community system,Ground water,Johnson,SHERIDAN,27,9,3,6
+WY5601062,WY DOT-SHIRLEY RIM REST AREA,Transient non-community system,Ground water,Carbon,CASPER,104,10,3,7
+WY5600965,WY DOT-SOUTH PASS REST AREA,Transient non-community system,Ground water,Fremont,LANDER,401,7,3,7
+WY5600952,WY DOT-STAR VALLEY REST AREA,Transient non-community system,Ground water,"Lincoln, Sweetwater",AFTON,100,7,2,8
+WY5600310,WY DOT-SUMMIT REST AREA,Transient non-community system,Ground water,Albany,LARAMIE,1500,9,8,5
+WY5601043,WY DOT-SWEETWATER REST AREA,Transient non-community system,Ground water,Fremont,RIVERTON,500,6,6,7
+WY5601430,WY DOT-TORRINGTON PORT OF ENTRY,Transient non-community system,Ground water,Goshen,TORRINGTON,150,5,5,4
+WY5600825,WY DOT-WAGONHOUND REST AREA,Transient non-community system,Ground water,Carbon,LARAMIE,750,7,11,8
+WY5601642,WY TRANS DEPT ALADDIN WELCOME CTR,Transient non-community system,Ground water,Crook,SUNDANCE,75,5,2,1
+WY5600944,WY TRANS DEPT I-25 PORT OF ENT,Transient non-community system,Ground water,Laramie,CHEYENNE,900,6,0,7
+WY5601162,WY TRANS DEPT INDEPENDENCE RA,Transient non-community system,Ground water,Natrona,CASPER,350,9,2,6
+WY5600951,WY TRANS DEPT MULE CREEK RA,Transient non-community system,Ground water,Niobrara,NEWCASTLE,500,8,3,4
+WY5601092,WY TRANS DEPT PORT OF ENTRY 85,Transient non-community system,Ground water,Laramie,CHEYENNE,300,6,4,6
+WY5600964,WY TRANS DEPT WALTMAN RA,Transient non-community system,Ground water,Natrona,POWDER RIVER,300,10,3,8
+WY5601291,WYOMING CAMPGROUND,Transient non-community system,Ground water,Laramie,BURNS,74,7,7,4
+WY5601636,"WYOMING HIGH COUNTRY, LLC",Transient non-community system,Ground water,Big Horn,LOVELL,35,7,3,1
+WY5680077,YELLOWSTONE NP GRANT VILLAGE,Transient non-community system,Surface water,Teton,YELLOWSTONE NP,3563,7,1,7
+WY5680079,YELLOWSTONE NP LAKE VILLAGE,Transient non-community system,Ground water,Teton,YELLOWSTONE NT,5900,23,4,9
+WY5680080,YELLOWSTONE NP LAMAR RANGER ST,Transient non-community system,Ground water,Teton,YELLOWSTONE NP,100,5,0,6
+WY5680081,YELLOWSTONE NP LEWIS LAKE CG,Transient non-community system,Ground water,Teton,YELLOWSTONE NP,294,6,1,6
+WY5680082,YELLOWSTONE NP MADISON WTR SYS,Transient non-community system,Ground water,Teton,YELLOWSTONE NT,1775,7,2,8
+WY5680084,YELLOWSTONE NP NORRIS,Transient non-community system,Surface water,"Park, Teton",YELLOWSTONE NP,1515,10,4,8
+WY5680090,YELLOWSTONE NP TOWER JCT RGR,Transient non-community system,Ground water,Teton,YELLOWSTONE NP,300,8,0,8
+WY5680078,YELLOWSTONE NP-INDIAN CREEK,Transient non-community system,Ground water,Park,YELLOWSTONE NP,178,7,0,6
+WY5680086,YELLOWSTONE NP-PEBBLE CREEK CG,Transient non-community system,Ground water,Park,YELLOWSTONE NP,100,10,3,9
+WY5680152,YELLOWSTONE NP-SLOUGH CREEK CG,Transient non-community system,Ground water,Park,YELLOWSTONE NP,94,10,4,7
+WY5680089,YELLOWSTONE NP-TOWER FALL CG,Transient non-community system,Ground water,Park,YELLOWSTONE NP,495,6,1,9
+WY5600471,YELLOWSTONE VALLEY INN,Transient non-community system,Ground water,Park,CODY,315,6,23,7
+WY5600641,YMCA OF THE BIG HORNS CAMP ROBERTS,Transient non-community system,Ground water,Johnson,BUFFALO,60,15,47,12

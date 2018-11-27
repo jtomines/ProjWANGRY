@@ -1,135 +1,135 @@
-"PWS ID","PWS Name","PWS Type","Primary Source","Counties Served","Cities Served","PopulationServed Count","Number of Facilities","Number of Violations","Number of Site Visits"
-"HI0000337","ALIAMANU","Community water system","Ground water purchased","Honolulu","SALT LAKE","6,630","2","4","7"
-"HI0000401","ANAHOLA","Community water system","Ground water","Kauai","ANAHOLA","2,408","7","1","12"
-"HI0000432","ANAHOLA FARM LOTS","Community water system","Ground water","Kauai","ANAHOLA FARM LOTS (DHO)","385","4","1","14"
-"HI0000402","ANINI","Community water system","Ground water purchased","Kauai","HANALEI (DOW)","169","2","0","13"
-"HI0000355","BARBERS POINT","Community water system","Ground water","Honolulu","WAIPAHU-EWA-WAIANAE","5,256","3","2","9"
-"HI0000354","CAMP STOVER","Community water system","Ground water purchased","Honolulu","WAHIAWA","595","3","0","7"
-"HI0000338","DILLINGHAM AIRFIELD","Community water system","Ground water","Honolulu","MOKULEIA","1,800","3","8","7"
-"HI0000326","DILLINGHAM RANCH","Community water system","Ground water","Honolulu","WAIALUA-HALEIWA","100","3","1","9"
-"HI0000341","FORT SHAFTER","Community water system","Ground water","Honolulu","-","7,268","5","5","7"
-"HI0000417","GAY & ROBINSON","Community water system","Ground water","Kauai","KAUMAKANI","1,271","3","9","19"
-"HI0000415","HAENA-WAINIHA","Community water system","Ground water","Kauai","HAENA-WAINIHA","811","7","2","17"
-"HI0000161","HAINA","Community water system","Ground water","Hawaii","HAINA","4,487","7","0","3"
-"HI0000154","HAKALAU-WAILEA","Community water system","Ground water","Hawaii","HAKALAU-WAILEA","397","4","0","9"
-"HI0000222","HALEAKALA NATIONAL PARK","Community water system","Ground water","Maui","KULA","1,200","3","1","12"
-"HI0000217","HANA","Community water system","Ground water","Maui","HANA","1,284","10","12","15"
-"HI0000243","HANA WATER SYSTEMS - NORTH","Community water system","Ground water","Maui","KAELEKU AG PARK HANA","160","3","3","7"
-"HI0000201","HANA WATER SYSTEMS - SOUTH","Community water system","Ground water","Maui","KEOLA HANA-HOTEL DHO","816","5","7","9"
-"HI0000403","HANALEI","Community water system","Ground water","Kauai","HANALEI (DOW)","487","4","1","14"
-"HI0000404","HANAPEPE-ELEELE","Community water system","Ground water","Kauai","HANAPEPE-ELEELE (DOW)","5,445","9","3","17"
-"HI0000117","HAWAIIAN BEACHES","Community water system","Ground water","Hawaii","HAWAIIAN SHORES DHO","3,430","4","2","13"
-"HI0000169","HAWAIIAN OCEAN VIEW ESTATES","Community water system","Ground water","Hawaii","KONA","1,000","3","2","2"
-"HI0000156","HAWAIIAN SHORES","Community water system","Ground water","Hawaii","HAWAIIAN SHORES DHO","1,310","3","1","8"
-"HI0000101","HILO","Community water system","Ground water","Hawaii","HILO","38,885","19","48","31"
-"HI0000331","HNL-WINDWARD-PEARL HARBOR","Community water system","Ground water","Honolulu","HONOLULU-WINDWARD-PEARLHARBOR","630,266","239","43","9"
-"HI0000218","HONOKOHAU","Community water system","Ground water purchased","Maui","LAHAINA","42","6","80","15"
-"HI0000105","HONOMU","Community water system","Ground water","Hawaii","HONOMU","651","5","0","13"
-"HI0000230","HOOLEHUA","Community water system","Ground water","Maui","HOOLEHUA","2,400","5","9","15"
-"HI0000360","JOINT BASE PEARL HARBOR-HICKAM","Community water system","Ground water","Honolulu","PEARL HARBOR","65,230","8","9","14"
-"HI0000205","KAANAPALI","Community water system","Ground water","Maui","KAANAPALI (DHO)","8,000","14","6","9"
-"HI0000249","KAHAKULOA WATER CO.","Community water system","Ground water","Maui","KAHAKULOA HOMESTEAD","150","4","1","3"
-"HI0000365","KAHUKU","Community water system","Ground water","Honolulu","KAHUKU","2,757","4","1","7"
-"HI0000315","KAHUKU AIR BASE","Community water system","Ground water","Honolulu","KAHUKU AIR BASE","75","3","3","7"
-"HI0000203","KAILUA","Community water system","Ground water","Maui","KAILUA MAUI","90","5","19","7"
-"HI0000235","KALAE","Community water system","Ground water purchased","Maui","MAKENA","360","5","1","10"
-"HI0000434","KALAHEO-KOLOA","Community water system","Ground water","Kauai","KALAHEO","12,327","27","3","15"
-"HI0000110","KALAPANA","Community water system","Ground water","Hawaii","KALAPANA (DWS)","265","4","1","14"
-"HI0000239","KALAUPAPA NHP","Community water system","Ground water","Maui","KALAUPAPA","110","3","10","10"
-"HI0000319","KAMEHAMEHA SCHOOLS","Community water system","Ground water","Honolulu","KAPALAMA","4,000","5","0","9"
-"HI0000204","KAPALUA","Community water system","Ground water","Maui","KAPALUA (DHO)","4,200","4","5","5"
-"HI0000234","KAUNAKAKAI","Community water system","Ground water","Maui","KAUNAKAKAI","3,702","7","11","12"
-"HI0000163","KAUPULEHU","Community water system","Ground water","Hawaii","KONA","1,945","11","14","3"
-"HI0000164","KAWAIHAE UNIT #1","Community water system","Ground water purchased","Hawaii","KAWAIHAE","193","3","1","3"
-"HI0000248","KAWELA PLANTATION","Community water system","Ground water","Maui","KAWELA","553","6","1","5"
-"HI0000423","KEALIA","Community water system","Ground water","Kauai","KEALIA (DHO)","260","8","0","17"
-"HI0000219","KEANAE","Community water system","Ground water","Maui","KEANAE (DWS)","270","4","3","11"
-"HI0000406","KEKAHA-WAIMEA","Community water system","Ground water","Kauai","KEKAHA (DOW)","5,840","13","9","16"
-"HI0000168","KEOPU WATER ASSOCIATION","Community water system","Ground water purchased","Hawaii","KONA","250","2","0","2"
-"HI0000407","KILAUEA","Community water system","Ground water","Kauai","KILAUEA (DOW)","3,330","7","1","18"
-"HI0000328","KIPAPA ACRES C.P.R.","Community water system","Ground water","Honolulu","-","43","4","28","8"
-"HI0000245","KIPU","Community water system","Ground water purchased","Maui","HALEAKALA","80","6","1","11"
-"HI0000151","KOHALA RANCH WATER CO.","Community water system","Ground water","Hawaii","KOHALA JOINT VENTURE","850","4","0","7"
-"HI0000165","KONA WATER SERVICE COMPANY","Community water system","Ground water","Hawaii","KONA","260","11","0","3"
-"HI0000229","KUALAPUU","Community water system","Ground water","Maui","KUALAPUU","500","3","20","15"
-"HI0000133","KUKUIHAELE","Community water system","Surface water purchased","Hawaii","KUKUIHAELE","443","5","1","9"
-"HI0000255","KULA NANI","Community water system","Surface water purchased","Maui","KULA","80","2","0","4"
-"HI0000153","KULANI CORRECTIONAL FACILITY","Community water system","Ground water","Hawaii","SOUTH KOHALA","250","3","7","12"
-"HI0000303","KUNIA VILLAGE","Community water system","Ground water","Honolulu","WAHIAWA","650","4","26","9"
-"HI0000214","LAHAINA","Community water system","Surface water","Maui","LAHAINA","20,065","32","64","16"
-"HI0000325","LAIE WATER COMPANY","Community water system","Ground water","Honolulu","LAIE","5,577","10","1","9"
-"HI0000160","LALAMILO","Community water system","Ground water","Hawaii","LALAMILO","1,868","10","1","3"
-"HI0000237","LANAI CITY","Community water system","Ground water","Maui","LANAI","3,200","16","44","8"
-"HI0000102","LAUPAHOEHOE-KAPEHU","Community water system","Ground water","Hawaii","LAUPAHOEHOE","1,164","6","0","15"
-"HI0000400","LIHUE-KAPAA","Community water system","Surface water","Kauai","LIHUE-KAPAA","33,938","59","9","15"
-"HI0000247","LOWER KULA","Community water system","Surface water","Maui","KULA","3,522","5","43","10"
-"HI0000251","MAHANALUA NUI SUBDIVISON","Community water system","Ground water","Maui","MAHANALUA NUI","606","7","0","3"
-"HI0000213","MAKAWAO","Community water system","Surface water","Maui","MAKAWAO","29,868","14","99","14"
-"HI0000356","MARINE CORPS BASE HAWAII","Community water system","Ground water purchased","Honolulu","KANEOHE","16,300","3","3","9"
-"HI0000256","MAUI HIGHLANDS","Community water system","Ground water","Maui","KIHEI","26","4","0","2"
-"HI0000231","MAUNALOA-KALUAKOI","Community water system","Ground water purchased","Maui","MAUNALOA, MOLOKAI","1,000","12","39","11"
-"HI0000254","MAUNAOLU PLANTATION","Community water system","Ground water","Maui","HAIKU","100","5","0","3"
-"HI0000367","MILILANI","Community water system","Ground water","Honolulu","MILILANI BWS","50,420","18","14","7"
-"HI0000436","MOLOAA","Community water system","Ground water","Kauai","ANAHOLA","29","3","0","2"
-"HI0000437","MOLOAA IRRIGATION COOPERATIVE","Community water system","Ground water purchased","Kauai","ANAHOLA","47","2","5","2"
-"HI0000220","NAHIKU","Community water system","Ground water","Maui","NAHIKU","107","3","11","11"
-"HI0000150","NAPUU WATER INC.","Community water system","Ground water","Hawaii","PUUWAAWAA RANCH DHO","468","5","0","7"
-"HI0000357","NCTAMS EASTPAC","Community water system","Ground water","Honolulu","WAHIAWA","6,005","5","1","7"
-"HI0000103","NINOLE","Community water system","Ground water","Hawaii","NINOLE","140","3","0","6"
-"HI0000139","NIULII","Community water system","Ground water","Hawaii","NIULII","259","6","1","11"
-"HI0000129","NORTH KOHALA","Community water system","Ground water","Hawaii","NORTH KOHALA","4,836","12","0","10"
-"HI0000131","NORTH KONA","Community water system","Ground water","Hawaii","NORTH KONA","28,971","25","0","11"
-"HI0000112","OLAA-MOUNTAIN VIEW","Community water system","Ground water","Hawaii","OLAA-MT.VIEW","6,394","8","0","15"
-"HI0000209","OLOWALU","Community water system","Ground water","Maui","OLOWALU","100","4","49","13"
-"HI0000104","OOKALA (DWS)","Community water system","Ground water","Hawaii","OOKALA","259","3","0","7"
-"HI0000134","PAAUILO","Community water system","Ground water","Hawaii","PAAUILO","707","5","0","11"
-"HI0000430","PACIFIC MISSILE RANGE FACILITY","Community water system","Ground water","Kauai","PMRF HOUSING (DHO)","1,200","4","1","7"
-"HI0000109","PAHALA","Community water system","Ground water","Hawaii","PAHALA","1,218","8","1","9"
-"HI0000111","PAHOA","Community water system","Ground water","Hawaii","PAHOA","2,446","8","1","10"
-"HI0000107","PAPAIKOU","Community water system","Ground water","Hawaii","PAPAIKOU","2,176","9","1","11"
-"HI0000106","PEPEEKEO","Community water system","Ground water","Hawaii","PEPEEKEO","1,442","8","0","11"
-"HI0000167","PEPEEKEO WATER ASSOCIATION","Community water system","Ground water purchased","Hawaii","PEPEEKEO","60","2","1","3"
-"HI0000371","POAMOHO","Community water system","Ground water","Honolulu","WAHIAWA","25","3","8","3"
-"HI0000428","PRINCEVILLE","Community water system","Ground water","Kauai","PRINCEVILLE (DHO)","6,911","8","1","19"
-"HI0000114","PUNALU'U","Community water system","Ground water","Hawaii","PUNALUU (DHO)","200","4","2","11"
-"HI0000345","SCHOFIELD BARRACKS","Community water system","Ground water","Honolulu","-","40,850","17","8","11"
-"HI0000130","SOUTH KOHALA","Community water system","Surface water","Hawaii","SOUTH KOHALA","9,480","13","95","14"
-"HI0000132","SOUTH KONA","Community water system","Ground water","Hawaii","SOUTH KONA","6,415","10","0","13"
-"HI0000312","THE QUEEN'S MEDICAL CENTER","Community water system","Ground water","Honolulu","DOWNTOWN HONOLULU","3,400","3","9","10"
-"HI0000346","TRIPLER ARMY MEDICAL CNTR","Community water system","Ground water","Honolulu","MOANALUA","5,992","6","8","9"
-"HI0000233","UALAPUE","Community water system","Ground water","Maui","UALAPUE","1,119","4","8","12"
-"HI0000215","UPPER KULA","Community water system","Surface water","Maui","KULA","7,686","5","92","15"
-"HI0000333","WAHIAWA","Community water system","Ground water","Honolulu","-","23,257","8","0","12"
-"HI0000368","WAIAHOLE","Community water system","Ground water","Honolulu","KAHANA VALLEY","300","4","1","10"
-"HI0000366","WAIALEE-SUNSET BEACH","Community water system","Ground water","Honolulu","SUNSET BEACH","4,928","10","0","5"
-"HI0000309","WAIALUA SUGAR PUMP 2","Community water system","Ground water","Honolulu","WAIALUA-HALEIWA","400","7","4","12"
-"HI0000332","WAIALUA-HALEIWA","Community water system","Ground water","Honolulu","WAIALUA-HALEIWA","9,867","10","0","11"
-"HI0000348","WAIAWA CORRECTIONAL FACILITY","Community water system","Surface water","Honolulu","WAIPAHU","444","3","91","13"
-"HI0000162","WAIKI'I RANCH","Community water system","Ground water","Hawaii","WAIKII RANCH (DHO)","102","4","0","2"
-"HI0000135","WAIKOLOA","Community water system","Ground water","Hawaii","WAIKOLOA (DHO)","12,100","10","6","11"
-"HI0000212","WAILUKU","Community water system","Surface water","Maui","WAILUKU","74,511","37","18","14"
-"HI0000108","WAIOHINU-NAALEHU","Community water system","Ground water","Hawaii","WAIOHINU-NAALEHU","2,832","6","0","13"
-"HI0000335","WAIPAHU-EWA-WAIANAE","Community water system","Ground water","Honolulu","WAIPAHU-EWA-WAIANAE","210,683","87","6","11"
-"HI0000334","WAIPIO HEIGHTS","Community water system","Ground water","Honolulu","WAIPIO","11,870","13","0","9"
-"HI0000252","WEST KUIAHA MEADOWS","Community water system","Ground water","Maui","HAIKU","60","3","0","3"
-"HI0000166","WOOD VALLEY","Community water system","Ground water","Hawaii","PAHALA","75","2","0","3"
-"HI0000372","WOODLANDS AT NUUANU","Community water system","Ground water purchased","Honolulu","HONOLULU","48","2","0","2"
-"HI0000258","CONSOLIDATED BASEYARDS","Non-Transient non-community system","Ground water","Maui","WAIKAPU","90","4","8","3"
-"HI0000304","HAWAII COUNTRY CLUB","Non-Transient non-community system","Ground water","Honolulu","NUUANU","400","5","4","9"
-"HI0000144","KILAUEA MILITARY CAMP","Non-Transient non-community system","Ground water","Hawaii","KILAUEA VOLCANO","220","3","0","10"
-"HI0000425","KOKEE STATE PARK","Non-Transient non-community system","Ground water","Kauai","KOKEE STATE PARK","2,000","6","4","18"
-"HI0000238","MANELE BAY","Non-Transient non-community system","Ground water","Maui","LANAI","550","8","2","7"
-"HI0000261","MAUI BUSINESS PARK PHASE II","Non-Transient non-community system","Ground water","Maui","KAHULUI","63","4","0","2"
-"HI0000115","MAUNA LOA MACADAMIA NUT","Non-Transient non-community system","Ground water","Hawaii","MAUNALOA MAC NUT DHO","300","5","2","10"
-"HI0000320","MILILANI MEMORIAL PARK","Non-Transient non-community system","Surface water","Honolulu","MILILANI BWS","100","3","90","11"
-"HI0000358","NAVMAG LUALUALEI","Non-Transient non-community system","Ground water","Honolulu","WAIANAE","114","5","2","8"
-"HI0000370","PALEHUA SOLAR OBSERVATORY","Non-Transient non-community system","Ground water purchased","Honolulu","MAKAKILO","50","3","8","3"
-"HI0000324","PUNAHOU SCHOOL","Non-Transient non-community system","Ground water","Honolulu","MANOA","4,000","3","3","11"
-"HI0000330","SHERATON HOTELS","Non-Transient non-community system","Ground water","Honolulu","-","2,830","3","8","7"
-"HI0000314","ST STEPHEN'S DIOCESAN CTR","Non-Transient non-community system","Ground water","Honolulu","KANEOHE","45","3","2","7"
-"HI0000373","THE QUEEN'S MEDICAL CENTER WEST OAHU","Non-Transient non-community system","Ground water purchased","Honolulu","KUNIA","800","2","0","2"
-"HI0000306","WAIMANO RIDGE","Non-Transient non-community system","Ground water","Honolulu","PEARLRIDGE","400","6","9","9"
-"HI0000240","HAWAII NATURE CENTER","Transient non-community system","Ground water","Maui","WAILUKU","75","4","3","4"
-"HI0000260","KIPAHULU","Transient non-community system","Ground water","Maui","HALEAKALA","2,000","3","1","2"
-"HI0000170","NEW MOON FOUNDATION","Transient non-community system","Ground water","Hawaii","KAPAAU","80","3","0","1"
-"HI0000426","POLIHALE STATE PARK","Transient non-community system","Ground water","Kauai","POLIHALE STATE PARK","300","3","0","7"
+PWS ID,PWS Name,PWS Type,Primary Source,Counties Served,Cities Served,PopulationServed Count,Number of Facilities,Number of Violations,Number of Site Visits
+HI0000337,ALIAMANU,Community water system,Ground water purchased,Honolulu,SALT LAKE,6630,2,4,7
+HI0000401,ANAHOLA,Community water system,Ground water,Kauai,ANAHOLA,2408,7,1,12
+HI0000432,ANAHOLA FARM LOTS,Community water system,Ground water,Kauai,ANAHOLA FARM LOTS (DHO),385,4,1,14
+HI0000402,ANINI,Community water system,Ground water purchased,Kauai,HANALEI (DOW),169,2,0,13
+HI0000355,BARBERS POINT,Community water system,Ground water,Honolulu,WAIPAHU-EWA-WAIANAE,5256,3,2,9
+HI0000354,CAMP STOVER,Community water system,Ground water purchased,Honolulu,WAHIAWA,595,3,0,7
+HI0000338,DILLINGHAM AIRFIELD,Community water system,Ground water,Honolulu,MOKULEIA,1800,3,8,7
+HI0000326,DILLINGHAM RANCH,Community water system,Ground water,Honolulu,WAIALUA-HALEIWA,100,3,1,9
+HI0000341,FORT SHAFTER,Community water system,Ground water,Honolulu,-,7268,5,5,7
+HI0000417,GAY & ROBINSON,Community water system,Ground water,Kauai,KAUMAKANI,1271,3,9,19
+HI0000415,HAENA-WAINIHA,Community water system,Ground water,Kauai,HAENA-WAINIHA,811,7,2,17
+HI0000161,HAINA,Community water system,Ground water,Hawaii,HAINA,4487,7,0,3
+HI0000154,HAKALAU-WAILEA,Community water system,Ground water,Hawaii,HAKALAU-WAILEA,397,4,0,9
+HI0000222,HALEAKALA NATIONAL PARK,Community water system,Ground water,Maui,KULA,1200,3,1,12
+HI0000217,HANA,Community water system,Ground water,Maui,HANA,1284,10,12,15
+HI0000243,HANA WATER SYSTEMS - NORTH,Community water system,Ground water,Maui,KAELEKU AG PARK HANA,160,3,3,7
+HI0000201,HANA WATER SYSTEMS - SOUTH,Community water system,Ground water,Maui,KEOLA HANA-HOTEL DHO,816,5,7,9
+HI0000403,HANALEI,Community water system,Ground water,Kauai,HANALEI (DOW),487,4,1,14
+HI0000404,HANAPEPE-ELEELE,Community water system,Ground water,Kauai,HANAPEPE-ELEELE (DOW),5445,9,3,17
+HI0000117,HAWAIIAN BEACHES,Community water system,Ground water,Hawaii,HAWAIIAN SHORES DHO,3430,4,2,13
+HI0000169,HAWAIIAN OCEAN VIEW ESTATES,Community water system,Ground water,Hawaii,KONA,1000,3,2,2
+HI0000156,HAWAIIAN SHORES,Community water system,Ground water,Hawaii,HAWAIIAN SHORES DHO,1310,3,1,8
+HI0000101,HILO,Community water system,Ground water,Hawaii,HILO,38885,19,48,31
+HI0000331,HNL-WINDWARD-PEARL HARBOR,Community water system,Ground water,Honolulu,HONOLULU-WINDWARD-PEARLHARBOR,630266,239,43,9
+HI0000218,HONOKOHAU,Community water system,Ground water purchased,Maui,LAHAINA,42,6,80,15
+HI0000105,HONOMU,Community water system,Ground water,Hawaii,HONOMU,651,5,0,13
+HI0000230,HOOLEHUA,Community water system,Ground water,Maui,HOOLEHUA,2400,5,9,15
+HI0000360,JOINT BASE PEARL HARBOR-HICKAM,Community water system,Ground water,Honolulu,PEARL HARBOR,65230,8,9,14
+HI0000205,KAANAPALI,Community water system,Ground water,Maui,KAANAPALI (DHO),8000,14,6,9
+HI0000249,KAHAKULOA WATER CO.,Community water system,Ground water,Maui,KAHAKULOA HOMESTEAD,150,4,1,3
+HI0000365,KAHUKU,Community water system,Ground water,Honolulu,KAHUKU,2757,4,1,7
+HI0000315,KAHUKU AIR BASE,Community water system,Ground water,Honolulu,KAHUKU AIR BASE,75,3,3,7
+HI0000203,KAILUA,Community water system,Ground water,Maui,KAILUA MAUI,90,5,19,7
+HI0000235,KALAE,Community water system,Ground water purchased,Maui,MAKENA,360,5,1,10
+HI0000434,KALAHEO-KOLOA,Community water system,Ground water,Kauai,KALAHEO,12327,27,3,15
+HI0000110,KALAPANA,Community water system,Ground water,Hawaii,KALAPANA (DWS),265,4,1,14
+HI0000239,KALAUPAPA NHP,Community water system,Ground water,Maui,KALAUPAPA,110,3,10,10
+HI0000319,KAMEHAMEHA SCHOOLS,Community water system,Ground water,Honolulu,KAPALAMA,4000,5,0,9
+HI0000204,KAPALUA,Community water system,Ground water,Maui,KAPALUA (DHO),4200,4,5,5
+HI0000234,KAUNAKAKAI,Community water system,Ground water,Maui,KAUNAKAKAI,3702,7,11,12
+HI0000163,KAUPULEHU,Community water system,Ground water,Hawaii,KONA,1945,11,14,3
+HI0000164,KAWAIHAE UNIT #1,Community water system,Ground water purchased,Hawaii,KAWAIHAE,193,3,1,3
+HI0000248,KAWELA PLANTATION,Community water system,Ground water,Maui,KAWELA,553,6,1,5
+HI0000423,KEALIA,Community water system,Ground water,Kauai,KEALIA (DHO),260,8,0,17
+HI0000219,KEANAE,Community water system,Ground water,Maui,KEANAE (DWS),270,4,3,11
+HI0000406,KEKAHA-WAIMEA,Community water system,Ground water,Kauai,KEKAHA (DOW),5840,13,9,16
+HI0000168,KEOPU WATER ASSOCIATION,Community water system,Ground water purchased,Hawaii,KONA,250,2,0,2
+HI0000407,KILAUEA,Community water system,Ground water,Kauai,KILAUEA (DOW),3330,7,1,18
+HI0000328,KIPAPA ACRES C.P.R.,Community water system,Ground water,Honolulu,-,43,4,28,8
+HI0000245,KIPU,Community water system,Ground water purchased,Maui,HALEAKALA,80,6,1,11
+HI0000151,KOHALA RANCH WATER CO.,Community water system,Ground water,Hawaii,KOHALA JOINT VENTURE,850,4,0,7
+HI0000165,KONA WATER SERVICE COMPANY,Community water system,Ground water,Hawaii,KONA,260,11,0,3
+HI0000229,KUALAPUU,Community water system,Ground water,Maui,KUALAPUU,500,3,20,15
+HI0000133,KUKUIHAELE,Community water system,Surface water purchased,Hawaii,KUKUIHAELE,443,5,1,9
+HI0000255,KULA NANI,Community water system,Surface water purchased,Maui,KULA,80,2,0,4
+HI0000153,KULANI CORRECTIONAL FACILITY,Community water system,Ground water,Hawaii,SOUTH KOHALA,250,3,7,12
+HI0000303,KUNIA VILLAGE,Community water system,Ground water,Honolulu,WAHIAWA,650,4,26,9
+HI0000214,LAHAINA,Community water system,Surface water,Maui,LAHAINA,20065,32,64,16
+HI0000325,LAIE WATER COMPANY,Community water system,Ground water,Honolulu,LAIE,5577,10,1,9
+HI0000160,LALAMILO,Community water system,Ground water,Hawaii,LALAMILO,1868,10,1,3
+HI0000237,LANAI CITY,Community water system,Ground water,Maui,LANAI,3200,16,44,8
+HI0000102,LAUPAHOEHOE-KAPEHU,Community water system,Ground water,Hawaii,LAUPAHOEHOE,1164,6,0,15
+HI0000400,LIHUE-KAPAA,Community water system,Surface water,Kauai,LIHUE-KAPAA,33938,59,9,15
+HI0000247,LOWER KULA,Community water system,Surface water,Maui,KULA,3522,5,43,10
+HI0000251,MAHANALUA NUI SUBDIVISON,Community water system,Ground water,Maui,MAHANALUA NUI,606,7,0,3
+HI0000213,MAKAWAO,Community water system,Surface water,Maui,MAKAWAO,29868,14,99,14
+HI0000356,MARINE CORPS BASE HAWAII,Community water system,Ground water purchased,Honolulu,KANEOHE,16300,3,3,9
+HI0000256,MAUI HIGHLANDS,Community water system,Ground water,Maui,KIHEI,26,4,0,2
+HI0000231,MAUNALOA-KALUAKOI,Community water system,Ground water purchased,Maui,"MAUNALOA, MOLOKAI",1000,12,39,11
+HI0000254,MAUNAOLU PLANTATION,Community water system,Ground water,Maui,HAIKU,100,5,0,3
+HI0000367,MILILANI,Community water system,Ground water,Honolulu,MILILANI BWS,50420,18,14,7
+HI0000436,MOLOAA,Community water system,Ground water,Kauai,ANAHOLA,29,3,0,2
+HI0000437,MOLOAA IRRIGATION COOPERATIVE,Community water system,Ground water purchased,Kauai,ANAHOLA,47,2,5,2
+HI0000220,NAHIKU,Community water system,Ground water,Maui,NAHIKU,107,3,11,11
+HI0000150,NAPUU WATER INC.,Community water system,Ground water,Hawaii,PUUWAAWAA RANCH DHO,468,5,0,7
+HI0000357,NCTAMS EASTPAC,Community water system,Ground water,Honolulu,WAHIAWA,6005,5,1,7
+HI0000103,NINOLE,Community water system,Ground water,Hawaii,NINOLE,140,3,0,6
+HI0000139,NIULII,Community water system,Ground water,Hawaii,NIULII,259,6,1,11
+HI0000129,NORTH KOHALA,Community water system,Ground water,Hawaii,NORTH KOHALA,4836,12,0,10
+HI0000131,NORTH KONA,Community water system,Ground water,Hawaii,NORTH KONA,28971,25,0,11
+HI0000112,OLAA-MOUNTAIN VIEW,Community water system,Ground water,Hawaii,OLAA-MT.VIEW,6394,8,0,15
+HI0000209,OLOWALU,Community water system,Ground water,Maui,OLOWALU,100,4,49,13
+HI0000104,OOKALA (DWS),Community water system,Ground water,Hawaii,OOKALA,259,3,0,7
+HI0000134,PAAUILO,Community water system,Ground water,Hawaii,PAAUILO,707,5,0,11
+HI0000430,PACIFIC MISSILE RANGE FACILITY,Community water system,Ground water,Kauai,PMRF HOUSING (DHO),1200,4,1,7
+HI0000109,PAHALA,Community water system,Ground water,Hawaii,PAHALA,1218,8,1,9
+HI0000111,PAHOA,Community water system,Ground water,Hawaii,PAHOA,2446,8,1,10
+HI0000107,PAPAIKOU,Community water system,Ground water,Hawaii,PAPAIKOU,2176,9,1,11
+HI0000106,PEPEEKEO,Community water system,Ground water,Hawaii,PEPEEKEO,1442,8,0,11
+HI0000167,PEPEEKEO WATER ASSOCIATION,Community water system,Ground water purchased,Hawaii,PEPEEKEO,60,2,1,3
+HI0000371,POAMOHO,Community water system,Ground water,Honolulu,WAHIAWA,25,3,8,3
+HI0000428,PRINCEVILLE,Community water system,Ground water,Kauai,PRINCEVILLE (DHO),6911,8,1,19
+HI0000114,PUNALU'U,Community water system,Ground water,Hawaii,PUNALUU (DHO),200,4,2,11
+HI0000345,SCHOFIELD BARRACKS,Community water system,Ground water,Honolulu,-,40850,17,8,11
+HI0000130,SOUTH KOHALA,Community water system,Surface water,Hawaii,SOUTH KOHALA,9480,13,95,14
+HI0000132,SOUTH KONA,Community water system,Ground water,Hawaii,SOUTH KONA,6415,10,0,13
+HI0000312,THE QUEEN'S MEDICAL CENTER,Community water system,Ground water,Honolulu,DOWNTOWN HONOLULU,3400,3,9,10
+HI0000346,TRIPLER ARMY MEDICAL CNTR,Community water system,Ground water,Honolulu,MOANALUA,5992,6,8,9
+HI0000233,UALAPUE,Community water system,Ground water,Maui,UALAPUE,1119,4,8,12
+HI0000215,UPPER KULA,Community water system,Surface water,Maui,KULA,7686,5,92,15
+HI0000333,WAHIAWA,Community water system,Ground water,Honolulu,-,23257,8,0,12
+HI0000368,WAIAHOLE,Community water system,Ground water,Honolulu,KAHANA VALLEY,300,4,1,10
+HI0000366,WAIALEE-SUNSET BEACH,Community water system,Ground water,Honolulu,SUNSET BEACH,4928,10,0,5
+HI0000309,WAIALUA SUGAR PUMP 2,Community water system,Ground water,Honolulu,WAIALUA-HALEIWA,400,7,4,12
+HI0000332,WAIALUA-HALEIWA,Community water system,Ground water,Honolulu,WAIALUA-HALEIWA,9867,10,0,11
+HI0000348,WAIAWA CORRECTIONAL FACILITY,Community water system,Surface water,Honolulu,WAIPAHU,444,3,91,13
+HI0000162,WAIKI'I RANCH,Community water system,Ground water,Hawaii,WAIKII RANCH (DHO),102,4,0,2
+HI0000135,WAIKOLOA,Community water system,Ground water,Hawaii,WAIKOLOA (DHO),12100,10,6,11
+HI0000212,WAILUKU,Community water system,Surface water,Maui,WAILUKU,74511,37,18,14
+HI0000108,WAIOHINU-NAALEHU,Community water system,Ground water,Hawaii,WAIOHINU-NAALEHU,2832,6,0,13
+HI0000335,WAIPAHU-EWA-WAIANAE,Community water system,Ground water,Honolulu,WAIPAHU-EWA-WAIANAE,210683,87,6,11
+HI0000334,WAIPIO HEIGHTS,Community water system,Ground water,Honolulu,WAIPIO,11870,13,0,9
+HI0000252,WEST KUIAHA MEADOWS,Community water system,Ground water,Maui,HAIKU,60,3,0,3
+HI0000166,WOOD VALLEY,Community water system,Ground water,Hawaii,PAHALA,75,2,0,3
+HI0000372,WOODLANDS AT NUUANU,Community water system,Ground water purchased,Honolulu,HONOLULU,48,2,0,2
+HI0000258,CONSOLIDATED BASEYARDS,Non-Transient non-community system,Ground water,Maui,WAIKAPU,90,4,8,3
+HI0000304,HAWAII COUNTRY CLUB,Non-Transient non-community system,Ground water,Honolulu,NUUANU,400,5,4,9
+HI0000144,KILAUEA MILITARY CAMP,Non-Transient non-community system,Ground water,Hawaii,KILAUEA VOLCANO,220,3,0,10
+HI0000425,KOKEE STATE PARK,Non-Transient non-community system,Ground water,Kauai,KOKEE STATE PARK,2000,6,4,18
+HI0000238,MANELE BAY,Non-Transient non-community system,Ground water,Maui,LANAI,550,8,2,7
+HI0000261,MAUI BUSINESS PARK PHASE II,Non-Transient non-community system,Ground water,Maui,KAHULUI,63,4,0,2
+HI0000115,MAUNA LOA MACADAMIA NUT,Non-Transient non-community system,Ground water,Hawaii,MAUNALOA MAC NUT DHO,300,5,2,10
+HI0000320,MILILANI MEMORIAL PARK,Non-Transient non-community system,Surface water,Honolulu,MILILANI BWS,100,3,90,11
+HI0000358,NAVMAG LUALUALEI,Non-Transient non-community system,Ground water,Honolulu,WAIANAE,114,5,2,8
+HI0000370,PALEHUA SOLAR OBSERVATORY,Non-Transient non-community system,Ground water purchased,Honolulu,MAKAKILO,50,3,8,3
+HI0000324,PUNAHOU SCHOOL,Non-Transient non-community system,Ground water,Honolulu,MANOA,4000,3,3,11
+HI0000330,SHERATON HOTELS,Non-Transient non-community system,Ground water,Honolulu,-,2830,3,8,7
+HI0000314,ST STEPHEN'S DIOCESAN CTR,Non-Transient non-community system,Ground water,Honolulu,KANEOHE,45,3,2,7
+HI0000373,THE QUEEN'S MEDICAL CENTER WEST OAHU,Non-Transient non-community system,Ground water purchased,Honolulu,KUNIA,800,2,0,2
+HI0000306,WAIMANO RIDGE,Non-Transient non-community system,Ground water,Honolulu,PEARLRIDGE,400,6,9,9
+HI0000240,HAWAII NATURE CENTER,Transient non-community system,Ground water,Maui,WAILUKU,75,4,3,4
+HI0000260,KIPAHULU,Transient non-community system,Ground water,Maui,HALEAKALA,2000,3,1,2
+HI0000170,NEW MOON FOUNDATION,Transient non-community system,Ground water,Hawaii,KAPAAU,80,3,0,1
+HI0000426,POLIHALE STATE PARK,Transient non-community system,Ground water,Kauai,POLIHALE STATE PARK,300,3,0,7
