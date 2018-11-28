@@ -1,0 +1,5 @@
+World Bank Climate Data API:
+https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
+
+World Water Data:
+https://ourworldindata.org/water-use-sanitation
